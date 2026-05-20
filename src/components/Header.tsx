@@ -1,160 +1,180 @@
 'use client'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { useState } from 'react'
 
 interface HeaderProps {
   locale: 'kr' | 'en'
 }
 
 const NAV_KR = [
-  { href: '/', label: 'AI 뉴스' },
-  { href: '/category/it-news', label: 'IT 뉴스' },
-  { href: '/category/tool-review', label: '도구 리뷰' },
-  { href: '/category/dev-trend', label: '개발 트렌드' },
-  { href: '/category/startup', label: '스타트업' },
+  { href: '/', label: '/home' },
+  { href: '/category/ai-news', label: '/ai-뉴스' },
+  { href: '/category/it-news', label: '/it-뉴스' },
+  { href: '/category/tool-review', label: '/도구' },
+  { href: '/category/dev-trend', label: '/개발' },
+  { href: '/category/startup', label: '/스타트업' },
 ]
 
 const NAV_EN = [
-  { href: '/', label: 'AI News' },
-  { href: '/category/it-news', label: 'IT News' },
-  { href: '/category/tool-review', label: 'Tool Reviews' },
-  { href: '/category/dev-trend', label: 'Dev Trends' },
-  { href: '/category/startup', label: 'Startup' },
+  { href: '/', label: '/home' },
+  { href: '/category/ai-news', label: '/ai-news' },
+  { href: '/category/it-news', label: '/it-news' },
+  { href: '/category/tool-review', label: '/tools' },
+  { href: '/category/dev-trend', label: '/dev' },
+  { href: '/category/startup', label: '/startup' },
 ]
 
+const TICKER_DATA = [
+  { sym: 'NVDA', val: '135.26', chg: '+2.31%', up: true },
+  { sym: 'MSFT', val: '429.10', chg: '+0.84%', up: true },
+  { sym: 'GOOGL', val: '178.55', chg: '-0.41%', up: false },
+  { sym: 'META', val: '612.80', chg: '+1.22%', up: true },
+  { sym: 'AAPL', val: '211.35', chg: '+0.31%', up: true },
+  { sym: 'AMZN', val: '224.60', chg: '-0.18%', up: false },
+]
+
+function kstTime() {
+  const now = new Date()
+  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000)
+  return kst.toISOString().slice(11, 19) + ' KST'
+}
+
 export default function Header({ locale }: HeaderProps) {
-  const [open, setOpen] = useState(false)
+  const [theme, setTheme] = useState<'dark' | 'light'>('dark')
+  const [mobileOpen, setMobileOpen] = useState(false)
+  const [time, setTime] = useState('')
+
+  useEffect(() => {
+    setTime(kstTime())
+    const id = setInterval(() => setTime(kstTime()), 1000)
+    return () => clearInterval(id)
+  }, [])
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem('tp-theme') as 'dark' | 'light' | null
+      const pref = saved || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+      applyTheme(pref)
+    } catch (e) {}
+  }, [])
+
+  function applyTheme(t: 'dark' | 'light') {
+    setTheme(t)
+    const root = document.getElementById('tp-root')
+    if (root) root.setAttribute('data-theme', t)
+    document.documentElement.setAttribute('data-theme', t)
+    try { localStorage.setItem('tp-theme', t) } catch (e) {}
+  }
+
   const nav = locale === 'kr' ? NAV_KR : NAV_EN
-  const siteUrl = locale === 'kr' ? 'https://techpulse.co.kr' : 'https://technologypulse.app'
   const altUrl = locale === 'kr' ? 'https://technologypulse.app' : 'https://techpulse.co.kr'
   const altLabel = locale === 'kr' ? 'EN' : 'KR'
+  const isKr = locale === 'kr'
 
   return (
-    <header style={{
-      borderBottom: '1px solid var(--border)',
-      background: 'rgba(255,255,255,0.92)',
-      backdropFilter: 'blur(12px)',
-      WebkitBackdropFilter: 'blur(12px)',
-      position: 'sticky',
-      top: 3,
-      zIndex: 50,
-      boxShadow: '0 1px 0 var(--border)',
-    }}>
-      <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 56 }}>
-
-          {/* Logo */}
-          <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none' }}>
-            <span style={{
-              fontSize: 11,
-              fontWeight: 700,
-              letterSpacing: '0.18em',
-              textTransform: 'uppercase',
-              fontFamily: 'monospace',
-              color: 'var(--accent-purple)',
-            }}>◈</span>
-            <span style={{
-              fontSize: 16,
-              fontWeight: 700,
-              letterSpacing: '-0.02em',
-              color: 'var(--text-primary)',
-            }}>TechPulse</span>
-            {locale === 'kr' && (
-              <span style={{
-                fontSize: 11,
-                color: 'var(--text-tertiary)',
-                fontFamily: 'monospace',
-                letterSpacing: '0.05em',
-              }}>테크펄스</span>
-            )}
-          </Link>
-
-          {/* Desktop nav */}
-          <nav style={{ display: 'flex', alignItems: 'center', gap: 28 }} className="desktop-nav">
-            {nav.map(item => (
-              <Link key={item.href} href={item.href} style={{
-                fontSize: 13,
-                color: 'var(--text-secondary)',
-                fontWeight: 500,
-                letterSpacing: '0.01em',
-                transition: 'color 0.15s',
-              }}
-              onMouseEnter={e => (e.currentTarget.style.color = 'var(--text-primary)')}
-              onMouseLeave={e => (e.currentTarget.style.color = 'var(--text-secondary)')}
-              >
-                {item.label}
-              </Link>
-            ))}
-          </nav>
-
-          {/* Right: lang switch */}
-          <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <a href={altUrl} style={{
-              fontSize: 12,
-              fontFamily: 'monospace',
-              fontWeight: 600,
-              color: 'var(--text-tertiary)',
-              letterSpacing: '0.08em',
-              border: '1px solid var(--border)',
-              padding: '4px 10px',
-              borderRadius: 4,
-              transition: 'all 0.15s',
-            }}
-            onMouseEnter={e => {
-              e.currentTarget.style.borderColor = 'var(--border-hover)'
-              e.currentTarget.style.color = 'var(--text-secondary)'
-            }}
-            onMouseLeave={e => {
-              e.currentTarget.style.borderColor = 'var(--border)'
-              e.currentTarget.style.color = 'var(--text-tertiary)'
-            }}
-            >
-              {altLabel}
-            </a>
-
-            {/* Mobile menu button */}
-            <button
-              onClick={() => setOpen(!open)}
-              style={{
-                background: 'none',
-                border: 'none',
-                color: 'var(--text-secondary)',
-                cursor: 'pointer',
-                padding: 4,
-                display: 'none',
-              }}
-              className="mobile-menu-btn"
-              aria-label="메뉴"
-            >
-              <span style={{ display: 'block', fontSize: 18, lineHeight: 1 }}>{open ? '✕' : '≡'}</span>
-            </button>
-          </div>
-        </div>
-
-        {/* Mobile nav */}
-        {open && (
-          <div style={{
-            borderTop: '1px solid var(--border)',
-            padding: '16px 0',
-          }} className="mobile-nav">
-            {nav.map(item => (
-              <Link key={item.href} href={item.href}
-                style={{ display: 'block', padding: '10px 0', fontSize: 14, color: 'var(--text-secondary)' }}
-                onClick={() => setOpen(false)}
-              >
-                {item.label}
-              </Link>
-            ))}
-          </div>
-        )}
+    <>
+      {/* Ticker bar */}
+      <div className="tp-ticker">
+        <span className="tp-ticker__live">
+          <span className="tp-blink">●</span>
+          LIVE
+        </span>
+        {TICKER_DATA.map(item => (
+          <span key={item.sym} style={{ display: 'inline-flex', gap: 5, alignItems: 'center' }}>
+            <span style={{ color: 'var(--ink3)' }}>{item.sym}</span>
+            <span>{item.val}</span>
+            <span style={{ color: item.up ? 'var(--up)' : 'var(--down)' }}>{item.chg}</span>
+          </span>
+        ))}
+        <span className="tp-ticker__time">{time}</span>
       </div>
 
+      {/* Main header */}
+      <header className="tp-header">
+        {/* Brand */}
+        <Link href="/" className="tp-brand" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <div className="tp-logo">tp</div>
+          <div>
+            <div className="tp-brand__name">TechPulse</div>
+            <div className="tp-brand__sub">{isKr ? 'AI/IT의 맥박' : 'YOUR AI & TECH PULSE'}</div>
+          </div>
+        </Link>
+
+        {/* Desktop nav */}
+        <nav className="tp-nav">
+          {nav.map(item => (
+            <Link key={item.href} href={item.href} className="tp-nav__item">
+              {item.label}
+            </Link>
+          ))}
+        </nav>
+
+        {/* Right controls */}
+        <div className="tp-header__right">
+          <div className="tp-theme">
+            <button
+              className={theme === 'dark' ? 'is-on' : ''}
+              onClick={() => applyTheme('dark')}
+              title="Dark mode"
+            >◐</button>
+            <button
+              className={theme === 'light' ? 'is-on' : ''}
+              onClick={() => applyTheme('light')}
+              title="Light mode"
+            >☀</button>
+          </div>
+
+          <a href={altUrl} className="tp-lang">{altLabel}</a>
+
+          <button
+            onClick={() => setMobileOpen(!mobileOpen)}
+            className="tp-mobile-btn"
+            aria-label="메뉴"
+          >
+            {mobileOpen ? '✕' : '≡'}
+          </button>
+        </div>
+      </header>
+
+      {/* Mobile nav */}
+      {mobileOpen && (
+        <div style={{
+          background: 'var(--panel)',
+          borderBottom: '1px solid var(--line)',
+          padding: '12px 16px',
+          display: 'flex',
+          flexDirection: 'column',
+          gap: 4,
+        }}>
+          {nav.map(item => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className="tp-nav__item"
+              style={{ display: 'block' }}
+              onClick={() => setMobileOpen(false)}
+            >
+              {item.label}
+            </Link>
+          ))}
+        </div>
+      )}
+
       <style>{`
+        .tp-mobile-btn {
+          display: none;
+          background: none;
+          border: 1px solid var(--line);
+          color: var(--ink2);
+          width: 32px; height: 32px;
+          font-size: 16px; border-radius: 2px;
+          align-items: center; justify-content: center;
+          cursor: pointer;
+        }
         @media (max-width: 768px) {
-          .desktop-nav { display: none !important; }
-          .mobile-menu-btn { display: block !important; }
+          .tp-mobile-btn { display: flex !important; }
         }
       `}</style>
-    </header>
+    </>
   )
 }

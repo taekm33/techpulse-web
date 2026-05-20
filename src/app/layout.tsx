@@ -17,26 +17,29 @@ export const metadata: Metadata = {
   },
 }
 
+const themeScript = `(function(){try{var t=localStorage.getItem('tp-theme')||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();`
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ko">
       <head>
-        <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700&display=swap"
+          rel="stylesheet"
+        />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
         />
-        <style>{`
-          body {
-            font-family: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont,
-              'Segoe UI', system-ui, sans-serif;
-          }
-          code, pre, .mono {
-            font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', ui-monospace, monospace;
-          }
-        `}</style>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body>{children}</body>
+      <body>
+        <div className="tp" id="tp-root" data-theme="dark">
+          {children}
+        </div>
+      </body>
     </html>
   )
 }

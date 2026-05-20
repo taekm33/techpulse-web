@@ -6,66 +6,73 @@ interface FooterProps {
 
 export default function Footer({ locale }: FooterProps) {
   const year = new Date().getFullYear()
+  const isKr = locale === 'kr'
 
   return (
-    <footer style={{
-      borderTop: '1px solid var(--border)',
-      marginTop: 80,
-      padding: '40px 0',
-      color: 'var(--text-tertiary)',
-    }}>
-      <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 24 }}>
-
-          <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
-              <span style={{ color: 'var(--accent-purple)', fontFamily: 'monospace' }}>◈</span>
-              <span style={{ fontSize: 14, fontWeight: 700, color: 'var(--text-secondary)', letterSpacing: '-0.01em' }}>TechPulse</span>
+    <footer className="tp-footer">
+      <div style={{ maxWidth: 1200, margin: '0 auto' }}>
+        <div className="tp-footer__top">
+          {/* Brand */}
+          <div className="tp-footer__brand">
+            <div className="tp-logo" style={{ flexShrink: 0 }}>tp</div>
+            <div>
+              <div style={{ fontWeight: 600, fontSize: 15, marginBottom: 6 }}>TechPulse</div>
+              <p className="tp-footer__desc">
+                {isKr
+                  ? 'AI·IT 기술 트렌드를 빠르고 정확하게 전달합니다.'
+                  : 'Fast, accurate AI & tech news for builders and thinkers.'
+                }
+              </p>
             </div>
-            <p style={{ fontSize: 12, lineHeight: 1.6, maxWidth: 280 }}>
-              {locale === 'kr'
-                ? 'AI·IT 기술 트렌드를 빠르고 정확하게.'
-                : 'Fast, accurate AI & tech news for builders.'
-              }
-            </p>
           </div>
 
-          <div style={{ display: 'flex', gap: 40, flexWrap: 'wrap' }}>
-            <div>
-              <p style={{ fontSize: 11, fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 12, color: 'var(--text-tertiary)' }}>
-                {locale === 'kr' ? '채널' : 'Channels'}
-              </p>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-                {locale === 'kr' ? (
-                  <>
-                    <a href="https://blog.naver.com/taekm33" target="_blank" rel="noopener" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>네이버 블로그</a>
-                    <a href="https://instagram.com/techpulse.kr" target="_blank" rel="noopener" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>인스타그램</a>
-                    <a href="https://youtube.com/@TechPulseKR" target="_blank" rel="noopener" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>유튜브</a>
-                  </>
-                ) : (
-                  <>
-                    <a href="https://instagram.com/technologypulse.ai" target="_blank" rel="noopener" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>Instagram</a>
-                    <a href="https://youtube.com/@TechPulseAI" target="_blank" rel="noopener" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>YouTube</a>
-                  </>
-                )}
-              </div>
-            </div>
+          {/* Content */}
+          <div>
+            <p className="tp-footer__h">CONTENT</p>
+            <ul className="tp-footer__ul">
+              <li><Link href="/category/ai-news">{isKr ? 'AI 뉴스' : 'AI News'}</Link></li>
+              <li><Link href="/category/it-news">{isKr ? 'IT 뉴스' : 'IT News'}</Link></li>
+              <li><Link href="/category/tool-review">{isKr ? 'AI 도구 리뷰' : 'Tool Reviews'}</Link></li>
+              <li><Link href="/category/dev-trend">{isKr ? '개발 트렌드' : 'Dev Trends'}</Link></li>
+              <li><Link href="/category/startup">{isKr ? '스타트업' : 'Startup'}</Link></li>
+              <li><Link href="/category/hot-issue">{isKr ? '핫이슈' : 'Hot Issues'}</Link></li>
+            </ul>
+          </div>
 
-            <div>
-              <p style={{ fontSize: 11, fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 12, color: 'var(--text-tertiary)' }}>
-                {locale === 'kr' ? '사이트' : 'Sites'}
-              </p>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-                <a href="https://techpulse.co.kr" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>techpulse.co.kr</a>
-                <a href="https://technologypulse.app" style={{ fontSize: 13, color: 'var(--text-secondary)' }}>technologypulse.app</a>
-              </div>
-            </div>
+          {/* Sites */}
+          <div>
+            <p className="tp-footer__h">SITES</p>
+            <ul className="tp-footer__ul">
+              <li><a href="https://techpulse.co.kr">techpulse.co.kr</a></li>
+              <li><a href="https://technologypulse.app">technologypulse.app</a></li>
+              {isKr && <li><a href="https://blog.naver.com/taekm33" target="_blank" rel="noopener">네이버 블로그</a></li>}
+            </ul>
+          </div>
+
+          {/* Follow */}
+          <div>
+            <p className="tp-footer__h">FOLLOW</p>
+            <ul className="tp-footer__ul">
+              {isKr ? (
+                <>
+                  <li><a href="https://instagram.com/techpulse.kr" target="_blank" rel="noopener">Instagram</a></li>
+                  <li><a href="https://youtube.com/@TechPulseKR" target="_blank" rel="noopener">YouTube</a></li>
+                  <li><a href="https://x.com/techpulsekr" target="_blank" rel="noopener">X / Twitter</a></li>
+                </>
+              ) : (
+                <>
+                  <li><a href="https://instagram.com/technologypulse.ai" target="_blank" rel="noopener">Instagram</a></li>
+                  <li><a href="https://youtube.com/@TechnologyPulseAI" target="_blank" rel="noopener">YouTube</a></li>
+                  <li><a href="https://x.com/techpulseai" target="_blank" rel="noopener">X / Twitter</a></li>
+                </>
+              )}
+            </ul>
           </div>
         </div>
 
-        <div style={{ marginTop: 32, paddingTop: 24, borderTop: '1px solid var(--border)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8 }}>
-          <p style={{ fontSize: 12 }}>© {year} TechPulse. All rights reserved.</p>
-          <p style={{ fontSize: 11, fontFamily: 'monospace', color: 'var(--accent-purple)', opacity: 0.6 }}>AI/IT의 맥박 · Your AI & Tech Pulse</p>
+        <div className="tp-footer__bottom">
+          <span>© {year} TechPulse. All rights reserved.</span>
+          <span>{isKr ? 'AI/IT의 맥박 · Your AI & Tech Pulse' : 'Your AI & Tech Pulse'}</span>
         </div>
       </div>
     </footer>
