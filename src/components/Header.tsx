@@ -30,7 +30,16 @@ export default function Header({ locale }: HeaderProps) {
   const altLabel = locale === 'kr' ? 'EN' : 'KR'
 
   return (
-    <header style={{ borderBottom: '1px solid var(--border)' }}>
+    <header style={{
+      borderBottom: '1px solid var(--border)',
+      background: 'rgba(255,255,255,0.92)',
+      backdropFilter: 'blur(12px)',
+      WebkitBackdropFilter: 'blur(12px)',
+      position: 'sticky',
+      top: 3,
+      zIndex: 50,
+      boxShadow: '0 1px 0 var(--border)',
+    }}>
       <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 56 }}>
 

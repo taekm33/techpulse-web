@@ -19,7 +19,7 @@ export default function HomePage() {
     <>
       <Header locale={locale} />
 
-      <main style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
+      <main style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px', paddingTop: 3 }}>
 
         {/* Category strip */}
         <div style={{
@@ -114,6 +114,7 @@ export default function HomePage() {
                 background: 'var(--bg-surface)',
                 border: '1px solid var(--border)',
                 borderRadius: 8,
+                boxShadow: '0 1px 8px rgba(0,0,0,0.05)',
               }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 10 }}>
                   <span style={{ color: 'var(--accent-purple)', fontFamily: 'monospace', fontSize: 14 }}>◈</span>
@@ -137,7 +138,7 @@ export default function HomePage() {
                     <>
                       <a href="https://instagram.com/technologypulse.ai" target="_blank" rel="noopener"
                         style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'monospace' }}>Instagram</a>
-                      <a href="https://youtube.com/@TechPulseAI" target="_blank" rel="noopener"
+                      <a href="https://youtube.com/@TechnologyPulseAI" target="_blank" rel="noopener"
                         style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'monospace' }}>YouTube</a>
                     </>
                   )}
