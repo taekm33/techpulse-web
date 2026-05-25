@@ -15,6 +15,8 @@ readingTime: 17
 
 2026년 현재 국내 AI 헬스케어 시장은 어디까지 왔는가? 진단 AI, 신약 개발 AI, 디지털 치료제로 나눠 최신 현황을 분석한다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>국내 AI 헬스케어 시장은 2026년 약 2조 6,000억 원 규모로 폭발적 성장 중이다. 루닛·뷰노 등 진단 AI 기업은 글로벌 상위권 경쟁력을 갖췄고, 스탠다임은 MSD와 5,000만 달러 공동 연구 계약을 맺었다. 디지털 치료제는 식약처 허가 5건 이상을 확보했으나 보험 급여 확대가 핵심 과제로 남아 있다. 높은 규제 장벽이 오히려 강력한 경쟁 해자가 되는 시장이다.</p></div>
+
 ---
 
 ## 1. 국내 AI 헬스케어 시장 규모 및 성장 전망
@@ -33,6 +35,13 @@ readingTime: 17
 (출처: 한국보건산업진흥원, 딜로이트 코리아 추산)
 
 전 세계 AI 헬스케어 시장이 연평균 40-45% 성장하는 가운데, 국내 시장은 이보다 빠른 속도로 성장하고 있다. 이는 한국의 높은 디지털 의료 인프라(EMR 보급률 99%, CT·MRI 보유 밀도 세계 1위)가 AI 도입의 기반을 제공하기 때문이다.
+
+<div class="article-stats">
+<div class="article-stat"><div class="article-stat__v">2조 6,000억 원</div><div class="article-stat__k">2026년 국내 AI 헬스케어 시장 규모(추정)</div></div>
+<div class="article-stat"><div class="article-stat__v">8,500억 원</div><div class="article-stat__k">2025년 국내 AI 헬스케어 스타트업 연간 투자액</div></div>
+<div class="article-stat"><div class="article-stat__v">+49%</div><div class="article-stat__k">2026년 전년 대비 시장 성장률</div></div>
+<div class="article-stat"><div class="article-stat__v">5조 2,000억 원</div><div class="article-stat__k">2028년 시장 규모 전망</div></div>
+</div>
 
 ### 분야별 시장 구성 (2026년 추정)
 
@@ -69,6 +78,11 @@ readingTime: 17
 - GE Healthcare, Philips, Fujifilm과 OEM 파트너십
 
 **성장 과제**: 글로벌 의료기기 기업들과의 파트너십이 성장 동력이지만, 동시에 협상력 약화 리스크도 있다. 자체 판매 채널 강화가 장기 과제다.
+
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">🏥</div>
+<div class="article-callout__body"><strong>루닛의 글로벌 데이터 해자</strong><br>루닛은 전 세계 2,800개 이상 병원에서 수집한 방대한 임상 데이터를 보유하고 있다. 900건 이상의 임상 논문을 통해 학술적으로 검증된 이 데이터 자산은 후발주자가 단기간에 복제하기 어려운 강력한 경쟁 우위다.</div>
+</div>
 
 #### 뷰노 (VUNO)
 
@@ -114,6 +128,11 @@ readingTime: 17
 - 파트너 의료기관: 30개국 이상
 - 누적 분석 안저 사진: 1,000만 건 이상
 - 주요 투자자: DSC인베스트먼트, SVB Capital
+
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">👁️</div>
+<div class="article-callout__body"><strong>눈으로 심장을 진단한다</strong><br>메디웨일의 RECA 플랫폼은 안저 사진 한 장으로 당뇨·녹내장은 물론 심혈관 나이까지 추정한다. 이 기술은 <em>Nature Medicine</em>에 게재되며 학술적 권위를 인정받았고, 2026년 하반기 FDA De Novo 허가 결과가 예정되어 있어 글로벌 도약의 변곡점이 될 전망이다.</div>
+</div>
 
 ---
 
@@ -183,6 +202,11 @@ CADD(Computer-Aided Drug Design) + AI를 결합한 신약 개발 플랫폼 전�
 2026년 현재 식약처 허가를 받은 디지털 치료제는 5개 이상으로 늘어났다. 미국, 독일에 이어 한국도 디지털 치료제 허가·보험 적용 체계를 갖춰가고 있다.
 
 **핵심 도전과제**: 보험 급여 적용이 여전히 제한적이다. 허가를 받더라도 건강보험 적용이 되지 않으면 환자 접근성이 낮아진다. 국내 최초로 건강보험 급여화를 달성하는 기업이 시장의 판도를 바꿀 것으로 전망된다.
+
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">💊</div>
+<div class="article-callout__body"><strong>디지털 치료제의 진짜 관문: 보험 급여</strong><br>식약처 허가를 받더라도 건강보험 급여가 적용되지 않으면 환자 접근성은 크게 제한된다. 국내 최초로 건강보험 급여화를 달성하는 디지털 치료제 기업이 시장 주도권을 가져갈 가능성이 높다. 보험 급여 전략이 투자 판단의 핵심 지표다.</div>
+</div>
 
 ---
 
@@ -266,3 +290,12 @@ AI 헬스케어는 쉽지 않은 시장이다. 규제, 임상 데이터, 보험 
 루닛과 뷰노가 10년 가까운 긴 여정을 거쳐 글로벌 의료 AI 기업으로 자리잡은 것처럼, 지금 임상을 진행 중이거나 FDA 허가를 준비 중인 기업들도 3-5년 후에는 전혀 다른 위치에 있을 것이다.
 
 의료 AI의 본질은 기술이 아니라 환자의 생명을 구하는 것이다. 이 목표를 잊지 않는 기업들이 결국 시장에서도 살아남는다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div>
+<ul>
+<li>국내 AI 헬스케어 시장은 2026년 약 2조 6,000억 원 규모로 연 50% 내외 고속 성장 중이며, 2028년에는 5조 원을 넘어설 전망이다.</li>
+<li>루닛(영상의학)·메디웨일(안과) 등은 글로벌 상위권 경쟁력을 확보했고, 스탠다임은 MSD와 5,000만 달러 공동 연구 계약으로 신약 개발 AI의 가능성을 입증했다.</li>
+<li>디지털 치료제는 식약처 허가 5건 이상을 달성했지만, 건강보험 급여 적용이 시장 확산의 핵심 관문으로 남아 있다.</li>
+<li>투자 시 FDA/CE 허가 진행 여부, 상위 저널 임상 논문, 독점 데이터 파트너십, 급여화 전략 네 가지를 반드시 확인해야 한다.</li>
+<li>높은 규제 장벽은 단기 도전이지만, 장기적으로는 선점 기업의 강력한 경쟁 해자가 된다. AI 헬스케어는 인내 자본이 빛을 발하는 시장이다.</li>
+</ul></div>

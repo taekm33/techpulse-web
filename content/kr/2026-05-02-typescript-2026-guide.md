@@ -15,6 +15,8 @@ Stack Overflow 개발자 설문(2025)에서 TypeScript는 5년 연속 '가장 �
 
 특히 AI 코딩 도구(GitHub Copilot, Cursor, Claude Code 등)의 확산과 함께 TypeScript의 가치는 더욱 높아졌다. 타입 정보가 풍부한 코드베이스에서 AI 도구의 제안 품질이 훨씬 높기 때문이다. 이 글에서는 TypeScript 5.x의 핵심 기능, 실무에 바로 적용할 수 있는 타입 패턴, 마이그레이션 전략을 종합 정리한다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>TypeScript는 2026년 현재 npm 주간 다운로드 5000만 건을 돌파하며 사실상의 웹 개발 표준으로 자리잡았고, Decorators 표준화·`using` 선언·`satisfies` 연산자 등 5.x의 신기능이 실무 생산성을 크게 높이고 있다. DeepPartial, Branded Types, Exhaustive Check 등 10가지 타입 유틸리티 패턴을 익히면 대형 프로젝트에서도 타입 안전성을 유지할 수 있다. JavaScript 프로젝트를 단계별로 마이그레이션하면 초기 비용을 낮추면서도 장기적으로 버그를 최대 38% 줄이는 효과를 얻을 수 있다.</p></div>
+
 ---
 
 ## 1. TypeScript vs JavaScript: 왜 TypeScript인가
@@ -45,6 +47,8 @@ TypeScript의 IntelliSense(자동 완성, 타입 힌트, 리팩토링 지원)는
 | AI 코딩 도구 시너지 | 중간 | 높음 (타입 정보 활용) |
 | 학습 곡선 | 낮음 | 중간 (초기 비용 있음) |
 | 런타임 오버헤드 | 없음 | 없음 (컴파일 후 JS) |
+
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">5000만+</div><div class="article-stat__k">npm 주간 다운로드</div></div><div class="article-stat"><div class="article-stat__v">38%</div><div class="article-stat__k">Airbnb 버그 감소율</div></div><div class="article-stat"><div class="article-stat__v">72%</div><div class="article-stat__k">코드 리뷰 속도 향상 응답자</div></div><div class="article-stat"><div class="article-stat__v">5년 연속</div><div class="article-stat__k">가장 사랑받는 언어 상위권</div></div></div>
 
 ### 1.3 TypeScript가 적합하지 않은 경우도 있다
 
@@ -146,6 +150,8 @@ function processData() {
 ```
 
 기존의 try-finally 패턴을 훨씬 간결하게 표현할 수 있고, 예외 상황에서도 리소스가 안전하게 해제된다.
+
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>리소스 관리는 `using`으로 간결하게</strong><br>`using` 키워드는 DB 커넥션, 파일 핸들, 네트워크 소켓 등 명시적 해제가 필요한 모든 리소스에 적용할 수 있습니다. `Symbol.dispose`만 구현하면 블록 종료 시 자동으로 정리되므로, 예외가 발생해도 리소스 누수 걱정 없이 안전한 코드를 작성할 수 있습니다.</div></div>
 
 ### 2.4 Variadic Tuple Types 개선
 
@@ -570,6 +576,8 @@ const UpdateUserSchema = UserSchema.partial().required({ id: true });
 type UpdateUserInput = z.infer<typeof UpdateUserSchema>;
 ```
 
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>TypeScript + Zod = 완전한 타입 안전성</strong><br>TypeScript는 컴파일 타임 안전성을 제공하지만, 외부 API나 사용자 입력처럼 런타임에 들어오는 데이터는 보장할 수 없습니다. Zod를 함께 사용하면 스키마 정의 하나로 런타임 검증과 TypeScript 타입을 동시에 얻을 수 있어, 코드 중복 없이 완전한 엔드투엔드 타입 안전성을 확보할 수 있습니다.</div></div>
+
 ---
 
 ## 5. AI 코딩 도구와 TypeScript의 시너지
@@ -661,6 +669,8 @@ API 응답 타입, 데이터베이스 모델 타입 등 시스템 경계에 있�
 | 타입 단언(as) 남용 | 런타임 오류 위험 | 타입 가드(type guard) 함수 사용 |
 | 제네릭 기피 | 반복적인 타입 정의 | 제네릭으로 재사용 가능한 타입 설계 |
 | 외부 라이브러리 @types 누락 | 타입 오류 | `npm install -D @types/라이브러리명` |
+
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>마이그레이션 시 `any` 남발 주의</strong><br>마이그레이션 초기에 빠른 진행을 위해 `any`를 임시 방편으로 사용하다 그대로 방치하는 경우가 많습니다. `any`가 누적되면 TypeScript를 도입한 의미가 사라집니다. `unknown`을 사용하고 타입 가드로 좁히는 습관을 들이고, ESLint의 `@typescript-eslint/no-explicit-any` 규칙을 경고로 설정해 점진적으로 제거해 나가세요.</div></div>
 
 ---
 

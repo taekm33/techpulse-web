@@ -5,6 +5,7 @@ category: "dev-trend"
 date: "2026-05-20"
 tags: ["로컬LLM", "Ollama", "LMStudio", "vLLM", "llama.cpp", "온프레미스AI", "프라이버시"]
 featured: false
+readingTime: 10
 ---
 
 ## 왜 지금 로컬 LLM인가
@@ -18,6 +19,8 @@ ChatGPT, Claude, Gemini가 넘쳐나는 시대에 굳이 내 컴퓨터에서 LLM
 - **레이턴시**: 특정 워크로드에서 로컬이 클라우드보다 빠른 경우
 
 > "2025년 Llama 3.1 405B, Qwen 2.5 72B 수준의 모델이 소비자용 GPU에서 실용적 속도로 동작하기 시작하면서, 로컬 LLM은 더 이상 '괴짜들의 취미'가 아니다." — AI 엔지니어 커뮤니티 공통 인식
+
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>로컬 LLM 백엔드는 Ollama, LM Studio, vLLM, llama.cpp 등 7종이 있으며, 각각 설치 편의성·성능·대상 사용자가 뚜렷하게 다르다. 개발자에게는 Ollama + OpenWebUI 조합이, 다수 사용자 대상 서버에는 vLLM이, 비개발자에게는 LM Studio 또는 Jan이 최적 선택이다. 한국어 성능을 중시한다면 Qwen 2.5 14B 또는 LG의 EXAONE 3.5 모델을 Ollama로 실행하는 것이 현재 최고의 가성비다.</p></div>
 
 ---
 
@@ -93,6 +96,8 @@ curl http://localhost:11434/v1/chat/completions \
 
 **추천 대상:** 개발자 개인 사용, 사이드 프로젝트, OpenWebUI와 조합, 빠른 프로토타이핑
 
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>Ollama 빠른 시작 팁</strong><br>처음 로컬 LLM을 시작한다면 <code>ollama run qwen2.5:14b</code> 한 줄로 14B급 한국어 모델을 바로 실행해보자. 모델 자동 다운로드부터 대화까지 5분이면 충분하며, OpenWebUI와 연동하면 ChatGPT와 동일한 UI를 무료로 사용할 수 있다.</div></div>
+
 ---
 
 ### 2. LM Studio — GUI로 모델 탐색부터 실행까지
@@ -148,6 +153,8 @@ python -m vllm.entrypoints.openai.api_server \
 | 동시 100 요청 처리량 | OOM 위험 | OOM 위험 | **~1,200 tok/s** |
 | GPU 메모리 효율 | 보통 | 보통 | **탁월** |
 
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">~420 tok/s</div><div class="article-stat__k">vLLM 동시 10 요청 처리량</div></div><div class="article-stat"><div class="article-stat__v">~1,200 tok/s</div><div class="article-stat__k">vLLM 동시 100 요청 처리량</div></div><div class="article-stat"><div class="article-stat__v">2~5배</div><div class="article-stat__k">Ollama·llama.cpp 대비 처리 성능</div></div><div class="article-stat"><div class="article-stat__v">~55 tok/s</div><div class="article-stat__k">vLLM 단일 요청 토큰/초 (RTX 4090)</div></div></div>
+
 **장점:**
 - 압도적인 동시 처리 성능 (PagedAttention)
 - Continuous Batching으로 GPU 낭비 최소화
@@ -195,6 +202,8 @@ cd llama.cpp && make -j
 | Q6_K | ~6.1GB | ★★★★★ | 느림 | 품질 최우선 |
 | Q8_0 | ~8.0GB | ★★★★★ | 느림 | fp16에 근접 |
 | F16 | ~14GB | ★★★★★ | 가장 느림 | 파인튜닝 기준값 |
+
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>GGUF 퀀타이제이션 선택 기준</strong><br>일반 사용 목적이라면 <strong>Q4_K_M</strong>이 파일 크기·품질·속도의 가성비가 가장 뛰어나 공식적으로 권장된다. VRAM이 충분하다면 Q5_K_M이나 Q6_K를 선택해 답변 품질을 높일 수 있으며, VRAM이 극히 부족한 경우에만 Q2_K를 고려하되 응답 품질 저하를 감수해야 한다.</div></div>
 
 **장점:**
 - CPU만으로도 동작 (GPU 없어도 OK)
@@ -364,6 +373,8 @@ ollama run llama3.1:8b  # 자동 감지
 | 8,192 토큰 | +2.0GB |
 | 32,768 토큰 | +8.0GB |
 
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>컨텍스트 크기 과다 설정 주의</strong><br>컨텍스트를 32K 이상으로 설정하면 8B 모델 기준으로만 추가 VRAM이 8GB 이상 소모되어 OOM(Out of Memory) 오류가 발생할 수 있다. 기본값(2K~4K)에서 시작해 실제 필요한 대화 길이에 맞게 단계적으로 늘리고, VRAM 사용량을 모니터링하며 최적값을 찾는 것을 권장한다.</div></div>
+
 > 실제 작업에 필요한 컨텍스트 크기만 설정하는 것이 성능 최적화의 핵심이다.
 
 ---
@@ -412,6 +423,8 @@ Docker/K8s, 멀티모달 API 서버?
 ```
 
 로컬 LLM 생태계는 2025~2026년을 기점으로 성숙 단계에 접어들었다. Ollama 하나만으로도 왠만한 개인 및 소규모 팀의 요구를 충족할 수 있으며, 프로덕션 트래픽이 생기는 시점에 vLLM으로 전환하는 전략이 현재로서는 가장 합리적이다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>입문자·비개발자는 <strong>LM Studio 또는 Jan</strong>, 개발자 개인 사용은 <strong>Ollama + OpenWebUI</strong>, 팀 서버는 <strong>vLLM</strong>, 최대 커스터마이징은 <strong>llama.cpp</strong>이 각각 최적 선택이다.</li><li>vLLM의 PagedAttention 기술은 동시 100 요청 기준 llama.cpp 대비 처리량이 10배 이상이지만 NVIDIA GPU가 필수이며, Apple Silicon·CPU 환경에서는 Ollama 또는 llama.cpp가 더 실용적이다.</li><li>한국어 성능을 최우선으로 한다면 <strong>Qwen 2.5 14B Q4_K_M</strong> 또는 LG AI Research의 <strong>EXAONE 3.5 7.8B</strong>를 Ollama로 실행하는 것이 현재 최고 가성비다.</li><li>GGUF 퀀타이제이션은 일반 용도에서 <strong>Q4_K_M</strong>을 기본으로, 컨텍스트 크기는 실제 필요 범위에서 시작해 VRAM 여유에 따라 단계적으로 늘리는 전략이 성능 최적화의 핵심이다.</li></ul></div>
 
 ---
 

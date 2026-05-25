@@ -15,6 +15,8 @@ readingTime: 15
 
 이 글에서는 Llama 4의 3가지 모델 라인업을 상세히 분석하고, 기존 모델 대비 성능을 수치로 비교하며, 실제로 국내에서 어떻게 활용할 수 있는지까지 폭넓게 다룬다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>Meta Llama 4는 Scout(109B/17B 활성), Maverick(400B/17B 활성), Behemoth(2T) 3종 라인업으로, MoE 아키텍처를 통해 적은 연산 비용으로 GPT-4o·Claude 3.5를 주요 벤치마크에서 앞섰다. 오픈소스 모델 최초로 상용 AI와 동등 이상의 성능을 입증하며 AI 민주화의 실질적 전환점을 만들었다. MAU 7억 명 미만 서비스라면 상업적으로 자유롭게 사용할 수 있어, 국내 스타트업과 기업도 지금 바로 도입을 검토할 수 있다.</p></div>
+
 ---
 
 ## Llama 4 3종 라인업 완전 해부
@@ -88,6 +90,8 @@ Llama 4 Maverick는 일반 지식(MMLU), 과학 추론(GPQA), 멀티모달(MMMU)
 
 Scout는 경량 모델 중에서 압도적인 성능을 보이되, 추론 속도는 단순한 소형 Dense 모델보다 다소 느리다. 이는 MoE 라우팅 오버헤드에 기인한다.
 
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">89.5</div><div class="article-stat__k">Maverick MMLU 점수 (GPT-4o 87.2 상회)</div></div><div class="article-stat"><div class="article-stat__v">1M 토큰</div><div class="article-stat__k">Maverick 컨텍스트 윈도우</div></div><div class="article-stat"><div class="article-stat__v">2조 개</div><div class="article-stat__k">Behemoth 전체 파라미터 수</div></div><div class="article-stat"><div class="article-stat__v">Arena Elo 1,380</div><div class="article-stat__k">Maverick 종합 챗봇 경쟁력 (1위)</div></div></div>
+
 ---
 
 ## MoE 아키텍처란 무엇인가?
@@ -121,6 +125,8 @@ MoE 아키텍처는 다음과 같이 작동한다:
 - 특정 도메인에 특화된 Expert 덕분에 전문 지식 품질 향상
 - 훈련 시 다양한 전문성을 병렬적으로 개발
 
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>MoE 활용 팁: 배치 처리로 비용 절감</strong><br>MoE 모델은 동시에 다양한 유형의 요청을 처리할 때 Expert 다양성이 극대화됩니다. 단일 태스크를 반복 호출하기보다 여러 종류의 작업을 배치로 묶어 처리하면 Expert 활용률이 높아져 품질과 비용 효율을 동시에 잡을 수 있습니다.</div></div>
+
 **단점:**
 - 전체 모델 저장에 필요한 디스크 공간과 메모리가 매우 큼 (Maverick: ~500GB 이상)
 - 라우팅 오버헤드로 인한 레이턴시 증가
@@ -152,6 +158,8 @@ Llama 4에서 Meta는 '인터리브드(Interleaved) MoE' 아키텍처를 채택�
 - Meta의 사용 정책(Acceptable Use Policy) 준수 의무
 
 **핵심 포인트**: MAU 7억 명이라는 기준은 사실상 구글, 메타, 마이크로소프트 규모의 빅테크 기업 외에는 걸릴 일이 없는 수준이다. 스타트업, 중소기업, 대부분의 SaaS 서비스는 별도 라이선스 없이 상업적으로 자유롭게 사용할 수 있다.
+
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>라이선스 확인은 필수: "Built with Llama" 표기 의무</strong><br>Llama 4 기반 파생 모델이나 서비스를 공개 배포할 때는 반드시 "Built with Llama"를 명시해야 합니다. 제품 소개 페이지, 앱 스토어 설명, API 문서 등 사용자가 접하는 공개 채널에 표기하면 충분합니다. 내부 사용 전용 서비스라면 표기 의무가 적용되지 않습니다.</div></div>
 
 ### Apache 2.0 대비 차이점
 
@@ -194,6 +202,8 @@ Llama 4를 API로 제공하는 서비스를 이용하면 별도의 서버 없이
 - GPU: NVIDIA A100 (80GB VRAM) × 8대 또는 H100 × 4대
 - RAM: 256GB 이상
 - 저장소: NVMe SSD 2TB 이상
+
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>직접 호스팅 전 비용 시뮬레이션 필수</strong><br>Maverick 직접 호스팅은 초기 GPU 구매 또는 클라우드 임대 비용이 상당합니다. A100 × 8대 기준 월 GPU 임대 비용만 수천만 원에 달할 수 있습니다. 먼저 클라우드 API로 실사용 트래픽을 측정한 뒤, 월간 API 비용이 직접 호스팅 비용의 70% 이상을 넘어서는 시점에 전환을 검토하는 것이 합리적입니다.</div></div>
 
 **국내 클라우드 GPU 임대 옵션:**
 - KT Cloud GPU: H100 시간당 약 12,000원
@@ -305,3 +315,5 @@ Meta Llama 4는 단순한 모델 업데이트가 아니다. 오픈소스 AI가 �
 국내 개발자와 기업 입장에서는 지금이 Llama 4를 적극적으로 탐색할 최적의 시점이다. API로 빠르게 시작해 가능성을 확인하고, 필요에 따라 직접 호스팅이나 파인튜닝으로 나아가는 단계적 접근이 권장된다.
 
 오픈소스 AI의 진화는 멈추지 않는다. Llama 4가 세운 기준은 곧 Llama 5가 뛰어넘을 것이고, 그 혜택은 결국 더 많은 사람과 기업에게 돌아갈 것이다. AI의 민주화는 이제 슬로건이 아닌 현실이 되었다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Llama 4는 Scout(경량·엣지), Maverick(범용·기업), Behemoth(연구·2T) 3종 라인업으로, MoE 아키텍처 덕분에 전체 파라미터 대비 훨씬 적은 연산 비용(17B 활성)으로 최상위 성능을 실현한다.</li><li>Maverick은 MMLU·GPQA·MMMU·Arena Elo 등 주요 벤치마크에서 GPT-4o와 Claude 3.5 Sonnet을 앞서며 오픈소스 AI의 상용 AI 추월을 공식화했다.</li><li>MAU 7억 명 미만 서비스는 Llama 4 Community License 하에 별도 계약 없이 상업적 사용이 가능하며, 파생 모델 공개 배포 시 "Built with Llama" 명시가 필수다.</li><li>국내 도입 전략으로는 Groq/AWS Bedrock/Azure AI 등 클라우드 API로 빠르게 검증 후, 트래픽 증가 시 직접 호스팅 또는 QLoRA 파인튜닝으로 단계적으로 확장하는 방식이 권장된다.</li></ul></div>

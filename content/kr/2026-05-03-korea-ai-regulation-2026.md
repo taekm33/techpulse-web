@@ -2,7 +2,7 @@
 title: "한국 AI 규제 2026: AI 기본법 논의부터 실제 영향까지"
 summary: "한국 AI 기본법의 주요 내용과 EU AI Act 비교, 분야별 AI 규제 동향, 기업이 지금 준비해야 할 컴플라이언스 사항을 종합 정리합니다."
 category: "hot-issue"
-date: "2026-05-03"
+date: 2026-05-23
 tags: ["AI규제", "AI기본법", "한국", "정책", "컴플라이언스"]
 readingTime: 15
 ---
@@ -14,6 +14,8 @@ readingTime: 15
 그러나 2024~2026년, 상황이 바뀌고 있다. EU AI Act의 본격 시행, 미국의 AI 행정명령 강화, 글로벌 AI 거버넌스 논의의 급물살 속에서 한국도 더 이상 규제의 공백을 방치할 수 없게 됐다. AI 기본법 논의가 국회에서 본격화됐고, 금융·의료·개인정보 등 분야별로 AI 관련 규제가 빠르게 구체화되고 있다.
 
 이 글에서는 한국 AI 규제의 현재 상황을 종합적으로 정리하고, 기업과 개발자가 실질적으로 준비해야 할 사항을 안내한다.
+
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>2025년 국회를 통과한 한국 AI 기본법이 2026년부터 단계적으로 시행되면서, 금융·의료·채용 등 고영향 AI를 운영하는 기업은 영향 평가 의무와 투명성 요건을 준비해야 한다. EU AI Act와 달리 한국 법은 '혁신 촉진'과 '신뢰 구축'을 동시에 추구하는 이원적 구조를 취하며, 연 매출 10억 원 미만 기업에는 일부 의무가 유예된다. 규제 준수는 단순한 법적 의무가 아니라 B2B 시장에서의 신뢰 경쟁력과 직결되므로, 지금부터 AI 인벤토리 점검과 데이터 거버넌스 정비를 시작하는 것이 유리하다.</p></div>
 
 ---
 
@@ -33,6 +35,8 @@ readingTime: 15
 | 2024년 | AI 기본법 주요 조항 합의, 위원회 논의 본격화 |
 | 2025년 | AI 기본법 국회 통과 |
 | 2026년 | 단계적 시행 진행 중 |
+
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">2025년</div><div class="article-stat__k">AI 기본법 국회 통과 연도</div></div><div class="article-stat"><div class="article-stat__v">200건+</div><div class="article-stat__k">누적 AI 의료기기 허가 건수 (2023년 기준)</div></div><div class="article-stat"><div class="article-stat__v">10억 원</div><div class="article-stat__k">영향 평가 의무 유예 기준 연 매출</div></div><div class="article-stat"><div class="article-stat__v">연 매출 7%</div><div class="article-stat__k">EU AI Act 위반 시 최대 과징금 규모</div></div></div>
 
 ### 1.2 AI 기본법의 핵심 구조
 
@@ -98,6 +102,8 @@ EU AI Act는 중소기업에 대한 일부 예외와 완화 규정을 두고 있
 - 정부 지원 컴플라이언스 컨설팅 제공
 
 그러나 이 완화 조항이 실제로 얼마나 실효성 있게 적용될지에 대해서는 업계의 우려가 있다.
+
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>한국 AI 기본법 vs. EU AI Act 핵심 차이점</strong><br>EU AI Act는 위험 기반 4단계 분류와 최대 연 매출 7%의 강력한 과징금을 규정하는 반면, 한국 AI 기본법은 '고영향 AI' 중심의 이원적 접근을 택하고 제재 수위는 상대적으로 낮다. 단, 글로벌 비즈니스를 운영하는 기업은 양쪽 규제를 동시에 준수해야 한다는 점을 주의해야 한다.</div></div>
 
 ---
 
@@ -187,6 +193,8 @@ ChatGPT 등 해외 AI 서비스가 한국인의 개인정보를 학습 데이터
 - 투명성: AI 사용 사실 공개 의무
 - 공정성: 행정 AI의 차별 금지
 - 안전성: 고위험 결정에 AI 단독 사용 금지
+
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>자동화된 결정, 지금 바로 점검하세요</strong><br>채용 스크리닝, AI 신용 평가, 보험 심사 등 자동화된 결정을 활용하는 기업은 개인정보보호법 개정안에 따라 고객·지원자에게 자동화 처리 사실을 고지하고 설명을 요구할 권리를 보장해야 한다. 이를 누락하면 개인정보보호위원회의 조사 대상이 될 수 있다.</div></div>
 
 ---
 

@@ -13,6 +13,8 @@ readingTime: 16
 
 하지만 컨테이너 생태계는 여전히 빠르게 변화하고 있습니다. Docker에서 Podman으로의 전환, containerd의 부상, GPU 워크로드를 위한 K8s 확장, 경량 K8s 배포판의 엣지 컴퓨팅 활용 등 2026년에 반드시 알아야 할 변화들이 있습니다. 이 글에서 전체 생태계를 정리합니다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>2026년 컨테이너 생태계는 containerd가 K8s 기본 런타임으로 자리잡고, Kubernetes가 82% 점유율로 사실상 오케스트레이션 표준이 되었습니다. Docker는 개발 환경에서 여전히 강세를 보이지만 Podman이 보안 중심 환경에서 빠르게 부상하고 있으며, AI/ML 워크로드를 위한 GPU 스케줄링과 경량 K8s(k3s/k0s)의 엣지 활용이 핵심 트렌드로 떠올랐습니다. 멀티스테이지 빌드, HPA, Spot 인스턴스, ArgoCD GitOps를 조합하면 안정성과 비용 효율을 동시에 잡을 수 있습니다.</p></div>
+
 ---
 
 ## 1. 2026년 컨테이너 생태계 현황
@@ -35,6 +37,8 @@ readingTime: 16
 | Nomad | 5% | 6% | → |
 | k3s/k0s (경량) | 3% | 5% | ↑ |
 | Managed K8s (EKS/GKE/AKS) | 퍼블릭 클라우드 표준 | 표준 | ↑ |
+
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">82%</div><div class="article-stat__k">Kubernetes 오케스트레이션 점유율 (2026)</div></div><div class="article-stat"><div class="article-stat__v">58%</div><div class="article-stat__k">containerd 컨테이너 런타임 사용 비율</div></div><div class="article-stat"><div class="article-stat__v">5%↑</div><div class="article-stat__k">경량 K8s(k3s/k0s) 점유율 (2024년 3%→2026년 5%)</div></div><div class="article-stat"><div class="article-stat__v">↓50%</div><div class="article-stat__k">Docker Swarm 점유율 감소 (12%→6%, 지원 종료 수순)</div></div></div>
 
 ---
 
@@ -140,6 +144,8 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 # 시그널 처리를 위해 exec 형태 사용
 CMD ["node", "dist/server.js"]
 ```
+
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>Dockerfile 멀티스테이지 빌드 핵심 팁</strong><br>멀티스테이지 빌드를 사용하면 최종 이미지에 빌드 도구와 개발 의존성이 포함되지 않아 이미지 크기를 최대 80%까지 줄일 수 있습니다. 반드시 특정 버전 태그(예: node:20.11.0-alpine3.19)를 고정하고, 루트가 아닌 사용자로 실행하도록 설정하세요. HEALTHCHECK와 시그널 처리(exec 형태 CMD)를 추가하면 프로덕션 안정성이 크게 향상됩니다.</div></div>
 
 ### Podman: 보안이 중요한 환경의 선택
 
@@ -660,6 +666,8 @@ spec:
 - 스케줄 기반 배치 작업
 - MVP/초기 단계 프로젝트
 
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>AI 워크로드는 컨테이너(K8s)가 정답</strong><br>LLM 추론, 모델 학습, 배치 임베딩 처리 등 AI/ML 워크로드는 GPU 지원, 긴 실행 시간, 대용량 모델 스토리지가 필요하기 때문에 서버리스로는 한계가 뚜렷합니다. NVIDIA GPU Operator와 MIG(Multi-Instance GPU) 기능을 활용하면 K8s 클러스터에서 GPU를 효율적으로 분할하여 여러 워크로드가 공유할 수 있어 GPU 활용률과 비용 효율을 동시에 높일 수 있습니다.</div></div>
+
 ---
 
 ## 7. 비용 최적화 전략
@@ -782,6 +790,8 @@ def get_pod_cost_estimate():
 
 get_pod_cost_estimate()
 ```
+
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>Spot 인스턴스 사용 시 반드시 확인해야 할 것들</strong><br>AWS Spot 인스턴스는 비용을 60~80% 절감할 수 있지만, 2분 전 통보 후 강제 종료될 수 있습니다. 상태를 유지하는 데이터베이스, 캐시 서버, 결제 처리 등 중요 워크로드에는 절대 Spot을 사용하지 마세요. terminationGracePeriodSeconds를 120초로 설정하고, PodDisruptionBudget으로 최소 가용 Pod 수를 보장하며, 중단 허용 워크로드(배치, 비동기 처리)에만 Spot을 적용하는 것이 안전합니다.</div></div>
 
 ---
 
@@ -1000,6 +1010,8 @@ spec:
 4. Kubernetes SIG별 기능 안정화 (VPA, sidecar 등)
 
 컨테이너와 K8s는 이미 성숙한 기술이지만, 생태계는 여전히 발전 중입니다. 기본기를 탄탄히 하고, 새로운 기능은 파일럿 프로젝트로 검증하면서 점진적으로 도입하는 전략이 가장 현명합니다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2026년 컨테이너 런타임은 containerd(58%)가 주도하고, Kubernetes(82%)가 오케스트레이션 표준으로 완전히 자리잡았다. Docker Swarm은 사실상 레거시로 전환 중이다.</li><li>Dockerfile은 멀티스테이지 빌드·버전 고정·비루트 사용자·HEALTHCHECK를 모두 적용해야 2026년 프로덕션 기준을 충족한다. Podman은 rootless 실행이 필요한 보안 환경에서 Docker의 강력한 대안이다.</li><li>AI/ML 워크로드는 NVIDIA GPU Operator와 MIG를 활용해 K8s에서 GPU를 효율적으로 스케줄링하고, 서버리스 대신 컨테이너(K8s)를 선택해야 GPU 지원과 긴 실행 시간을 보장받을 수 있다.</li><li>비용 최적화의 핵심은 Spot 인스턴스(60~80% 절감) + Karpenter 자동 프로비저닝 + VPA 적정 리소스 설정이며, ArgoCD GitOps로 배포를 자동화하면 운영 부담도 함께 줄일 수 있다.</li></ul></div>
 
 ---
 

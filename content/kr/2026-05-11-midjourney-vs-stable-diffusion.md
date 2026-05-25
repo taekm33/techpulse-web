@@ -13,6 +13,8 @@ readingTime: 15
 
 그런데 막상 도구를 선택하려 하면 혼란스럽습니다. 각 도구마다 강점과 약점이 뚜렷하고, 사용 목적에 따라 최적의 선택이 달라지기 때문입니다. 이 글에서는 2026년 최신 버전 기준으로 세 도구를 철저하게 비교 분석합니다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>Midjourney v7은 압도적인 미적 완성도로 크리에이터와 콘텐츠 제작자에게 최적이며, Stable Diffusion 3.5는 완전한 오픈소스 무료 로컬 실행과 무한한 커스터마이징으로 개발자와 파워유저의 선택입니다. DALL-E 3는 ChatGPT와의 통합으로 진입 장벽이 가장 낮아 AI 이미지 생성을 처음 시작하는 초보자에게 권장됩니다.</p></div>
+
 ---
 
 ## 1. 3대 이미지 AI 한눈에 보기
@@ -39,6 +41,8 @@ readingTime: 15
 | 기본 | $10/월 (200 이미지) | $9~$15/월 (서비스 따라 다름) | $20/월 (ChatGPT Plus) |
 | 프로 | $30/월 (무제한 릴렉스) | Stability AI $20/월 | API $0.04~$0.08/이미지 |
 | 메가 | $60/월 (60 패스트 시간) | — | — |
+
+<div class="article-stats"><div class="article-stat"><div class="article-stat__v">$10/월</div><div class="article-stat__k">Midjourney 최저 유료 플랜</div></div><div class="article-stat"><div class="article-stat__v">무료</div><div class="article-stat__k">Stable Diffusion 로컬 실행 비용</div></div><div class="article-stat"><div class="article-stat__v">3종</div><div class="article-stat__k">비교 대상 이미지 AI 도구</div></div><div class="article-stat"><div class="article-stat__v">8GB+</div><div class="article-stat__k">SD 3.5 최소 VRAM 요구량</div></div></div>
 
 ---
 
@@ -171,6 +175,8 @@ image = pipe(
 
 image.save("output.png")
 ```
+
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>SD 로컬 실행 시작 팁</strong><br>GPU 메모리가 부족한 경우 <code>--lowvram</code> 옵션을 사용하고, sd3.5_medium 모델(4.7GB)부터 시작하는 것을 권장합니다. RTX 3060 12GB 이상의 GPU가 있다면 large 모델도 원활하게 실행 가능합니다.</div></div>
 
 ### ControlNet: SD의 차별화된 기능
 
@@ -339,6 +345,8 @@ modern tech aesthetic
 
 이미지 AI로 생성한 콘텐츠의 상업적 활용은 반드시 각 도구의 이용 약관을 확인해야 합니다.
 
+<div class="article-callout article-callout--info"><div class="article-callout__icon">ℹ️</div><div class="article-callout__body"><strong>상업적 이용 전 꼭 확인하세요</strong><br>각 도구의 이용 약관은 수시로 업데이트됩니다. Midjourney는 플랜별 상업 이용 조건이 다르고, Stable Diffusion은 사용하는 파인튜닝 모델마다 라이선스가 다를 수 있으므로 CivitAI 등에서 개별 모델 라이선스를 반드시 확인하세요.</div></div>
+
 ### 각 도구별 상업 이용 정책
 
 **Midjourney:**
@@ -362,6 +370,8 @@ modern tech aesthetic
 2. **학습 데이터 논란**: 세 도구 모두 웹에서 수집한 이미지로 학습되어 원작자와의 분쟁 가능성 존재
 3. **실제 인물 생성**: 특정 실존 인물의 이미지 생성은 초상권, 명예훼손 등의 법적 문제 야기 가능
 4. **상표 및 브랜드**: 유명 브랜드 로고나 스타일 모방은 상표권 침해 우려
+
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>실존 인물 이미지 생성 주의</strong><br>유명인, 연예인, 정치인 등 실존 인물의 이미지를 AI로 생성하여 상업적으로 활용하거나 허위 정보와 결합할 경우 초상권 침해, 명예훼손, 딥페이크 관련 법적 처벌을 받을 수 있습니다. 2026년 현재 한국을 포함한 여러 국가에서 AI 생성 이미지 규제가 강화되고 있으므로 각별히 주의하세요.</div></div>
 
 ---
 
@@ -434,6 +444,8 @@ SNS 콘텐츠, 썸네일, 마케팅 소재 등을 만드는 분들에게는 Midj
 | 파인튜닝, 특수 스타일 | Stable Diffusion |
 
 세 도구 모두 각자의 영역에서 뚜렷한 강점을 가지고 있습니다. 가능하다면 세 가지를 모두 체험해보고, 자신의 워크플로우와 예산에 맞는 도구를 선택하는 것이 가장 현명한 방법입니다. 특히 Midjourney의 무료 체험이 종료된 만큼, DALL-E 3(ChatGPT Plus 포함)으로 시작하여 필요에 따라 도구를 확장해 나가는 전략을 권장합니다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Midjourney v7은 미적 완성도와 예술성이 가장 뛰어나며, 브랜드 콘텐츠·SNS·마케팅 이미지 제작에 최적입니다.</li><li>Stable Diffusion 3.5는 완전 무료 로컬 실행이 가능하고 LoRA·ControlNet 등 무한한 커스터마이징을 지원해 개발자와 파워유저에게 이상적입니다.</li><li>DALL-E 3는 ChatGPT와의 통합으로 사용 편의성이 가장 높으며, 이미지 내 텍스트 렌더링과 한국어 프롬프트 지원이 우수합니다.</li><li>상업적 활용 시 각 도구의 이용 약관과 라이선스를 반드시 확인하고, 실존 인물 이미지 생성은 법적 리스크에 유의하세요.</li></ul></div>
 
 ---
 

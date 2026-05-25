@@ -15,6 +15,8 @@ readingTime: 19
 
 그렇다면 국내 LLM 시장의 진짜 경쟁 구도는 어떠한가? 각 플레이어의 기술력, 비즈니스 전략, 그리고 글로벌 모델 대비 한국어 성능을 냉정하게 비교한다.
 
+<div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>네이버·카카오·삼성·SK텔레콤 등 대기업과 업스테이지·솔트룩스 등 스타트업이 국내 LLM 시장에서 치열하게 경쟁 중이다. 한국어 특화 성능에서는 HyperCLOVA X가 선두를 달리지만, 글로벌 모델(GPT-4o, Claude)의 추격도 거세다. 국내 기업의 생존 전략은 '플랫폼 통합', '온디바이스', '버티컬 특화' 세 가지로 나뉜다. 모델 성능 경쟁보다 비즈니스 가치 창출 속도가 승패를 가를 핵심 변수다.</p></div>
+
 ---
 
 ## 1. 국내 LLM 플레이어 전체 지도
@@ -37,6 +39,15 @@ readingTime: 19
 | 솔트룩스 | LUXIA | 7B~13B | 엔터프라이즈 | 한국어 특화, 공공시장 |
 | 카카오브레인 | KoAlpaca | 7B | 오픈소스 | 연구용 |
 | 42Maru | QRAB | 미공개 | 클로즈드 | 금융 특화 QA |
+
+<div class="article-stats">
+<div class="article-stat"><div class="article-stat__v">9개+</div><div class="article-stat__k">국내 주요 LLM 모델</div></div>
+<div class="article-stat"><div class="article-stat__v">4,800만</div><div class="article-stat__k">카카오톡 MAU (카나나 AI 잠재 유저)</div></div>
+<div class="article-stat"><div class="article-stat__v">400만</div><div class="article-stat__k">클로바X 월간 사용자 (2026년 초)</div></div>
+<div class="article-stat"><div class="article-stat__v">87.3점</div><div class="article-stat__k">HyperCLOVA X KoBEST 점수 (1위)</div></div>
+<div class="article-stat"><div class="article-stat__v">3억+</div><div class="article-stat__k">연간 갤럭시 디바이스 출하량</div></div>
+<div class="article-stat"><div class="article-stat__v">50%</div><div class="article-stat__k">공존·분업 시나리오 실현 가능성</div></div>
+</div>
 
 ---
 
@@ -70,6 +81,11 @@ readingTime: 19
 - 오픈소스가 아니어서 연구자 커뮤니티 활용 제한적
 - 글로벌 B2B 고객 확보가 제한적
 
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">🇰🇷</div>
+<div class="article-callout__body"><strong>네이버 HyperCLOVA X — 한국어 LLM 선두주자</strong><br>KoBEST 87.3점, HAERAE 91.2점으로 한국어 벤치마크 전 항목 1위. B2B 기업 고객 1,200개 이상, 클로바X 월 400만 사용자를 보유한 국내 최대 LLM 생태계. 네이버 검색·쇼핑·지도와의 통합이 글로벌 모델이 넘기 어려운 해자(moat)다.</div>
+</div>
+
 ### 카카오 KoGPT 3.0 / 카나나 AI
 
 **개요**
@@ -95,6 +111,11 @@ readingTime: 19
 - 엔터프라이즈 B2B 시장 경험 부족
 - 모델 성능이 네이버, 삼성 대비 다소 낮다는 평가
 - 글로벌 진출 전략 불명확
+
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">💬</div>
+<div class="article-callout__body"><strong>카카오 카나나 AI — 4,800만 MAU라는 압도적 배포망</strong><br>카나나 AI의 진짜 강점은 모델 성능이 아니라 카카오톡이라는 플랫폼이다. 대부분의 한국인이 매일 열어보는 앱에 AI가 탑재된다는 것은, 어떤 마케팅·광고 없이도 수천만 명에게 도달할 수 있다는 의미다. HAERAE 85.7점으로 한국 문화 이해도도 높은 편.</div>
+</div>
 
 ### 삼성전자 가우스 2.0
 
@@ -123,6 +144,11 @@ readingTime: 19
 - 온디바이스 특화로 범용 AI 서비스 경쟁력은 제한적
 - 클라우드 기반 서비스와의 성능 격차
 - Gemini 의존도가 높아 자체 LLM 성능이 가려지는 효과
+
+<div class="article-callout article-callout--info">
+<div class="article-callout__icon">📱</div>
+<div class="article-callout__body"><strong>삼성 가우스 2.0 — 연간 3억 대 디바이스가 배포 채널</strong><br>삼성의 LLM 전략은 클라우드 경쟁이 아니라 온디바이스 AI다. 연간 3억 대 이상 출하되는 갤럭시 스마트폰이 곧 배포망이다. Exynos·HBM 반도체 수직 계열화로 하드웨어-소프트웨어 최적화 우위를 가지며, 클라우드 없이 동작하는 프라이버시 보호 AI라는 포지셔닝으로 글로벌 기업이 쉽게 복제할 수 없는 영역을 구축하고 있다.</div>
+</div>
 
 ### SK텔레콤 에이닷 (A.) LLM
 
@@ -340,3 +366,12 @@ API 비용이 핵심 제약?
 국내 LLM 전쟁은 단순한 모델 성능 경쟁이 아니다. 누가 더 빠르게 비즈니스 가치를 만들고, 더 깊이 있는 도메인 전문성을 쌓아가느냐의 싸움이다. 그리고 그 싸움에서 이미 앞서 나가는 기업들이 등장하고 있다.
 
 TechPulse는 국내 LLM 생태계의 변화를 지속적으로 추적하며 최신 정보를 제공할 예정이다.
+
+<div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div>
+<ul>
+<li>국내 LLM 시장은 대기업(네이버·카카오·삼성·SKT·LG)과 스타트업(업스테이지·솔트룩스)으로 양분되며, 각자 플랫폼 통합·온디바이스·버티컬 특화라는 차별화 전략을 취하고 있다.</li>
+<li>한국어 벤치마크(KoBEST·HAERAE)에서는 HyperCLOVA X가 선두이나, GPT-4o와 Claude 3.5 Sonnet 등 글로벌 모델이 빠르게 격차를 좁히고 있다.</li>
+<li>한국어의 교착어적 복잡성, 한국 특화 지식 요구, 데이터 주권 규제라는 3가지 구조적 요인이 국내 LLM의 존재 이유이자 글로벌 모델의 진입 장벽이다.</li>
+<li>스타트업의 생존 전략은 모델 성능 정면 승부가 아닌 LLM 위의 솔루션(RAG·OCR·Document AI)과 폐쇄망 온프레미스 수요 공략이다.</li>
+<li>향후 2~3년간 가장 현실적인 시나리오(50%)는 글로벌·국내 LLM의 공존과 분업이며, 창업자는 데이터 보안 요건·언어·비용·도메인 4단계 기준으로 LLM을 선택해야 한다.</li>
+</ul></div>
