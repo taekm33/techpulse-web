@@ -1,19 +1,36 @@
 import type { Metadata } from 'next'
 import './globals.css'
 
+const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
+const BASE_URL = LOCALE === 'kr' ? 'https://techpulse.co.kr' : 'https://technologypulse.app'
+const isKr = LOCALE === 'kr'
+
 export const metadata: Metadata = {
   title: {
-    default: 'TechPulse — AI & IT 뉴스',
+    default: isKr ? 'TechPulse — AI & IT 뉴스' : 'TechPulse — AI & Tech News',
     template: '%s | TechPulse',
   },
-  description: 'AI·IT 기술 트렌드를 가장 빠르고 정확하게. GPT, Claude, 빅테크 소식과 AI 도구 리뷰를 전달합니다.',
+  description: isKr
+    ? 'AI·IT 기술 트렌드를 가장 빠르고 정확하게. GPT, Claude, 빅테크 소식과 AI 도구 리뷰를 전달합니다.'
+    : 'Fast, accurate AI & tech news for builders and thinkers. Model releases, startup funding, dev tools, and more.',
+  metadataBase: new URL(BASE_URL),
   openGraph: {
     siteName: 'TechPulse',
     type: 'website',
+    locale: isKr ? 'ko_KR' : 'en_US',
+    url: BASE_URL,
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@techpulsekr',
+    site: isKr ? '@techpulsekr' : '@techpulseai',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
   },
 }
 
@@ -21,7 +38,7 @@ const themeScript = `(function(){try{var t=localStorage.getItem('tp-theme')||(wi
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="ko">
+    <html lang={isKr ? 'ko' : 'en'}>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
@@ -33,6 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
         />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body>

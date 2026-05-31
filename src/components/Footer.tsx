@@ -70,6 +70,29 @@ export default function Footer({ locale }: FooterProps) {
           </div>
         </div>
 
+        {/* Legal */}
+        <div style={{
+          borderTop: '1px solid var(--line)',
+          paddingTop: 16,
+          paddingBottom: 8,
+          display: 'flex',
+          gap: 20,
+          flexWrap: 'wrap',
+        }}>
+          <Link href="/about" style={{ fontSize: 12, color: 'var(--ink3)' }}>
+            {isKr ? '소개' : 'About'}
+          </Link>
+          <Link href="/contact" style={{ fontSize: 12, color: 'var(--ink3)' }}>
+            {isKr ? '문의' : 'Contact'}
+          </Link>
+          <Link href="/privacy-policy" style={{ fontSize: 12, color: 'var(--ink3)' }}>
+            {isKr ? '개인정보처리방침' : 'Privacy Policy'}
+          </Link>
+          <Link href="/terms" style={{ fontSize: 12, color: 'var(--ink3)' }}>
+            {isKr ? '이용약관' : 'Terms of Service'}
+          </Link>
+        </div>
+
         <div className="tp-footer__bottom">
           <span>© {year} TechPulse. All rights reserved.</span>
           <span>{isKr ? 'AI/IT의 맥박 · Your AI & Tech Pulse' : 'Your AI & Tech Pulse'}</span>
