@@ -52,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         {isKr && <meta name="google-site-verification" content="dRVqX_ziUp8cB_P1bKNBsi-t6vK_NXw8u53hBjO00oY" />}
+        {isKr && <meta name="naver-site-verification" content="dcefbf9811b03d8b51f637c56b0914e6f2194ede" />}
         {!isKr && <meta name="google-site-verification" content="r9Y-lKtvI9CvT0zZfGrje8SIL9czNbmggXl4hyY1kUE" />}
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
