@@ -59,8 +59,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </>}
         {!isKr && <meta name="google-site-verification" content="r9Y-lKtvI9CvT0zZfGrje8SIL9czNbmggXl4hyY1kUE" />}
         {!isKr && <>
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YRL0FBE2D" />
-          <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-4YRL0FBE2D');` }} />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQ4MD7S7KL" />
+          <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZQ4MD7S7KL');` }} />
         </>}
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
