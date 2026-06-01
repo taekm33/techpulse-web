@@ -51,6 +51,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
         />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        {isKr && <meta name="google-site-verification" content="dRVqX_ziUp8cB_P1bKNBsi-t6vK_NXw8u53hBjO00oY" />}
+        {!isKr && <meta name="google-site-verification" content="r9Y-lKtvI9CvT0zZfGrje8SIL9czNbmggXl4hyY1kUE" />}
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body>
