@@ -1,0 +1,29 @@
+name: Discord 알림
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 기사 push 알림
+        run: |
+          KR_COUNT=$(echo '${{ toJson(github.event.commits) }}' | python3 -c "
+          import sys, json
+          commits = json.load(sys.stdin)
+          files = [f for c in commits for f in c.get('added', []) + c.get('modified', [])]
+          kr = [f for f in files if f.startswith('content/kr/')]
+          en = [f for f in files if f.startswith('content/en/')]
+          print(f'{len(kr)} {len(en)}')
+          ")
+          KR=$(echo $KR_COUNT | cut -d' ' -f1)
+          EN=$(echo $KR_COUNT | cut -d' ' -f2)
+          DATE=$(date +%Y-%m-%d)
+          MSG="✅ **TechPulse 기사 push 완료** ($DATE)\n📄 KR ${KR}개 | EN ${EN}개\n⏳ 빌드/배포: 11:00 KST"
+          curl -s -X POST "${{ secrets.DISCORD_WEBHOOK }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"content\": \"$MSG\"}"
