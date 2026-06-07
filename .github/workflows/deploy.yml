@@ -1,0 +1,43 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'src/**'
+      - 'public/**'
+      - 'package.json'
+      - 'next.config.ts'
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Build & deploy KR (techpulse.co.kr)
+        env:
+          NEXT_PUBLIC_LOCALE: kr
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npm run build
+          npx wrangler pages deploy out --project-name=techpulse-kr --branch=main --commit-dirty=true
+      - name: Build & deploy EN (technologypulse.app)
+        env:
+          NEXT_PUBLIC_LOCALE: en
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          rm -rf out .next
+          npm run build
+          npx wrangler pages deploy out --project-name=techpulse-en --branch=main --commit-dirty=true
