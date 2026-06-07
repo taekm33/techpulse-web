@@ -5,25 +5,31 @@ on:
     branches: [main]
     paths:
       - 'content/**'
+  workflow_dispatch:
 
 jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: 기사 push 알림
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
         run: |
-          KR_COUNT=$(echo '${{ toJson(github.event.commits) }}' | python3 -c "
-          import sys, json
-          commits = json.load(sys.stdin)
-          files = [f for c in commits for f in c.get('added', []) + c.get('modified', [])]
-          kr = [f for f in files if f.startswith('content/kr/')]
-          en = [f for f in files if f.startswith('content/en/')]
-          print(f'{len(kr)} {len(en)}')
-          ")
-          KR=$(echo $KR_COUNT | cut -d' ' -f1)
-          EN=$(echo $KR_COUNT | cut -d' ' -f2)
+          ZERO=0000000000000000000000000000000000000000
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "$ZERO" ] && git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            CHANGED=$(git diff --name-only "$BEFORE" "$AFTER")
+          else
+            CHANGED=$(git show --name-only --pretty=format: "$AFTER")
+          fi
+          KR=$(printf '%s\n' "$CHANGED" | grep -cE '^content/kr/.*\.md$' || true)
+          EN=$(printf '%s\n' "$CHANGED" | grep -cE '^content/en/.*\.md$' || true)
           DATE=$(date +%Y-%m-%d)
-          MSG="✅ **TechPulse 기사 push 완료** ($DATE)\n📄 KR ${KR}개 | EN ${EN}개\n⏳ 빌드/배포: 11:00 KST"
-          curl -s -X POST "${{ secrets.DISCORD_WEBHOOK }}" \
+          MSG="✅ **TechPulse 기사 push 완료** ($DATE)\n📄 KR ${KR}개 | EN ${EN}개\n🚀 빌드/배포: GitHub Actions 자동"
+          curl -s -X POST "$DISCORD_WEBHOOK" \
             -H "Content-Type: application/json" \
             -d "{\"content\": \"$MSG\"}"
