@@ -8,8 +8,6 @@ featured: false
 readingTime: 11
 ---
 
-![OpenAI o3 모델 발표 — 추론 AI의 새로운 기준점](https://images.openai.com/o3-announcement-hero.webp)
-*OpenAI o3 발표 당시 공개된 벤치마크 결과. ARC-AGI 87.5%는 이전 SOTA 대비 약 23%포인트 향상된 수치다. (출처: OpenAI, 2025년 12월)*
 
 ---
 

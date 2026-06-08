@@ -8,8 +8,6 @@ featured: false
 readingTime: 14
 ---
 
-![AI 할루시네이션 개념 시각화 — 로봇이 자신 있게 틀린 정보를 제공하는 모습을 나타낸 일러스트](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AI_hallucination_concept.jpg/1200px-AI_hallucination_concept.jpg)
-*AI 할루시네이션의 위험성 — AI가 자신 있는 어조로 완전히 잘못된 정보를 제공할 때 발생하는 신뢰 붕괴를 표현한 개념 이미지. (출처: Wikimedia Commons)*
 
 ---
 

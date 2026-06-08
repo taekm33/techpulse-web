@@ -8,8 +8,6 @@ featured: false
 readingTime: 13
 ---
 
-![Apple Intelligence 발표 장면 — WWDC 2024 키노트에서 Tim Cook이 Apple Intelligence를 소개하고 있다](https://images.macrumors.com/article-new/2024/06/apple-intelligence-hero.jpg)
-*Apple WWDC 2024 키노트 — Tim Cook이 "AI for the rest of us"를 선언하며 Apple Intelligence를 공개하는 순간. (출처: Apple Inc.)*
 
 ---
 

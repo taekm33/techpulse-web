@@ -8,8 +8,6 @@ featured: false
 readingTime: 15
 ---
 
-![RAG 아키텍처 다이어그램 — 문서 수집부터 최종 응답 생성까지의 전체 흐름](https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/rag_indexing.png)
-*RAG의 전체 파이프라인: 문서 처리(왼쪽) → 벡터 인덱싱 → 검색 및 생성(오른쪽). (출처: LangChain 공식 문서)*
 
 ---
 

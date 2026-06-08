@@ -8,8 +8,6 @@ featured: true
 readingTime: 11
 ---
 
-![Claude AI 인터페이스](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/800px-Claude_AI_logo.svg.png)
-*이미지 출처: Anthropic*
 
 Anthropic이 2026년 5월 자사 플래그십 중간급 모델 **Claude Sonnet 4.6**을 정식 공개했다. 전작 Claude 3.5 Sonnet이 출시 당시 업계를 놀라게 했던 것처럼, Sonnet 4.6는 코딩·수학·분석 태스크에서 한 단계 더 도약한 성능을 보여준다. 단순 벤치마크 숫자를 넘어, 실제 소프트웨어 엔지니어링 작업에서 경쟁 모델을 압도한다는 평가가 나오고 있다.
 

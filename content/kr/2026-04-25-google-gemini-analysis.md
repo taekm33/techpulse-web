@@ -8,8 +8,6 @@ featured: false
 readingTime: 14
 ---
 
-![Google Gemini 1.5 Pro](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_1.5_Pro.max-2000x2000.jpg)
-*Google Gemini 1.5 Pro — 100만 토큰 컨텍스트 윈도우를 지원하는 최초의 상용 AI 모델. (출처: Google DeepMind)*
 
 ---
 
