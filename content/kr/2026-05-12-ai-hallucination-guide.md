@@ -11,6 +11,13 @@ readingTime: 14
 
 ---
 
+<div class="article-video" style="margin:32px 0;">
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+    <iframe src="https://www.youtube-nocookie.com/embed/cfqtFvWOfg0" title="LLM은 왜 환각(hallucination)을 일으키는가 (출처: IBM Technology)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px;">▶️ LLM은 왜 환각(hallucination)을 일으키는가 (출처: IBM Technology)</p>
+</div>
+
 ## AI가 거짓말을 한다고? — 실제 피해 사례부터
 
 2023년 6월, 미국 뉴욕 남부 연방지방법원에서 전례 없는 일이 벌어졌다. 변호사 스티븐 슈워츠(Steven Schwartz)가 항공사 소송에서 ChatGPT가 생성한 법원 판례 6건을 소장에 인용했는데, 그 판례 중 단 하나도 실제로 존재하지 않았다. ChatGPT는 "Varghese v. China Southern Airlines", "Shaboon v. EgyptAir" 등 완벽하게 그럴듯한 형식의 가짜 판례를 만들어냈고, 슈워츠는 별도로 검증하지 않고 이를 법원에 제출했다. 연방판사 P. 케빈 캐스텔(P. Kevin Castel)은 두 변호사에게 각 5,000달러 벌금과 공개 비난을 선고했다.
@@ -384,17 +391,9 @@ def multi_agent_fact_check(claim: str) -> dict:
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. **Min et al. (2023) — FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation** — https://arxiv.org/abs/2305.14251
-2. **Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models (Anthropic, 2023)** — https://arxiv.org/abs/2309.11206
-3. **TruthfulQA: Measuring How Models Mimic Human Falsehoods (Lin et al., 2022)** — https://arxiv.org/abs/2109.07958
-4. **Vectara Hallucination Leaderboard (Hughes et al.)** — https://github.com/vectara/hallucination-leaderboard
-5. **Schwartz v. Mata (미국 뉴욕 연방법원 판결문, 2023.06)** — https://storage.courtlistener.com/recap/gov.uscourts.nysd.575316/gov.uscourts.nysd.575316.54.0.pdf
-6. **RAGAS: Automated Evaluation of Retrieval Augmented Generation** — https://arxiv.org/abs/2309.15217
-7. **Nature Medicine — Performance of ChatGPT on USMLE (2023)** — https://www.nature.com/articles/s41591-023-02082-2
-8. **EU AI Act 원문 (2024년 발효)** — https://artificialintelligenceact.eu/
-9. **LangChain RAG 공식 문서** — https://python.langchain.com/docs/use_cases/question_answering/
-10. **개인정보보호위원회 — AI 시스템 개인정보보호 자율점검표 (2024)** — https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do
-11. **Anthropic — Constitutional AI: Harmlessness from AI Feedback (2022)** — https://arxiv.org/abs/2212.08073
-12. **캐나다 에어캐나다 챗봇 소송 판결 (2024, BC Civil Resolution Tribunal)** — https://decisions.civilresolutionbc.ca/crt/crtd/en/556862/1/document.do
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
+— <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer">IBM — AI 환각이란? (개념 해설)</a><br>
+— <a href="https://cloud.google.com/discover/what-are-ai-hallucinations" target="_blank" rel="noopener noreferrer">Google Cloud — AI 환각 개념·대응</a><br>
+— <a href="https://arxiv.org/abs/2311.05232" target="_blank" rel="noopener noreferrer">학술 서베이: A Survey of Hallucination in LLMs (arXiv)</a><br></div></div>

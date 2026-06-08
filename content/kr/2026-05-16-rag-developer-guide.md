@@ -11,6 +11,13 @@ readingTime: 15
 
 ---
 
+<div class="article-video" style="margin:32px 0;">
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+    <iframe src="https://www.youtube-nocookie.com/embed/T-D1OfcDW1M" title="RAG(검색 증강 생성)란 무엇인가 (출처: IBM Technology)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px;">▶️ RAG(검색 증강 생성)란 무엇인가 (출처: IBM Technology)</p>
+</div>
+
 ## RAG란 무엇인가: LLM의 지식 한계를 극복하는 방법
 
 GPT-4나 Claude 같은 대형 언어 모델(LLM)은 학습 데이터의 범위 안에서만 알고 있다. 2024년 4월에 학습이 끝난 모델은 그 이후 세상에서 일어난 일을 모른다. 당신 회사의 내부 문서, 최신 제품 매뉴얼, 어제 작성된 보고서 — 이런 정보는 LLM이 절대 알 수 없다.
@@ -575,17 +582,10 @@ korean_splitter = RecursiveCharacterTextSplitter(
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. **LangChain RAG 공식 튜토리얼** — 기본부터 고급까지 단계별 가이드: [https://python.langchain.com/docs/use_cases/question_answering](https://python.langchain.com/docs/use_cases/question_answering)
-2. **RAGAS 공식 문서** — RAG 평가 프레임워크: [https://docs.ragas.io/en/stable](https://docs.ragas.io/en/stable)
-3. **BGE-M3 HuggingFace 모델 카드** — BAAI 공식 다국어 임베딩 모델: [https://huggingface.co/BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3)
-4. **RAG 논문 원본** (Lewis et al., 2020) — Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
-5. **MTEB Leaderboard** — 임베딩 모델 종합 순위: [https://huggingface.co/spaces/mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
-6. **ANN Benchmarks** — 벡터 데이터베이스 성능 비교: [https://ann-benchmarks.com](https://ann-benchmarks.com)
-7. **Advanced RAG 기법 정리** (Pinecone 공식 블로그): [https://www.pinecone.io/learn/advanced-rag](https://www.pinecone.io/learn/advanced-rag)
-8. **HyDE 논문** (Gao et al., 2022) — Precise Zero-Shot Dense Retrieval without Relevance Labels: [https://arxiv.org/abs/2212.10496](https://arxiv.org/abs/2212.10496)
-9. **Parent Document Retriever 가이드** — LangChain 문서: [https://python.langchain.com/docs/modules/data_connection/retrievers/parent_document_retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/parent_document_retriever)
-10. **한국어 NLP 리소스 모음** (KLUE 벤치마크): [https://klue-benchmark.com](https://klue-benchmark.com)
-11. **Cohere Rerank API 문서**: [https://docs.cohere.com/docs/reranking](https://docs.cohere.com/docs/reranking)
-12. **LlamaIndex RAG 비교 가이드** — RAG 아키텍처 패턴 비교: [https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag](https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag)
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
+— <a href="https://www.ibm.com/think/topics/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer">IBM — RAG 개념 정리</a><br>
+— <a href="https://python.langchain.com/docs/tutorials/rag/" target="_blank" rel="noopener noreferrer">LangChain — RAG 구축 튜토리얼 (실습)</a><br>
+— <a href="https://arxiv.org/abs/2005.11401" target="_blank" rel="noopener noreferrer">원논문: Retrieval-Augmented Generation (Lewis et al., arXiv)</a><br>
+— <a href="https://docs.llamaindex.ai/en/stable/" target="_blank" rel="noopener noreferrer">LlamaIndex 공식 문서 (RAG 프레임워크)</a><br></div></div>

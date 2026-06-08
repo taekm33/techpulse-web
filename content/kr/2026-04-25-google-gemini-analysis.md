@@ -21,6 +21,13 @@ Gemini 1.5 Pro는 특정 영역에서 압도적이고, 특정 영역에서 뒤�
 
 ---
 
+<div class="article-video" style="margin:32px 0;">
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+    <iframe src="https://www.youtube-nocookie.com/embed/_TVnM9dmUSk" title="Google가 소개하는 Gemini 90초 요약 (출처: Google 공식)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px;">▶️ Google가 소개하는 Gemini 90초 요약 (출처: Google 공식)</p>
+</div>
+
 ## 1. 출시 배경: Google의 AI 전략 대전환
 
 ### Bard의 실패에서 Gemini로
@@ -439,32 +446,10 @@ Google은 2025년을 "에이전틱 AI의 해"로 선언하며 다음 방향을 �
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. Google DeepMind. (2024). *Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context*. Technical Report. [https://arxiv.org/abs/2403.05530](https://arxiv.org/abs/2403.05530)
-
-2. Google AI Blog. (2024). *Gemini 1.5 Pro - Our next-generation model*. [https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-
-3. Google AI Studio 공식 문서. *Gemini API Quickstart*. [https://ai.google.dev/gemini-api/docs/quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
-
-4. Vertex AI 공식 문서. *Gemini for Google Cloud — Vertex AI*. [https://cloud.google.com/vertex-ai/generative-ai/docs/overview](https://cloud.google.com/vertex-ai/generative-ai/docs/overview)
-
-5. Anthropic. (2024). *Claude 3.5 Sonnet System Card*. [https://www.anthropic.com/news/claude-3-5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
-
-6. OpenAI. (2024). *GPT-4o System Card*. [https://openai.com/index/gpt-4o-system-card/](https://openai.com/index/gpt-4o-system-card/)
-
-7. LMSYS Chatbot Arena. (2024). *LLM Leaderboard — Elo Rankings*. [https://chat.lmsys.org/?leaderboard](https://chat.lmsys.org/?leaderboard)
-
-8. Needle in Haystack. *LLM Long Context Evaluation*. GitHub. [https://github.com/gkamradt/LLMTest_NeedleInAHaystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
-
-9. Google DeepMind. (2024). *Gemini 2.0: Our new AI model built for the agentic era*. [https://deepmind.google/technologies/gemini/flash/](https://deepmind.google/technologies/gemini/flash/)
-
-10. Shazeer, N., et al. (2017). *Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer*. ICLR 2017. (MoE 아키텍처 원논문) [https://arxiv.org/abs/1701.06538](https://arxiv.org/abs/1701.06538)
-
-11. Google AI Pricing. *Gemini API Pricing*. [https://ai.google.dev/pricing](https://ai.google.dev/pricing)
-
----
-
-*TechPulse는 매주 최신 AI 모델 분석과 실전 활용 가이드를 발행합니다. 구독하고 AI 트렌드를 놓치지 마세요.*
-
-*작성: TechPulse 에디터팀 | 2026-04-25 | techpulse.co.kr*
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
+— <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">Gemini 공식 사이트 (바로 사용하기)</a><br>
+— <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">Google DeepMind — Gemini 기술 소개</a><br>
+— <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener noreferrer">Google 공식 Gemini 블로그 (최신 소식)</a><br>
+— <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer">Gemini API 개발자 문서 (다운로드·연동)</a><br></div></div>

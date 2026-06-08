@@ -11,6 +11,13 @@ readingTime: 11
 
 ---
 
+<div class="article-video" style="margin:32px 0;">
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+    <iframe src="https://www.youtube-nocookie.com/embed/Ve3OOWOK-s0" title="OpenAI o3·o3-mini 발표 (출처: CNBC)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px;">▶️ OpenAI o3·o3-mini 발표 (출처: CNBC)</p>
+</div>
+
 ## 서론: o3는 왜 역대급 사건인가
 
 2025년 12월 5일, OpenAI가 공개한 o3 모델은 단순한 성능 업데이트가 아니었다. 수년간 AI 연구자들이 "LLM이 이걸 절대 못 한다"고 단언해온 영역에서 인간 전문가 수준의 성과를 기록했기 때문이다.
@@ -304,17 +311,10 @@ AGI까지의 거리를 "ARC-AGI 100%"로 정의한다면, 우리는 지금 87.5%
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. **OpenAI o3 System Card** — OpenAI 공식 기술 문서 (2025년 12월): [https://openai.com/index/openai-o3-system-card](https://openai.com/index/openai-o3-system-card)
-2. **ARC Prize 공식 발표** — o3의 ARC-AGI 87.5% 검증 결과: [https://arcprize.org/blog/oai-o3-pub-breakthrough](https://arcprize.org/blog/oai-o3-pub-breakthrough)
-3. **François Chollet — On the Measure of Intelligence** (ARC-AGI 설계 논문): [https://arxiv.org/abs/1911.01547](https://arxiv.org/abs/1911.01547)
-4. **OpenAI o3 API 문서** — reasoning_effort 파라미터 및 사용 가이드: [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
-5. **LMSYS Chatbot Arena 리더보드** — 모델간 실시간 ELO 비교: [https://chat.lmsys.org/?leaderboard](https://chat.lmsys.org/?leaderboard)
-6. **SWE-bench 공식 사이트** — 코딩 벤치마크 상세 결과: [https://www.swebench.com](https://www.swebench.com)
-7. **Scaling Laws for Neural Language Models** (Kaplan et al., OpenAI) — 스케일링 법칙 원논문: [https://arxiv.org/abs/2001.08361](https://arxiv.org/abs/2001.08361)
-8. **Test-time Compute Scaling** (Snell et al., UC Berkeley, 2024): [https://arxiv.org/abs/2408.03314](https://arxiv.org/abs/2408.03314)
-9. **Anthropic Claude 3.7 Extended Thinking 기술 블로그**: [https://www.anthropic.com/research/claude-extended-thinking](https://www.anthropic.com/research/claude-extended-thinking)
-10. **Google Gemini 2.0 Flash Thinking 발표** — Google DeepMind: [https://deepmind.google/technologies/gemini/flash](https://deepmind.google/technologies/gemini/flash)
-11. **GPQA Diamond 벤치마크 논문** (Rein et al., 2023): [https://arxiv.org/abs/2311.12022](https://arxiv.org/abs/2311.12022)
-12. **OpenAI API 가격 정책 (2026년 5월 현재)**: [https://openai.com/pricing](https://openai.com/pricing)
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
+— <a href="https://openai.com/index/introducing-o3-and-o4-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3·o4-mini 공식 발표</a><br>
+— <a href="https://platform.openai.com/docs/guides/reasoning" target="_blank" rel="noopener noreferrer">OpenAI — 추론 모델 사용 가이드 (개발자)</a><br>
+— <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener noreferrer">OpenAI — 모델 목록·스펙</a><br>
+— <a href="https://openai.com/index/openai-o3-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3-mini 소개</a><br></div></div>

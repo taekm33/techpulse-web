@@ -338,13 +338,9 @@ Claude Sonnet 4.6(`claude-sonnet-4-6`)는 2026년 중반 현재 **속도·성능
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. [Anthropic 공식 Claude 모델 소개 페이지](https://www.anthropic.com/claude)
-2. [Anthropic API 공식 문서](https://docs.anthropic.com)
-3. [Claude Sonnet 4.6 발표 블로그 (Anthropic)](https://www.anthropic.com/news)
-4. [SWE-bench 공식 사이트 및 리더보드](https://www.swebench.com)
-5. [Anthropic 개발자 콘솔](https://console.anthropic.com)
-6. [MMLU 벤치마크 논문 (Hendrycks et al.)](https://arxiv.org/abs/2009.03300)
-7. [HumanEval 벤치마크 (OpenAI)](https://github.com/openai/human-eval)
-8. [Anthropic 프롬프트 캐싱 가이드](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
+— <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener noreferrer">Anthropic — Claude 공식 소개 (바로 사용하기)</a><br>
+— <a href="https://docs.anthropic.com/en/docs/about-claude/models" target="_blank" rel="noopener noreferrer">Anthropic — Claude 모델 스펙·비교 문서</a><br>
+— <a href="https://www.anthropic.com/news" target="_blank" rel="noopener noreferrer">Anthropic 공식 뉴스 (최신 모델 소식)</a><br></div></div>
