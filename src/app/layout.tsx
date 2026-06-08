@@ -51,6 +51,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
         />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <meta name="google-adsense-account" content="ca-pub-3526385510396286" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3526385510396286"
+          crossOrigin="anonymous"
+        />
         {isKr && <meta name="google-site-verification" content="dRVqX_ziUp8cB_P1bKNBsi-t6vK_NXw8u53hBjO00oY" />}
         {isKr && <meta name="naver-site-verification" content="dcefbf9811b03d8b51f637c56b0914e6f2194ede" />}
         {isKr && <>
