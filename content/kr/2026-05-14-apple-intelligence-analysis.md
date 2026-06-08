@@ -29,6 +29,13 @@ Apple Intelligence는 Apple이 자체 개발한 대형 언어 모델(LLM)과 확
 
 ---
 
+<div class="article-video" style="margin:32px 0;">
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;">
+    <iframe src="https://www.youtube-nocookie.com/embed/Ox0Lb2-d1q8" title="Apple Intelligence 핵심 기능 정리" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe>
+  </div>
+  <p style="font-size:13px;color:var(--ink3);margin-top:10px;">▶️ Apple Intelligence 핵심 기능을 영상으로 한눈에 — 설정·사용법 포함 (출처: MacRumors)</p>
+</div>
+
 ## 핵심 기능 완전 해부
 
 Apple Intelligence를 구성하는 주요 기능들은 크게 **텍스트 지능**, **이미지 생성**, **시스템 통합**의 세 축으로 분류된다. 아래 표는 각 기능의 현황을 정리한 것이다.
@@ -288,15 +295,15 @@ Apple 기기 사용자라면 지금 당장 실행할 수 있는 체크리스트�
 
 ---
 
-## 참고 자료
+## 관련 자료 · 공식 출처 · 사용 안내
 
-1. **Apple — Apple Intelligence 공식 소개 페이지** — https://www.apple.com/apple-intelligence/
-2. **Apple — WWDC 2024 키노트 영상 (YouTube)** — https://www.youtube.com/watch?v=RXeOiIDNNek
-3. **Apple — Private Cloud Compute 기술 문서 (Apple Security Research Blog)** — https://security.apple.com/blog/private-cloud-compute/
-4. **The Verge — Apple Intelligence Review: The AI Features Are Here, But Is Anyone Using Them?** — https://www.theverge.com/apple-intelligence-review
-5. **9to5Mac — Apple Intelligence 한국어 지원 현황 추적 기사** — https://9to5mac.com/tag/apple-intelligence/
-6. **MIT Technology Review — Why Apple's Approach to AI Privacy Could Set a New Standard** — https://www.technologyreview.com/apple-ai-privacy
-7. **Apple — MDM Protocol Reference: Restrictions Payload (Apple Platform Deployment)** — https://developer.apple.com/documentation/devicemanagement/restrictions
-8. **Counterpoint Research — iPhone 15 Pro 판매 비중 분석 보고서 (2024 Q4)** — https://www.counterpointresearch.com/iphone-15-pro-share
-9. **Bloomberg — Apple and Google Discuss Gemini Integration for Apple Intelligence** — https://www.bloomberg.com/news/apple-gemini-deal
-10. **개인정보보호위원회 — AI 서비스 프라이버시 가이드라인 (2024)** — https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do
+<div class="article-callout article-callout--info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식 자료 · 다운로드 · 사용법 (전 링크 접속 확인 완료)</strong><br><br>
+<strong>· 공식 소개 &amp; 발표</strong><br>
+— <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener noreferrer">Apple Intelligence 공식 페이지 (Apple)</a><br>
+— <a href="https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/" target="_blank" rel="noopener noreferrer">Apple 뉴스룸 — Apple Intelligence 공식 발표문</a><br><br>
+<strong>· 사용법 &amp; 지원 기기 (바로 활용)</strong><br>
+— <a href="https://support.apple.com/en-us/121115" target="_blank" rel="noopener noreferrer">지원 기능·기기 전체 목록 (Apple 지원)</a><br>
+— <a href="https://support.apple.com/guide/iphone/apple-intelligence-iph2d0bb3066/ios" target="_blank" rel="noopener noreferrer">iPhone 사용 설명서 — Apple Intelligence 설정·사용법</a><br><br>
+<strong>· 심화 · 기업/개발</strong><br>
+— <a href="https://security.apple.com/blog/private-cloud-compute/" target="_blank" rel="noopener noreferrer">Private Cloud Compute 보안 기술 문서 (직접 검증 가능)</a><br>
+— <a href="https://developer.apple.com/documentation/devicemanagement/restrictions" target="_blank" rel="noopener noreferrer">기업 MDM 제한 정책 레퍼런스 (Apple 개발자)</a></div></div>
