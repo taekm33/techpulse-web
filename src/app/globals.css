@@ -1,6 +1,8 @@
 /* ── 리셋 ────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; background: #0a0b0d; }
+html[data-theme="light"] { background: #f4f3ee; }
+body { background: inherit; min-height: 100vh; }
 img { max-width: 100%; height: auto; display: block; }
 a { color: inherit; text-decoration: none; cursor: pointer; }
 button { font-family: inherit; cursor: pointer; }
@@ -374,7 +376,7 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
 .tp-prompt__run:hover { opacity: 0.88; }
 
 /* ── 아티클 본문 ─────────────────────────────────────── */
-.article-body { font-size: 1rem; line-height: 1.8; color: var(--ink2); }
+.article-body { font-size: 1rem; line-height: 1.8; color: var(--ink2); overflow-wrap: break-word; }
 .article-body h2 { font-size: 1.35rem; font-weight: 600; color: var(--ink); margin-top: 2.5rem; margin-bottom: 0.9rem; letter-spacing: -0.02em; }
 .article-body h3 { font-size: 1.1rem; font-weight: 600; color: var(--ink); margin-top: 2rem; margin-bottom: 0.7rem; }
 .article-body p { margin-bottom: 1.3rem; }
@@ -435,4 +437,6 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
   .tp-footer__brand { display: none; }
   .tp-section { padding: 0 16px 20px; }
   .tp-hero { padding: 16px; }
+  /* wide tables scroll inside their own box instead of pushing page width (mobile bg cutoff fix) */
+  .article-body table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 }
