@@ -10,7 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getArticles(LOCALE)
 
   const articleUrls: MetadataRoute.Sitemap = articles.map(article => ({
-    url: `${BASE_URL}/${article.slug}`,
+    url: `${BASE_URL}/${article.slug}/`,
     lastModified: new Date(article.date),
     changeFrequency: 'weekly',
     priority: 0.8,
@@ -18,67 +18,67 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages: MetadataRoute.Sitemap = [
     {
-      url: BASE_URL,
+      url: `${BASE_URL}/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1.0,
     },
     {
-      url: `${BASE_URL}/about`,
+      url: `${BASE_URL}/about/`,
       lastModified: new Date('2026-05-01'),
       changeFrequency: 'monthly',
       priority: 0.6,
     },
     {
-      url: `${BASE_URL}/contact`,
+      url: `${BASE_URL}/contact/`,
       lastModified: new Date('2026-05-01'),
       changeFrequency: 'monthly',
       priority: 0.5,
     },
     {
-      url: `${BASE_URL}/privacy-policy`,
+      url: `${BASE_URL}/privacy-policy/`,
       lastModified: new Date('2026-05-01'),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: `${BASE_URL}/terms`,
+      url: `${BASE_URL}/terms/`,
       lastModified: new Date('2026-05-01'),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: `${BASE_URL}/category/ai-news`,
+      url: `${BASE_URL}/category/ai-news/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/category/it-news`,
+      url: `${BASE_URL}/category/it-news/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/category/tool-review`,
+      url: `${BASE_URL}/category/tool-review/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/category/dev-trend`,
+      url: `${BASE_URL}/category/dev-trend/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/category/startup`,
+      url: `${BASE_URL}/category/startup/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
     },
     {
-      url: `${BASE_URL}/category/hot-issue`,
+      url: `${BASE_URL}/category/hot-issue/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
