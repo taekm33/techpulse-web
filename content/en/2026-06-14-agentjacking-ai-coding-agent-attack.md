@@ -11,7 +11,7 @@ tags: ["agentjacking", "ai-security", "mcp", "sentry", "coding-agent"]
 <strong>TL;DR:</strong> Security firm Tenet Security has disclosed "Agentjacking," a new attack class that hijacks AI coding agents using nothing but a crafted Sentry error report. No malware, no stolen credentials, no traditional breach — just a POST request to a public endpoint. Claude Code, Cursor, and Codex all executed attacker-controlled code in controlled tests, with an 85% success rate across more than 100 agent sessions.
 </div>
 
-<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/0YPd6coRLZM" title="Agentjacking PoC Demo – Tenet Security Threat Labs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
+<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/5ZA1lTxTH3c" title="Agentjacking PoC Demo – Tenet Security Threat Labs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
 
 ## The Trust Problem at the Heart of AI Agents
 

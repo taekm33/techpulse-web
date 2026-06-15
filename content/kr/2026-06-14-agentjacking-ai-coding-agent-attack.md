@@ -11,7 +11,7 @@ tags: ["agentjacking", "ai-security", "mcp", "sentry", "coding-agent"]
 <strong>핵심 요약:</strong> 보안 연구팀 Tenet Security가 AI 코딩 에이전트를 탈취하는 새로운 공격 기법 "Agentjacking"을 공개했습니다. Sentry의 공개 DSN과 MCP(Model Context Protocol)를 결합해 Claude Code, Cursor, Codex가 공격자가 심어놓은 악성 npm 패키지를 개발자 권한으로 실행하게 만드는 방식입니다. 악성 코드도, 도용된 자격증명도, 전통적 의미의 해킹도 없이 2,388개 조직이 위험에 노출됐습니다.
 </div>
 
-<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/0YPd6coRLZM" title="Agentjacking PoC Demo – Tenet Security Threat Labs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
+<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/5ZA1lTxTH3c" title="Agentjacking PoC Demo – Tenet Security Threat Labs" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
 
 ## 배경: AI 에이전트가 신뢰하는 외부 도구
 
