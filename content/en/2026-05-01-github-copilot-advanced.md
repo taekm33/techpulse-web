@@ -9,6 +9,10 @@ readingTime: 13
 
 ## GitHub Copilot in 2026: It's Not the Same Product You Tried in 2022
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Coding with an AI pair programmer: Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 When GitHub Copilot launched in June 2021, it was a single product: an autocomplete tool that suggested the next few lines of code based on context. You either loved it or hated it. Many dismissed it as an advanced autocomplete that occasionally hallucinated function signatures.
 
 That product is unrecognizable today.
@@ -316,3 +320,9 @@ The productivity numbers are real. Teams using Copilot and similar tools ship fa
 What it has not done is eliminate the need for experienced engineers. The value of a senior developer in 2026 is not in writing code — it is in knowing what to build, how to structure it, what can go wrong, and how to review AI-generated code critically. Copilot accelerates implementation; it does not replace judgment.
 
 The developers thriving in 2026 are those who have learned to be effective AI collaborators — directing the tool with precision, reviewing its outputs with expertise, and combining AI speed with human architectural thinking. The 20 tips in this guide are a starting point. The real skill is developing an instinct for when to trust the AI and when to question it.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
+</div>

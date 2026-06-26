@@ -233,3 +233,9 @@ For enterprise IT leaders, the question is no longer "should we adopt Microsoft 
 The organizations that answer that question thoughtfully — investing in training, change management, and integration alongside the technology license — will have a significant competitive advantage over those that treat Copilot as a checkbox procurement decision.
 
 The AI-native workplace is not a future state. For many enterprises, it is already the present.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://learn.microsoft.com/en-us/copilot/" target="_blank" rel="noopener">Microsoft Learn — Copilot documentation</a><br/>
+· <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft — Copilot (product)</a>
+</div>

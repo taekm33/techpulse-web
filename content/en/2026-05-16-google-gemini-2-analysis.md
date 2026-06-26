@@ -187,3 +187,10 @@ Google is, for the first time since the original GPT-4 launch, a genuinely compe
 ---
 
 *All benchmark data sourced from published technical reports. Independent reproduction may yield different results. Pricing as of May 2026 and subject to change.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://gemini.google.com/" target="_blank" rel="noopener">Google — Gemini</a><br/>
+· <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener">Google — Gemini Blog</a><br/>
+· <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener">Google DeepMind — Gemini</a>
+</div>

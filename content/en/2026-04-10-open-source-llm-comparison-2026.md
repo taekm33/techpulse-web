@@ -307,3 +307,10 @@ The open-weight ecosystem is now a genuine part of the AI infrastructure stack, 
 ---
 
 *Benchmark data compiled from published reports, papers, and community evaluations as of Q1 2026. Model capabilities and licensing terms evolve; verify current information before production deployment.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama Official Blog</a><br/>
+· <a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard" target="_blank" rel="noopener">Open LLM Leaderboard (Hugging Face)</a><br/>
+· <a href="https://arxiv.org/abs/2501.12948" target="_blank" rel="noopener">DeepSeek-R1 Paper (arXiv)</a>
+</div>
