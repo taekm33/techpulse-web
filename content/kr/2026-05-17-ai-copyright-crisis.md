@@ -219,3 +219,9 @@ AI 기업 입장에서도 단기적인 공정이용 방어 전략보다는 창�
 AI가 인간 창작물을 먹고 자라는 구조가 변하지 않는 한, 이 갈등은 계속될 것이다. 그 갈등을 어떻게 공정하게 해결하느냐가 AI 시대 창작 생태계의 지속가능성을 결정할 것이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>대부분의 국가에서 AI 자체는 저작자로 인정되지 않으며, 인간의 창작적 개입 정도에 따라 저작권 보호 여부가 결정된다.</li><li>국내 AI 서비스의 73%가 저작권 보호 콘텐츠를 학습 데이터로 활용했으나 적법한 허락을 받은 경우는 12%에 불과해, 한국도 대규모 법적 분쟁이 예고된다.</li><li>창작자는 옵트아웃 설정, Glaze·Nightshade 같은 기술적 보호 수단, 그리고 창작자 단체를 통한 집단 대응을 병행하는 다층적 전략이 필요하다.</li><li>AI 저작권 문제의 장기적 해결책으로는 라이선스 생태계 구축, 규제 강화, 합성 데이터·연합 학습 등 기술 혁신 세 가지 시나리오가 경쟁하고 있다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.copyright.gov/" target="_blank" rel="noopener">U.S. Copyright Office(미 저작권청)</a><br/>
+· <a href="https://www.copyright.or.kr/" target="_blank" rel="noopener">한국저작권위원회(공식)</a>
+</div>

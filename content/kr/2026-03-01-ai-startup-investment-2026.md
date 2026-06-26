@@ -233,3 +233,8 @@ AI 투자의 급격한 증가를 두고 '닷컴 버블 재현'을 우려하는 �
 8. Gartner, "2025 CIO and Technology Executive Survey", https://www.gartner.com
 9. CB Insights, "AI 100: The Most Promising AI Startups of 2025", https://www.cbinsights.com
 10. 과학기술정보통신부, "AI 국가전략 2025 실행 계획", https://www.msit.go.kr
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.crunchbase.com/" target="_blank" rel="noopener">Crunchbase</a> · <a href="https://www.cbinsights.com/" target="_blank" rel="noopener">CB Insights</a>
+</div>

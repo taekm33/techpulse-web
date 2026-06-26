@@ -211,3 +211,9 @@ AI가 가져오는 일자리 변화는 현실이다. 하지만 그것이 곧 대
 동시에 사회 차원에서는 실질적인 안전망과 재교육 체계를 구축해야 한다. AI 전환의 비용과 혜택이 공정하게 분배되지 않으면, 기술 발전이 사회적 불평등을 심화시키는 역효과를 낳을 수 있다. 이것은 기술의 문제가 아니라 정치와 사회 설계의 문제다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>AI는 주니어 직군을 중심으로 화이트칼라 지식직종에도 실질적인 대체가 진행 중이며, 법률·회계·금융·마케팅 모두 예외가 아니다.</li><li>새로 생기는 일자리(MLOps 엔지니어, AI 감사관, 인간-AI 협업 코디네이터 등)는 특정 스킬을 보유한 소수에게 집중되어 양극화가 심화된다.</li><li>AI 리터러시 + 도메인 전문성의 결합, 즉 'T자형 역량'이 AI 시대 개인 생존의 핵심 전략이다.</li><li>사회적 안전망과 공정한 재교육 체계 없이는 AI 전환이 기술 혜택을 소수에게만 집중시키는 불평등 심화로 이어질 수 있다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.weforum.org/publications/the-future-of-jobs-report-2025/" target="_blank" rel="noopener">WEF — Future of Jobs Report</a><br/>
+· <a href="https://www.ilo.org/" target="_blank" rel="noopener">ILO(국제노동기구) 공식</a>
+</div>

@@ -322,3 +322,9 @@ EU AI Act의 영향을 받아, 한국 정부도 AI 규제 프레임워크를 본
 TechPulse는 이 생태계의 동향을 지속적으로 추적하며, 독자 여러분께 가장 실질적이고 깊이 있는 인사이트를 제공할 것이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2026년 상반기 국내 AI 투자는 2조 8,300억 원으로, 건당 평균 규모가 106억 원에 달하며 후기 단계 대형 라운드 중심으로 재편되고 있다.</li><li>루닛·뷰노(헬스케어), 마인즈앤컴퍼니·핀다(금융), 매스프레소·뤼이드(교육), 트웰브랩스·업스테이지(글로벌 LLM) 등 버티컬별 강자들이 확실한 위치를 구축했다.</li><li>해외 진출 성공의 핵심은 언어 범용성, 글로벌 파트너십, 해외 VC 확보의 세 가지이며, GPT API 과의존은 반드시 해소해야 할 구조적 리스크다.</li><li>2026년 하반기에는 시리즈C+ 대형 라운드, AI 스타트업 M&A 활성화, 한국형 AI 법안 초안 공개, 에이전틱 AI 서비스 본격 등장이 예상된다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.mss.go.kr/" target="_blank" rel="noopener">중소벤처기업부(MSS) 공식</a><br/>
+· <a href="https://www.k-startup.go.kr/" target="_blank" rel="noopener">K-Startup(창업진흥원) 공식</a>
+</div>

@@ -267,3 +267,9 @@ DeepSeek, Qwen 등 중국 오픈소스 모델의 활용이 일부 기업에서 �
 기술의 지정학화는 돌이킬 수 없는 흐름이다. 한국은 이 흐름 속에서 수동적 피해자가 아닌, 능동적 행위자로서의 포지션을 찾아야 한다. 그 출발점은 현실을 정확히 인식하는 것이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>미국은 EAR·Entity List·칩 수출 규제로 중국의 첨단 AI 반도체 접근을 체계적으로 차단하고 있으며, 동맹국(한국·일본·네덜란드)도 동조 압력을 받고 있다.</li><li>DeepSeek·Qwen 등 중국 AI 모델이 빠르게 추격 중이나, 컴퓨팅 인프라(H100 보유량)와 소프트웨어 생태계(CUDA)에서 미국의 결정적 우위는 당분간 유지될 전망이다.</li><li>SK하이닉스(HBM3E 세계 1위)와 삼성전자는 미중 갈등의 최전선에 있으며, 중국 매출 감소를 감수하면서도 미국 동맹 편승 방향으로 무게중심이 이동 중이다.</li><li>AI 서비스 개발자는 미국 수출 통제 컴플라이언스, 중국산 오픈소스 모델 사용 제한, 데이터 주권 분리 등 실무적 리스크를 지금 당장 점검해야 한다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://hai.stanford.edu/ai-index" target="_blank" rel="noopener">Stanford HAI — AI Index Report</a><br/>
+· <a href="https://www.csis.org/" target="_blank" rel="noopener">CSIS(전략국제문제연구소)</a>
+</div>
