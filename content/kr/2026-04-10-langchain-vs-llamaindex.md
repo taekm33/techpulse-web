@@ -543,3 +543,10 @@ agent = initialize_agent(
 <li>입문자에게는 직관적인 3단계 흐름의 LlamaIndex를, 도구·API 통합이 핵심인 프로젝트에는 LangChain을, RAG 정확도가 비즈니스 결과에 직결되는 엔터프라이즈 환경에는 LlamaIndex를 우선 추천한다.</li>
 <li>기존 LangChain 프로젝트에 LlamaIndex RAG를 도구(Tool)로 래핑해 연동하는 하이브리드 전략이 실전에서 가장 유연한 선택지다.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain 공식 문서 (Python)</a><br/>
+· <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex 공식 문서</a><br/>
+· <a href="https://www.langchain.com/" target="_blank" rel="noopener">LangChain 공식 사이트</a>
+</div>

@@ -225,3 +225,9 @@ Google AI Overviews의 등장은 인터넷의 콘텐츠 생태계를 근본적�
 <li>이메일 뉴스레터, 소셜 채널, 유료 구독 등 구글 검색에 의존하지 않는 직접 독자 채널 구축이 장기적 생존의 핵심이다.</li>
 <li>검색 시장은 향후 3~5년 내 AI 답변 엔진·AI 통합 검색·전통 검색의 3분 구도로 재편될 전망이며, 콘텐츠의 "공유 가능성"과 "구독 가능성"이 더 중요해진다.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://blog.google/products/search/generative-ai-search/" target="_blank" rel="noopener">Google — AI 검색(생성형) 공식 블로그</a><br/>
+· <a href="https://developers.google.com/search/blog" target="_blank" rel="noopener">Google Search Central 공식 블로그</a>
+</div>

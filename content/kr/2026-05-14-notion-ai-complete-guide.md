@@ -15,6 +15,10 @@ readingTime: 13
 
 <div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>Notion AI는 2024~2025년을 거치며 단순 글쓰기 도우미에서 팀 전체의 업무 두뇌로 진화했다. Q&A로 워크스페이스 전체를 검색하고, 회의록에서 액션아이템을 자동 생성하며, 데이터베이스와 연동된 자동 완성 기능으로 반복 업무를 획기적으로 줄일 수 있다. 멤버당 월 $10의 애드온 비용은 실제 업무 시간 절감 효과(월 11시간 이상)와 비교하면 충분히 납득 가능한 투자다.</p></div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/S92KX8-Hmlc" title="Introducing the new Notion AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Notion AI 주요 기능 완전 정리
@@ -309,3 +313,9 @@ Notion은 기본적으로 클라우드 기반이며, AI 기능은 완전히 온�
 Notion AI의 핵심 가치는 하나다: **일하는 방식 자체를 바꾼다.** 글을 쓰는 게 아니라 AI와 협업해 글을 완성하고, 회의가 끝나는 순간 액션아이템이 생성되고, 궁금한 것은 동료에게 물어보는 대신 Q&A에게 물어보는 새로운 업무 방식. 이것이 Notion AI의 진짜 가치제안이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Notion AI는 글쓰기·요약·Q&A·자동 완성 4대 기능을 통해 팀의 반복 업무를 자동화하며, 2024~2025년을 거쳐 단순 도우미에서 팀 두뇌 플랫폼으로 진화했다.</li><li>회의록 → 액션아이템 자동 생성 워크플로우만으로도 기존 대비 소요 시간을 40~60분에서 7~10분으로 단축할 수 있다.</li><li>멤버당 월 $10의 AI 애드온은 실제 적극 활용 시 월 11시간 이상의 업무 시간을 절감해 비용 대비 10배 이상의 가치를 제공한다.</li><li>보안 민감 데이터 처리, 오프라인 작업, 복잡한 수치 분석이 주업무인 환경에서는 도입 전 대안 도구와 신중히 비교해야 한다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.notion.com/product/ai" target="_blank" rel="noopener">Notion — Notion AI 공식 제품 페이지</a><br/>
+· <a href="https://www.notion.com/help" target="_blank" rel="noopener">Notion 공식 도움말 센터</a>
+</div>

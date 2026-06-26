@@ -1016,3 +1016,10 @@ spec:
 ---
 
 *TechPulse 테크펄스에서 DevOps/클라우드 네이티브 관련 심층 콘텐츠를 계속 발행합니다.*
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://docs.docker.com/" target="_blank" rel="noopener">Docker 공식 문서</a><br/>
+· <a href="https://kubernetes.io/" target="_blank" rel="noopener">Kubernetes 공식 사이트</a><br/>
+· <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noopener">Kubernetes 공식 문서</a>
+</div>
