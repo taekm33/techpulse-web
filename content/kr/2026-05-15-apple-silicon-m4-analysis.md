@@ -343,3 +343,10 @@ M4의 성공이 보여주는 것은 두 가지다. 첫째, 아키텍처 혁신(A
 경쟁사들이 빠르게 추격하고 있지만, 애플이 하드웨어·소프트웨어·생태계 전체를 통제한다는 강점은 쉽게 복제되지 않는다. 다음 M5 세대—TSMC 2nm 공정 적용이 유력—에서 이 격차가 어떻게 변할지가 PC 산업의 최대 관전 포인트다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>M4 세대는 M4·M4 Pro·M4 Max·M4 Ultra 4종으로 구성되며, M4 Ultra는 192GB 통합 메모리와 1,092 GB/s 대역폭으로 소비자용 최고 사양을 달성했다.</li><li>통합 메모리 아키텍처(UMA)는 CPU·GPU·Neural Engine이 동일 메모리 풀을 공유해 AI 추론과 고대역폭 작업에서 x86 대비 구조적 우위를 제공한다.</li><li>M4 Pro 탑재 MacBook Pro는 동급 x86 노트북 대비 전력 소모를 절반 이하로 줄이면서 최대 24시간 배터리를 실현, 전력 효율이 M 시리즈의 핵심 경쟁력임을 재확인했다.</li><li>CUDA 미지원과 Rosetta 2의 장기 불확실성은 여전한 한계이며, Apple Silicon 도입 전 사용 중인 소프트웨어의 네이티브 지원 여부를 반드시 확인해야 한다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/" target="_blank" rel="noopener">Apple Newsroom — M4 칩 공식 발표</a><br/>
+· <a href="https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/" target="_blank" rel="noopener">Apple Newsroom — M4 Pro·M4 Max 발표</a><br/>
+· <a href="https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/" target="_blank" rel="noopener">Apple Newsroom — M4 패밀리 MacBook Pro</a>
+</div>

@@ -14,6 +14,10 @@ NVIDIA Blackwell은 2024년 GTC에서 처음 공개된 차세대 GPU 아키텍�
 
 <div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>NVIDIA Blackwell(B200/GB200)은 전작 Hopper(H100) 대비 AI 학습 성능을 최대 4.6배, LLM 추론 성능을 최대 30배 향상시킨 차세대 GPU 아키텍처다. FP4 네이티브 지원과 NVLink 5.0, HBM3e 메모리 혁신을 통해 토큰당 전력 효율을 60~70% 절감하며 AI 인프라 비용 구조를 근본적으로 바꾸고 있다. Azure, AWS, Google Cloud 등 주요 클라우드가 2025년부터 본격 도입을 시작했으며, 국내 SK하이닉스는 HBM3e 공급의 핵심 수혜자로 부상했다.</p></div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 주요 제품 라인업
 
 | 제품명 | 포지셔닝 | 핵심 사양 | 주요 용도 |
@@ -293,3 +297,10 @@ Blackwell은 출시 초기 공급 부족 이슈를 겪었다. TSMC 3nm 공정(Co
 6. Tom's Hardware — [NVIDIA Blackwell vs AMD MI300X Benchmark Comparison](https://www.tomshardware.com) (2025)
 7. TSMC — [CoWoS Advanced Packaging Technology Overview](https://www.tsmc.com) (2024)
 8. 전자신문 — [NVIDIA 블랙웰, 국내 클라우드 시장 판도 변화](https://www.etnews.com) (2025)
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — 젠슨 황 GTC 2026 키노트 (Blackwell·Vera Rubin)</a><br/>
+· <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell 아키텍처 공식 자료</a><br/>
+· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC 공식 페이지</a>
+</div>

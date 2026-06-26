@@ -319,3 +319,9 @@ Perplexity AI는 "구글 킬러"가 아니라, **구글이 잘 못하는 영역�
 10. [The Battle for AI Search Supremacy — MIT Technology Review, 2026](https://www.technologyreview.com) — AI 검색 시장 경쟁 분석
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Perplexity AI는 링크 나열 대신 AI가 직접 출처 기반 답변을 생성하며, 2026년 현재 MAU 1억 명·기업 가치 90억 달러를 달성한 구글의 실질적 대안이다.</li><li>리서치·학술 논문 탐색·복잡한 주제 심층 분석에서는 구글을 명확히 앞서지만, 실시간 속보·지역 정보·쇼핑·멀티미디어 검색에서는 여전히 구글이 우위다.</li><li>출처가 첨부되어도 답변 정확도는 약 82% 수준이므로, 중요한 정보는 반드시 원문을 직접 확인하는 습관이 필요하다.</li><li>리서치 업무가 잦은 지식 노동자에게는 월 $20 Pro 플랜이 충분한 가치를 제공하며, 구글과 역할을 분담해 병행 사용하는 전략이 가장 현명하다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.perplexity.ai" target="_blank" rel="noopener">Perplexity AI 공식 사이트</a><br/>
+· <a href="https://docs.perplexity.ai" target="_blank" rel="noopener">Perplexity 공식 문서 (API·기능)</a>
+</div>
