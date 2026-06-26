@@ -85,3 +85,9 @@ For developers building production AI agents in 2026, managed MCP servers repres
 </div>
 
 <div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>Official Sources &amp; Resources</strong><br>— <a href="https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud" target="_blank" rel="noopener noreferrer">Google Cloud Blog: New Data Agents Across the Agentic Data Cloud</a><br>— <a href="https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone" target="_blank" rel="noopener noreferrer">50+ Managed MCP Servers Now Available (Google Cloud Blog)</a><br>— <a href="https://docs.cloud.google.com/mcp/supported-products" target="_blank" rel="noopener noreferrer">Supported Products &amp; MCP Endpoints (Official Docs)</a><br>— <a href="https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data" target="_blank" rel="noopener noreferrer">AlloyDB Remote MCP Server GA — Codelab &amp; Setup Guide</a></div></div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://cloud.google.com/" target="_blank" rel="noopener">Google Cloud (official)</a><br/>
+· <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">Model Context Protocol (official)</a>
+</div>

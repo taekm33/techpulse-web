@@ -142,3 +142,8 @@ For teams ready to evaluate Llama 4 in production, here is a practical decision 
 ---
 
 *Benchmark data sourced from Meta's Llama 4 technical report and Hugging Face Open LLM Leaderboard results as of May 2026. Pricing estimates are approximate and vary by cloud provider and hardware configuration.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama Official Blog</a>
+</div>

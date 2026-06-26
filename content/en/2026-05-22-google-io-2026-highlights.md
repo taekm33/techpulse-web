@@ -9,6 +9,10 @@ tags: ["Google", "GoogleIO", "Gemini", "ProjectAstra", "AISearch"]
 
 <div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>Google I/O 2026 was arguably the most AI-dense developer conference in the company's history. The headline acts: Gemini 3.5 Flash (a frontier-class model that outperforms last year's Gemini 3.1 Pro), Gemini Spark (a 24/7 autonomous background agent), AI Mode search surpassing 1 billion monthly users, Veo 3.1 with native audio-sync video generation, and Project Astra finally landing in real products. Google is no longer chasing the AI wave — it's trying to own the infrastructure beneath it.</p></div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/wYSncx9zLIU" title="Google I/O '26 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 <div class="article-stats">
@@ -146,3 +150,9 @@ That bet, if it lands, is very difficult for a point-solution competitor to coun
 <li><strong>Veo 3.1 generates native audio-sync video at 4K</strong>, integrating directly into Google Workspace. Professional video production costs are about to drop significantly for teams already in the Google ecosystem.</li>
 <li><strong>Android 17 makes Gemini a system-level capability</strong>, not an app. Combined with Antigravity 2.0 and Google AI Studio's new Android support, the on-device AI development story is materially stronger than six months ago.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 (official)</a><br/>
+· <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI Blog</a>
+</div>

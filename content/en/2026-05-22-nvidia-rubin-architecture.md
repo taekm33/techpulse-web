@@ -27,6 +27,10 @@ Named after Vera Rubin, the astronomer whose observations provided key evidence 
   <p style="margin:0;color:#7c2d12;">NVIDIA has not yet published a final Rubin datasheet. Specifications referenced in this article are drawn from NVIDIA GTC roadmap materials, analyst briefings, and supply chain reporting as of May 2026. Figures marked as "projected" or "estimated" should be treated as subject to change.</p>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Rubin, and Why Does It Matter?
 
 NVIDIA operates a two-year GPU architecture cadence for its data center lineup. Hopper launched in 2022, Blackwell in 2024, and Rubin is slated for first silicon in late 2026, with system-level products (likely in a "Grace Rubin" superchip format) ramping through 2027.
@@ -184,3 +188,9 @@ Several significant questions about Rubin remain genuinely open:
 </div>
 
 *TechPulse covers AI and technology from a practitioner's perspective. Specifications and timelines reflect best available public information as of May 2026. For official NVIDIA product information, refer to [nvidia.com](https://nvidia.com).*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
+· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC (official)</a>
+</div>

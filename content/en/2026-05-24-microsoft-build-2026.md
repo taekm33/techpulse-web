@@ -9,6 +9,10 @@ tags: ["Microsoft", "Build2026", "GitHubCopilot", "AzureAI", "Phi4"]
 
 <div class="article-tldr"><div class="article-tldr__label">TL;DR</div><p>Microsoft Build 2026 was a systematic demonstration of vertical integration: AI capabilities baked into every layer of the developer stack, from on-device inference on Windows to cloud-scale model orchestration on Azure. The headliners — GitHub Copilot's expanded agent mode with MCP protocol support, a significantly upgraded Azure AI Foundry model catalog, the Windows AI Platform for local inference, and the Phi-4 small model family — represent Microsoft's clearest articulation yet of where enterprise AI development is heading. If you write code professionally, this conference has direct implications for your toolchain.</p></div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 | Satya Nadella Opening Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 <div class="article-stats">
@@ -177,3 +181,8 @@ Across all of Build 2026's announcements, several themes carry immediate practic
 <li><strong>.NET 10's stable Microsoft.Extensions.AI</strong> and Semantic Kernel 2.0 give .NET developers a coherent, production-ready AI stack that abstracts over provider differences.</li>
 <li><strong>Compared to Google I/O 2026</strong>, Build's philosophy prioritizes infrastructure depth over frontier capability — a bet that enterprise value will be unlocked at the deployment layer, not the model layer.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 (official)</a>
+</div>
