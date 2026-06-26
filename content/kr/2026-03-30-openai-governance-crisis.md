@@ -241,3 +241,8 @@ OpenAI 거버넌스 위기의 가장 큰 교훈은 단순하다. 기술이 아�
 <li>Microsoft와 OpenAI의 관계는 표면적 협력 뒤에 균열이 감지된다. Microsoft가 Gemini·Mistral 등 다른 모델을 통합하며 의존도를 낮추는 것은 AI 생태계 재편의 신호탄이다.</li>
 <li>한국도 예외가 아니다. AI 기본법이 제정됐지만 거버넌스 구조 요건은 미비하며, 글로벌 AI 기업 의존도 관리와 자체 AI 역량 강화 전략이 시급한 과제로 부상하고 있다.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/our-structure/" target="_blank" rel="noopener">OpenAI — Our Structure(공식 거버넌스 구조)</a>
+</div>

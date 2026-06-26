@@ -284,3 +284,9 @@ EU AI Act, 미국 AI 행정명령, 한국의 AI 기본법 등 AI 관련 규제�
 제로트러스트 원칙을 기반으로, AI 방어 도구를 적극 도입하고, 직원 보안 인식을 지속적으로 높이는 것. 이것이 2026년 사이버보안의 핵심 방정식이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>AI 기반 피싱·딥페이크·자동화 공격이 급증하며 기존 시그니처 기반 방어는 한계에 도달했다.</li><li>AI 이상 탐지, 자동화 SIEM/SOC, 가상 패치 등 AI 방어 기술이 공격에 맞서는 핵심 수단으로 부상했다.</li><li>제로트러스트 아키텍처("절대 신뢰하지 말고, 항상 검증하라")가 2026년 기업 보안의 표준으로 자리잡고 있다.</li><li>개인은 패스키·MFA 도입, 딥페이크 식별법 숙지, 정기적 소프트웨어 업데이트로 사이버 위협에 대응할 수 있다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.nist.gov/cyberframework" target="_blank" rel="noopener">NIST — Cybersecurity Framework(공식)</a><br/>
+· <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA — 미국 사이버보안·인프라보안국(공식)</a>
+</div>

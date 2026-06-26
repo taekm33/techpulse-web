@@ -207,3 +207,9 @@ AI 워터마킹 기술도 완벽하지 않다. 딥페이크를 생성할 때 아
 "보는 것이 믿는 것이다"의 시대는 끝났다. 이제는 "확인하는 것이 믿는 것이다"의 시대다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2025년 딥페이크 사고는 전년 대비 340% 급증했으며, 선거 개입·금융 사기·사이버 성범죄 등 피해 유형이 광범위하다.</li><li>최고 성능의 탐지 시스템도 정확도 60~70% 수준에 불과해, 기술적 탐지만으로는 딥페이크를 완전히 막을 수 없다.</li><li>한국·EU·미국 등 각국이 규제를 강화하고 있으나 집행 역량과 국제 공조가 여전히 부족하며, 워터마킹·C2PA 같은 업계 자율 표준의 의무 도입이 병행되어야 한다.</li><li>개인은 SNS 공개 범위 최소화, 의심 영상 즉시 공유 자제, 금융 거래 이중 인증 등 디지털 위생 습관으로 피해를 예방할 수 있다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://c2pa.org/" target="_blank" rel="noopener">C2PA — 콘텐츠 출처·진위 표준(공식)</a><br/>
+· <a href="https://contentauthenticity.org/" target="_blank" rel="noopener">Content Authenticity Initiative(공식)</a>
+</div>
