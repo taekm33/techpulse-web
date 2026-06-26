@@ -137,3 +137,9 @@ The combination of automatic decomposition, parallel execution, adversarial veri
 5. **Token economics**: Substantially higher than standard sessions — scope your first run, use prompt caching on shared context
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://docs.anthropic.com/en/docs/claude-code/overview" target="_blank" rel="noopener">Anthropic — Claude Code (documentation)</a><br/>
+· <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noopener">Anthropic — Claude Code (product)</a>
+</div>

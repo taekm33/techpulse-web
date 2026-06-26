@@ -13,6 +13,10 @@ But basic RAG is no longer enough. The gap between a prototype RAG system and on
 
 This guide is a complete technical reference for developers at every level of RAG experience.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/T-D1OfcDW1M" title="What is Retrieval-Augmented Generation (RAG)? — IBM Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## How RAG Works: The Foundation
 
 At its core, RAG has three phases:
@@ -621,3 +625,9 @@ RAG is not a solved problem. But it's a solvable one — and this guide gives yo
 ---
 
 *TechPulse covers AI development from a practitioner's perspective. For more implementation guides, visit our Developer Trends category.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain Documentation (RAG)</a><br/>
+· <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex Documentation</a>
+</div>

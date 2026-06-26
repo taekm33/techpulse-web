@@ -367,3 +367,9 @@ When selecting a vector database for a RAG application, work through these quest
 | Enterprise with compliance requirements | Weaviate or Qdrant self-hosted |
 
 The honest answer in 2026 is that Qdrant has emerged as the strongest all-around option for teams that need a dedicated vector database: it combines Rust performance, excellent filtered search, reasonable cloud pricing, and the ability to self-host with full feature parity. But "best in general" is rarely "best for your situation" — work through the decision framework above before committing.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.pinecone.io/" target="_blank" rel="noopener">Pinecone (official)</a> · <a href="https://weaviate.io/" target="_blank" rel="noopener">Weaviate (official)</a><br/>
+· <a href="https://qdrant.tech/" target="_blank" rel="noopener">Qdrant (official)</a> · <a href="https://www.trychroma.com/" target="_blank" rel="noopener">Chroma (official)</a>
+</div>

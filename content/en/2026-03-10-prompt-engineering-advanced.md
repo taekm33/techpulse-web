@@ -630,3 +630,9 @@ The techniques in this guide — CoT, few-shot, ReAct, self-consistency, tool-fo
 What will not change in five years: the value of clear communication, systematic evaluation, and understanding why a technique works rather than just copying it. What will change: the specific syntax, the best models for specific tasks, and the tooling around evaluation and deployment.
 
 Learn the principles. The specifics will evolve on their own.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener">Anthropic — Prompt Engineering (docs)</a><br/>
+· <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="noopener">OpenAI — Prompt Engineering guide</a>
+</div>
