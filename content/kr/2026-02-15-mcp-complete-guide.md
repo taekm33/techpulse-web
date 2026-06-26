@@ -23,6 +23,10 @@ MCP는 완전한 오픈소스(MIT 라이선스)로 공개되어 있으며, 특�
 <p>MCP(Model Context Protocol)는 Anthropic이 2024년 11월 공개한 오픈 표준으로, AI 모델과 GitHub·Slack·데이터베이스 등 외부 도구를 단일 인터페이스로 연결한다. 개발자는 Python 또는 TypeScript SDK로 직접 MCP 서버를 만들 수 있으며, Claude Desktop·Cursor·VS Code 등 주요 AI 도구가 이미 정식 지원한다. 한 번 만든 서버는 어떤 AI 모델과도 재사용 가능해, 파편화된 AI 통합 문제를 근본적으로 해결한다.</p>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/CQywdSdi5iA" title="The Model Context Protocol (MCP) — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## MCP 이전의 문제: 파편화된 AI 통합
@@ -484,16 +488,16 @@ Cursor와 VS Code Copilot의 MCP 도입은 특히 개발자 생태계에 큰 영
 
 ---
 
-## 참고 자료
-
-1. Anthropic, "Introducing the Model Context Protocol", https://www.anthropic.com/news/model-context-protocol
-2. MCP 공식 문서, https://modelcontextprotocol.io/introduction
-3. MCP GitHub 레포지토리, https://github.com/modelcontextprotocol/servers
-4. MCP Python SDK, https://github.com/modelcontextprotocol/python-sdk
-5. MCP TypeScript SDK, https://github.com/modelcontextprotocol/typescript-sdk
-6. Cursor MCP 설정 가이드, https://docs.cursor.com/advanced/mcp
-7. Simon Willison, "MCP: The Standard for AI Tool Connections", https://simonwillison.net/2024/Nov/25/model-context-protocol
-8. awesome-mcp-servers 큐레이션 목록, https://github.com/punkpeye/awesome-mcp-servers
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol (공식 발표)</a><br/>
+· <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP 공식 문서 (modelcontextprotocol.io)</a><br/>
+· <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP 레퍼런스 서버 GitHub 레포지토리</a><br/>
+· <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">MCP Python SDK</a> · <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a><br/>
+· <a href="https://docs.cursor.com/advanced/mcp" target="_blank" rel="noopener">Cursor MCP 설정 가이드</a><br/>
+· <a href="https://simonwillison.net/2024/Nov/25/model-context-protocol" target="_blank" rel="noopener">Simon Willison — MCP 표준 해설</a><br/>
+· <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank" rel="noopener">awesome-mcp-servers 큐레이션 목록</a>
+</div>
 
 <div class="article-keypoints">
 <div class="article-keypoints__title">📌 핵심 정리</div>
