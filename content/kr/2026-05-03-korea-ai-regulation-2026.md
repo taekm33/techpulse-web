@@ -353,3 +353,9 @@ AI 규제의 강화는 피할 수 없는 흐름이다. 그러나 이를 단순�
 셋째, 선제적 대응이 사후 대응보다 항상 싸다. 규제 위반 과징금, 소송 비용, 평판 손상을 합산하면 사전 컴플라이언스 투자가 훨씬 합리적이다.
 
 한국 AI 기본법은 완벽하지 않다. 업계의 의견을 반영해 계속 다듬어질 것이다. 중요한 것은 이 과정에 기업과 개발자가 수동적 수용자가 아니라 능동적 참여자로 관여하는 것이다. 규제의 방향을 함께 만들어가는 것이 궁극적으로 가장 좋은 컴플라이언스 전략이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.msit.go.kr/" target="_blank" rel="noopener">과학기술정보통신부(MSIT) 공식</a><br/>
+· <a href="https://www.law.go.kr/" target="_blank" rel="noopener">국가법령정보센터(법제처) 공식</a>
+</div>

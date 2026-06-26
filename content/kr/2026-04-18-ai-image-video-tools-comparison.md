@@ -236,3 +236,9 @@ Photoshop의 생성형 채우기(Generative Fill), Illustrator의 생성형 재�
 10. [The Verge — Sora Review: OpenAI's Video Generator Put to the Test (2025)](https://www.theverge.com/ai-artificial-intelligence)
 11. [Kling AI Official Documentation — API & Pricing](https://klingai.com/documentation)
 12. [ComfyUI GitHub — Advanced Stable Diffusion Workflows](https://github.com/comfyanonymous/ComfyUI)
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.midjourney.com/" target="_blank" rel="noopener">Midjourney 공식</a> · <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI 공식</a><br/>
+· <a href="https://openai.com/index/dall-e-3/" target="_blank" rel="noopener">OpenAI DALL·E 3 공식</a> · <a href="https://openai.com/sora" target="_blank" rel="noopener">OpenAI Sora 공식</a>
+</div>

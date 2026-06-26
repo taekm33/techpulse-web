@@ -397,3 +397,9 @@ AI 스타트업에서는 경력보다 AI 프로젝트 포트폴리오를 더 중
 *TechPulse는 매주 AI/IT 개발자를 위한 실전 가이드를 발행합니다. 뉴스레터 구독으로 최신 트렌드를 놓치지 마세요.*
 
 *작성: TechPulse 에디터팀 | 2026-05-03 | techpulse.co.kr*
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://roadmap.sh/" target="_blank" rel="noopener">roadmap.sh — 개발자 로드맵</a><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a>
+</div>

@@ -375,3 +375,9 @@ TechPulse는 국내 LLM 생태계의 변화를 지속적으로 추적하며 최�
 <li>스타트업의 생존 전략은 모델 성능 정면 승부가 아닌 LLM 위의 솔루션(RAG·OCR·Document AI)과 폐쇄망 온프레미스 수요 공략이다.</li>
 <li>향후 2~3년간 가장 현실적인 시나리오(50%)는 글로벌·국내 LLM의 공존과 분업이며, 창업자는 데이터 보안 요건·언어·비용·도메인 4단계 기준으로 LLM을 선택해야 한다.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA 공식</a> · <a href="https://www.lgresearch.ai/" target="_blank" rel="noopener">LG AI Research(EXAONE) 공식</a><br/>
+· <a href="https://www.upstage.ai/" target="_blank" rel="noopener">Upstage 공식</a>
+</div>
