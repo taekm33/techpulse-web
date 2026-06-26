@@ -84,3 +84,9 @@ For individual developers, the BYOK path means the agentic orchestration infrast
 - BYOK support means no Copilot subscription required when using your own LLM API keys
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
+</div>

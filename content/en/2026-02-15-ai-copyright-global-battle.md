@@ -243,3 +243,8 @@ The courts and legislatures grappling with these questions are not being slow or
 The decisions that emerge from this legal reckoning will determine whether the AI revolution is built on a foundation of expropriated creativity or a framework that values and compensates the human creative work that makes AI possible. Both AI developers and content creators have legitimate interests. The challenge — and the opportunity — is building legal structures that honor both.
 
 How that balance is struck will matter far beyond the legal and technology industries. It will shape the economic future of every person who creates for a living.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.copyright.gov/" target="_blank" rel="noopener">U.S. Copyright Office (official)</a>
+</div>

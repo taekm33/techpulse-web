@@ -49,3 +49,9 @@ Adoption is meant to be frictionless. Running `npm install -D typescript@rc` ins
 </div>
 
 Microsoft expects to ship the stable 7.0 release within about a month of this RC, and says changes from here on will focus on regression fixes rather than behavior changes — meaning the RC is close to what developers will actually run in production. After 14 years of TypeScript compiling itself in JavaScript, the move to a native Go implementation could reshape build and CI cost structures across the entire ecosystem, not just for Microsoft's own large-scale projects.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://devblogs.microsoft.com/typescript/" target="_blank" rel="noopener">Microsoft — TypeScript Dev Blog (official)</a><br/>
+· <a href="https://github.com/microsoft/typescript-go" target="_blank" rel="noopener">microsoft/typescript-go (GitHub, official)</a>
+</div>

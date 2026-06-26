@@ -214,3 +214,9 @@ The YC portfolio in 2026 tells a story about where the AI industry is heading. S
 Y Combinator has placed more bets on AI than any other sector in its history. The companies that succeed from these batches will help define what AI looks like in the enterprise, the consumer market, and infrastructure for the next decade. The portfolio is not just a list of companies — it is a map of where experienced investors believe value will be created.
 
 For founders building in AI, there is no more informative dataset than the companies YC has chosen, how they have evolved, and what separates the ones that thrived from the ones that did not.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.ycombinator.com/" target="_blank" rel="noopener">Y Combinator (official)</a><br/>
+· <a href="https://www.ycombinator.com/companies" target="_blank" rel="noopener">Y Combinator — Companies directory</a>
+</div>
