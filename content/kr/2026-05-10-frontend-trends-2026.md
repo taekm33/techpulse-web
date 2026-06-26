@@ -615,3 +615,9 @@ RSC의 확산으로 프론트엔드 개발자가 데이터베이스, 인증, API
 ---
 
 *TechPulse 테크펄스는 매주 AI/IT 개발 트렌드를 깊이 있게 분석합니다. 구독하여 최신 정보를 받아보세요.*
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://react.dev/" target="_blank" rel="noopener">React 공식(react.dev)</a><br/>
+· <a href="https://nextjs.org/" target="_blank" rel="noopener">Next.js 공식</a>
+</div>

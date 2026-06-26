@@ -314,3 +314,10 @@ AI 영상 생성 도구의 발전은 영상 제작 산업의 일자리 구조를
 중요한 것은 지금 당장 시작하는 것이다. AI 영상 생성 기술은 6개월마다 질적으로 다른 수준이 되고 있다. 오늘의 한계가 내일의 표준이 되는 속도로 진화 중인 이 분야에서, 경험을 쌓아두는 것 자체가 경쟁력이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2026년 AI 영상 생성 4강은 Sora(고품질·ChatGPT 통합), Runway(카메라 제어·편집 생태계), Pika 2.0(접근성·음향 통합), Kling 2.0(최장 3분·물리 시뮬레이션)으로, 용도에 따라 선택하거나 조합하는 것이 최선이다.</li><li>AI 영상 생성 시장은 2025년 28억 달러에서 2028년 150억 달러 이상으로 급성장할 전망이며, Google Veo 3·Meta Movie Gen 등 대형 플레이어들의 진입으로 경쟁이 더욱 치열해지고 있다.</li><li>상업적 활용 시 각 플랫폼의 유료 플랜 구독 여부와 저작권·초상권 관련 법적 사항을 반드시 확인해야 하며, 딥페이크·실존 인물 묘사는 한국 법령상 처벌 대상이 될 수 있다.</li><li>음향 통합, 캐릭터 일관성, 실시간 생성 등 기술 발전이 빠르게 진행 중이므로 지금 바로 무료 플랜으로 경험을 쌓는 것이 중장기 경쟁력 확보의 핵심이다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/sora" target="_blank" rel="noopener">OpenAI — Sora 공식</a><br/>
+· <a href="https://runwayml.com/" target="_blank" rel="noopener">Runway 공식</a> · <a href="https://pika.art/" target="_blank" rel="noopener">Pika 공식</a><br/>
+· <a href="https://www.klingai.com/" target="_blank" rel="noopener">Kling AI 공식</a>
+</div>

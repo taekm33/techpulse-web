@@ -655,3 +655,9 @@ AI 코드 리뷰 도구는 인간 리뷰어를 대체하는 것이 아니라, �
 ---
 
 *TechPulse 테크펄스는 개발자를 위한 AI/IT 도구 심층 리뷰를 제공합니다.*
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot(공식)</a><br/>
+· <a href="https://www.coderabbit.ai/" target="_blank" rel="noopener">CodeRabbit 공식</a> · <a href="https://sourcegraph.com/" target="_blank" rel="noopener">Sourcegraph 공식</a>
+</div>
