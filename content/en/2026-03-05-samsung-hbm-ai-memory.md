@@ -243,3 +243,10 @@ For investors, HBM is one of the highest-conviction structural trends in semicon
 For technologists, understanding HBM means understanding why memory architecture is a first-class concern in AI system design — not an afterthought. The choice of GPU, the number of HBM stacks, the bandwidth available to the model — these are not marketing numbers. They determine what AI workloads are feasible and what are not.
 
 The memory war is real, it is consequential, and in 2026, it is far from over.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://semiconductor.samsung.com/" target="_blank" rel="noopener">Samsung Semiconductor (official)</a><br/>
+· <a href="https://news.skhynix.com/" target="_blank" rel="noopener">SK hynix Newsroom (official)</a><br/>
+· <a href="https://www.skhynix.com/" target="_blank" rel="noopener">SK hynix official site</a>
+</div>

@@ -241,3 +241,10 @@ For developers and companies: the time to understand and prepare for AI Act comp
 ---
 
 *This article reflects EU AI Act provisions as enacted. Delegated acts, implementing regulations, and enforcement guidance continue to be developed and may affect compliance requirements. Consult qualified legal counsel for advice on your specific situation.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — AI regulatory framework (official)</a><br/>
+· <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj" target="_blank" rel="noopener">EUR-Lex — AI Act full text (Reg. 2024/1689)</a><br/>
+· <a href="https://artificialintelligenceact.eu/" target="_blank" rel="noopener">The EU AI Act Explorer</a>
+</div>

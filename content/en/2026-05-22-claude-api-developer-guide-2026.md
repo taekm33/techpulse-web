@@ -292,3 +292,10 @@ This combination can reduce per-request costs by 60-80% compared to naive implem
 <li>Haiku + Prompt Caching + Batch API = the cost-optimized stack for high-volume, non-realtime workloads</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Claude Documentation</a><br/>
+· <a href="https://docs.anthropic.com/en/api/overview" target="_blank" rel="noopener">Anthropic — API Overview</a><br/>
+· <a href="https://www.anthropic.com/api" target="_blank" rel="noopener">Anthropic — Claude API</a>
+</div>
