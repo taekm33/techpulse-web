@@ -282,3 +282,9 @@ The race isn't over, and no single player has a decisive lead. That's good news 
 ---
 
 *Market data and pricing as of March 2026. Benchmark data drawn from independent evaluations and lab-reported figures. All projections are the author's analysis and should not be treated as investment advice.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a><br/>
+· <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI Blog</a>
+</div>

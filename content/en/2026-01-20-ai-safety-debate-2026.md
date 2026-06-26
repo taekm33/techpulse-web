@@ -261,3 +261,9 @@ What a reasonable, evidence-based position looks like in 2026:
 The debate will continue, and it should — the questions are genuinely hard and the stakes are genuinely high. But "who's right" is less important than "what should we do differently based on this analysis." On that question, the pragmatic answer is clearer than the debate would suggest.
 
 Build carefully. Evaluate honestly. Govern thoughtfully. And keep asking the hard questions even when the answers are inconvenient.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener">UK AI Safety Institute (official)</a><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
+</div>

@@ -90,3 +90,9 @@ OpenAI's move signals a broader shift in how the industry thinks about AI agent 
 The harder problem remains unsolved. As agents acquire more permissions — calendar access, email, code execution, financial tools — the consequences of a successful prompt injection attack grow more severe. The industry needs model-level solutions that can reliably separate untrusted data from trusted instructions. Until that exists, operational controls like Lockdown Mode are the most reliable defense available.
 
 For security teams evaluating AI tools in enterprise environments, this feature is worth building into your usage policies today.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://genai.owasp.org/llm-top-10/" target="_blank" rel="noopener">OWASP — Top 10 for LLM Applications</a><br/>
+· <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" target="_blank" rel="noopener">OWASP — GenAI Security Project</a>
+</div>

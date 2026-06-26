@@ -40,3 +40,9 @@ HackerNews and the AI Twitter community have noted that Sonnet 4.6 handles ambig
 ## What's Next
 
 Anthropic is expected to release Claude Opus 4.7 later this year. Sonnet 4.6 positions itself as the go-to balance of capability and cost until then.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic — Claude (official)</a><br/>
+· <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a>
+</div>

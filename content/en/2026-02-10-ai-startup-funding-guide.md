@@ -392,3 +392,8 @@ The AI funding cycle is not ending — but it's maturing. The winners of the nex
 ---
 
 *Funding data sourced from Crunchbase, PitchBook, and CB Insights reports. Valuation benchmarks reflect Q4 2025–Q1 2026 market conditions. VC portfolio information from public disclosures. This article does not constitute investment advice.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.crunchbase.com/" target="_blank" rel="noopener">Crunchbase</a> · <a href="https://www.ycombinator.com/" target="_blank" rel="noopener">Y Combinator</a>
+</div>
