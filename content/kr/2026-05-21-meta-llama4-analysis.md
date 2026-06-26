@@ -317,3 +317,8 @@ Meta Llama 4는 단순한 모델 업데이트가 아니다. 오픈소스 AI가 �
 오픈소스 AI의 진화는 멈추지 않는다. Llama 4가 세운 기준은 곧 Llama 5가 뛰어넘을 것이고, 그 혜택은 결국 더 많은 사람과 기업에게 돌아갈 것이다. AI의 민주화는 이제 슬로건이 아닌 현실이 되었다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Llama 4는 Scout(경량·엣지), Maverick(범용·기업), Behemoth(연구·2T) 3종 라인업으로, MoE 아키텍처 덕분에 전체 파라미터 대비 훨씬 적은 연산 비용(17B 활성)으로 최상위 성능을 실현한다.</li><li>Maverick은 MMLU·GPQA·MMMU·Arena Elo 등 주요 벤치마크에서 GPT-4o와 Claude 3.5 Sonnet을 앞서며 오픈소스 AI의 상용 AI 추월을 공식화했다.</li><li>MAU 7억 명 미만 서비스는 Llama 4 Community License 하에 별도 계약 없이 상업적 사용이 가능하며, 파생 모델 공개 배포 시 "Built with Llama" 명시가 필수다.</li><li>국내 도입 전략으로는 Groq/AWS Bedrock/Azure AI 등 클라우드 API로 빠르게 검증 후, 트래픽 증가 시 직접 호스팅 또는 QLoRA 파인튜닝으로 단계적으로 확장하는 방식이 권장된다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama 공식 블로그</a>
+</div>

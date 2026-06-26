@@ -12,6 +12,10 @@ tags: ["Google", "GoogleIO", "Gemini", "GeminiSpark", "AI검색"]
 <p>Google I/O 2026에서 구글은 Gemini 3.5 Flash 출시, Gemini Spark 에이전트 서비스 전환, AI Mode 검색 전면 확대(10억 사용자 돌파), Veo 3.1 오디오 동기화 비디오 AI, Android XR 통합 등 대규모 AI 업데이트를 발표했습니다. OpenAI와의 AI 주도권 경쟁이 더욱 치열해졌습니다.</p>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/wYSncx9zLIU" title="Google I/O '26 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Google I/O 2026: 구글의 AI 반격
 
 매년 5월 열리는 Google I/O는 구글의 기술 방향을 가장 잘 보여주는 행사입니다. 2026년 Google I/O는 유례없이 AI에 집중된 행사였습니다. 순다르 피차이 CEO는 "이것은 구글 역사상 가장 큰 AI 전환점"이라고 발표했습니다.
@@ -137,4 +141,10 @@ Google I/O 2026은 OpenAI의 공격에 대한 구글의 종합적인 반격이�
 <li>Veo 3.1은 오디오 동기화 기능으로 Sora에 정면 도전</li>
 <li>Google I/O 2026은 구글이 AI 주도권을 포기하지 않겠다는 강력한 신호</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 공식</a><br/>
+· <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI 공식 블로그</a>
 </div>

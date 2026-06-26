@@ -293,3 +293,9 @@ AWS ap-northeast-2(서울) 리전에 장애가 발생했을 때 GCP asia-northea
 클라우드 선택은 3~5년을 내다보는 전략적 결정이다. AI 시대에 클라우드 인프라는 기업 경쟁력의 핵심 기반이 되었다. 지금이 자사의 클라우드 전략을 다시 검토할 적기다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2026년 글로벌 클라우드 시장은 AWS(31%) 1위 유지, Azure(25%) AI 수요로 빠르게 추격, GCP(12%)는 35% 성장률로 가장 빠르게 확대 중이다.</li><li>AI 서비스 선택 기준: Azure는 GPT-4o·Microsoft 생태계 통합, AWS는 Bedrock 다중 모델·광범위한 서비스 연동, GCP는 Gemini 네이티브 통합·TPU·저렴한 ML 플랫폼이 강점이다.</li><li>국내 기업은 산업별로 최적 클라우드가 다르며, 금융·의료는 컴플라이언스, 공공기관은 국내 클라우드 우선, AI 스타트업은 GCP 크레딧 프로그램이 유리하다.</li><li>대기업은 AWS(코어 인프라) + Azure(협업 툴) + GCP(AI·데이터 분석) 조합의 멀티클라우드 전략이 벤더 리스크 분산과 AI 모델 다변화 측면에서 가장 현실적인 선택이다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS 공식</a> · <a href="https://azure.microsoft.com/" target="_blank" rel="noopener">Microsoft Azure 공식</a><br/>
+· <a href="https://cloud.google.com/" target="_blank" rel="noopener">Google Cloud 공식</a>
+</div>

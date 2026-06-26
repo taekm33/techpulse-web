@@ -12,6 +12,10 @@ tags: ["Microsoft", "Build2026", "Copilot", "Azure", "GitHub"]
 <p>Microsoft Build 2026은 GitHub Copilot의 에이전트 확장(MCP 표준 지원), Azure AI Foundry 모델 카탈로그 전면 개편, Windows AI Platform 강화, Phi-4 소형 모델 패밀리 공개, .NET 10 AI 통합 등 개발자 중심의 AI 플랫폼 전략을 총망라했습니다. Google I/O와 달리 '플랫폼 레이어'를 장악하겠다는 마이크로소프트의 B2B 전략이 뚜렷하게 드러났습니다.</p>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 | Satya Nadella Opening Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Microsoft Build 2026: 개발자 행사의 AI 대전환
 
 매년 시애틀에서 열리는 Microsoft Build는 전 세계 개발자들이 가장 주목하는 컨퍼런스 중 하나입니다. 2026년 Build는 예년과 비교할 수 없을 만큼 AI에 집중된 행사였습니다. 사티아 나델라 CEO는 키노트에서 "AI는 더 이상 기능이 아니라 플랫폼 그 자체"라고 선언하며, 마이크로소프트가 개발자 생태계의 AI 인프라 표준을 장악하겠다는 야망을 공개적으로 드러냈습니다.
@@ -172,4 +176,9 @@ Microsoft Build 2026은 마이크로소프트가 AI를 '제품'이 아닌 '플�
 <li>.NET 10이 AI를 표준 라이브러리로 내재화 — C# 개발자의 AI 통합 진입장벽 대폭 하락</li>
 <li>마이크로소프트의 전략은 특정 AI 모델이 아닌 개발 플랫폼 레이어 전체를 장악하는 것 — Google의 모델 중심 전략과 대조적</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 공식</a>
 </div>
