@@ -256,3 +256,9 @@ batch = client.messages.batches.create(
 <li>Prompt Caching + Batch API 조합으로 프로덕션 비용 최대 80% 절감 가능</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
+</div>

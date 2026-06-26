@@ -121,3 +121,8 @@ tags: ["삼성", "갤럭시AI", "OneUI8", "온디바이스AI", "스마트폰AI"]
 <li>전체 기능은 Galaxy S26 이상에서만 지원 — 구매 전 기기별 지원 범위 확인 필요</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.samsung.com/global/galaxy/" target="_blank" rel="noopener">Samsung Galaxy 공식</a>
+</div>

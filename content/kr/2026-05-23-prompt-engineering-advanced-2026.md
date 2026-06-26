@@ -434,3 +434,9 @@ Chain-of-Thought로 추론을 강화하고, Few-shot으로 패턴을 학습시�
 모든 기법을 한 번에 적용할 필요는 없다. 현재 가장 자주 사용하는 LLM 작업 하나를 골라, 이 글의 기법 중 한 가지를 적용해보는 것부터 시작하자.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>프롬프트 엔지니어링은 모델이 보유한 역량을 정확히 끌어내는 인터페이스 설계다 — 마법이 아니라 공학이다</li><li>Chain-of-Thought는 추론 정확도를 최대 40% 높이며, 복잡한 의사결정과 디버깅 작업에 특히 효과적이다</li><li>Few-shot은 출력 형식과 문체를 일관되게 유지해야 할 때 가장 강력한 도구다 — 예시 2-4개가 황금 비율</li><li>ReAct 패턴은 AI 에이전트의 표준 구조로, 에이전트 기반 자동화를 구현할 때 반드시 이해해야 한다</li><li>System Prompt는 수백 번 요청의 품질을 결정하는 "운영 정책" — 설계에 가장 많은 시간을 투자해야 한다</li><li>Claude, GPT, Gemini는 같은 프롬프트에도 다르게 반응한다 — 모델별 특성을 알고 프롬프트를 조율하면 성능이 달라진다</li><li>프롬프트 캐싱과 작업별 모델 선택으로 LLM API 비용을 30-90%까지 절감할 수 있다</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener">Anthropic — Prompt Engineering</a><br/>
+· <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="noopener">OpenAI — Prompt Engineering</a>
+</div>

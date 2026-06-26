@@ -231,3 +231,8 @@ Cursor는 Claude 3.7 Sonnet을 기반으로 사용할 때 한국어 자연어 �
 AI 코딩 도구 시장은 2026년에도 계속 빠르게 진화하고 있다. 지금의 선택이 1년 후에도 최선일 보장은 없다. 중요한 것은 하나의 도구에 완전히 의존하기보다, 도구를 활용하는 능력 자체를 키우는 것이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>OpenAI의 Windsurf 인수로 AI 코딩 도구 시장은 빅테크 vs 독립 개발사 구도로 재편됐으며, Cursor는 멀티 모델 전략으로 독립성을 강화하고 있다.</li><li>Cursor는 코드베이스 전체 컨텍스트 이해와 Background Agent를 통한 자율 작업에서, Windsurf는 빠른 응답 속도와 Flows 기반 워크플로우 자동화에서 각각 강점을 보인다.</li><li>가격은 Windsurf Pro($15/월) &lt; GitHub Copilot($10/월, 기능 제한) &lt; Cursor Pro($20/월) 순이며, 에이전트 기능을 고려한 가성비는 Windsurf Pro가 현재 가장 뛰어나다.</li><li>대규모 레거시 프로젝트나 복잡한 리팩토링이 많다면 Cursor, 빠른 프로토타이핑과 팀 워크플로우 표준화가 중요하다면 Windsurf, 엔터프라이즈 보안과 GitHub 생태계 통합이 우선이라면 GitHub Copilot을 선택하라.</li><li>어떤 도구를 선택하든, AI 코딩 도구는 개발자를 대체하지 않는다. 생성된 코드는 반드시 리뷰하고, 보안에 민감한 코드는 전문가 검토를 거쳐야 한다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor 공식</a> · <a href="https://windsurf.com/" target="_blank" rel="noopener">Windsurf 공식</a>
+</div>

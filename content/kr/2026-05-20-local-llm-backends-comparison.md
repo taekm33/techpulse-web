@@ -442,3 +442,9 @@ Docker/K8s, 멀티모달 API 서버?
 10. [Hugging Face GGUF 모델 허브](https://huggingface.co/models?library=gguf)
 11. [vLLM PagedAttention 논문 (arXiv:2309.06180)](https://arxiv.org/abs/2309.06180)
 12. [로컬 LLM 벤치마크 — LocalLLMBench](https://github.com/Mozilla-Ocho/llamafile)
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://ollama.com/" target="_blank" rel="noopener">Ollama 공식</a> · <a href="https://lmstudio.ai/" target="_blank" rel="noopener">LM Studio 공식</a><br/>
+· <a href="https://docs.vllm.ai/" target="_blank" rel="noopener">vLLM 공식 문서</a> · <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp (GitHub)</a>
+</div>
