@@ -11,6 +11,10 @@ When Anthropic introduced the Model Context Protocol (MCP) in November 2024, the
 
 This guide provides a comprehensive technical introduction to MCP, covering the protocol architecture, the most important server implementations available today, and a complete walkthrough of building your own MCP server.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/CQywdSdi5iA" title="The Model Context Protocol (MCP) — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is MCP?
 
 The Model Context Protocol is an open standard that defines a structured communication interface between AI applications (called **hosts**) and external data sources and tools (called **servers**). Think of it as USB-C for AI integrations — a single standardized connector that allows any compliant AI application to communicate with any compliant tool or data source.
@@ -656,3 +660,11 @@ The weather server walkthrough above is a complete, production-ready starting po
 ---
 
 *For more AI development tutorials and protocol guides, visit TechPulse's Developer Trends section.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol</a><br/>
+· <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP Official Documentation</a><br/>
+· <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP Reference Servers (GitHub)</a><br/>
+· <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">Python SDK</a> · <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a>
+</div>

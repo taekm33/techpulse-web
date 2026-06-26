@@ -13,6 +13,10 @@ But "AI agent" is also one of the most overloaded terms in the industry. A Slack
 
 This guide cuts through the hype with technical depth: the architectural patterns that matter, an honest comparison of the major frameworks, real business applications with actual results, and the pitfalls that cause most production agent deployments to fail.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/uhJJgc-0iTQ" title="Building more effective AI agents — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Defining AI Agents
 
 An AI agent is a system with four core properties:
@@ -651,3 +655,9 @@ The patterns and frameworks in this guide provide the foundation. Your domain kn
 ---
 
 *TechPulse covers AI and technology from a practitioner's perspective. For more in-depth technical guides, visit our AI News and Developer Trends sections.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (official guide)</a><br/>
+· <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI Documentation</a>
+</div>

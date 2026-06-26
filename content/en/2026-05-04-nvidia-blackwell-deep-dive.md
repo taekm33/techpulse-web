@@ -9,6 +9,10 @@ readingTime: 13
 
 The AI infrastructure gold rush has a new center of gravity: NVIDIA's Blackwell architecture. The GB200 NVL72 rack — a 72-GPU interconnected compute unit that functions as a single logical system — is the most coveted piece of hardware in the technology industry, with wait lists measured in quarters and prices that make enterprise buyers wince. Understanding Blackwell is essential for anyone building or deploying AI systems at scale. This is the comprehensive technical and strategic overview you need.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Background: The H100 Era and Why Blackwell Matters
 
 NVIDIA's H100 (Hopper architecture) defined the modern AI compute landscape. Trained on H100 clusters, virtually every frontier AI model from GPT-4 to Llama 3 to Gemini 1.5 represents massive investments in Hopper-era infrastructure. The AI industry built its foundations on H100.
@@ -229,3 +233,10 @@ Blackwell is not a product cycle you can ignore if you're serious about AI infra
 ---
 
 *Pricing information reflects market estimates as of Q1 2026. Specifications reflect publicly announced figures. Supply and availability change frequently; verify current availability with vendors.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — Jensen Huang GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
+· <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell Architecture (official)</a><br/>
+· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC official page</a>
+</div>
