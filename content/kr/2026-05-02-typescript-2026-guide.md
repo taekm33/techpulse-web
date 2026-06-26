@@ -708,3 +708,10 @@ TypeScript의 학습 곡선은 분명히 있다. 프로젝트 설정, 타입 선
 프로젝트가 커질수록, 팀이 커질수록, TypeScript의 가치는 기하급수적으로 증가한다. 타입이 없는 대형 JavaScript 코드베이스를 유지보수해본 개발자라면 누구나 동의할 것이다. 6개월 후에 자신이 쓴 코드를 읽을 때, 1년 후에 팀원이 바뀌었을 때, TypeScript의 타입 문서화가 얼마나 소중한지 실감하게 된다.
 
 2026년, TypeScript를 아직 쓰고 있지 않다면 지금 시작할 최적의 타이밍이다. 생태계는 성숙했고, 학습 자료는 풍부하며, AI 코딩 도구와의 시너지는 그 어느 때보다 강력하다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript 공식 사이트</a><br/>
+· <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener">TypeScript 공식 문서(핸드북)</a><br/>
+· <a href="https://devblogs.microsoft.com/typescript/" target="_blank" rel="noopener">Microsoft — TypeScript 공식 개발 블로그</a>
+</div>

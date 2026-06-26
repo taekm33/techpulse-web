@@ -668,3 +668,9 @@ Python 3.13은 단순한 점진적 업그레이드가 아닙니다. GIL 제거�
 ---
 
 *TechPulse 테크펄스는 개발자를 위한 심층 기술 분석 콘텐츠를 제공합니다. 매주 최신 업데이트를 받아보세요.*
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.python.org/downloads/release/python-3130/" target="_blank" rel="noopener">Python.org — Python 3.13.0 공식 릴리스</a><br/>
+· <a href="https://docs.python.org/3/whatsnew/3.13.html" target="_blank" rel="noopener">Python 공식 문서 — What's New in Python 3.13</a>
+</div>

@@ -14,6 +14,10 @@ ChatGPT에게 "이메일 초안 써줘"라고 물으면 즉시 결과물을 돌�
 
 **AI 에이전트(Agent)**는 바로 이 간극을 메우기 위해 등장했다. 에이전트는 LLM을 두뇌로 삼되, 외부 도구를 사용하고, 이전 작업의 결과를 기억하며, 목표를 달성할 때까지 계획-실행-검토를 반복하는 루프를 자율적으로 돌린다.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/uhJJgc-0iTQ" title="Building more effective AI agents — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 일반 LLM vs AI 에이전트 핵심 차이
 
 | 구분 | 일반 LLM | AI 에이전트 |
@@ -429,3 +433,9 @@ EU AI Act 시행과 각국의 AI 규제 강화로 인해 **설명 가능한(Expl
 5. CrewAI Documentation — [Core Concepts: Agents, Tasks, Crews](https://docs.crewai.com)
 6. OpenAI — [Operator System Card](https://openai.com/operator) (2025)
 7. NAVER Cloud Blog — [AI 에이전트 도입 가이드](https://blog.ncloud.com) (2026)
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (공식 가이드)</a><br/>
+· <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI 공식 문서</a>
+</div>

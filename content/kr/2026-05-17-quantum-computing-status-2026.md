@@ -317,3 +317,10 @@ NISQ(Noisy Intermediate-Scale Quantum) 시대가 계속된다. 수천~수만 큐
 양자 혁명은 하루아침에 오지 않는다. 그러나 분명히 오고 있다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>IBM(2,000+ 큐비트)과 Google(Willow 오류 역비례 스케일링)이 2026년 양자 컴퓨팅의 실질적 진보를 이끌고 있으나, 범용 상용화는 여전히 2032~2040년 이후 전망이다.</li><li>양자 컴퓨터는 모든 문제에 빠른 것이 아니며, 분자 시뮬레이션·인수분해·데이터베이스 검색 등 특정 구조의 문제에서만 고전 컴퓨터를 능가한다.</li><li>HNDL(지금 수집, 나중 해독) 위협은 이미 현실이며, NIST가 확정한 PQC 표준(FIPS 203·204·205)으로의 전환을 지금 바로 계획해야 한다.</li><li>한국은 3조 원 규모의 양자 과학기술 전략을 추진 중이며, SKT의 IDQ 인수와 ETRI의 QKD 실증망 구축 등 양자 통신 분야에서 국제 경쟁력을 갖추고 있다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip/" target="_blank" rel="noopener">Google — Willow 양자칩 공식 발표</a><br/>
+· <a href="https://quantumai.google/" target="_blank" rel="noopener">Google Quantum AI 공식</a> · <a href="https://www.ibm.com/quantum" target="_blank" rel="noopener">IBM Quantum 공식</a><br/>
+· <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST — 양자내성암호(PQC) 표준</a>
+</div>

@@ -427,3 +427,10 @@ Cascade 에이전트의 자율성과 정확성은 현재 업계에서 가장 앞
 AI 코딩 도구 시장은 6개월마다 판도가 바뀐다. Windsurf는 2026년 현재 가장 주목해야 할 도구임이 확실하며, OpenAI와의 통합이 어떻게 실현되느냐에 따라 업계 판도를 완전히 바꿀 가능성도 있다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Windsurf의 Cascade 에이전트는 멀티 파일 자율 편집과 오류 자가 수정 능력에서 현재 업계 최고 수준으로 평가받으며, Cursor Composer보다 실전 테스트에서 우위를 보였다.</li><li>Pro 플랜 기준 월 $15로 Cursor($20)보다 25% 저렴하고, VS Code fork 기반이라 기존 확장·설정 마이그레이션 비용이 낮아 전환 문턱이 낮다.</li><li>2025년 5월 OpenAI의 약 30억 달러 인수 발표로 GPT-4o 등 최신 모델과의 긴밀한 통합이 기대되지만, 가격 정책 변경과 서비스 방향성의 불확실성은 도입 리스크로 남아 있다.</li><li>무료 플랜으로 2~3주 직접 테스트 후 Cursor와 생산성을 비교해보는 것이 가장 합리적인 도입 전략이다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://windsurf.com/" target="_blank" rel="noopener">Windsurf 공식 사이트</a><br/>
+· <a href="https://docs.windsurf.com/" target="_blank" rel="noopener">Windsurf 공식 문서</a><br/>
+· <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Codeium — Windsurf 소개</a>
+</div>
