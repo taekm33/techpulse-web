@@ -8,6 +8,10 @@ readingTime: 9
 locale: "kr"
 ---
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Rubin 아키텍처의 등장 — Blackwell 이후를 설계하다
 
 NVIDIA는 GTC 2024에서 Blackwell을 공개하는 동시에, 다음 세대 아키텍처 **Rubin**의 존재를 처음으로 예고했다. 젠슨 황 CEO는 2025년 CES 키노트와 GTC 2025에서 Rubin의 윤곽을 보다 구체화하며, 2026년 하반기 출시를 향한 로드맵을 공식화했다. Rubin이라는 이름은 20세기 천문학자이자 암흑 물질 연구의 선구자인 **베라 루빈(Vera Rubin)** 을 기리는 명칭이다. NVIDIA가 아키텍처 이름에 위대한 과학자를 붙이는 전통을 이어가고 있다.
@@ -207,8 +211,8 @@ AI 가속기 시장 리서치 기관들은 Rubin 출시가 가져올 수요 폭�
 9. 연합뉴스 — [NVIDIA 루빈 아키텍처와 국내 반도체 수혜 전망](https://www.yna.co.kr) (2025)
 
 <div class="article-callout info">
-<strong>愿???먮즺 쨌 怨듭떇 異쒖쿂</strong><br/>
-쨌 <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noopener">NVIDIA ?곗씠?곗꽱??怨듭떇 ?섏씠吏</a><br/>
-쨌 <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 怨듭떇 ?댁뒪猷?/a><br/>
-쨌 <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 媛쒕컻??釉붾줈洹?/a><br/>
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noopener">NVIDIA 데이터센터 공식 페이지</a><br/>
+· <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 뉴스룸</a><br/>
+· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
 </div>

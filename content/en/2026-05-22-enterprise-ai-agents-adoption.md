@@ -132,8 +132,8 @@ Start with one well-scoped use case. Instrument everything — task completion r
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading 쨌 Official Sources</strong><br/>
-쨌 <a href="https://www.salesforce.com/agentforce/" target="_blank" rel="noopener">Salesforce Agentforce</a><br/>
-쨌 <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noopener">Microsoft Copilot Studio</a><br/>
-쨌 <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+<strong>Related Reading - Official Sources</strong><br/>
+- <a href="https://www.salesforce.com/agentforce/" target="_blank" rel="noopener">Salesforce Agentforce</a><br/>
+- <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noopener">Microsoft Copilot Studio</a><br/>
+- <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
 </div>

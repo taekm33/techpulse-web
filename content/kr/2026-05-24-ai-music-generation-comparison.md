@@ -257,8 +257,8 @@ SM엔터테인먼트·HYBE 등 국내 대형 엔터테인먼트사들이 AI 음�
 11. [한국저작권위원회 — 2026 AI 저작권 동향 보고서](https://www.copyright.or.kr/information-materials/trend/the-copyright/)
 
 <div class="article-callout info">
-<strong>愿???먮즺 쨌 怨듭떇 異쒖쿂</strong><br/>
-쨌 <a href="https://suno.com/" target="_blank" rel="noopener">Suno AI 怨듭떇 ?ъ씠??/a><br/>
-쨌 <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio 怨듭떇 ?ъ씠??/a><br/>
-쨌 <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI 怨듭떇 ?ъ씠??/a><br/>
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://suno.com/" target="_blank" rel="noopener">Suno AI 공식 사이트</a><br/>
+· <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio 공식 사이트</a><br/>
+· <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI 공식 사이트</a><br/>
 </div>
