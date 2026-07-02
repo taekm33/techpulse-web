@@ -172,3 +172,10 @@ The technology works. The question, as always, is how deliberately you use it.
 <li>Currently rolling out to ChatGPT Pro ($200/mo), Team, and Enterprise subscribers, with Plus access planned for later in 2026</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading 쨌 Official Sources</strong><br/>
+쨌 <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI Official Site</a><br/>
+쨌 <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
+쨌 <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI Developer Docs</a><br/>
+</div>

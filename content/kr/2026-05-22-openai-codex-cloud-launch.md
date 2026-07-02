@@ -136,3 +136,10 @@ Codex Cloud의 등장은 소프트웨어 개발 방식의 근본적인 변화를
 <li>복잡한 도메인 로직과 보안 크리티컬 영역은 여전히 전문가 검토 필수</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>愿???먮즺 쨌 怨듭떇 異쒖쿂</strong><br/>
+쨌 <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 怨듭떇 ?ъ씠??/a><br/>
+쨌 <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 怨듭떇 ?섏씠吏</a><br/>
+쨌 <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI 媛쒕컻??臾몄꽌</a><br/>
+</div>

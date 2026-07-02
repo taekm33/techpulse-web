@@ -205,3 +205,10 @@ AI 가속기 시장 리서치 기관들은 Rubin 출시가 가져올 수요 폭�
 7. Bloomberg — [AMD's MI400 Roadmap and the Race for AI Chip Dominance](https://www.bloomberg.com) (2025)
 8. 전자신문 — [SK하이닉스·삼성, HBM4 선점 전쟁 본격화](https://www.etnews.com) (2025)
 9. 연합뉴스 — [NVIDIA 루빈 아키텍처와 국내 반도체 수혜 전망](https://www.yna.co.kr) (2025)
+
+<div class="article-callout info">
+<strong>愿???먮즺 쨌 怨듭떇 異쒖쿂</strong><br/>
+쨌 <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noopener">NVIDIA ?곗씠?곗꽱??怨듭떇 ?섏씠吏</a><br/>
+쨌 <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 怨듭떇 ?댁뒪猷?/a><br/>
+쨌 <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 媛쒕컻??釉붾줈洹?/a><br/>
+</div>

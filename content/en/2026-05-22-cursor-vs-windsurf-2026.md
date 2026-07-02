@@ -155,3 +155,10 @@ The most pragmatic approach: start your team on Windsurf for the first 60 days t
 <li>Best strategy for teams: start with Windsurf, let power users graduate to Cursor</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading 쨌 Official Sources</strong><br/>
+쨌 <a href="https://www.cursor.com/" target="_blank" rel="noopener">Cursor Official Site</a><br/>
+쨌 <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf by Codeium</a><br/>
+쨌 <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
+</div>

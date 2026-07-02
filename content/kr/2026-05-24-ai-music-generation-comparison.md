@@ -255,3 +255,10 @@ SM엔터테인먼트·HYBE 등 국내 대형 엔터테인먼트사들이 AI 음�
 10. [Billboard — "The AI Music Revolution: How Suno, Udio Are Changing the Industry" (2026.03)](https://www.billboard.com/pro/ai-music-revolution-suno-udio-2026/)
 11. [한국저작권위원회 — 2026 AI 저작권 동향 보고서](https://www.copyright.or.kr/information-materials/trend/the-copyright/)
 11. [한국저작권위원회 — 2026 AI 저작권 동향 보고서](https://www.copyright.or.kr/information-materials/trend/the-copyright/)
+
+<div class="article-callout info">
+<strong>愿???먮즺 쨌 怨듭떇 異쒖쿂</strong><br/>
+쨌 <a href="https://suno.com/" target="_blank" rel="noopener">Suno AI 怨듭떇 ?ъ씠??/a><br/>
+쨌 <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio 怨듭떇 ?ъ씠??/a><br/>
+쨌 <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI 怨듭떇 ?ъ씠??/a><br/>
+</div>
