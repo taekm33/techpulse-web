@@ -236,3 +236,12 @@ AI 스타트업의 실패는 기술이 나빠서가 아니다. 대부분의 실�
 AI 붐의 열기가 식으면서 오히려 진짜 가치를 만드는 기업들이 빛을 발하는 시기가 되었다. 지금이야말로 기초가 탄탄한 AI 스타트업들에게 기회의 시기다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>GPT Wrapper, 번레이트 관리 실패, 차별화 부재, 시장 수용 오판, 팀 불균형은 AI 스타트업이 반복하는 5대 실패 패턴이다.</li><li>살아남는 기업들은 독점 데이터 자산, 계량 가능한 ROI, 글로벌 기본값 설계, 기술·비즈니스 균형 팀, 단계적 파일럿 검증이라는 5가지 공통점을 갖는다.</li><li>2025-2026년 투자 심사 기준은 기술 차별화보다 ARR·그로스 마진·고객 이탈률 등 실제 수익성 지표가 최우선이 되었다.</li><li>창업자는 생존 체크리스트의 기술·시장·팀·자금 4개 영역을 주기적으로 점검하고, 취약한 항목을 선제적으로 보완해야 한다.</li></ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.upstage.ai/" target="_blank" rel="noopener">업스테이지(Upstage) 공식 홈페이지</a><br/>
+· <a href="https://www.harvey.ai/" target="_blank" rel="noopener">Harvey(하비) 공식 홈페이지</a><br/>
+· <a href="https://www.jasper.ai/" target="_blank" rel="noopener">Jasper 공식 홈페이지</a><br/>
+· <a href="https://riiid.com/" target="_blank" rel="noopener">뤼이드(Riiid) 공식 홈페이지</a><br/>
+</div>
+

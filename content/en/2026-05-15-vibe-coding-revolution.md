@@ -11,6 +11,10 @@ In February 2025, Andrej Karpathy tweeted: "There's a new kind of coding I call 
 
 This article examines vibe coding honestly: the tools driving it, the efficiency data, the legitimate concerns, and the realistic picture of software development's future.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Coding with an AI pair programmer: Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Defining Vibe Coding
 
 Before the debate can be productive, the term needs precision. Vibe coding exists on a spectrum:
@@ -254,3 +258,11 @@ The developers who will thrive in this landscape are those who treat AI assistan
 ---
 
 *Interested in specific tool reviews or tutorials on prompt engineering for code generation? Browse TechPulse's Developer Trends category for more.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://cursor.com/" target="_blank" rel="noopener">Cursor — official site</a><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot — official product page</a><br/>
+· <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf (Codeium) — official site</a><br/>
+</div>
+

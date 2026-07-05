@@ -262,3 +262,12 @@ VC 자금으로만 운영하는 시간이 길어질수록 의존성이 높아진
 중요한 것은 단순히 기업 가치가 높아지는 것이 아니라, 실제로 글로벌 시장에서 지속 가능한 비즈니스를 만드는 것이다. 유니콘 밸류에이션은 결과이지 목표가 되어서는 안 된다는 점을 이 시장의 성숙한 플레이어들은 잘 알고 있다.
 
 TechPulse는 국내 AI 유니콘 레이스를 지속적으로 추적하며, 분기마다 업데이트된 분석을 제공할 예정이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.upstage.ai/" target="_blank" rel="noopener">업스테이지(Upstage) 공식 홈페이지</a><br/>
+· <a href="https://wrtn.io/en/" target="_blank" rel="noopener">뤼튼(Wrtn Technologies) 공식 홈페이지</a><br/>
+· <a href="https://www.twelvelabs.io/" target="_blank" rel="noopener">트웰브랩스(Twelve Labs) 공식 홈페이지</a><br/>
+· <a href="https://mediwhale.com/" target="_blank" rel="noopener">메디웨일(Mediwhale) 공식 홈페이지</a><br/>
+</div>
+

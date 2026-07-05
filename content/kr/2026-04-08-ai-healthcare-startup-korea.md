@@ -299,3 +299,12 @@ AI 헬스케어는 쉽지 않은 시장이다. 규제, 임상 데이터, 보험 
 <li>투자 시 FDA/CE 허가 진행 여부, 상위 저널 임상 논문, 독점 데이터 파트너십, 급여화 전략 네 가지를 반드시 확인해야 한다.</li>
 <li>높은 규제 장벽은 단기 도전이지만, 장기적으로는 선점 기업의 강력한 경쟁 해자가 된다. AI 헬스케어는 인내 자본이 빛을 발하는 시장이다.</li>
 </ul></div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.lunit.io/en" target="_blank" rel="noopener">루닛(Lunit) 공식 홈페이지</a><br/>
+· <a href="https://www.vuno.co/" target="_blank" rel="noopener">뷰노(VUNO) 공식 홈페이지</a><br/>
+· <a href="https://mediwhale.com/" target="_blank" rel="noopener">메디웨일(Mediwhale) 공식 홈페이지</a><br/>
+· <a href="https://www.standigm.com/" target="_blank" rel="noopener">스탠다임(Standigm) 공식 홈페이지</a><br/>
+</div>
+

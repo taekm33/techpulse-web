@@ -305,3 +305,11 @@ Build for a customer you understand deeply — ideally a problem you have experi
 Reach $10K MRR, then study your best customers obsessively. Why do they stay? What would make them pay more? Who else looks exactly like them? The answers to those questions will take you from $10K to $100K MRR faster than any new feature will.
 
 Now stop reading and start building.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://stripe.com/" target="_blank" rel="noopener">Stripe — official site</a><br/>
+· <a href="https://vercel.com/" target="_blank" rel="noopener">Vercel — official site</a><br/>
+· <a href="https://supabase.com/" target="_blank" rel="noopener">Supabase — official site</a><br/>
+</div>
+

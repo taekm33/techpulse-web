@@ -170,3 +170,10 @@ Watch the next 18 months carefully — particularly whether Apple ships a signif
 ---
 
 *Apple Intelligence feature availability varies by device, region, and OS version. Information reflects iOS 18.x and macOS Sequoia as of May 2026.*
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Intelligence — official page</a><br/>
+· <a href="https://security.apple.com/blog/private-cloud-compute/" target="_blank" rel="noopener">Apple Security Research: Private Cloud Compute</a><br/>
+</div>
+
