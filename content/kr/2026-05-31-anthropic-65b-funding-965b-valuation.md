@@ -136,3 +136,10 @@ Anthropic의 이번 라운드는 단순한 펀딩 소식이 아니다. AI 산업
 투자자들은 Anthropic이 단기 트렌드가 아닌 장기 구조적 성장의 수혜자라는 데 $65B 규모의 확신을 표했다. 엔터프라이즈 시장에서의 탄탄한 매출 성장, 반도체 대기업과의 전략적 동맹, 그리고 곧 출시될 신규 모델들이 그 근거다.
 
 앞으로 12~18개월이 Anthropic에게는 결정적인 시간이 될 것이다. IPO를 통해 공모 시장의 검증을 받고, Mythos와 Claude Opus 4.8로 기술 경쟁에서 앞서가면서, $1조 기업가치를 실질적인 매출로 증명해야 한다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — 뉴스룸(공식)</a><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research(공식)</a>
+</div>

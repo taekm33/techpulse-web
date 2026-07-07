@@ -220,3 +220,11 @@ filtered_data = [ex for ex in raw_data if score_training_example(ex) >= 7.0]
 <li>SFT → DPO 2단계 파이프라인이 2026년 파인튜닝의 표준 순서</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://huggingface.co/docs/peft/main/en/conceptual_guides/lora" target="_blank" rel="noopener">Hugging Face PEFT — LoRA 공식 문서</a><br/>
+· <a href="https://huggingface.co/docs/trl/main/en/dpo_trainer" target="_blank" rel="noopener">Hugging Face TRL — DPO Trainer 공식 문서</a><br/>
+· <a href="https://arxiv.org/abs/2305.14314" target="_blank" rel="noopener">QLoRA 논문 (arXiv:2305.14314)</a>
+</div>

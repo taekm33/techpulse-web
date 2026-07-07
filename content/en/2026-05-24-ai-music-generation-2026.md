@@ -177,3 +177,12 @@ For now, the four tools reviewed here cover the realistic needs of most creators
 ---
 
 *Reviewed: May 24, 2026. Tools tested: Suno v4 (Pro tier), Udio 2.1 (Pro tier), Google MusicFX (YouTube Studio integration + Gemini API), Stability Audio 2.0 (hosted and self-hosted on RTX 4090). All generations used for audio quality assessment were produced between May 10–23, 2026.*
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://suno.com/" target="_blank" rel="noopener">Suno (official)</a><br/>
+· <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio (official)</a><br/>
+· <a href="https://labs.google/musicfx" target="_blank" rel="noopener">Google MusicFX (official)</a><br/>
+· <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI (official)</a>
+</div>

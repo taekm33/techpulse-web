@@ -327,3 +327,11 @@ The honest forecast: hallucination will not be solved at the model level within 
 <li>Design human-in-the-loop as a feature, not a fallback. Define confidence thresholds, make review efficient, and use corrections to improve detection.</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research (official)</a><br/>
+· <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI — Research (official)</a><br/>
+· <a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noopener">TruthfulQA Paper (arXiv:2109.07958)</a>
+</div>

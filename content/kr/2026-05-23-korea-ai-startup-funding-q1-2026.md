@@ -173,3 +173,11 @@ GPU 비용은 AI SaaS의 가장 큰 복병이다. 생존 기업들은 자체 모
 **취업 준비자에게**: AI 스타트업에서 가장 희소한 인재는 "AI 모델을 만드는 사람"이 아니라 "AI 모델이 만들어낸 결과물이 실제 사업에서 어떻게 작동하는지 이해하는 사람"이다. AI 프로덕트 매니저, AI 세일즈 엔지니어, AI 컴플라이언스 전문가의 수요가 2026년 하반기에 급증할 것이다.
 
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>2026년 1분기 국내 AI 스타트업 투자 총액은 약 8,420억 원으로, 건수는 줄었지만 건당 평균 금액은 42.5억 원으로 증가해 '옥석 가리기'가 수치로 확인됐다.</li><li>의료 AI(25%), B2B SaaS(23%), AI 에이전트(19%) 순으로 투자가 집중됐으며, 시리즈 C 이상 대형 딜이 전체 금액의 절반을 차지했다.</li><li>VC들은 유료 고객 레퍼런스, 낮은 이탈률, GPU 비용 통제력을 핵심 심사 기준으로 삼고 있다.</li><li>생존하는 AI 스타트업의 공통점은 도메인 데이터 해자, 추론 비용 통제, 명확한 Champion 식별, 모델 비종속 아키텍처, 규제 선제 해결이다.</li><li>2분기에는 AI 에이전트와 온디바이스 AI 분야 대형 딜이 예정돼 있으며, 동시에 런웨이 소진 스타트업의 M&A도 증가할 전망이다.</li><li>한국 AI 스타트업의 현실적인 글로벌 전략은 국내 시장 점유 후 일본·동남아로 확장하는 '스텝업 글로벌라이제이션'이다.</li></ul></div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.kvca.or.kr/" target="_blank" rel="noopener">한국벤처캐피탈협회(KVCA) 공식 사이트</a><br/>
+· <a href="https://www.mss.go.kr/" target="_blank" rel="noopener">중소벤처기업부 공식 사이트</a><br/>
+· <a href="https://www.cbinsights.com/" target="_blank" rel="noopener">CB Insights — 글로벌 스타트업 투자 데이터</a>
+</div>
