@@ -113,3 +113,10 @@ The question for every other company is not whether this pattern will arrive, bu
 5. **The real question is timing**: Cloudflare is documenting what AI-driven workforce restructuring looks like at a healthy, growing company — a template that will spread
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://blog.cloudflare.com" target="_blank" rel="noopener">The Cloudflare Blog</a><br/>
+· <a href="https://investors.cloudflare.com" target="_blank" rel="noopener">Cloudflare Investor Relations</a><br/>
+· <a href="https://www.cloudflare.com/workers/" target="_blank" rel="noopener">Cloudflare Workers Platform</a><br/>
+</div>

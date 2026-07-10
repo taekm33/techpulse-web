@@ -110,3 +110,10 @@ Startup Fortune은 "상장 중국 AI 기업이 모델 접근 판매, 개발자 �
 5. **독립 검증 대기 중** — 자사 벤치마크 기반 주장, 커뮤니티 검증 후 실용 평가 가능
 
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.minimaxi.com" target="_blank" rel="noopener">MiniMax 공식 사이트</a><br/>
+· <a href="https://huggingface.co/MiniMaxAI" target="_blank" rel="noopener">MiniMax 모델 허브 (Hugging Face)</a><br/>
+· <a href="https://openrouter.ai/minimax/minimax-m3" target="_blank" rel="noopener">OpenRouter — MiniMax M3</a><br/>
+</div>

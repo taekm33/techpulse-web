@@ -11,6 +11,10 @@ tags: ["Claude", "Anthropic", "다이나믹워크플로우", "AI코딩", "Claude
 **TL;DR** — Anthropic이 2026년 5월 28일 Claude Opus 4.8과 다이나믹 워크플로우(Dynamic Workflows)를 동시 출시했다. 다이나믹 워크플로우는 Claude Code가 단일 세션에서 수백 개의 병렬 서브에이전트를 자동 오케스트레이션하는 기능으로, 코드베이스 전체 마이그레이션이나 보안 감사를 이전 대비 수십 배 빠른 속도로 처리할 수 있다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/CQywdSdi5iA" title="Model Context Protocol (MCP) — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Claude Opus 4.8, 조용하지만 의미 있는 업그레이드
 
 Anthropic이 Opus 4.7의 후속 모델인 **Claude Opus 4.8**을 공식 출시했다. 가격은 동일하게 유지되며(입력 토큰 $5/M, 출력 토큰 $25/M), 벤치마크 수치가 전반적으로 향상됐다. 가장 눈에 띄는 개선은 **패스트 모드(Fast Mode)**: 기존 대비 2.5배 빠른 속도로 동작하며, 패스트 모드의 가격이 이전 모델보다 3배 저렴해졌다.
@@ -118,4 +122,11 @@ Max 플랜($100/월) 이상에서 기본 활성화되는 이 기능은 엔터프
 4. **실제 성과** — 75만 줄 Bun Zig→Rust 포팅을 11일·99.8% 테스트 통과로 완료
 5. **도입 조건** — Max·Team 플랜 기본 활성화, Enterprise는 관리자 수동 활성화 필요
 
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 공식 뉴스</a><br/>
+· <a href="https://docs.anthropic.com/en/docs/agents-and-tools" target="_blank" rel="noopener">Anthropic: 에이전트 & 도구 문서</a><br/>
+· <a href="https://claude.ai" target="_blank" rel="noopener">Claude 공식 사이트</a><br/>
 </div>

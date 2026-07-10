@@ -114,3 +114,10 @@ The OpenAI Frontier Governance Framework, also published on May 28, addresses cy
 5. **Software-layer strategy** — OpenAI bets on API ecosystem rather than proprietary hardware as the long-term competitive moat
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI Blog</a><br/>
+· <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI Research</a><br/>
+· <a href="https://www.figure.ai" target="_blank" rel="noopener">Figure AI — Official Site</a><br/>
+</div>

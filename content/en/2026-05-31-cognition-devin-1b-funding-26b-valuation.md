@@ -11,6 +11,10 @@ tags: ["Cognition","Devin","AI Agent","AI Coding","Startup Funding"]
 
 ---
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/uhJJgc-0iTQ" title="AI Agents — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## From Skepticism to $26 Billion in Two Years
 
 When Devin first appeared in early 2024, the reaction was split. The claim that an AI could autonomously plan, write, debug, and ship code end-to-end — functioning as a software engineer rather than a coding assistant — struck many developers as hype. Real engineers doubted it. Benchmarks were scrutinized. Demos were picked apart.
@@ -139,3 +143,10 @@ For Cognition, the next 12 months are about proving that the growth rate can sus
 3. **Competitive response**: GitHub (Microsoft) and Google are both working on agentic coding systems. What happens to Devin's differentiation when Big Tech enters the autonomous engineer space with distribution advantages?
 
 The $26 billion valuation reflects confidence that Devin has a durable lead. The answers to these three questions will determine whether that confidence is warranted.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://cognition.ai" target="_blank" rel="noopener">Cognition AI — Official Site</a><br/>
+· <a href="https://www.anthropic.com/research/building-effective-agents" target="_blank" rel="noopener">Anthropic: Building Effective Agents</a><br/>
+· <a href="https://huggingface.co/blog/agents" target="_blank" rel="noopener">Hugging Face: AI Agents Guide</a><br/>
+</div>

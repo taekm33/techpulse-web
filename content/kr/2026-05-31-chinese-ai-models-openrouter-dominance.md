@@ -145,3 +145,11 @@ OpenRouter의 트래픽 데이터가 보여주는 현실은 명확하다. 글로
 이 변화는 개발자와 기업에게 더 많은 선택지를 제공한다는 점에서 긍정적이다. 그러나 동시에 AI 인프라의 지정학적 다양화라는 리스크도 함께 가져온다. 어떤 모델을 선택할지는 단순한 기술·비용 문제가 아니라 전략적·보안적 판단의 문제가 되고 있다.
 
 한국 기업들도 이 변화에서 자유롭지 않다. AI 비용 최적화와 데이터 보안 사이에서 균형 잡힌 전략 수립이 필요한 시점이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openrouter.ai" target="_blank" rel="noopener">OpenRouter 공식 플랫폼</a><br/>
+· <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">DeepSeek V3 공식 GitHub</a><br/>
+· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 모델 허브 (Hugging Face)</a><br/>
+· <a href="https://kimi.ai" target="_blank" rel="noopener">Kimi (Moonshot AI) 공식 사이트</a><br/>
+</div>

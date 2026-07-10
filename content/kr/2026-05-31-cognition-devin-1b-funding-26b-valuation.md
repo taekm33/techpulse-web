@@ -11,6 +11,10 @@ tags: ["Cognition","Devin","AI에이전트","AI코딩","스타트업펀딩"]
 
 ---
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/uhJJgc-0iTQ" title="AI Agents — Anthropic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Devin, AI 코딩 에이전트에서 실제 엔지니어로
 
 2024년 초 처음 공개됐을 때, Devin은 놀라움과 회의론을 동시에 불러일으켰다. "자율적으로 코드를 짜고 버그를 고치는 AI 엔지니어"라는 주장이 과장으로 여겨졌기 때문이다. 그러나 2026년 5월, Cognition의 최신 펀딩 결과는 Devin이 실제로 시장에서 가치를 증명했음을 보여준다.
@@ -124,3 +128,10 @@ Cognition이 가장 공격적인 밸류에이션을 받은 것은 '에디터 플
 Cognition의 Devin은 'AI가 코드를 짜준다'는 개념을 넘어 'AI가 엔지니어로 일한다'는 패러다임을 열고 있다. ARR $492M과 엔터프라이즈 고객들의 실사용이 이를 뒷받침한다.
 
 다음 12개월이 Cognition의 진짜 시험대가 될 것이다. 고성장을 유지하면서 엔터프라이즈 계약의 갱신율을 높이고, Devin의 자율성과 안정성을 동시에 개선해야 한다. $26B 밸류에이션을 실적으로 증명할 시간이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://cognition.ai" target="_blank" rel="noopener">Cognition AI 공식 사이트</a><br/>
+· <a href="https://www.anthropic.com/research/building-effective-agents" target="_blank" rel="noopener">Anthropic: AI 에이전트 구축 연구</a><br/>
+· <a href="https://huggingface.co/blog/agents" target="_blank" rel="noopener">Hugging Face: AI 에이전트 가이드</a><br/>
+</div>
