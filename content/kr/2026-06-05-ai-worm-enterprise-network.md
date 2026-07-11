@@ -77,3 +77,9 @@ Jonas Guan, Tom Blanchard, Hanna Foerster 등이 포함된 연구팀은 Linux �
 주 연구자 Nicolas Papernot는 "실제 사이버 공격의 대부분은 제로데이 취약점에 의존하지 않는다"고 강조한다. 이번 연구가 보여주는 것은 공격자들이 이제 알려진 취약점을 저비용으로 대규모 자동화해 악용할 수 있다는 것이다. 이는 방어팀이 취약점을 수정하고 인적 오류를 찾아내야 하는 시간적 창이 더욱 좁아졌음을 의미한다.
 
 기업 보안팀은 AI 기반 공격을 가정한 시나리오로 침투 테스트를 재설계하고, 특히 알려진 취약점에 대한 패치 적용 속도를 높이는 것이 시급하다. 또한 네트워크 내부 측면 이동에 대한 탐지와 최소 권한 원칙 적용이 어느 때보다 중요해졌다.
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
+· <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE 데이터베이스</a><br/>
+· <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto 컴퓨터과학과</a><br/>
+</div>

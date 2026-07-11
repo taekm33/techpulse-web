@@ -87,3 +87,10 @@ Chrome 149 DevTools에 WebMCP 디버깅 패널이 추가됐다. `#devtools-webmc
 </div>
 
 Angular v22는 프레임워크의 안정성을 높이는 동시에, AI 에이전트 시대의 개발 방식을 선도하는 두 가지 목표를 성공적으로 달성했다. WebMCP와 에이전트 스킬이 표준으로 자리잡으면, Angular는 AI가 직접 다루는 첫 번째 주류 프론트엔드 프레임워크로 기록될 수 있다.
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://blog.angular.dev/angular-v22-is-now-available" target="_blank" rel="noopener">Angular v22 공식 출시 블로그</a><br/>
+· <a href="https://angular.dev/guide/signals/signal-forms" target="_blank" rel="noopener">Signal Forms 공식 가이드</a><br/>
+· <a href="https://angular.dev/reference/releases/22.0" target="_blank" rel="noopener">Angular v22 릴리스 노트</a><br/>
+· <a href="https://github.com/angular/angular/releases" target="_blank" rel="noopener">Angular GitHub 릴리스</a><br/>
+</div>

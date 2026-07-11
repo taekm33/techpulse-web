@@ -79,3 +79,9 @@ Papernot summarizes the stakes bluntly: "The majority of real-world cyberattacks
 For enterprise security teams, the implications are clear. Penetration testing frameworks should be redesigned to assume AI-augmented attackers. Patch cycles need to accelerate — the assumption that weeks remain before a known CVE is weaponized no longer holds. Lateral movement detection, least-privilege enforcement, and credential hygiene are now the most critical defensive priorities. And any stored credentials, even in test environments, should be treated as live attack surfaces.
 
 The research underlines a broader reality entering 2026: the barrier to launching sophisticated, adaptive cyberattacks has collapsed. Defending against them requires the same level of automation and speed that AI now gives attackers.
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
+· <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE Database</a><br/>
+· <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto — Computer Science</a><br/>
+</div>

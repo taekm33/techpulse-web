@@ -91,3 +91,10 @@ Angular v22 adds support for arrow functions directly in template expressions, r
 </div>
 
 Angular v22 lands at an interesting moment: the framework is simultaneously consolidating its reactive programming model with Signal stabilizations while staking out a position as the first mainstream frontend framework designed to work with AI agents as first-class consumers. WebMCP is experimental today, but if it becomes a web standard — and Chrome's support suggests momentum — Angular will already have a head start.
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://blog.angular.dev/angular-v22-is-now-available" target="_blank" rel="noopener">Angular v22 Official Release Blog</a><br/>
+· <a href="https://angular.dev/guide/signals/signal-forms" target="_blank" rel="noopener">Signal Forms Official Guide</a><br/>
+· <a href="https://angular.dev/reference/releases/22.0" target="_blank" rel="noopener">Angular v22 Release Notes</a><br/>
+· <a href="https://github.com/angular/angular/releases" target="_blank" rel="noopener">Angular GitHub Releases</a><br/>
+</div>

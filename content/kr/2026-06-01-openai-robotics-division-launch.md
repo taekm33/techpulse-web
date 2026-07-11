@@ -96,3 +96,9 @@ AI Weekly는 "이 접근이 성공하면 자동화 압력이 지금까지 AI 대
 5. **경쟁 구도** — Tesla·Google·Boston Dynamics 대비 소프트웨어 API 레이어로 차별화
 
 </div>
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/index/robotics" target="_blank" rel="noopener">OpenAI Robotics 공식 페이지</a><br/>
+· <a href="https://www.figure.ai/news" target="_blank" rel="noopener">Figure AI 공식 뉴스</a><br/>
+· <a href="https://www.figure.ai/" target="_blank" rel="noopener">Figure AI 공식 사이트</a><br/>
+</div>

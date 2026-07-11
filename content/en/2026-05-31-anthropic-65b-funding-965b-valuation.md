@@ -143,3 +143,9 @@ Anthropic's Series H is a marker of how fundamentally the AI industry has transf
 The coming 12 to 18 months will determine whether that valuation is vindicated. Anthropic needs to sustain its revenue growth trajectory, deliver on Mythos AI and Claude Opus 4.8, demonstrate durable operating profitability, and eventually navigate a successful IPO in an environment where public markets are still calibrating what frontier AI is worth.
 
 The bet from $65 billion worth of investors: they'll do all of it.
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Official News</a><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+· <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
+</div>

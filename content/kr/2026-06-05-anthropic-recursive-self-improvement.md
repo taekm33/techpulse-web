@@ -65,3 +65,9 @@ tags: ["앤트로픽", "재귀적자기개선", "AI안전", "클로드", "AGI"]
 </div>
 
 재귀적 자기 개선은 단순한 기술적 이정표를 넘어 인류 문명의 방향을 바꿀 수 있는 사건이다. AI 업계의 자발적 투명성과 규제 기관의 선제적 대응이 어느 때보다 중요한 시점이다.
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 공식 뉴스</a><br/>
+· <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic 연구 페이지</a><br/>
+</div>
