@@ -11,6 +11,10 @@ tags: ["Google", "Gemini", "RAG", "엔터프라이즈AI", "멀티에이전트"]
 구글 리서치와 구글 클라우드가 협력해 개발한 에이전틱 RAG(Agentic RAG) 프레임워크가 2026년 6월 5일 Gemini Enterprise Agent Platform에 공개 프리뷰로 출시됐다. 기존 표준 RAG 대비 팩트 데이터셋에서 정확도를 최대 34% 높이는 이 시스템은 복수의 비관련 데이터 소스를 넘나들며 복잡한 기업 질의에 신뢰할 수 있는 답변을 제공한다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/T-D1OfcDW1M" title="검색 증강 생성(RAG)이란 무엇인가 (IBM Technology)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 기존 RAG의 한계
 
 RAG(검색 증강 생성)은 LLM이 외부 문서 저장소에서 관련 정보를 검색해 답변의 사실성을 높이는 기법이다. 그러나 기업 환경에서는 여러 팀이 관리하는 다수의 데이터베이스에 정보가 분산되어 있어, 단순 RAG는 두 가지 핵심 문제에 부딪힌다.
@@ -78,4 +82,11 @@ RAG(검색 증강 생성)은 LLM이 외부 문서 저장소에서 관련 정보�
 - **지연 최소화**: 크로스 코퍼스 설정에서도 단일 코퍼스 대비 3% 이내 지연 증가
 - **현재 상태**: Gemini Enterprise Agent Platform 공개 프리뷰로 제공 중
 
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://blog.google/technology/google-deepmind/ Google DeepMind 공식 블로그" target="_blank" rel="noopener"></a><br/>
+· <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API 공식 문서</a><br/>
+· <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
 </div>

@@ -18,6 +18,10 @@ tags: ["NVIDIA", "Nemotron", "open-weights", "LLM", "Computex2026"]
 
 NVIDIA CEO Jensen Huang unveiled **Nemotron 3 Ultra** during his Computex 2026 keynote on June 1, completing the Nemotron 3 family that began with the Nano variant in December 2025. The model officially released on June 4, 2026, available on HuggingFace, OpenRouter, and NVIDIA NIM.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang Highlights (NVIDIA official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Architecture: Hybrid Mamba-Transformer MoE
 
 Nemotron 3 Ultra uses a novel hybrid **Mamba-2 / Transformer / Mixture-of-Experts** architecture. With 550 billion total parameters but only 55 billion active per token (90% sparsity), the model achieves intelligence comparable to much larger dense models while keeping inference costs closer to a 55B-class system. It supports up to **1 million tokens** of context, a meaningful advantage for long-running enterprise AI agents where competing Chinese models often max out at 256K.
@@ -83,4 +87,11 @@ Nemotron 3 Ultra is a genuine milestone for US open-source AI. It narrows the ga
 <li>Hybrid Mamba-2 / Transformer / MoE architecture with 1M token context at competitive cost</li>
 <li>Commercially usable under NVIDIA Open Model License; training recipes and data also published</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron developer page" target="_blank" rel="noopener"></a><br/>
+· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
+· <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
 </div>

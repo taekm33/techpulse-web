@@ -11,6 +11,10 @@ tags: ["Microsoft", "MAI", "Build2026", "MAI-Thinking-1", "reasoning-model"]
 Microsoft dropped seven in-house AI models at Build 2026, headlined by MAI-Thinking-1 — a reasoning model trained from scratch on clean, licensed data. AI chief Mustafa Suleiman declared the company's ambition to join Google DeepMind, OpenAI, and Anthropic as one of the world's top four AI labs. The models are deeply integrated into GitHub Copilot, VS Code, and Azure, with enterprise cost efficiency as the primary differentiator.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 Satya Nadella Opening Keynote (Microsoft official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Breakup That Became a Launchpad
 
 Microsoft's path to this moment runs through its relationship with OpenAI. For years, the company functioned primarily as a distributor and investor rather than a model builder. That changed when Microsoft renegotiated its OpenAI contract, securing explicit rights to train models at frontier scale and pursue superintelligence entirely on its own IP. As Suleiman told The Verge: "That was the pivotal moment. We were allowed to train models at a larger scale and explicitly pursue superintelligence entirely with our own IP, with our own data, no distillation, training from scratch."
@@ -83,3 +87,10 @@ For enterprises evaluating AI procurement, MAI-Thinking-1's cost profile changes
 </div>
 
 Microsoft has spent years as AI's most powerful patron. Build 2026 is where it declared itself a competitor.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://build.microsoft.com/ Microsoft Build — official site" target="_blank" rel="noopener"></a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
+· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
+</div>

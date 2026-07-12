@@ -18,6 +18,10 @@ tags: ["GitHub", "Copilot", "AI-coding", "token-billing", "developer-tools"]
 
 GitHub quietly flipped the switch on its new billing model for Copilot on June 1, 2026. Out go Premium Request Units (PRUs) — the fixed multiplier system that let developers budget predictably. In comes **AI Credits**, a token-consumption model that aligns directly with the underlying API costs of whichever model you're using. The result: for developers leaning heavily on agentic workflows or high-tier reasoning models, the bill has become dramatically less predictable.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting Started with GitHub Copilot (GitHub official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Changed
 
 Under the old system, each Copilot plan included a set number of "premium requests" per month — a bundled allowance before overage kicked in. Under AI Credits, charges accumulate based on actual **input tokens, output tokens, and cached tokens** consumed, priced according to each model's published API rates.
@@ -79,4 +83,11 @@ The billing change is accelerating consideration of alternatives. DEV Community 
 <li>Developer backlash has accelerated evaluation of alternatives like Cursor and Windsurf</li>
 <li>Pricing tables are now public and transparent, and base subscription prices did not increase</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/features/copilot GitHub Copilot — official product page" target="_blank" rel="noopener"></a><br/>
+· <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot billing documentation</a><br/>
+· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a><br/>
 </div>

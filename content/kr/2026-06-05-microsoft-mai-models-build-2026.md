@@ -11,6 +11,10 @@ tags: ["마이크로소프트", "MAI", "Build2026", "MAI-Thinking-1", "AI모델"
 마이크로소프트가 2026 Build 개발자 컨퍼런스에서 자체 개발 AI 모델 7종을 공개했다. 핵심은 추론 모델 MAI-Thinking-1로, 35B 활성 파라미터에 256K 토큰 컨텍스트 윈도우를 갖추고 있으며 SWE-Bench Pro에서 클로드 Opus 4.6과 동등한 성능을 기록했다. AI 총괄 Mustafa Suleiman은 "세계 4대 AI 연구소 중 하나가 되겠다"고 공언하며 OpenAI·구글·앤트로픽과의 정면 경쟁을 선언했다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 사티아 나델라 기조연설 (Microsoft 공식)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## OpenAI와의 '이별' 후 독자 노선 선언
 
 마이크로소프트 AI 총괄 Mustafa Suleiman은 빌드 2026에서 자체 AI 모델 발표를 하며 핵심 배경을 공개했다. "OpenAI와의 계약 재협상을 통해 대규모 모델 훈련 권한과 자체 IP로 초지능(superintelligence)을 추구할 수 있는 명시적 권리를 확보했다"는 것이다. 이는 수년간 OpenAI 모델에 의존하던 마이크로소프트가 완전한 독자 AI 개발 체제를 갖추겠다는 공식 선언이다.
@@ -77,3 +81,10 @@ AI 모델 외에도 마이크로소프트는 이전 세대 대비 1,000배 높�
 </div>
 
 마이크로소프트의 이번 발표는 단순한 기능 업데이트가 아니다. OpenAI·구글·앤트로픽이 주도하는 AI 프런티어 경쟁에 마이크로소프트가 독자적 선수로 공식 등판한 역사적인 순간이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://build.microsoft.com/ Microsoft Build 공식 사이트" target="_blank" rel="noopener"></a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
+· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
+</div>

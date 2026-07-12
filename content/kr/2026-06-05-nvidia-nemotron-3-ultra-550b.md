@@ -35,6 +35,10 @@ Artificial Analysis와 NVIDIA가 공동 평가한 결과, Nemotron 3 Ultra는 �
 </div>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 젠슨 황 기조연설 하이라이트 (NVIDIA 공식)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 속도가 핵심 차별화 포인트
 
 Nemotron 3 Ultra의 가장 두드러진 경쟁 우위는 **추론 속도**다. DeepInfra 사전 출시 엔드포인트에서 300토큰/초 이상을 기록했으며, 이는 동급 중국 모델(DeepSeek, Moonshot 등)의 50~100 토큰/초 대비 최대 6배 빠른 수치다. GB200 하드웨어에서 NVFP4 양자화를 적용하면 GLM-5.1 대비 5.9배, Kimi K2.6 대비 4.8배 처리량을 보인다.
@@ -73,4 +77,11 @@ NVIDIA는 이 모델을 장시간 실행되는 에이전트 태스크에 최적�
 <li>1M 토큰 컨텍스트와 에이전트 특화 설계로 장기 실행 태스크에 강점</li>
 <li>상업적 이용 가능한 NVIDIA Open Model License, 훈련 레시피까지 오픈소스 공개</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron 개발자 페이지" target="_blank" rel="noopener"></a><br/>
+· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
+· <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
 </div>

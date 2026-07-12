@@ -11,6 +11,10 @@ tags: ["Google", "Gemini", "RAG", "EnterpriseAI", "MultiAgent"]
 Google Research and Google Cloud jointly released an Agentic RAG framework as a public preview on Gemini Enterprise Agent Platform on June 5, 2026. The multi-agent workflow breaks down complex enterprise queries, routes them to the correct data sources, and confirms whether sufficient context exists before generating an answer — improving accuracy on factuality datasets by up to 34% compared to standard RAG.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/T-D1OfcDW1M" title="What is Retrieval-Augmented Generation (RAG)? (IBM Technology)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Limits of Standard RAG
 
 Retrieval-Augmented Generation (RAG) has become the go-to technique for grounding large language model responses in enterprise data. But standard RAG has two critical failure modes in real-world enterprise deployments.
@@ -78,4 +82,11 @@ The broader trend is clear: enterprise RAG is evolving from a retrieval-assistan
 - **Latency stays flat**: cross-corpus setting adds less than 3% overhead vs. single-corpus
 - **Available now** as a public preview on Gemini Enterprise Agent Platform
 
+</div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://blog.google/technology/google-deepmind/ Google DeepMind Blog" target="_blank" rel="noopener"></a><br/>
+· <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API documentation</a><br/>
+· <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
 </div>

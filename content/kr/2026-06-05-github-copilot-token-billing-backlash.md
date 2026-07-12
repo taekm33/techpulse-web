@@ -35,6 +35,10 @@ tags: ["GitHub", "Copilot", "AI코딩", "토큰과금", "개발자도구"]
 </div>
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="GitHub Copilot 시작하기 (GitHub 공식)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 무엇이 바뀌었나
 
 새 체계에서 AI Credits는 입력 토큰, 출력 토큰, 캐시 토큰을 포함한 **실제 토큰 소비량**에 따라 차감된다. 각 모델(GPT-4.1, Claude 3.7 Sonnet 등)의 API 요금에 연동되며, 월별 구독 플랜에 포함된 무료 크레딧을 초과하면 초과분이 청구된다.
@@ -75,4 +79,11 @@ Pro 플랜($10/월), Pro+($39/월), Business($19/사용자/월), Enterprise($39/
 <li>Cursor, Windsurf 등 대안 도구로의 이탈 움직임 가속화</li>
 <li>기본 구독 가격은 유지, 투명한 가격표 제공이 긍정적 평가도 받음</li>
 </ul>
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.com/features/copilot GitHub Copilot 공식 소개 페이지" target="_blank" rel="noopener"></a><br/>
+· <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot 요금·빌링 공식 문서</a><br/>
+· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
 </div>
