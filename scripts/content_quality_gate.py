@@ -16,14 +16,26 @@ ARTICLE_PATTERNS = (
 def run(*args: str) -> str:
     return subprocess.check_output(args, text=True, stderr=subprocess.DEVNULL).strip()
 
+def resolve_base(base: str | None) -> str | None:
+    if base and set(base) != {'0'}:
+        return base
+    try:
+        return run('git', 'rev-parse', 'HEAD~1')
+    except Exception:
+        return None
+
 def changed(base: str | None) -> list[Path]:
-    if not base or set(base) == {'0'}:
-        try: base = run('git','rev-parse','HEAD~1')
-        except Exception: base = None
     cmd=['git','diff','--name-only','--diff-filter=AM']
     if base: cmd += [base,'HEAD']
-    names=run(*cmd).splitlines() if run(*cmd) else []
+    output=run(*cmd)
+    names=output.splitlines() if output else []
     return [Path(n) for n in names if any(p.match(n) for p in ARTICLE_PATTERNS)]
+
+def newly_added(base: str | None) -> set[Path]:
+    if not base:
+        return set()
+    output=run('git','diff','--name-only','--diff-filter=A',base,'HEAD')
+    return {Path(n) for n in output.splitlines() if any(p.match(n) for p in ARTICLE_PATTERNS)}
 
 def lang_of(p: Path) -> str:
     s=p.as_posix()
@@ -48,11 +60,14 @@ def normalize(text: str) -> str:
 
 def main() -> int:
     ap=argparse.ArgumentParser(); ap.add_argument('--base'); ap.add_argument('--files',nargs='*'); a=ap.parse_args()
-    files=[Path(x) for x in a.files] if a.files else changed(a.base)
-    errors=[]; rows=[]; added={'kr':0,'en':0}; bodies={}
+    base=resolve_base(a.base)
+    files=[Path(x) for x in a.files] if a.files else changed(base)
+    new_files=newly_added(base) if not a.files else set()
+    errors=[]; rows=[]; changed_count={'kr':0,'en':0}; new_count={'kr':0,'en':0}; bodies={}
     for p in files:
         if not p.is_file(): continue
-        lang=lang_of(p); added[lang]+=1
+        lang=lang_of(p); changed_count[lang]+=1
+        if p in new_files: new_count[lang]+=1
         raw=p.read_text(encoding='utf-8'); fm,body=split_frontmatter(raw)
         words=len(WORD_RE.findall(visible(body)))
         urls=sorted(set(URL_RE.findall(body)))
@@ -69,18 +84,18 @@ def main() -> int:
         if not re.search(r'^title:\s*.+',fm,re.M): errors.append(f'{p}: missing title')
         if not re.search(r'^(summary|description):\s*.+',fm,re.M): errors.append(f'{p}: missing summary/description')
         key=p.stem; bodies[(lang,key)]=normalize(body); rows.append((str(p),lang,words,len(urls)))
-    for lang,n in added.items():
-        if n>2: errors.append(f'{lang}: {n} changed/new articles in one deploy; maximum is 2')
+    for lang,n in new_count.items():
+        if n>2: errors.append(f'{lang}: {n} newly published articles in one deploy; maximum is 2')
     for key in {k for lang,k in bodies}:
         if ('kr',key) in bodies and ('en',key) in bodies:
             ratio=SequenceMatcher(None,bodies[('kr',key)],bodies[('en',key)]).ratio()
             if ratio>0.82: errors.append(f'{key}: KR/EN normalized similarity {ratio:.2f} > 0.82; create audience-specific editions')
-    print(f'QUALITY GATE files={len(rows)} kr={added["kr"]} en={added["en"]}')
+    print(f'QUALITY GATE files={len(rows)} changed_kr={changed_count["kr"]} changed_en={changed_count["en"]} new_kr={new_count["kr"]} new_en={new_count["en"]}')
     for p,l,w,u in rows: print(f'CHECK {p}: lang={l} depth={w} source_urls={u}')
     if errors:
         print(f'BLOCKED: {len(errors)} violation(s)')
         for e in errors: print(' - '+e)
         return 1
-    print('PASS: changed articles satisfy depth, sources, process-language, date, batch-size, and bilingual-independence gates')
+    print('PASS: all content changed since the last production tag satisfies depth, sources, process-language, date, new-publication batch-size, and bilingual-independence gates')
     return 0
 if __name__=='__main__': sys.exit(main())

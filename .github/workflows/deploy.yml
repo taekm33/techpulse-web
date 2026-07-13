@@ -24,15 +24,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
       - name: Validate bilingual content quality gate
         env:
-          BASE_SHA: ${{ github.event.before }}
-        run: python3 scripts/content_quality_gate.py --base "$BASE_SHA"
+          EVENT_BASE_SHA: ${{ github.event.before }}
+        run: |
+          BASE_SHA="$(git rev-parse 'refs/tags/production^{commit}' 2>/dev/null || true)"
+          if [ -z "$BASE_SHA" ]; then BASE_SHA="$EVENT_BASE_SHA"; fi
+          echo "quality baseline: $BASE_SHA"
+          python3 scripts/content_quality_gate.py --base "$BASE_SHA"
       - name: Validate embeds & links (pre-deploy)
         run: node scripts/validate-embeds.mjs
       - name: Build & deploy KR (techpulse.co.kr)
@@ -65,3 +69,8 @@ jobs:
           else
             echo "no embed fixes to commit"
           fi
+      - name: Mark successfully deployed content baseline
+        if: success()
+        run: |
+          git tag -f production HEAD
+          git push --force origin refs/tags/production
