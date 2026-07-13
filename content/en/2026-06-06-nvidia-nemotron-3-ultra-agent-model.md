@@ -11,6 +11,10 @@ tags: ["NVIDIA", "Nemotron", "AI Agents", "Open Source AI", "MoE"]
 NVIDIA released Nemotron 3 Ultra on June 4, 2026 — a 550B-parameter Mixture-of-Experts model with only 55B active parameters per token. It delivers 5x higher throughput than comparable open models, cuts agentic task costs by up to 30%, and is fully open including weights, data, and training recipes under the OpenMDW-1.1 license.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Most Capable Open Model for Agentic AI
 
 NVIDIA's Nemotron 3 Ultra isn't just another large language model. It was purpose-built for the way modern AI systems actually work: multi-step planning, tool calls, sub-agent delegation, long context tracking, and error recovery across dozens of turns. Where most benchmarks test single-turn question answering, Nemotron 3 Ultra was optimized for the full agentic loop.
@@ -86,3 +90,10 @@ Nemotron 3 Ultra is fully open — weights, data, and recipes — under the Open
 </div>
 
 Nemotron 3 Ultra represents the clearest sign yet that open models are reaching parity with closed frontier systems for agentic workloads. For teams building production agent pipelines, a fully open, commercially licensed model at this performance level significantly changes the build-vs-buy calculation.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
+· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
+· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
+</div>

@@ -15,6 +15,10 @@ For years, Microsoft's AI story was inseparable from OpenAI. The $13 billion-plu
 
 That changed about six months ago. A renegotiated contract removed those limits, and Build 2026 is the first major public result: seven AI models, built from scratch by the Microsoft AI Superintelligence Team, covering every major modality in enterprise AI.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The MAI Model Family at a Glance
 
 | Model | Role | Key Spec |
@@ -76,4 +80,11 @@ The Maia 200 silicon co-optimization is a key part of this. Microsoft claims tha
 - Frontier Tuning allows enterprise RL customization inside compliance boundaries; Mayo Clinic, EY among early partners
 - Maia 200 custom silicon claimed 30% more cost-efficient than NVIDIA GB200
 
+</div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — News</a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
+· <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
 </div>

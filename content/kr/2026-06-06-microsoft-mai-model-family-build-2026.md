@@ -13,6 +13,10 @@ tags: ["Microsoft", "MAI", "Build2026", "MAI-Thinking-1", "초지능"]
 
 마이크로소프트는 2026년 6월 2일 Build 2026 행사에서 외부 모델에 의존하지 않는 순수 자체 개발 AI 제품군을 처음으로 완전한 형태로 공개했다. 마이크로소프트 AI CEO 무스타파 술레이만(Mustafa Suleyman)은 행사 후 인터뷰에서 "약 6개월 전 OpenAI와의 계약 조건이 변경되면서 비로소 초지능 연구를 독자적으로 추진할 수 있는 권한을 얻었다"고 밝혔다. 그 결과물이 이번 MAI 패밀리다.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## MAI 패밀리 7종 한눈에 보기
 
 | 모델명 | 역할 | 주요 특징 |
@@ -66,4 +70,11 @@ Build 2026의 또 다른 핵심 발표는 '프론티어 튜닝(Frontier Tuning)'
 - 프론티어 튜닝으로 기업별 맞춤 RL 훈련 지원, Mayo Clinic 등과 협업
 - Maia 200 자체 실리콘, GB200 대비 30% 비용 효율 우위 주장
 
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — 뉴스</a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
+· <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
 </div>

@@ -11,6 +11,10 @@ tags: ["NVIDIA", "Nemotron", "AI 에이전트", "오픈소스 AI", "MoE"]
 NVIDIA가 장기(long-running) AI 에이전트 워크플로우 전용으로 설계된 오픈 모델 Nemotron 3 Ultra를 출시했다. 총 5500억 파라미터의 Mixture-of-Experts 아키텍처를 채택했으나 토큰당 활성 파라미터는 550억에 불과해, 동급 오픈 모델 대비 5배 높은 처리량과 30% 낮은 에이전트 태스크 비용을 실현한다. 가중치·데이터·레시피 전체가 완전 오픈 공개되며 OpenMDW-1.1 라이선스를 적용해 상업적 활용도 가능하다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## NVIDIA, 에이전트 시대를 겨냥한 최대 오픈 모델 발표
 
 NVIDIA가 2026년 6월 4일 Nemotron 3 Ultra를 공개하며 오픈 AI 모델 경쟁의 판도를 새롭게 바꿨다. 이 모델은 단순 채팅 응답이 아닌 **계획 수립, 툴 호출, 서브에이전트 위임, 오류 복구** 등 수십 턴에 걸친 복잡한 에이전트 작업을 위해 설계됐다.
@@ -86,3 +90,10 @@ Nemotron 3 Ultra는 OpenMDW-1.1 라이선스(Linux Foundation 주도) 하에 가
 </div>
 
 Nemotron 3 Ultra의 등장은 오픈 AI 에이전트 생태계에 중요한 이정표다. 클로즈드 프론티어 모델에 준하는 성능을 오픈 라이선스로 제공함으로써, 중소 기업과 연구 기관도 비용 부담 없이 강력한 에이전트 시스템을 구축할 수 있는 길이 열렸다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
+· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
+· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
+</div>
