@@ -23,10 +23,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
+      - name: Validate bilingual content quality gate
+        env:
+          BASE_SHA: ${{ github.event.before }}
+        run: python3 scripts/content_quality_gate.py --base "$BASE_SHA"
       - name: Validate embeds & links (pre-deploy)
         run: node scripts/validate-embeds.mjs
       - name: Build & deploy KR (techpulse.co.kr)
