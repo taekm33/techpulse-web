@@ -77,3 +77,10 @@ If Amazon's direct-sales talks progress into actual deals, the competitive surfa
   <li>Trainium2 delivers ~30% better price-performance than comparable Nvidia GPUs</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://aws.amazon.com/ai/machine-learning/trainium/" target="_blank" rel="noopener">AWS Trainium Official</a><br/>
+· <a href="https://aws.amazon.com/machine-learning/neuron/" target="_blank" rel="noopener">AWS Neuron SDK</a><br/>
+· <a href="https://press.aboutamazon.com/" target="_blank" rel="noopener">Amazon Newsroom</a><br/>
+</div>

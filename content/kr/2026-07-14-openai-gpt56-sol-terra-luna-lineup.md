@@ -92,3 +92,10 @@ OpenAI의 발표는 경쟁사들의 즉각적인 맞불로 이어졌다. xAI는 
 <li>2026년 상반기 전 세계 AI 투자 $5,100억 역대 최고, OpenAI+Anthropic이 43% 독식</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스</a><br/>
+· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI 모델 문서</a><br/>
+· <a href="https://research.nvidia.com/" target="_blank" rel="noopener">NVIDIA 리서치</a><br/>
+</div>
