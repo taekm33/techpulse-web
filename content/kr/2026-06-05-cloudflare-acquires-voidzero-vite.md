@@ -86,3 +86,10 @@ Cloudflare는 올해 초 Astro 팀을 인수하면서 오픈소스 거버넌스�
 VoidZero는 이미 Void라는 배포 플랫폼을 Cloudflare 네트워크 위에 구축하고 있었다. Cloudflare는 Vite의 provider-agnostic 추상화를 확장하면서 자사 플랫폼을 Vite 워크플로우의 자연스러운 연장처럼 느끼게 만드는 데 집중할 계획이다.
 
 개발자 커뮤니티의 신뢰를 잃지 않으면서 이 균형을 유지하는 것이 인수 성공의 관건이다. Cloudflare가 Astro 인수에서 약속을 지켜왔다면, VoidZero 인수도 자바스크립트 생태계 역사에서 가장 중요한 인프라 투자 중 하나로 기억될 수 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite 공식 사이트</a><br/>
+· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero 공식</a><br/>
+· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare 블로그</a><br/>
+</div>

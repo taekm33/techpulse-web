@@ -88,3 +88,10 @@ VoidZero had already begun this direction through Void, a deployment platform pu
 The real test is long-term governance. If Cloudflare follows through on the same neutrality it has maintained with Astro, this deal could be remembered as one of the most consequential infrastructure investments in the JavaScript ecosystem. If it drifts toward favoritism, the community has the MIT license and the git history to fork.
 
 For now, developers using Vite, Vitest, or Oxc can expect accelerating investment, faster tooling, and — if Cloudflare's strategic thesis is correct — a build experience purpose-built for the agentic development era.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite Official Site</a><br/>
+· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero Official</a><br/>
+· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Blog</a><br/>
+</div>

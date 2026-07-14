@@ -78,3 +78,10 @@ NVIDIA는 원시 주행 클립에서 인과적으로 연결된 CoC 레이블을 
 Alpamayo 2 Super의 오픈소스 공개는 자율주행 분야에서 특히 의미심장하다. Waymo나 Tesla의 독점 시스템과 달리, 개발자와 연구자들이 레벨4 수준의 자율주행 VLA 모델을 자유롭게 활용·개선할 수 있게 된다. NVIDIA는 OpenRouter, Fireworks, Baseten 같은 플랫폼을 통해 개발자 접근성을 더욱 높일 계획이다.
 
 자율주행 시장이 레벨4 상용화를 향한 임계점에 다가가고 있는 지금, NVIDIA의 이번 발표는 하드웨어(GPU, Drive 플랫폼)에서 소프트웨어 AI 스택 전반으로 영향력을 확장하려는 전략적 움직임으로 풀이된다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA 자율주행(DRIVE)</a><br/>
+· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
+· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
+</div>

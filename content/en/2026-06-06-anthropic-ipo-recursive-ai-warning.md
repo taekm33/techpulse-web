@@ -69,3 +69,10 @@ The paradox clarifies something important: the companies with the most intimate 
 - Analysts skeptical a real pause is feasible amid the US-China AI competition
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a><br/>
+· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic Official</a><br/>
+· <a href="https://www.sec.gov/" target="_blank" rel="noopener">U.S. SEC</a><br/>
+</div>

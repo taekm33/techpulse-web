@@ -82,3 +82,10 @@ Response from the AI industry has been broadly positive. Groups like Americans f
 <li>Industry and advocacy groups broadly supportive; Congress urged to codify mandatory protections next</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener">White House Presidential Actions</a><br/>
+· <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA</a><br/>
+· <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener">NIST Artificial Intelligence</a><br/>
+</div>

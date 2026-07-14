@@ -82,3 +82,10 @@ The open-source release of Alpamayo 2 Super carries significant strategic weight
 For NVIDIA, the move is a clear extension of its hardware dominance into the software AI stack. As the AV market accelerates toward Level 4 commercialization, controlling the foundational model ecosystem creates compounding advantages — teams that build on NVIDIA's AV stack naturally gravitate toward NVIDIA's Drive hardware and cloud infrastructure.
 
 The broader industry signal: the era of black-box AV AI is giving way to open, auditable, reason-tracing models. For a sector where safety and regulatory scrutiny are paramount, that transparency may prove as commercially important as raw benchmark performance.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA Self-Driving (DRIVE)</a><br/>
+· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA Developer Blog</a><br/>
+· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
+</div>
