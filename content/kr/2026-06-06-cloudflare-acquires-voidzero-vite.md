@@ -80,3 +80,11 @@ Cloudflare는 AI 코딩 에이전트가 대량의 코드를 생성하는 시대�
 </div>
 
 Cloudflare의 Voidzero 인수는 단순한 M&A를 넘어선다. 인터넷 트래픽의 과반이 에이전트로 채워진 세계에서, 빌드 툴체인과 엣지 인프라를 동시에 통제하는 플레이어가 되겠다는 선언이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite 공식 사이트</a><br/>
+· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero 공식 사이트</a><br/>
+· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare 공식 블로그</a><br/>
+· <a href="https://vitest.dev/" target="_blank" rel="noopener">Vitest 공식 문서</a>
+</div>

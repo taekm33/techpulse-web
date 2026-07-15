@@ -13,6 +13,10 @@ tags: ["GitHub", "Copilot", "SDK", "에이전트AI", "개발자도구"]
 
 깃허브가 마이크로소프트 빌드 2026을 통해 에이전트 개발 생태계를 대폭 확장했다. 이번 발표의 핵심은 코파일럿 앱이 기반하는 것과 동일한 에이전트 런타임을 개발자들이 자체 서비스에 직접 내장할 수 있게 됐다는 것이다. CI/CD 어시스턴트부터 고객용 AI 기능까지, 단일 런타임 위에서 구축하는 시대가 열렸다.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 코파일럿 SDK GA: 6개 언어로 에이전트 런타임 개방
 
 <div class="article-stats">
@@ -66,3 +70,10 @@ tags: ["GitHub", "Copilot", "SDK", "에이전트AI", "개발자도구"]
 LaunchDarkly, Bright, Amplitude, Sonar, Endor Labs, Octopus Deploy, Packfiles, PagerDuty, Miro 등의 파트너가 코파일럿과 통합되는 에이전트 앱을 제공한다. 이슈를 워크플로우에 맞는 새로운 에이전트에 할당하고, 깃허브를 벗어나지 않고 즐겨 사용하는 도구를 연결할 수 있다.
 
 깃허브에 따르면 월간 커밋 수가 14억 건을 넘어 전년 대비 거의 두 배 증가했으며, 주당 깃허브 액션 실행 시간도 20억 분을 돌파했다. 에이전트 네이티브 개발 환경으로의 전환이 단순한 트렌드가 아닌 현실로 자리 잡고 있음을 보여주는 수치다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
+· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a>
+</div>

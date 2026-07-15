@@ -66,3 +66,11 @@ With the Gemma 4 12B launch, Google officially opened the **Gemma Skills Reposit
 | MTP optimization | Dedicated MTP model included | Not available |
 
 The release lands alongside Google's broader local AI push. For developers building applications where data privacy, offline operation, or low-latency inference matter — medical, legal, on-premise enterprise — Gemma 4 12B removes the cloud dependency at a parameter count that's actually deployable. The encoder-free design means developers get text, vision, and audio in a single model download rather than a pipeline of separately maintained components.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://ai.google.dev/gemma" target="_blank" rel="noopener">Gemma official page</a><br/>
+· <a href="https://huggingface.co/google" target="_blank" rel="noopener">Hugging Face · Google org</a><br/>
+· <a href="https://ai.google.dev/edge/litert" target="_blank" rel="noopener">LiteRT documentation</a><br/>
+· <a href="https://developers.googleblog.com/" target="_blank" rel="noopener">Google Developers Blog</a>
+</div>

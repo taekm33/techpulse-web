@@ -80,3 +80,11 @@ The acquisition comes just one month after Cloudflare laid off approximately 20%
 </div>
 
 Cloudflare's acquisition of Voidzero is one of the clearest articulations yet of what "AI-native infrastructure" actually means in practice: not just faster models or smarter agents, but controlling the entire pipeline from code generation to deployment — and building it for a web where the majority of clients aren't human.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite official site</a><br/>
+· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero official site</a><br/>
+· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Blog</a><br/>
+· <a href="https://vitest.dev/" target="_blank" rel="noopener">Vitest documentation</a>
+</div>

@@ -63,3 +63,11 @@ Alongside the seven-model announcement, Microsoft revealed a co-development agre
 | Mayo Clinic | Strategic partnership | Healthcare AI co-development |
 
 The MAI launch represents a meaningful repositioning. Microsoft moves from being the infrastructure and distribution partner of AI companies to being a direct competitor in the frontier model market. With MAI-Code-1-Flash already deployed to GitHub Copilot's 20M+ user base, Microsoft has distribution advantages that newer AI labs can't easily replicate — and the economic motive to use them aggressively.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://microsoft.ai/" target="_blank" rel="noopener">Microsoft AI</a><br/>
+· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Microsoft Foundry (Azure AI Foundry)</a><br/>
+· <a href="https://news.microsoft.com/" target="_blank" rel="noopener">Microsoft News</a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Official Microsoft Blog</a>
+</div>

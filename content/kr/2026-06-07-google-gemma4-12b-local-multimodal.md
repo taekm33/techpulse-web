@@ -65,3 +65,11 @@ tags: ["Google", "Gemma", "로컬AI", "멀티모달", "오픈소스"]
 | macOS 앱 | 공식 데스크탑 앱 제공 | 미제공 |
 
 Gemma 4 12B의 의미는 단순한 성능 향상을 넘는다. 인코더 없는 통합 아키텍처로 멀티모달 AI를 일반 개발자 노트북에서 실행 가능하게 만든 것은, 클라우드 의존 없이 개인정보 보호와 오프라인 동작이 필요한 기업·의료·교육 환경에서 새로운 배포 시나리오를 열어준다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://ai.google.dev/gemma" target="_blank" rel="noopener">Gemma 공식 페이지</a><br/>
+· <a href="https://huggingface.co/google" target="_blank" rel="noopener">Hugging Face · Google 조직</a><br/>
+· <a href="https://ai.google.dev/edge/litert" target="_blank" rel="noopener">LiteRT 공식 문서</a><br/>
+· <a href="https://developers.googleblog.com/" target="_blank" rel="noopener">Google Developers Blog</a>
+</div>

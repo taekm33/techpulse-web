@@ -13,6 +13,10 @@ GitHub's Copilot SDK is now generally available in six languages — Node.js/Typ
 
 The GitHub Copilot SDK's move from public preview to general availability is more than a version bump. It signals that GitHub is ready for teams to build production systems on the same agentic runtime powering Copilot — from internal developer tools and CI/CD assistants to customer-facing AI features. Since entering public preview, the SDK has already been used to build everything from release-note generators to support workflow agents.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## SDK General Availability: What's Included
 
 <div class="article-stats">
@@ -67,3 +71,10 @@ GitHub's platform data contextualizes why these releases matter. Monthly commits
 The Copilot SDK GA and the new desktop app are GitHub's answer to a clear shift: developers are no longer building tools for humans to use manually. They are building agentic systems where AI does much of the work and humans maintain oversight, policy control, and final judgment. The same runtime that powers GitHub's own flagship product is now available to any team that wants to build on it.
 
 For developers evaluating the agentic tooling landscape, the Copilot SDK's production-stable API, multi-language support, and deep integration with GitHub's existing repository and CI/CD infrastructure make it one of the most immediately usable options for embedding agent capabilities into real engineering workflows.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot official page</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot documentation</a><br/>
+· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a>
+</div>

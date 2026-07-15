@@ -61,3 +61,11 @@ tags: ["Microsoft", "MAI", "MAI-Thinking-1", "AI모델", "빌드2026"]
 | Mayo Clinic | 전략적 파트너십 | 의료 AI 공동 개발 |
 
 마이크로소프트의 이번 행보는 AI 생태계에서 '투자자'에서 '모델 공급자'로의 포지션 전환을 의미한다. OpenAI와 Anthropic이 각각 IPO를 추진하는 시점에, 마이크로소프트는 자체 모델 역량을 확보해 두 회사와의 협력 관계를 보완하는 전략을 택했다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://microsoft.ai/" target="_blank" rel="noopener">Microsoft AI 공식</a><br/>
+· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Microsoft Foundry (Azure AI Foundry)</a><br/>
+· <a href="https://news.microsoft.com/" target="_blank" rel="noopener">Microsoft 뉴스</a><br/>
+· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a>
+</div>
