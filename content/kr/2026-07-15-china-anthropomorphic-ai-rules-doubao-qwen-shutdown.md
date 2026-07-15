@@ -75,3 +75,11 @@ tags: ["중국규제", "의인화AI", "더우바오", "통이첸원", "AI에이�
 <li>의인화 상호작용 방식을 직접 타깃한 세계 최초 법제화 — 글로벌 규제 선례 가능성</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">중국 국가인터넷정보판공실(CAC) 공식</a><br/>
+· <a href="https://www.doubao.com/" target="_blank" rel="noopener">바이트댄스 더우바오(Doubao) 공식</a><br/>
+· <a href="https://qwen.ai/" target="_blank" rel="noopener">알리바바 Qwen(통이첸원) 공식</a><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 팀 공식 블로그</a>
+</div>

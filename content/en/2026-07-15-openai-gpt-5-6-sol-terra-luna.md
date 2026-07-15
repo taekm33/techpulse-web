@@ -85,3 +85,10 @@ Luna's $1.00/M input price is equally significant: it undercuts many competing m
   <li>All three models immediately available in GitHub Copilot</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI official site</a><br/>
+· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI Models documentation</a><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a>
+</div>

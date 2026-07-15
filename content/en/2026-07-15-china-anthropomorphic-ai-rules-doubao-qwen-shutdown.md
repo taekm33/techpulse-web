@@ -77,3 +77,11 @@ The technical assets — the underlying models, the infrastructure — aren't go
 <li>Signals a distinct regulatory philosophy from the EU AI Act — and a potential template for future AI companion legislation globally</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">Cyberspace Administration of China (CAC)</a><br/>
+· <a href="https://www.doubao.com/" target="_blank" rel="noopener">ByteDance Doubao official</a><br/>
+· <a href="https://qwen.ai/" target="_blank" rel="noopener">Alibaba Qwen official</a><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen team blog</a>
+</div>

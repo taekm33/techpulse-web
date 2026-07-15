@@ -72,3 +72,10 @@ Anthropic(Claude), Google(Gemini), Meta(Llama), xAI(Grok) 등 주요 경쟁사�
   <li>GitHub Copilot에 세 모델 즉시 통합, 개발자 접근성 대폭 향상</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
+· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI 모델 공식 문서</a><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스</a>
+</div>
