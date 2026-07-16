@@ -11,6 +11,10 @@ tags: ["GitHub", "Copilot", "SDK", "AI에이전트", "개발자도구"]
 GitHub이 2026년 6월 2일 <strong>Copilot SDK GA</strong>를 선언하며 에이전트 네이티브 개발 플랫폼으로의 전환을 공식화했다. Node.js·Python·Go·.NET·Rust·Java 6개 언어를 지원하며, 새 Copilot 데스크톱 앱·캔버스·클라우드 자동화가 함께 공개됐다. GitHub의 월간 커밋 수는 전년 대비 두 배인 <strong>14억 건</strong>을 돌파했다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Copilot SDK GA — 누구든 에이전트를 만든다
 
 GitHub Copilot SDK가 정식 출시됐다. 프리뷰 기간 동안 CI/CD 어시스턴트, 내부 개발 도구, 고객용 AI 기능을 구축하는 데 활용됐던 SDK가 이제 안정적인 API와 프로덕션 지원을 갖추게 됐다.
@@ -104,3 +108,10 @@ GitHub은 SDK와 함께 **새 GitHub Copilot 데스크톱 앱**을 발표했다.
 ## 전망
 
 GitHub이 에디터 플러그인 수준에서 에이전트 전용 플랫폼으로 도약하고 있다. SDK GA는 어떤 팀이든 Copilot의 에이전트 엔진을 자신의 제품에 내장할 수 있게 한다. 커밋 수 두 배 성장이 보여주듯 에이전트 워크플로우는 이미 GitHub 전체 인프라를 재편하고 있다. 캔버스와 클라우드 자동화가 성숙해지면 '에이전트에 작업을 맡기고 사람이 승인하는' 개발 문화가 기본값이 될 날이 멀지 않았다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK 정식 출시(GA) 공지</a><br/>
+· <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — 에이전트 네이티브 Copilot 데스크톱 앱</a><br/>
+· <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot 공식 문서</a><br/>
+</div>

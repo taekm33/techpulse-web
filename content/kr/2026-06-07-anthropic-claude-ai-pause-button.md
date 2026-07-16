@@ -65,3 +65,9 @@ tags: ["Anthropic", "Claude", "AI안전", "재귀적자기개선", "코드생성
 </div>
 
 앤트로픽이 "선도적인 AI 안전 기업"을 자처하면서도 최첨단 모델을 계속 배포하는 역설적 상황을 스스로 인정하는 이 보고서는, AI 개발 경쟁이 얼마나 복잡한 윤리적 지형 위에 서 있는지를 보여준다. 경쟁하면서도 안전을 추구하는 앤트로픽의 딜레마는 업계 전체가 공유하는 과제이기도 하다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/institute/recursive-self-improvement" target="_blank" rel="noopener">Anthropic Institute — When AI builds itself (원문 보고서)</a><br/>
+· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic — 공식 홈페이지</a><br/>
+</div>

@@ -66,3 +66,9 @@ The report maps out three possible trajectories:
 There is an obvious tension in a self-described AI safety company publishing data showing how fast it is accelerating AI progress while simultaneously calling for a global brake. Anthropic leans into this paradox rather than hiding it, arguing that continued development inside a safety-focused lab is preferable to ceding ground to developers with fewer safety constraints.
 
 Whether the global community finds this reasoning convincing — and whether any viable pause mechanism can be built before it's needed — is now one of the defining questions in technology policy.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/institute/recursive-self-improvement" target="_blank" rel="noopener">Anthropic Institute — When AI builds itself (original report)</a><br/>
+· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic — official site</a><br/>
+</div>

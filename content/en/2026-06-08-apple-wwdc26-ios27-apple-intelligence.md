@@ -11,6 +11,10 @@ tags: ["Apple", "WWDC26", "iOS27", "AppleIntelligence", "CoreAI"]
 Apple's Worldwide Developers Conference 2026 opens today, June 8, with a keynote at 10 a.m. PT. The main event is <strong>iOS 27</strong> and the largest expansion of Apple Intelligence since its debut. A new <strong>CoreAI</strong> framework will let developers — and users — connect third-party AI models like Claude and Gemini directly to Siri, while a suite of new photo editing tools, a redesigned Visual Intelligence, and natural language Shortcuts automation round out what Bloomberg's Mark Gurman calls one of Apple's most ambitious software updates in years.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/hF8swzNR1-o" title="Apple WWDC 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Setting the Stage: Apple Had Promises to Keep
 
 WWDC24 introduced Apple Intelligence to enormous fanfare, but many of the announced features were still missing or incomplete by the time WWDC26 arrived. This year Apple has a credibility gap to close. iOS 27 is the vehicle for doing that, and the scale of what's expected suggests the company has been working hard to close it.
@@ -95,3 +99,10 @@ Apple is addressing widespread criticism of the original Clean Up feature — wh
 Apple's CoreAI strategy is essentially a bet that iOS can become the platform layer for the AI era — the same way the App Store became the distribution layer for the mobile era. By inviting OpenAI, Anthropic, and Google onto the platform rather than fighting them directly, Apple positions itself to capture value at the OS level while letting AI providers compete on quality.
 
 For AI companies, being available through Siri on iOS devices is immediate distribution to over a billion users. The terms Apple sets for that integration — and how much control it retains over the experience — will be one of the most consequential platform decisions in the AI era. Today's keynote is the first chapter of that story.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple Newsroom — Next generation of Apple Intelligence and Siri</a><br/>
+· <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri and iPhone session</a><br/>
+· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence official page</a><br/>
+</div>

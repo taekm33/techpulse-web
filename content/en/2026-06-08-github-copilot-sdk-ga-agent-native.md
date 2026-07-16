@@ -11,6 +11,10 @@ tags: ["GitHub", "Copilot", "SDK", "AIAgents", "DevTools"]
 GitHub declared <strong>Copilot SDK generally available</strong> on June 2, 2026, alongside a new agent-native desktop app, canvas workspaces, cloud automations, and Memory++ context persistence. The SDK now ships stable, production-ready APIs across Node.js, Python, Go, .NET, Rust, and Java — with Rust and Java new at GA. GitHub commits have nearly doubled year-over-year to <strong>1.4 billion per month</strong>, a metric GitHub is attributing directly to agentic workflow adoption.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Copilot SDK: Generally Available
 
 The GitHub Copilot SDK lets teams embed Copilot's agentic engine into their own applications, internal tools, and customer-facing AI features. Since public preview, it has been used to build CI/CD assistants, release automation, and domain-specific coding agents. The GA release ships stable APIs after coordinated cleanup based on preview feedback.
@@ -101,3 +105,10 @@ GitHub's move from editor plugin to agent-native platform is the clearest signal
 The 1.4 billion monthly commits figure is not a vanity metric. It demonstrates that agentic development is already changing the rhythm of how code gets written, reviewed, and merged at scale. Canvases and cloud automations push that further: the model shifts from "developer tells agent what to do" to "agent and developer work on the same artifact together."
 
 For teams evaluating their AI developer tooling strategy, the Copilot SDK GA closes the gap between what's possible with custom development and what ships out of the box. The question is no longer whether to add AI to development workflows — it's which platform to build those workflows on.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK is now generally available</a><br/>
+· <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — The agent-native Copilot desktop app</a><br/>
+· <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot documentation</a><br/>
+</div>

@@ -86,3 +86,9 @@ Perplexity가 제시한 시연 사례는 설득력이 있다. 2023~2025년 사�
 ## 의미와 전망
 
 SaC가 제시하는 방향은 단순한 성능 개선을 넘어선다. 에이전트가 자신의 도구를 직접 커스터마이징하는 **도구의 도구화(meta-tooling)** 패러다임을 검색 영역에 적용한 것이다. 이 방식이 일반화되면 검색 API 시장의 경쟁 구도 자체가 바뀔 수 있다. 단순히 빠르고 정확한 검색을 제공하는 것을 넘어, 에이전트가 코드로 표현하기 좋은 구조적·모듈식 SDK를 얼마나 잘 제공하느냐가 경쟁력이 된다. Exa, Tavily, Google AI Search가 어떻게 대응할지 주목할 필요가 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation" target="_blank" rel="noopener">Perplexity Research — Rethinking Search as Code Generation (원문)</a><br/>
+· <a href="https://www.perplexity.ai/" target="_blank" rel="noopener">Perplexity — 공식 홈페이지</a><br/>
+</div>

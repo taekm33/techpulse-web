@@ -11,6 +11,10 @@ tags: ["Apple", "WWDC26", "iOS27", "AppleIntelligence", "CoreAI"]
 Apple의 연례 개발자 콘퍼런스 <strong>WWDC26</strong>이 2026년 6월 8일 오전 10시(미 태평양 시각) 키노트와 함께 막을 올린다. 이번 발표의 핵심은 <strong>iOS 27</strong>과 함께 공개되는 대규모 Apple Intelligence 확장이다. 서드파티 AI 모델(Claude, Gemini 포함)을 Siri에 연동하는 <strong>CoreAI</strong> 프레임워크, Visual Intelligence의 카메라 앱 이전, AI 사진 편집 도구 세트가 주요 내용이다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/hF8swzNR1-o" title="Apple WWDC 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## iOS 27과 Apple Intelligence의 새 시대
 
 Apple은 2024년 WWDC에서 발표했던 여러 AI 기능들이 아직 출시되지 않았다는 비판을 받아왔다. WWDC26은 그 약속들을 실현할 무대다. 블룸버그 마크 거먼의 사전 보도에 따르면 iOS 27은 Apple 역사상 가장 야심 찬 소프트웨어 업데이트 중 하나가 될 전망이다.
@@ -84,3 +88,10 @@ Visual Intelligence가 카메라 앱 내 Siri 옵션으로 이동한다. 기존�
 ## 전망
 
 Apple의 CoreAI 전략은 단순히 기능을 추가하는 수준을 넘어 **AI 모델 공급 생태계**를 iOS 위에 구축하겠다는 선언에 가깝다. OpenAI·Anthropic·Google이 경쟁하는 AI 전쟁의 전장이 이제 수십억 개의 Apple 기기 위로 확장되는 것이다. 개발자 입장에서는 Apple의 온디바이스 AI와 클라우드 AI 모델을 자유롭게 선택하고 조합할 수 있는 새로운 시대가 열릴 가능성이 높다. 키노트 세부 발표 내용에 따라 AI 앱 개발 판도가 크게 달라질 수 있어 오늘 발표가 특히 주목된다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple 뉴스룸 — 차세대 Apple Intelligence·Siri 공개</a><br/>
+· <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri·iPhone 세션</a><br/>
+· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence 공식 페이지</a><br/>
+</div>

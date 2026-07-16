@@ -96,3 +96,9 @@ Search as Code represents a subtle but significant shift in how we think about A
 If the token and accuracy claims hold up under independent testing, this approach has real implications for how AI agents handle research tasks. The bottleneck in many agentic workflows isn't reasoning — it's getting reliable information from the web efficiently. A 10x improvement in retrieval quality and cost, if repeatable, would compound significantly across multi-step tasks.
 
 The deeper question is whether this pattern extends beyond Perplexity's own infrastructure. An open version of the Agentic Search SDK concept — where agents can write retrieval logic against any search backend — would be a meaningful primitive for the broader agentic ecosystem. For now, Perplexity holds the stack. Watching how competitors — Exa, Tavily, Google — respond will tell us whether code-first search becomes the new standard or remains a proprietary advantage.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation" target="_blank" rel="noopener">Perplexity Research — Rethinking Search as Code Generation</a><br/>
+· <a href="https://www.perplexity.ai/" target="_blank" rel="noopener">Perplexity — official site</a><br/>
+</div>
