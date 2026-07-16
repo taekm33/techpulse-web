@@ -70,3 +70,9 @@ However, the directional signal matters: every major AI lab that moves toward cu
 ## Looking Ahead
 
 If DeepSeek's chip effort advances to production, it will mark a meaningful milestone in the US–China semiconductor rivalry: a Chinese AI lab achieving meaningful independence from both Western and domestic chip suppliers. More immediately, it is likely to accelerate hiring in chip-design talent across China's AI sector and prompt other Chinese labs to announce or accelerate their own silicon programs. The details to watch: any public partner announcements, foundry agreements (particularly with SMIC or TSMC's non-restricted nodes), and whether DeepSeek begins publishing inference benchmarks on its own hardware.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://techstartups.com/2026/07/07/deepseek-is-building-its-own-ai-chip-to-cut-reliance-on-nvidia-and-huawei/" target="_blank" rel="noopener">Tech Startups — DeepSeek is building its own AI chip to cut reliance on Nvidia and Huawei (Reuters)</a><br/>
+· <a href="https://wccftech.com/deepseek-building-its-own-inference-chip-to-break-free-from-nvidia-huawei/" target="_blank" rel="noopener">Wccftech — DeepSeek building its own inference chip to break free from Nvidia and Huawei</a><br/>
+</div>

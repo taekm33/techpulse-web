@@ -83,3 +83,9 @@ tags: ["중국AI규제", "바이트댄스", "알리바바", "AI동반자", "더�
 중국의 이번 규제는 AI 규제 방식에 있어 새로운 표준을 제시한다는 평가다. 기존 규제가 AI의 안전성·편향성·허위 정보 문제에 집중했다면, 이번 조치는 **인간과 AI 사이의 감정적 관계 그 자체를 규율 대상**으로 설정한다. 사용자의 심리적 자율성 보호와 AI 서비스의 감성 마케팅 사이의 경계를 어디에 그을 것인지, 전 세계 규제 당국이 주목하고 있다.
 
 한국을 포함한 아시아 국가들도 AI 동반자 서비스 관련 입법 논의가 진행 중이라, 중국의 시행 결과가 향후 국내 규제 방향에도 적잖은 영향을 미칠 것으로 전망된다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom" target="_blank" rel="noopener">SCMP — 바이트댄스·알리바바, 규제 앞두고 휴먼라이크 AI 에이전트 비활성화</a><br/>
+· <a href="https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/" target="_blank" rel="noopener">TechNode — 더우바오·Qwen, 7월 15일 AI 에이전트 기능 종료</a><br/>
+</div>

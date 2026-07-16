@@ -86,3 +86,9 @@ For AI developers building products anywhere in the world, the message is clear:
 - China's move may set a global precedent for regulating emotional AI interaction specifically.
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom" target="_blank" rel="noopener">SCMP — ByteDance and Alibaba disable humanlike AI custom agents as new rules loom</a><br/>
+· <a href="https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/" target="_blank" rel="noopener">TechNode — Doubao and Qwen to shut down AI agent features on July 15</a><br/>
+</div>

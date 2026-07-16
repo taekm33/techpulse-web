@@ -60,3 +60,9 @@ AI 서비스 기업이라면 주목: 추론 비용이 전체 AI 운영비의 70~
 ## 앞으로의 전망
 
 딥시크의 자체 칩 행보가 가시화된다면, 이는 단순히 한 스타트업의 기술 전략을 넘어 미·중 반도체 패권 경쟁의 새로운 국면을 여는 사건이 될 수 있다. 중국 내 AI 기업들이 자력으로 고성능 추론 칩을 확보하려는 움직임이 확산될 경우, 글로벌 AI 반도체 시장의 판도는 지금과 상당히 달라질 수 있다. 업계 관계자들은 딥시크의 인재 채용 동향과 파운드리 파트너십 발표 여부를 주시하고 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://techstartups.com/2026/07/07/deepseek-is-building-its-own-ai-chip-to-cut-reliance-on-nvidia-and-huawei/" target="_blank" rel="noopener">Tech Startups — 딥시크, 엔비디아·화웨이 의존 축소 위한 자체 AI 칩 개발 (로이터 인용)</a><br/>
+· <a href="https://wccftech.com/deepseek-building-its-own-inference-chip-to-break-free-from-nvidia-huawei/" target="_blank" rel="noopener">Wccftech — 딥시크, 엔비디아·화웨이 탈피 위한 추론 칩 개발</a><br/>
+</div>
