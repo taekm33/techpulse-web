@@ -60,3 +60,10 @@ Omnigent는 기존 에이전트 위에 얹는 형태로 동작한다. 클로드 
 </div>
 
 기업들이 에이전트를 실험 단계에서 실제 운영 단계로 옮기면서, 보안·접근 권한·예산 한도·감사 가능성에 대한 압박이 커지고 있다. Omnigent는 이런 압박에 대응하는 '관리용 소프트웨어 계층' 경쟁이 본격화됐음을 보여주는 사례다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks 공식 블로그</a><br/>
+· <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks 공식 GitHub</a><br/>
+</div>

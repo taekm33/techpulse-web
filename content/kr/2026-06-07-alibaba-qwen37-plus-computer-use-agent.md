@@ -90,3 +90,11 @@ Qwen3.7-Plus가 공개한 어휘 앱 빌드 데모(11시간, 1,000+ 에이전트
 ## 시장에 미치는 영향
 
 컴퓨터 사용 AI 시장은 2024년 말부터 본격화됐지만, 대부분의 구현이 **브라우저 자동화** 수준에 머물렀다. Qwen3.7-Plus는 앱·터미널·코딩·클라우드 콘솔까지 영역을 확장하며 이 카테고리의 기준점을 높였다. 특히 앤트로픽 API 프로토콜 호환은 기존 Claude 기반 에이전트 파이프라인에 Qwen을 대체재 혹은 보완재로 즉시 투입할 수 있다는 의미로, 엔터프라이즈 채택을 가속화할 수 있다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그 (QwenLM)</a><br/>
+· <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen 공식 GitHub (QwenLM)</a><br/>
+· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 공식 Hugging Face</a><br/>
+</div>

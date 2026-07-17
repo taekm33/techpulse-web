@@ -80,3 +80,10 @@ OpenAI는 2024년 저장 메모리, 2025년 Dreaming V0, 2026년 Dreaming V3를 
 - **경쟁 구도**: Google, Anthropic과 함께 장기 기억 AI 비서 경쟁 본격화
 
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/index/memory-and-new-controls-for-chatgpt/" target="_blank" rel="noopener">OpenAI — Memory and new controls for ChatGPT (공식 발표)</a><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News (공식 뉴스룸)</a><br/>
+</div>

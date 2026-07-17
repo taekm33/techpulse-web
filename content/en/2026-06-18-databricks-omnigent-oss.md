@@ -60,3 +60,10 @@ Databricks is positioning Omnigent as a vendor-neutral management layer rather t
 </div>
 
 As companies move agents from experimentation into live deployment, pressure is mounting around security, access control, budget limits, and auditability — especially when multiple agent systems interact. Omnigent is the latest entrant in a fast-forming race to define that management layer, and a sign that the AI agent market's center of gravity is moving beyond the models themselves.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks Blog (official)</a><br/>
+· <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks on GitHub</a><br/>
+</div>

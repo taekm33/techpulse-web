@@ -88,3 +88,11 @@ Alibaba's announced figures — benchmark scores, pricing, demo results — are 
 ## What This Means for the Market
 
 The computer-use category spent most of 2025 focused on browser automation. Qwen3.7-Plus raises the floor by claiming native coverage of app interfaces, terminals, and cloud consoles in a single model. Its Anthropic API compatibility is strategically important — it lowers the switching cost for enterprise teams already invested in Claude-based tooling, making Qwen3.7-Plus a credible day-one candidate for hybrid or fallback deployments. Whether the unified scope holds under production load will determine how seriously enterprises adopt it by Q3 2026.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen Official Blog (QwenLM)</a><br/>
+· <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen on GitHub (QwenLM)</a><br/>
+· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+</div>

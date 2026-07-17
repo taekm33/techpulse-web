@@ -80,3 +80,10 @@ The key differentiator isn't just the technology itself, but the vision: an AI a
 - **User control** preserved via memory summary page with full visibility and edit capability
 
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/index/memory-and-new-controls-for-chatgpt/" target="_blank" rel="noopener">OpenAI — Memory and new controls for ChatGPT (official)</a><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News (official newsroom)</a><br/>
+</div>

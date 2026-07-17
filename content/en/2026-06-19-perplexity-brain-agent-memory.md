@@ -57,3 +57,10 @@ It's also worth being precise about what "self-improving" means here. Brain make
 | Access | Max/Enterprise Max ($200/mo) | Free, open-source | Free, open-source |
 
 Brain remains in Research Preview, and Perplexity says further capabilities are planned without a specified timeline. For now, it's a clear signal that the next phase of the agent wars isn't just about smarter models — it's about which systems remember well enough to stop repeating their own mistakes.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity Docs (official)</a><br/>
+· <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity Blog (official)</a><br/>
+</div>

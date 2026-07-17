@@ -57,3 +57,10 @@ tags: ["퍼플렉시티", "AI에이전트", "메모리시스템"]
 | 이용 조건 | Max/Enterprise Max (월 200달러) | 무료, 오픈소스 | 무료, 오픈소스 |
 
 Brain은 아직 Research Preview 단계이며, 퍼플렉시티는 구체적인 일정 없이 추가 기능을 계획 중이라고 밝혔다. 분명한 것은, 에이전트 경쟁의 다음 국면이 더 똑똑한 모델만의 문제가 아니라 '같은 실수를 반복하지 않을 만큼 잘 기억하는 시스템'을 누가 만드느냐의 문제로 옮겨가고 있다는 점이다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity 공식 문서 (Docs)</a><br/>
+· <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity 공식 블로그</a><br/>
+</div>
