@@ -99,3 +99,11 @@ Murati's personal history adds context. When OpenAI's board fired Sam Altman in 
 The release of Inkling shifts the calculus for teams that wanted a capable open-weight model but were unwilling to rely on Chinese-origin weights for compliance, security, or geopolitical reasons. Until now, Meta's Llama series was the dominant Western choice — strong, but trailing the frontier on agentic tasks. Inkling lands clearly ahead on those specific benchmarks.
 
 Whether the performance lead holds as competitors respond remains to be seen. Thinking Machines has already signaled that Inkling is "the first of several new models under development." The open-source frontier is moving fast in both hemispheres.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab (official site)</a><br/>
+· <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines on Hugging Face</a><br/>
+· <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker Docs (official)</a><br/>
+</div>

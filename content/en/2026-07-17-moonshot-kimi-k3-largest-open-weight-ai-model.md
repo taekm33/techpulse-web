@@ -104,3 +104,11 @@ Bloomberg reported in June that Moonshot was seeking **$2 billion in fresh fundi
 K3 has been available for only hours at publication time. Early benchmarks and viral demonstrations may overstate reliable real-world performance — the model has yet to face the full gauntlet of adversarial testing that comes once weights are public and every developer can poke at it directly. Moonshot has also not yet fully opened the model; the full weight release on July 27 is the genuine open-source moment, and independent inspection of the architecture may reveal details that change current assessments.
 
 What is already clear is that the field of play has shifted. DeepSeek proved in early 2025 that China could match US model efficiency at dramatically lower cost. Kimi K3 is a claim that China can now match — and in some benchmarks beat — US frontier quality at the open-source level. If the weights hold up under scrutiny, this is not just a big release for Moonshot. It is a marker for the entire global AI race.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI (official site)</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face (model weights)</a><br/>
+· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI on GitHub</a><br/>
+</div>

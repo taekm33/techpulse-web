@@ -97,3 +97,11 @@ Kimi K3 출시는 Moonshot AI의 劇的인 재기를 의미하기도 한다. 한
 Constellation Research의 홀거 뮬러 애널리스트는 K3를 "또 다른 DeepSeek 모멘트"가 될 수 있다고 평가하며, "역대 최대 오픈웨이트 모델, 시각 피드백이 가능한 멀티모달, 저렴한 가격이라는 세 가지 조건을 동시에 충족한다"고 밝혔다. Arena CEO는 더 나아가 중국 오픈소스 AI가 미국 모델을 처음으로 추월한 역사적 순간일 수 있다고 주장했다.
 
 단, 공개된 지 몇 시간 만에 쏟아지는 초기 벤치마크와 바이럴 시연은 실제 실사용 성능을 과장할 수 있다는 점을 유의해야 한다. 전체 가중치 공개 이후 개발자들이 직접 모델을 검증하는 7월 27일 이후가 진정한 시험대가 될 것이다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face (모델 가중치)</a><br/>
+· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
+</div>

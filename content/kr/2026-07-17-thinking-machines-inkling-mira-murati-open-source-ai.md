@@ -91,3 +91,11 @@ Thinking Machines Lab은 2025년 7월 a16z를 리드 투자자로 엔비디아, 
 ## 전망: 오픈소스 AI 지형 변화의 신호탄
 
 Inkling 공개는 서방 AI 기업들이 독점 모델로만 경쟁하던 구도에 균열을 낸다. 현재까지 서방의 강력한 오픈웨이트 모델은 메타의 Llama 계열이 사실상 유일한 선택지였지만, Inkling은 에이전틱 사용 시나리오에서 이를 확연히 뛰어넘는다. 규제·보안·데이터 주권 이유로 중국산 모델을 채택하기 어려웠던 서방 기업들에게는 새로운 실질적 대안이 생긴 셈이다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab 공식 사이트</a><br/>
+· <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines 공식 Hugging Face</a><br/>
+· <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker 공식 문서</a><br/>
+</div>
