@@ -65,3 +65,11 @@ This means agents can now autonomously provision compute, run training jobs, ret
 | CI/CD integration | Standard shell script compatible | Not directly supported |
 
 The Colab CLI is available now. Setup instructions are in the Google Colab CLI GitHub repository. For teams running ML experiments, fine-tuning open models, or building agentic ML pipelines, the tool removes the infrastructure friction that has kept Colab compute separate from the rest of the development workflow — and opens up GPU-accelerated compute to any automation that can run a shell command.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory (official)</a><br/>
+· <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab Official FAQ (Google Research)</a><br/>
+· <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab Official GitHub</a><br/>
+</div>

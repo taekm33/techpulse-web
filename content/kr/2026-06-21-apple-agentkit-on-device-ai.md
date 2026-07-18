@@ -65,3 +65,11 @@ AgentKit은 서드파티 앱이 검색, 일정 업데이트, 문서 요약 같�
 <li>복잡한 추론이 필요한 작업은 여전히 클라우드 의존적이라는 한계 존재</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Intelligence 공식 페이지</a><br/>
+· <a href="https://developer.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Developer · Apple Intelligence</a><br/>
+· <a href="https://machinelearning.apple.com/" target="_blank" rel="noopener">Apple Machine Learning Research</a><br/>
+</div>

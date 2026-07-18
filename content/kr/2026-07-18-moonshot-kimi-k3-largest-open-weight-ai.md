@@ -93,3 +93,12 @@ Kimi K3의 가격은 서방 경쟁사 대비 현저히 낮다.
 ## 전망: 오픈소스 AI의 지형 변화
 
 이번 K3 출시는 오픈소스와 독점 모델 사이의 성능 격차가 사실상 닫혔음을 시사한다. 7월 27일 가중치 공개 후 외부 연구자들의 독립 검증이 이루어지면, 폐쇄형 모델의 프리미엄 가격 정당성이 근본적으로 흔들릴 수 있다. 문샷AI의 코딩 에이전트 'Kimi Code'도 같은 날 두 차례 업데이트(v0.25.0, v0.26.0)되며 Claude Code, Gemini CLI와의 직접 경쟁을 선언했다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face</a><br/>
+· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 서비스</a><br/>
+</div>

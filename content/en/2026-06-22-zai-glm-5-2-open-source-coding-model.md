@@ -60,3 +60,11 @@ Teams building AI products outside the US should consider the risk of architecti
 </div>
 
 GLM-5.2 won't automatically become every team's first choice — many developers will still prefer Anthropic or OpenAI models for quality, tooling, and support. But the release underlines a broader shift: AI infrastructure access is no longer a neutral utility, and open-source alternatives are closing the gap faster than many expected.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai (official site)</a><br/>
+· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) Official Hugging Face</a><br/>
+· <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai Official GitHub</a><br/>
+</div>

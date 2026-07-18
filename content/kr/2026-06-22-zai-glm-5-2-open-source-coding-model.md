@@ -60,3 +60,11 @@ GLM-5.2는 컴퓨팅 비용 절감을 위한 아키텍처 변경도 포함했다
 </div>
 
 결국 GLM-5.2 자체가 모든 팀의 1순위 선택이 되지는 않을 수 있다. 품질, 툴링, 지원 측면에서 여전히 Anthropic이나 OpenAI 모델을 선호하는 개발자도 많을 것이다. 그러나 이번 출시는 AI 인프라 접근성이 더 이상 중립적인 유틸리티가 아니라는 점을, 그리고 오픈소스 대안이 빠르게 격차를 좁히고 있다는 점을 분명히 보여준다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai 공식 사이트</a><br/>
+· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) 공식 Hugging Face</a><br/>
+· <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai 공식 GitHub</a><br/>
+</div>

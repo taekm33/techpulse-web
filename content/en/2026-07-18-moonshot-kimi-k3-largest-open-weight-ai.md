@@ -94,3 +94,12 @@ Moonshot's trajectory mirrors that of DeepSeek. The company had slid from third 
 When the weights go public, the "largest open model" claim stops being a spec sheet and becomes something any developer can download and test. If independent evaluations confirm K3's benchmark scores, it will be increasingly difficult for closed-source providers to justify premium pricing on capability grounds alone. Moonshot also released two updates to Kimi Code (v0.25.0 and v0.26.0) on the same day as K3's announcement — adding subagent tooling and background task management to directly challenge Anthropic's Claude Code and Google's Gemini CLI in the agentic coding market.
 
 The open-source frontier has effectively arrived at the proprietary frontier. The field just got a lot more crowded.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI (official site)</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI Official Hugging Face</a><br/>
+· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI Official GitHub</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi (official service)</a><br/>
+</div>

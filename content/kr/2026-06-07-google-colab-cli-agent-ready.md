@@ -62,3 +62,11 @@ Colab CLI의 가장 주목할 특성은 AI 에이전트 호환성이다. CLI는 
 | 재현성 | `.ipynb` 로그 자동 생성 | 수동 관리 |
 
 Colab CLI는 단순한 편의성 개선을 넘어 ML 인프라 접근 방식을 바꾼다. 비싼 로컬 GPU를 갖추지 않아도 터미널만 있으면 A100급 컴퓨팅을 스크립트 실행 흐름에 자연스럽게 통합할 수 있다. 그리고 AI 에이전트가 직접 ML 인프라를 조작하는 시대에, 이 CLI는 에이전트가 스스로 모델을 학습시키고 배포하는 자율 파이프라인의 핵심 도구가 될 수 있다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory 공식</a><br/>
+· <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab 공식 FAQ (Google Research)</a><br/>
+· <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab 공식 GitHub</a><br/>
+</div>
