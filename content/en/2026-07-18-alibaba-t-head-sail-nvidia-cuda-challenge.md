@@ -81,3 +81,11 @@ Three signals will tell you whether SAIL graduates from press release to ecosyst
 3. **Interoperability with Huawei CANN and Moore Threads stacks** — a shared abstraction layer across Chinese hardware would be significantly more compelling than three competing alternatives.
 
 US export controls on Nvidia chips have given Chinese AI labs an unusually strong incentive to make alternative software ecosystems work. Whether that pressure translates into a genuine developer shift remains the central question. The hardware is getting better. Now the software has to follow.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.t-head.cn/" target="_blank" rel="noopener">Alibaba T-Head (official)</a><br/>
+· <a href="https://www.alibabagroup.com/en-US/" target="_blank" rel="noopener">Alibaba Group (official)</a><br/>
+· <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noopener">NVIDIA CUDA Zone (official)</a><br/>
+</div>

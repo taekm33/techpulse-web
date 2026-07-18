@@ -84,3 +84,11 @@ SAIL이 이 세 가지를 모두 대체하려면 오랜 시간이 필요하다. 
 앞으로 주목해야 할 신호는 세 가지다. **다운로드 수와 커뮤니티 기여 속도**, **독립적인 성능 벤치마크**, 그리고 **화웨이·무어 스레즈와의 소프트웨어 상호 운용성** 여부다. SAIL이 단순한 오픈소스 선언에 그치는지, 아니면 실제 개발자 전환을 이끄는지는 이 세 지표가 판가름할 것이다.
 
 소프트웨어 전쟁은 이제 막 시작됐다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.t-head.cn/" target="_blank" rel="noopener">알리바바 T-Head(핑터우거) 공식</a><br/>
+· <a href="https://www.alibabagroup.com/en-US/" target="_blank" rel="noopener">Alibaba Group 공식</a><br/>
+· <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noopener">NVIDIA CUDA Zone (공식)</a><br/>
+</div>
