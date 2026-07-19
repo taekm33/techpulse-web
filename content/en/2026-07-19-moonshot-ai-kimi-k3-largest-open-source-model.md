@@ -94,3 +94,10 @@ For developers and enterprise buyers, the practical implications are significant
   <li>Moonshot AI valued at $20B+ following a $2B May 2026 round led by Meituan</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI Platform</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi (official)</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face</a><br/>
+</div>

@@ -11,6 +11,10 @@ tags: ["GitHub", "Copilot", "AI Agents", "SDK", "Developer Tools"]
 GitHub has released the Copilot SDK for general availability, exposing the agent runtime behind Copilot CLI to developers building custom applications. Supporting Python, TypeScript, Go, .NET, Java, and Rust, it puts GitHub in direct competition with Anthropic's Claude Agent SDK and OpenAI's Agents SDK — with a key twist: it's subscription-gated, not usage-billed.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Changed
 
 Until now, GitHub Copilot lived inside IDEs and a command-line interface. The **Copilot SDK** changes that: the same agent runtime that powers Copilot CLI can now be embedded into internal tools, CI/CD pipelines, and customer-facing products. Developers define what an agent should accomplish; the Copilot runtime handles planning, tool invocation, and file edits automatically.
@@ -82,3 +86,12 @@ For the broader agent ecosystem, this adds a third major SDK framework alongside
 </div>
 
 The real test for the Copilot SDK won't be its technical specification — it will be whether enterprise teams choose a subscription-gated runtime over a usage-billed alternative. For organizations already deep in the GitHub ecosystem, that decision may effectively be made for them. For everyone else, the pricing model comparison just got more interesting.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot (official)</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot docs</a><br/>
+· <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub Changelog</a><br/>
+· <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK docs</a><br/>
+· <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
+</div>

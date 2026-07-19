@@ -63,3 +63,11 @@ NVIDIA DSX는 GPU 칩 하나가 아니라 컴퓨팅·네트워킹·소프트웨�
 <li>SK하이닉스·삼성 등 한국 생태계 전반의 엔비디아 협력과 맞물려 한국의 AI 인프라 거점화 가속</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 뉴스룸</a><br/>
+· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 블로그</a><br/>
+· <a href="https://www.navercloudcorp.com/" target="_blank" rel="noopener">네이버클라우드</a><br/>
+· <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA</a><br/>
+</div>

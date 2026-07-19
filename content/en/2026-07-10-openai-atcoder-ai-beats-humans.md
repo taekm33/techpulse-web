@@ -83,3 +83,9 @@ The trajectory is striking. At IOI 2024, the OpenAI system barely missed a bronz
 OpenAI's team has set its sights on the **International Olympiad in Informatics (IOI) 2026**, scheduled for early August. If the pattern holds, another record seems likely.
 
 For developers and engineering leaders watching this trend, the AtCoder result is more than a benchmark curiosity. It signals that AI systems have crossed a threshold where the hardest problems in algorithmic reasoning — problems that stump the world's best human minds — are no longer safe territory for human exclusivity. The next question isn't whether AI can solve hard problems, but how quickly that capability will translate into the day-to-day reality of professional software development.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI (official)</a><br/>
+· <a href="https://atcoder.jp/" target="_blank" rel="noopener">AtCoder</a><br/>
+</div>

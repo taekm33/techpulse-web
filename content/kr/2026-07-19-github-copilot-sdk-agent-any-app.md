@@ -11,6 +11,10 @@ tags: ["GitHub", "Copilot", "AI에이전트", "SDK", "개발도구"]
 GitHub이 Copilot CLI 뒤의 에이전트 런타임을 외부 개발자에게 개방하는 공식 Copilot SDK를 정식 출시했다. Python, TypeScript, Go, .NET, Java, Rust 6개 언어를 지원하며, Anthropic의 Claude Agent SDK·OpenAI의 Agents SDK와 직접 경쟁하는 행보다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 무엇이 달라졌나?
 
 지금까지 GitHub Copilot은 IDE 플러그인과 CLI 도구로만 경험할 수 있었다. 이제 **Copilot SDK** 덕분에 기업 내부 툴, CI/CD 파이프라인, 심지어 고객 대면 제품에도 동일한 에이전트 런타임을 직접 삽입할 수 있게 됐다. 개발자는 에이전트가 "무엇을 해야 하는지"만 정의하면, Copilot 런타임이 계획 수립·도구 호출·파일 편집을 자동으로 처리한다.
@@ -78,3 +82,12 @@ GitHub는 이 SDK로 Copilot을 단순 어시스턴트 제품에서 **배포 가
 </div>
 
 Copilot SDK의 진짜 승부처는 기술 스펙이 아니라 **기업 내 기존 GitHub 생태계와의 결합력**이다. 이미 Copilot에 투자한 조직에게는 자연스러운 선택이 될 수 있지만, 외부 진입자에게는 구독 라이선스라는 장벽이 작용할 수도 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a><br/>
+· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 문서</a><br/>
+· <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub 체인지로그</a><br/>
+· <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK 문서</a><br/>
+· <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
+</div>

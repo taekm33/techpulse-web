@@ -92,3 +92,10 @@ Moonshot AI는 K3에 두 가지 핵심 아키텍처 혁신을 적용했다고 �
   <li>Moonshot AI 기업 가치 $20B+ 돌파, 2026년 5월 $2B 투자 유치 완료</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 플랫폼</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 사이트</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI · Hugging Face</a><br/>
+</div>

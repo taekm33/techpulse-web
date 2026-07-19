@@ -73,3 +73,9 @@ Minaiev는 대회 해설 방송에서 사용된 시스템 아키텍처를 일부
 ## 앞으로의 전망
 
 OpenAI는 다음 달 열리는 IOI 2026을 차기 목표로 삼고 있다. 현재 추세라면 AI가 인간 최고 수준의 알고리즘 문제를 안정적으로 해결하는 시대가 멀지 않았다는 평가가 나온다. 기업들이 AI를 활용한 코드 생성·리팩토링·버그 수정에 본격적으로 투자를 늘리는 흐름과 맞물려, 이번 AtCoder 결과는 단순한 대회 성적 이상의 의미를 지닌다. 추론 모델의 역량이 이미 인류 최정상의 문제 해결 능력을 넘어섰다는 신호탄이기 때문이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식</a><br/>
+· <a href="https://atcoder.jp/" target="_blank" rel="noopener">AtCoder</a><br/>
+</div>
