@@ -11,6 +11,10 @@ tags: ["Microsoft-WorkIQ", "M365-API", "enterprise-AI", "Copilot", "developer-AP
 Microsoft announced on June 2, 2026 that <strong>Work IQ APIs</strong> will reach general availability on June 16, 2026. Work IQ is the intelligence layer inside Microsoft 365 that understands how work gets done across an organization. Opening it to external developers means agents can now reason over M365 emails, meetings, documents, and Teams conversations — with the same context Copilot already uses — through a production-ready, enterprise-grade API surface.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/FFMm454fxNA" title="Microsoft Build 2026 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Work IQ Is (and Why It Matters)
 
 Microsoft 365 is where most enterprise knowledge lives: email threads, meeting transcripts, shared documents, Teams conversations, calendar history. Individually these are raw records. Work IQ is the layer that understands **how they connect** — who owns what project, which decisions happened in which meetings, what follow-ups were promised and to whom.
@@ -100,3 +104,10 @@ Integration with agent frameworks like LangChain, AutoGen, or Microsoft's own Se
 ## Developer Opportunity
 
 Work IQ APIs create a new category of enterprise agent products: assistants that are deeply contextual to a specific organization's actual history and work patterns rather than generic knowledge. ISVs, consulting firms, and internal IT teams that build on Work IQ before competitors will have a head start in the enterprise AI agent market. The June 16 GA date is a specific, near-term milestone worth targeting — early integrations built on preview should be production-deployable day one.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noopener">Microsoft 365</a><br/>
+&middot; <a href="https://learn.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noopener">Microsoft 365 documentation</a><br/>
+&middot; <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft Copilot</a><br/>
+</div>

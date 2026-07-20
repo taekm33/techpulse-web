@@ -13,6 +13,10 @@ NVIDIA has launched Nemotron 3 Ultra, a 550B-parameter sparse Mixture-of-Experts
 
 NVIDIA is entering the open frontier model race with a model purpose-built for what most current LLMs struggle with: long, multi-step agent workflows that involve planning, tool calling, sub-agent delegation, output validation, and error recovery across dozens of turns. Nemotron 3 Ultra isn't optimized for single-turn chat benchmarks — it's optimized for the messy, extended reality of production agentic systems.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Performance Numbers That Matter for Agents
 
 <div class="article-stats">
@@ -62,3 +66,10 @@ The 30% cost reduction is particularly meaningful in agent contexts. Because age
 The open model landscape has been dominated by Meta's Llama series and Chinese labs such as Alibaba and DeepSeek. NVIDIA's entry with a fully open 550B-parameter model — backed by one of the world's largest GPU and infrastructure ecosystems — shifts the dynamic considerably. Developers can run Nemotron 3 Ultra on NVIDIA-optimized infrastructure from day one, with enterprise-grade tooling, NIM microservices, and a growing list of cloud partners already lined up.
 
 For teams building production agent systems, the combination of frontier accuracy, 5× throughput gains, measurable cost reduction, and fully open weights makes Nemotron 3 Ultra a serious contender for the backbone of the next generation of enterprise AI applications.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron</a><br/>
+&middot; <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a><br/>
+&middot; <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA blog</a><br/>
+</div>

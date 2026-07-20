@@ -49,3 +49,10 @@ TypeScript는 2010년 마이크로소프트가 JavaScript에 정적 타입을 �
 </div>
 
 정식 출시 시점은 6월 18일 RC 공개로부터 한 달 이내로 잡혀 있다. 마이크로소프트는 RC 이후 변경 사항을 회귀 버그 수정 위주로 제한하겠다고 밝혀, 동작 방식 자체는 이미 확정된 것으로 봐도 무방하다. 14년 만에 자기 자신을 부트스트랩 언어에서 Go로 옮긴 이번 변화는 TypeScript 생태계 전체의 빌드·CI 비용 구조를 바꿀 잠재력이 있다는 평가가 나온다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://devblogs.microsoft.com/typescript/" target="_blank" rel="noopener">TypeScript 공식 블로그</a><br/>
+&middot; <a href="https://github.com/microsoft/typescript-go" target="_blank" rel="noopener">TypeScript Go 포팅 리포지토리</a><br/>
+&middot; <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript 공식 사이트</a><br/>
+</div>

@@ -13,6 +13,10 @@ GitHub Copilot SDK가 2026년 6월 2일 정식 출시(General Availability)됐�
 
 GitHub Copilot SDK가 마침내 정식 버전으로 공개됐다. 이번 GA 출시는 단순한 버전 업그레이드가 아니다. 개발자가 Copilot의 강력한 에이전틱 코딩 엔진을 자신의 앱, 서비스, 개발 도구에 직접 임베드할 수 있는 문을 활짝 열어준 것이다. 이제 GitHub의 AI 코딩 능력은 github.com이나 VS Code에만 국한되지 않는다.
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/dhfTaSGYQ4o" title="Getting started with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 6개 언어 지원 및 설치 방법
 
 | 언어 | 설치 명령 | GA 신규 여부 |
@@ -79,4 +83,11 @@ SDK GA와 함께 GitHub는 Agent tasks REST API(Copilot Pro, Pro+, Max 지원), 
 - BYOK 지원으로 Copilot 구독 없이도 외부 LLM API로 활용 가능
 - GitHub Agent tasks REST API 등 에이전틱 플랫폼 전환 기능 동시 출시
 
+</div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
+&middot; <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
+&middot; <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
 </div>
