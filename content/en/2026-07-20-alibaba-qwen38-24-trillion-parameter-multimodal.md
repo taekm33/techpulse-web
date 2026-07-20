@@ -100,3 +100,10 @@ Three developments will determine whether Qwen3.8 lives up to its billing:
 Until those appear, Qwen3.8 sits in the same holding pattern as Kimi K3 did at launch: credible, potentially world-class, and still unverified. Given that Kimi K3's independent scores came within days of release, the Qwen3.8 numbers may follow quickly — and that's when the real story gets written.
 
 What's already certain: in a single month, two Chinese labs have previewed models exceeding 2 trillion parameters, positioning themselves directly against the best from Anthropic, OpenAI, and Google. The competitive landscape at the frontier has permanently changed.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="" target="_blank" rel="noopener">Qwen on GitHub https://github.com/QwenLM</a><br/>
+&middot; <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+&middot; <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen official blog</a><br/>
+</div>

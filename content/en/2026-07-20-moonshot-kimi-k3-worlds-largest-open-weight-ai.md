@@ -92,3 +92,10 @@ Constellation Research analyst Holger Mueller identified three distinct strength
 </div>
 
 Moonshot's timing was deliberate — the launch landed just before the 2026 World Artificial Intelligence Conference in Shanghai. The company is simultaneously seeking $2 billion in new funding at a $30 billion valuation ahead of a planned Hong Kong listing. Whether K3's benchmark numbers hold up under community scrutiny on July 27 will be the decisive test of whether this is a genuine inflection point or a well-timed press moment.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="" target="_blank" rel="noopener">Moonshot AI on GitHub https://github.com/MoonshotAI</a><br/>
+&middot; <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Kimi on Hugging Face</a><br/>
+&middot; <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI official site</a><br/>
+</div>

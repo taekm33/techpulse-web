@@ -94,3 +94,10 @@ Qwen3.8은 알리바바 Qwen 패밀리 역사상 처음으로 **1조 파라미�
 Qwen3.8이 "Fable 5 다음"임을 증명하려면 세 가지가 필요하다: ① 공식 모델 카드와 벤치마크, ② 오픈 웨이트 공개 및 라이선스 명확화, ③ Artificial Analysis·LMArena의 독립 평가 점수. 이 세 가지가 확인될 때까지, 2.4조라는 숫자는 마케팅과 실력이 뒤섞인 주장으로 남는다.
 
 그럼에도 불구하고, 중국 AI 생태계가 2026년 7월 한 달 동안 2조 파라미터를 넘나드는 모델을 두 개나 연속으로 공개한 것은 글로벌 AI 경쟁의 판도가 돌이킬 수 없이 변했음을 보여준다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="" target="_blank" rel="noopener">Qwen 공식 GitHub https://github.com/QwenLM</a><br/>
+&middot; <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+&middot; <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그</a><br/>
+</div>
