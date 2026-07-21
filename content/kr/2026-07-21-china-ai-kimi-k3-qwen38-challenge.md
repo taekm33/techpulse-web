@@ -78,3 +78,10 @@ tags: ["Kimi K3", "Qwen3.8", "중국AI", "오픈소스", "AI경쟁"]
 <li>2025년 DeepSeek 이후 최대 규모의 중국발 오픈소스 공세로, 미·중 AI 격차가 재차 좁혀지고 있다</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그</a><br/>
+· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI (Kimi) on Hugging Face</a><br/>
+</div>

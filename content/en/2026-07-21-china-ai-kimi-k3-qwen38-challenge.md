@@ -86,3 +86,10 @@ The pattern echoes January 2025, when DeepSeek's R1 disrupted assumptions about 
 <li>The frontier gap between US and Chinese AI labs has narrowed to weeks, not years — and open-source access may ultimately matter more than raw benchmark scores</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen official blog</a><br/>
+· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI (Kimi) on Hugging Face</a><br/>
+</div>

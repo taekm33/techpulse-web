@@ -83,3 +83,9 @@ AI와 인간의 협업 모델이 점점 가시화되는 가운데, 알포게의 
 | 미정 | 리만 가설 등 초난제 | 미정 | 미해결 |
 
 야코비안 추측의 반증은 AI가 수학의 역사를 바꾸기 시작했음을 알리는 신호탄이다. 단 216자짜리 반례 하나가 87년간의 통념을 뒤집었다. 앞으로 AI와 수학자의 협업이 또 어떤 난제를 해결할지, 수학계와 AI 커뮤니티 모두가 주목하고 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://en.wikipedia.org/wiki/Jacobian_conjecture" target="_blank" rel="noopener">Jacobian conjecture 개요 (Wikipedia)</a><br/>
+· <a href="https://arxiv.org/list/math.AG/recent" target="_blank" rel="noopener">arXiv math.AG — 대수기하 논문</a><br/>
+</div>

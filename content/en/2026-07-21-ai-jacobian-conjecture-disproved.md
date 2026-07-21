@@ -92,3 +92,9 @@ The vision Fesenko sketches is not of AI replacing human mathematicians outright
 | Open | Riemann Hypothesis & others | TBD | Unsolved |
 
 The counterexample to the Jacobian conjecture is just 216 characters long — but it carries 87 years of mathematical history. More than a single result, it signals that AI is no longer merely a tool mathematicians use for computation or literature review. It is becoming a genuine intellectual collaborator capable of reshaping which problems are solvable, and how fast. In this new era of human-AI partnership, the boundary between what machines can explore and what humans must invent is shifting faster than most mathematicians expected.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://en.wikipedia.org/wiki/Jacobian_conjecture" target="_blank" rel="noopener">Jacobian conjecture overview (Wikipedia)</a><br/>
+· <a href="https://arxiv.org/list/math.AG/recent" target="_blank" rel="noopener">arXiv math.AG — algebraic geometry papers</a><br/>
+</div>
