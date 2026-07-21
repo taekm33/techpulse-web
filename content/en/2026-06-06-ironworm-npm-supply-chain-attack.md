@@ -28,7 +28,7 @@ The campaign originated from a compromised npm account named `asteroiddao`. This
 Upon execution, IronWorm harvests **86 environment variables** and **20 credential files** from the compromised system. High-value targets include:
 
 - OpenAI, AWS, and Anthropic API keys
-- npm credentials and Trusted Publishing workflow secrets
+- npm credentials and Trusted Publishing secrets
 - HashiCorp Vault configuration files
 - SSH keys
 - Exodus cryptocurrency wallet files
@@ -93,4 +93,11 @@ The simultaneous timing of two distinct npm supply chain campaigns raises the po
 - **Exfiltrates via GitHub Actions** using fake lint/format output files to evade detection
 - **Immediate action required**: upgrade affected packages, rotate all API keys, enable 2FA
 
+</div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://docs.npmjs.com/trusted-publishers" target="_blank" rel="noopener">npm Trusted Publishing docs</a><br/>
+· <a href="https://github.com/advisories" target="_blank" rel="noopener">GitHub Advisory Database</a><br/>
+· <a href="https://openssf.org/" target="_blank" rel="noopener">OpenSSF — open source supply chain security</a><br/>
 </div>

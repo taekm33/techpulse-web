@@ -96,3 +96,10 @@ JFrog가 발견한 또 다른 정교한 요소는 데이터 유출 방식이다.
 - **즉시 조치**: 영향받은 패키지 업그레이드, API 키 교체, 2FA 활성화
 
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://docs.npmjs.com/trusted-publishers" target="_blank" rel="noopener">npm Trusted Publishing 공식 문서</a><br/>
+· <a href="https://github.com/advisories" target="_blank" rel="noopener">GitHub Advisory Database</a><br/>
+· <a href="https://openssf.org/" target="_blank" rel="noopener">OpenSSF — 오픈소스 공급망 보안</a><br/>
+</div>

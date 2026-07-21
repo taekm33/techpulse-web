@@ -11,6 +11,10 @@ tags: ["NVIDIA", "Nemotron", "오픈모델", "MoE", "AI에이전트"]
 NVIDIA가 <strong>Nemotron 3 Ultra</strong>를 출시했다. 550B 파라미터 MoE(전문가 혼합) 구조로 실제 활성 파라미터는 55B에 불과하지만, 동급 오픈 모델 대비 <strong>5배 높은 처리량</strong>과 <strong>에이전트 작업 비용 30% 절감</strong>을 달성한다. 가중치·데이터·학습 레시피가 모두 공개된 완전 오픈 모델이며, SWE-Bench Verified에서 65~70.4%를 기록했다.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Nemotron 3 Ultra란
 
 NVIDIA가 에이전트 워크플로우를 위해 설계한 대규모 오픈 언어 모델이다. 단순한 단일 Q&A보다 계획→도구 호출→오류 수정→결과 검증으로 이어지는 **장시간 복합 작업**에 최적화됐다. 모든 가중치와 데이터, 학습 레시피가 공개돼 기업이 도메인별로 직접 파인튜닝하고 어디서나 배포할 수 있다.
@@ -85,3 +89,10 @@ NVFP4 덕분에 SWE-bench와 Terminal bench 2.0 실험에서 같은 결과를 �
 ## 전망
 
 NVIDIA가 칩 제조사를 넘어 오픈 AI 모델 생태계의 핵심 공급자로 자리를 굳히고 있다. Nemotron 3 Ultra의 완전 오픈 정책은 기업들이 폐쇄 API 종속 없이 자체 인프라에서 프런티어급 에이전트를 구동할 수 있는 경로를 열어준다. 처리량 효율과 비용 절감이 검증되면서 오픈 모델이 클로즈드 모델의 실질적인 대안으로 부상하는 속도가 빨라질 것으로 보인다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron 개발자 허브</a><br/>
+· <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
+· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — 오픈 가중치</a><br/>
+</div>

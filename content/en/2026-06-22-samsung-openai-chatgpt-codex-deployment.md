@@ -56,3 +56,10 @@ The Samsung deployment illustrates a broader pattern: partnerships between AI la
 <li>LG Electronics, Toss, Krafton, and other Korean firms are already using similar tools</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/chatgpt/enterprise/" target="_blank" rel="noopener">OpenAI — ChatGPT Enterprise</a><br/>
+· <a href="https://openai.com/codex/" target="_blank" rel="noopener">OpenAI — Codex</a><br/>
+· <a href="https://news.samsung.com/global/" target="_blank" rel="noopener">Samsung Global Newsroom</a><br/>
+</div>

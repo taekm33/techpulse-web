@@ -11,6 +11,10 @@ tags: ["NVIDIA", "Nemotron", "OpenModel", "MoE", "AIAgents"]
 NVIDIA has released <strong>Nemotron 3 Ultra</strong>, a 550B-parameter Mixture-of-Experts model optimized for long-running agentic workflows. With only 55B active parameters, it achieves <strong>5x higher throughput</strong> than comparable open models and reduces agentic task costs by <strong>30%</strong>. Weights, training data, and recipes are fully open under the permissive OpenMDW-1.1 license. SWE-Bench Verified scores range from 65% to 70.4% across major agent harnesses.
 </div>
 
+<div class="article-video">
+<iframe src="https://www.youtube-nocookie.com/embed/kDd24YOeqQQ" title="NVIDIA GTC 2026 Keynote with Jensen Huang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What Is Nemotron 3 Ultra
 
 Nemotron 3 Ultra is NVIDIA's answer to a specific problem: frontier-class AI models are too slow and too expensive for long-running agent workflows. An agent that plans, calls tools, corrects errors, and validates results across dozens of sequential steps burns through compute at a rate that makes most frontier models economically impractical at scale.
@@ -101,3 +105,10 @@ NVIDIA is establishing itself not just as the dominant hardware vendor but as a 
 For AI teams evaluating whether to build on closed frontier APIs or self-hosted open models, the efficiency and cost data from Nemotron 3 Ultra shifts the calculus meaningfully. A 30% cost reduction and 5x throughput gain are not marginal improvements — they change the economics of running production agentic systems at scale.
 
 The broader signal is that the open model ecosystem is maturing fast enough to challenge closed models on the metrics that enterprise buyers care most about: cost, performance, and control.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron developer hub</a><br/>
+· <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
+· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — open weights</a><br/>
+</div>

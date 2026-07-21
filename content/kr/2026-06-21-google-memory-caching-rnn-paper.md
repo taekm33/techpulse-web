@@ -53,3 +53,10 @@ Memory Caching은 선형 어텐션, RWKV, RetNet, Mamba, Titans 등으로 이어
 | Memory Caching | 세그먼트별 압축 캐시 누적 | RNN 수준에 근접, 점진적 증가 | 중간~강함 |
 
 업계에서는 이 연구가 당장 제품에 적용되기보다는, OpenAI·Anthropic·Meta 등 경쟁사들이 진행 중인 장문 컨텍스트 효율화 연구에 영향을 줄 참고 사례로 받아들여지는 분위기다. 특히 에이전트형 AI가 누적되는 대화·작업 기록을 장시간 유지해야 하는 상황에서, 비용을 낮추면서도 회상 정확도를 잃지 않는 아키텍처에 대한 수요는 계속 커질 전망이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://research.google/" target="_blank" rel="noopener">Google Research</a><br/>
+· <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind</a><br/>
+· <a href="https://arxiv.org/list/cs.LG/recent" target="_blank" rel="noopener">arXiv cs.LG — 머신러닝 논문</a><br/>
+</div>
