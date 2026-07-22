@@ -57,3 +57,11 @@ tags: ["Anthropic", "Claude", "AI규제"]
 </div>
 
 협상이 길어질수록 손해를 보는 건 양측 모두다. 앤트로픽은 가장 강력한 모델 두 개를 일주일 넘게 묶어둔 채 경쟁사들에게 시장을 내주고 있고, 백악관은 명확한 규정 없이 개입했다는 비판을 자초했다. 이번 주 안에 복구 조건이 합의되지 않으면, 다른 프런티어 랩들도 신제품 출시 전 정부와의 사전 조율을 의무처럼 받아들이게 될 가능성이 높다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html" target="_blank" rel="noopener">CNBC — 후속: 상무부, Fable 5·Mythos 5 수출통제 해제(6월 30일)</a><br/>
+&middot; <a href="https://fortune.com/2026/06/30/anthropic-clash-with-u-s-government-shows-its-failure-to-play-by-trump-administration-playbook/" target="_blank" rel="noopener">Fortune — 앤트로픽과 워싱턴의 충돌이 남긴 것</a><br/>
+&middot; <a href="https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-appalled-by-trump-administrations-attacks-on-anthropic" target="_blank" rel="noopener">미 하원 과학·우주·기술위원회 — 로프그렌 간사 공식 성명</a><br/>
+&middot; <a href="https://www.washingtontimes.com/news/2026/jul/1/trump-administration-lifting-restrictions-anthropics-claude-models/" target="_blank" rel="noopener">Washington Times — 사이버 보안 경보 이후 규제 해제 경위</a><br/>
+</div>

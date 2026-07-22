@@ -77,3 +77,11 @@ OpenAI 내부에서 울려 퍼진 문장이다. 파이낸셜 타임스는 익명
 ## 전망
 
 AI 업계는 지금 챗봇에서 에이전트로 패러다임이 이동하는 변곡점에 있다. OpenAI의 슈퍼앱 전환은 이 트렌드를 가장 대중적인 AI 제품에서 공식화하는 사건이다. Codex, Claude Code, GitHub Copilot이 맞붙는 코딩 에이전트 전쟁은 이제 단순한 기능 경쟁이 아니라 개발자 생태계 전체를 장악하기 위한 플랫폼 전쟁으로 격상됐다. 누가 개발자의 기본 작업 환경이 되느냐가 다음 AI 사이클의 승패를 가를 것이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://www.itpro.com/technology/artificial-intelligence/openai-chatgpt-superapp-overhaul-public-listing" target="_blank" rel="noopener">ITPro — FT 보도 정리: OpenAI ChatGPT 슈퍼앱 개편과 상장 계획</a><br/>
+&middot; <a href="https://9to5google.com/2026/06/08/chatgpt-redesign-report/" target="_blank" rel="noopener">9to5Google — 에이전트 중심 ChatGPT 대규모 재설계 보도</a><br/>
+&middot; <a href="https://www.pymnts.com/artificial-intelligence-2/2026/openai-declares-chat-dead-in-shift-to-super-app/" target="_blank" rel="noopener">PYMNTS — "챗은 죽었다": 슈퍼앱 전환의 수익 전략 분석</a><br/>
+&middot; <a href="https://www.entrepreneur.com/business-news/openai-plans-to-relaunch-chatgpt-as-a-superapp-that-prioritizes-agents" target="_blank" rel="noopener">Entrepreneur — 답변보다 에이전트를 앞세운 ChatGPT 재출시 계획</a><br/>
+</div>

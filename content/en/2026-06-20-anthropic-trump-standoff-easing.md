@@ -57,3 +57,11 @@ What makes this episode notable is how sharply it cuts against the administratio
 </div>
 
 The longer this drags on, the worse it looks for both sides. Anthropic is keeping its two most capable models shelved for over a week while competitors capture market share, and the White House has invited criticism for intervening without clear rules. If restoration terms aren't settled this week, expect other frontier labs to start treating informal pre-launch coordination with regulators as a de facto requirement.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html" target="_blank" rel="noopener">CNBC - Follow-up: export controls on Fable 5 and Mythos 5 lifted (June 30)</a><br/>
+&middot; <a href="https://fortune.com/2026/06/30/anthropic-clash-with-u-s-government-shows-its-failure-to-play-by-trump-administration-playbook/" target="_blank" rel="noopener">Fortune - What the Anthropic-Washington clash cost</a><br/>
+&middot; <a href="https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-appalled-by-trump-administrations-attacks-on-anthropic" target="_blank" rel="noopener">U.S. House Science Committee - Ranking Member Lofgren official statement</a><br/>
+&middot; <a href="https://www.washingtontimes.com/news/2026/jul/1/trump-administration-lifting-restrictions-anthropics-claude-models/" target="_blank" rel="noopener">Washington Times - How the restrictions were lifted</a><br/>
+</div>

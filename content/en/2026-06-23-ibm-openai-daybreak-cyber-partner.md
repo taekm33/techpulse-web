@@ -59,3 +59,11 @@ The announcement underscores how frontier AI models are moving from productivity
 <li>Read-only, bounded-execution access preserves security controls while enabling large-scale analysis</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats" target="_blank" rel="noopener">IBM Newsroom - Official announcement (June 22, 2026)</a><br/>
+&middot; <a href="https://openai.com/daybreak/partners/" target="_blank" rel="noopener">OpenAI - Daybreak partner program (official)</a><br/>
+&middot; <a href="https://thenextweb.com/news/ibm-openai-enterprise-security-partnership" target="_blank" rel="noopener">The Next Web - Enterprise security analysis</a><br/>
+&middot; <a href="https://techwireasia.com/2026/06/ibm-openai-cyber-program-vulnerability-detection/" target="_blank" rel="noopener">TechWire Asia - Vulnerability detection and validation workflow</a><br/>
+</div>

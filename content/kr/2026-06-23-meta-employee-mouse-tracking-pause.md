@@ -58,3 +58,10 @@ MCI는 도입 초기부터 사내 반발이 거셌다. 직원들은 자신의 �
 <li>GDPR 등 개인정보 보호 규제와의 충돌 우려도 제기</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/" target="_blank" rel="noopener">Engadget — 권한 설정 오류로 전사 열람 가능했던 경위</a><br/>
+&middot; <a href="https://thenextweb.com/news/meta-pauses-mouse-tracking-data-security" target="_blank" rel="noopener">The Next Web — 마우스 추적 프로그램 중단과 데이터 보안 쟁점</a><br/>
+&middot; <a href="https://www.ghacks.net/2026/06/23/meta-pauses-employee-mouse-tracking-ai-training-program-after-internal-data-exposure/" target="_blank" rel="noopener">gHacks — MCI 프로그램 개요와 수집 데이터 범위</a><br/>
+</div>
