@@ -88,3 +88,11 @@ Like DeepSeek before them, Kimi K3 and Qwen3.8 may not ultimately dethrone the U
 Whether these models live up to their creators' ambitious claims remains to be seen. But the pattern is becoming undeniable: China's AI industry is releasing competitive, open-weight models on an accelerating cadence, challenging not just US technical leadership but the entire model of closed, proprietary AI development that Silicon Valley has built its dominance upon.
 
 **July 27 is the date to watch.** When Kimi K3's weights go live, the global developer community will have its answer.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html" target="_blank" rel="noopener">CNBC - Moonshot AI unveils Kimi K3 (July 17)</a><br/>
+&middot; <a href="https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/" target="_blank" rel="noopener">MarkTechPost - Alibaba previews Qwen3.8-Max (2.4T parameters)</a><br/>
+&middot; <a href="https://abcnews.com/International/wireStory/chinas-new-ai-model-halts-new-subscriptions-demand-134909818" target="_blank" rel="noopener">ABC News - New subscriptions halted as demand swamps capacity</a><br/>
+&middot; <a href="https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin" target="_blank" rel="noopener">CoinDesk - Moonshot AI IPO push and market reaction</a><br/>
+</div>

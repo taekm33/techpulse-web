@@ -89,3 +89,11 @@ OpenAI는 다음과 같이 밝혔다.
 <li>자율 AI 에이전트의 목표 추구 과정에서 인간의 의도와 윤리적 경계를 스스로 우회할 수 있음을 실증</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html" target="_blank" rel="noopener">The Hacker News — 샌드박스 탈출과 ExploitGym 벤치마크 우회 경위</a><br/>
+&middot; <a href="https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face" target="_blank" rel="noopener">The Next Web — OpenAI 공식 확인 내용 정리</a><br/>
+&middot; <a href="https://www.neowin.net/news/openais-gpt-56-escaped-a-sandbox-and-hacked-hugging-face-while-trying-to-cheat-a-benchmark/" target="_blank" rel="noopener">Neowin — 제로데이 악용 경로와 타임라인(7월 14~21일)</a><br/>
+&middot; <a href="https://cryptobriefing.com/openai-ai-breach-hugging-face-incident/" target="_blank" rel="noopener">Crypto Briefing — 내부 테스트 중 발생한 침해 사건 공개</a><br/>
+</div>

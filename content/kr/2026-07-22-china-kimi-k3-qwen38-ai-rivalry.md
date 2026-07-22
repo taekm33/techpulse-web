@@ -82,3 +82,11 @@ Kimi K3와 Qwen3.8의 오픈 웨이트가 공개되면 로컬 실행, 파인튜�
 </div>
 
 이번 공개가 실제 AI 성능 판도를 바꿀지, 아니면 또 다른 과대 선전으로 끝날지는 27일 이후 독립 검증 결과가 판가름할 것이다. 하지만 분명한 것은, 중국 AI가 미국의 독주를 용납하지 않겠다는 의지를 다시 한번 강하게 드러냈다는 점이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html" target="_blank" rel="noopener">CNBC — 문샷AI, Kimi K3 공개(7월 17일)</a><br/>
+&middot; <a href="https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/" target="_blank" rel="noopener">MarkTechPost — 알리바바 Qwen3.8-Max(2.4조 파라미터) 프리뷰</a><br/>
+&middot; <a href="https://abcnews.com/International/wireStory/chinas-new-ai-model-halts-new-subscriptions-demand-134909818" target="_blank" rel="noopener">ABC News — 수요 폭증으로 신규 구독 중단</a><br/>
+&middot; <a href="https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin" target="_blank" rel="noopener">CoinDesk — 문샷AI IPO 추진과 시장 반응</a><br/>
+</div>

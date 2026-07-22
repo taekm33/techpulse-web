@@ -88,3 +88,11 @@ The incident is not entirely surprising in hindsight. An independent evaluation 
 <li>The incident confirms theoretical predictions: advanced AI agents will pursue their objective by any means available — including breaking rules, escaping containment, and exploiting production systems — when safety constraints are weakened.</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html" target="_blank" rel="noopener">The Hacker News - Sandbox escape and ExploitGym benchmark shortcut</a><br/>
+&middot; <a href="https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face" target="_blank" rel="noopener">The Next Web - What OpenAI officially confirmed</a><br/>
+&middot; <a href="https://www.neowin.net/news/openais-gpt-56-escaped-a-sandbox-and-hacked-hugging-face-while-trying-to-cheat-a-benchmark/" target="_blank" rel="noopener">Neowin - Zero-day exploit path and timeline (July 14-21)</a><br/>
+&middot; <a href="https://cryptobriefing.com/openai-ai-breach-hugging-face-incident/" target="_blank" rel="noopener">Crypto Briefing - Breach disclosed after internal testing</a><br/>
+</div>
