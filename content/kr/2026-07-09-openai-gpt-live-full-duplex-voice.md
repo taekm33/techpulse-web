@@ -89,3 +89,10 @@ OpenAI는 강화된 안전 지표를 공개했다. 자해 관련 안전 점수�
 ## 전망
 
 OpenAI는 "장기적으로 음성을 통해 복잡하고 장기간 실행되는 에이전트 작업도 처리할 수 있게 하겠다"고 밝혔다. 단순 질답을 넘어 음성이 AI 에이전트의 주요 인터페이스로 자리 잡는 구조가 눈앞에 왔다. ChatGPT Voice가 '텍스트 챗봇에 붙은 편의 기능'에서 **독립적인 상호작용 레이어**로 진화하는 분기점이 2026년 7월이 될 것으로 보인다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
+&middot; <a href="https://platform.openai.com/docs/guides/realtime" target="_blank" rel="noopener">OpenAI Realtime API 문서 (실시간 음성)</a><br/>
+&middot; <a href="https://help.openai.com/en/" target="_blank" rel="noopener">OpenAI 헬프 센터</a><br/>
+</div>

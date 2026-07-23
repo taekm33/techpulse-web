@@ -96,3 +96,11 @@ Elon Musk는 X에서 "Grok 4.5는 내부 평가 기준으로 Opus 4.7과 대략 
 ## 전망 — AI 코딩 모델 전쟁의 새 국면
 
 Grok 4.5의 출시는 단순한 새 모델 발표를 넘어 AI 생태계 재편을 상징한다. SpaceXAI가 Cursor를 인수하면서 단순 '모델 회사'에서 **개발 도구 + AI 인프라 수직 통합 플레이어**로 변신했기 때문이다. 실제 개발자 워크플로와 코드베이스 데이터에 대한 직접 접근권은 외부 모델 공급자가 복제하기 어려운 경쟁 우위다. 같은 날 OpenAI의 GPT-5.6 Sol 출시와 GPT-Live 발표가 겹친 만큼, 7월 둘째 주는 2026년 AI 역사에서 가장 치열했던 한 주로 기록될 것이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://x.ai/" target="_blank" rel="noopener">xAI 공식 사이트</a><br/>
+&middot; <a href="https://x.ai/news" target="_blank" rel="noopener">xAI News</a><br/>
+&middot; <a href="https://www.cursor.com/" target="_blank" rel="noopener">Cursor 공식 사이트</a><br/>
+&middot; <a href="https://docs.cursor.com/" target="_blank" rel="noopener">Cursor 문서</a><br/>
+</div>

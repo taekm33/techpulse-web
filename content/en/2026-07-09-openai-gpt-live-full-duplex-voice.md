@@ -99,3 +99,10 @@ The model is built to provide age-appropriate responses to teens and offer exper
 Two years ago, voice AI meant dictating into a microphone and waiting nearly two seconds for a stilted reply. GPT-Live narrows the gap between talking to a machine and talking to a person — not all the way, but meaningfully. The missing pieces (video, broad language support, API access) will determine how quickly enterprise developers adopt it relative to Google and ElevenLabs.
 
 OpenAI's longer-term ambition is explicit: use natural voice as the front end for autonomous agents handling long-running, complex tasks. GPT-Live's delegation architecture is already built for that future. Whether the experience across 150 million weekly users converts into the "ambient AI companion" model OpenAI clearly envisions — while carefully distancing itself from that framing — is the real story to watch in the months ahead.
+
+<div class="article-callout info">
+<strong>Related Reading &middot; Official Sources</strong><br/>
+&middot; <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
+&middot; <a href="https://platform.openai.com/docs/guides/realtime" target="_blank" rel="noopener">OpenAI Realtime API Docs (voice)</a><br/>
+&middot; <a href="https://help.openai.com/en/" target="_blank" rel="noopener">OpenAI Help Center</a><br/>
+</div>

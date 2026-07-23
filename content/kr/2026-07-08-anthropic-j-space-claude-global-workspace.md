@@ -106,3 +106,10 @@ J-스페이스를 억제(ablate)하는 실험에서 클로드는 여전히 유�
 인간 뇌의 의식 구조와 AI의 내부 처리 방식 사이에서 예상치 못한 유사점이 발견된 이번 연구는, AI 해석가능성 분야에서 중요한 이정표가 될 것으로 평가받고 있다. 그러나 연구진 스스로가 강조하듯, 학습 시스템이 공통적으로 수렴하는 구조적 해법이 존재한다는 것 자체가 가장 놀라운 발견이다.
 
 > "그러한 구조가 언어 모델 내에 존재한다는 사실 자체가 놀랍다. 이는 의식적 접근과 관련된 기능적 아키텍처가 생물학적 구현의 우연이 아니라, 적절한 계산적 압력에 직면한 학습 시스템이 수렴하는 해법임을 시사한다." — 앤트로픽 연구팀
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+&middot; <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic &mdash; Claude</a><br/>
+&middot; <a href="https://www.neuronpedia.org/" target="_blank" rel="noopener">Neuronpedia (인터랙티브 해석가능성 플랫폼)</a><br/>
+</div>

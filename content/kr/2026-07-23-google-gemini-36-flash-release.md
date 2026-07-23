@@ -82,3 +82,10 @@ Flash-Lite는 thinking level 설정이 가능하다. 고속·저비용 작업에
 </div>
 
 Google은 이번 출시를 통해 에이전트 AI 시대에 맞는 효율 중심 모델 전략을 명확히 했다. 개발자들은 구글 AI Studio, Android Studio, Gemini API를 통해 즉시 사용 가능하며, 일반 사용자는 Gemini 앱에서 새 모델을 경험할 수 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+&middot; <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener">Google 블로그 &mdash; Gemini</a><br/>
+&middot; <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API 개발자 문서 (Google AI for Developers)</a><br/>
+&middot; <a href="https://deepmind.google/models/gemini/" target="_blank" rel="noopener">Google DeepMind &mdash; Gemini 모델</a><br/>
+</div>
