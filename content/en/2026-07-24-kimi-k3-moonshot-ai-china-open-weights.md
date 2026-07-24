@@ -103,3 +103,10 @@ What makes Kimi K3 strategically significant isn't just the benchmark numbers. I
 For cloud providers selling AI-as-a-service, that question is an existential one. For enterprises calculating AI infrastructure strategy, it's a genuine decision point — capital expense of running your own cluster versus ongoing operating expense of API fees. Kimi K3, if it ships on schedule with a usable license, makes that calculation real in a way no previous open-weight release has.
 
 The most honest summary: wait for July 27. If the weights ship and the license is permissive, this is the most significant open-weight release in AI history. If either piece slips, it's still the clearest evidence yet that China can produce frontier AI on its own terms.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI official Hugging Face (Kimi models &amp; open weights)</a><br/>
+· <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3" target="_blank" rel="noopener">Tom's Hardware — 2.8T-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena</a><br/>
+· <a href="https://www.techi.com/kimi-k3-open-weights-inference-economics/" target="_blank" rel="noopener">TECHi — Open weights arrive July 27; the 1.4TB catch</a><br/>
+</div>

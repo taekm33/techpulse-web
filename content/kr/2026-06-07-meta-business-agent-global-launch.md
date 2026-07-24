@@ -89,3 +89,9 @@ Meta Business Agent는 고객의 현지 언어를 자동으로 감지해 브랜�
 ## 전망
 
 메타는 에이전트 역할을 현재의 고객 응대에서 "모든 일상 업무 운영"으로 확장할 계획임을 밝혔다. 시장 조사, 제품 인사이트, 캘린더 관리, 경쟁사 인텔리전스까지 아우르는 종합 비즈니스 운영 에이전트가 목표다. 이는 단순 챗봇을 넘어 중소기업의 **디지털 직원** 역할로 포지셔닝하려는 전략으로 읽힌다. 메타의 광고 사업과 에이전트가 결합하면 고객 인사이트 기반의 초개인화 마케팅 루프가 형성될 가능성도 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://about.fb.com/news/2026/06/meta-business-agent/" target="_blank" rel="noopener">Meta 공식 뉴스룸 — Be There for Every Customer With Meta Business Agent</a><br/>
+· <a href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener">TechCrunch — WhatsApp Business AI 에이전트 전 세계 출시 (London Conversations)</a><br/>
+</div>

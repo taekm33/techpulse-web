@@ -97,3 +97,9 @@ LangChain이나 AutoGen 같은 프레임워크와 함께 사용하면 M365 컨�
 ## 개발자에게 주는 기회
 
 Work IQ API는 엔터프라이즈 SaaS 개발자, 컨설팅 회사, 내부 IT 팀에게 새로운 카테고리의 제품을 만들 기회를 제공한다. M365 데이터를 컨텍스트로 삼는 에이전트는 범용 AI 도구보다 조직 특화 가치를 더 잘 제공할 수 있다. 6월 16일 GA 이후 이 API를 빠르게 통합한 제품이 엔터프라이즈 AI 에이전트 시장에서 우선 채택될 가능성이 높다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/" target="_blank" rel="noopener">Microsoft 365 공식 블로그 — Announcing the new Work IQ APIs</a><br/>
+· <a href="https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/cli" target="_blank" rel="noopener">Microsoft Learn — Work IQ CLI 개발자 문서</a><br/>
+</div>

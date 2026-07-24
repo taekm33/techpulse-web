@@ -84,3 +84,9 @@ AI 에이전트 생태계가 급속도로 확장되는 가운데 LLM은 근본�
 ## 전망
 
 AI 에이전트가 더 많은 권한을 갖게 될수록 프롬프트 인젝션 공격 면적도 넓어진다. OpenAI의 락다운 모드는 완전한 해결책이 아니라 현시점에서 쓸 수 있는 가장 확실한 방어 수단이다. 장기적으로는 모델 수준에서 데이터와 명령어를 신뢰적으로 구분할 수 있는 기술적 돌파구가 필요하다. 그것이 나오기 전까지 AI를 업무에 활용하는 조직들은 락다운 모드 같은 운영 통제를 보안 정책에 포함시키는 것을 적극 검토해야 한다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/" target="_blank" rel="noopener">OpenAI 공식 — Introducing Lockdown Mode and Elevated Risk labels in ChatGPT</a><br/>
+· <a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" target="_blank" rel="noopener">TechCrunch — 프롬프트 인젝션 데이터 탈취 방어용 락다운 모드 공개</a><br/>
+</div>
