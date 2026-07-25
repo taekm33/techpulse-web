@@ -83,3 +83,11 @@ For developers and enterprises, the practical takeaway is simpler: a significant
 <li>Rollout begins across ChatGPT, Codex, and OpenAI API simultaneously</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — Official Site</a><br/>
+· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI — Model Docs (API)</a><br/>
+· <a href="https://www.axios.com/technology" target="_blank" rel="noopener">Axios — Technology (First Report)</a>
+</div>

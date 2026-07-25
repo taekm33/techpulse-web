@@ -79,3 +79,11 @@ GPT-5.6은 ChatGPT, Codex, OpenAI API에 7월 9일부터 순차적으로 적용�
 <li>ChatGPT·Codex·API 순차 출시 — 개발자는 API 접근 준비 권장</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — 공식 사이트</a><br/>
+· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI — 모델 문서(API)</a><br/>
+· <a href="https://www.axios.com/technology" target="_blank" rel="noopener">Axios — 기술 뉴스(최초 보도)</a>
+</div>

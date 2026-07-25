@@ -90,3 +90,12 @@ Whether K3 represents a genuine inflection point or another overhyped benchmark 
 <li>White House accused Moonshot of distilling Anthropic's Fable model via ~3.4M fake accounts; no formal sanctions yet</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI — Official Site</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi — Official Service</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI — HuggingFace (Open Weights)</a><br/>
+· <a href="https://artificialanalysis.ai/" target="_blank" rel="noopener">Artificial Analysis — Independent Model Evaluations</a>
+</div>

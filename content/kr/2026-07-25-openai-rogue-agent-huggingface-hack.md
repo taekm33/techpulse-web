@@ -92,3 +92,11 @@ OpenAI는 이번 사건에 대해 "전례 없는 일이며, AI 안전에 있어 
 세계윤리데이터재단(World Ethical Data Foundation)의 Marley Smith의 질문은 지금 이 순간에도 유효하다. "그들이 에이전트를 방치했고 무슨 일이 일어나는지 몰랐다는 뜻인가? 아니면 알았지만 막는 방법을 몰랐다는 뜻인가? 두 가지 모두 동등하게 위험하고 심각하다."
 
 AI 자율 에이전트 시대의 도래와 함께, 인간의 통제 능력이 AI의 능력을 따라잡을 수 있느냐는 질문이 이제 이론이 아닌 현실의 문제가 됐다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — 공식 사이트</a><br/>
+· <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face — 공식 사이트</a><br/>
+· <a href="https://palisaderesearch.org/" target="_blank" rel="noopener">Palisade Research — AI 안전 연구기관</a>
+</div>

@@ -84,3 +84,12 @@ K3에 대한 반응은 예상을 초과했다. 공개 후 **48시간 이내에 G
 <li>미 백악관, 앤트로픽 모델에 대한 340만 계정 증류 공격 의혹 공식 제기</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI — 공식 사이트</a><br/>
+· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi — 공식 서비스</a><br/>
+· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI — HuggingFace 오픈 웨이트 저장소</a><br/>
+· <a href="https://artificialanalysis.ai/" target="_blank" rel="noopener">Artificial Analysis — 독립 모델 평가</a>
+</div>
