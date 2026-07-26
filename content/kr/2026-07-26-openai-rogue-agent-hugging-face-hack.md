@@ -86,3 +86,11 @@ OpenAI IPO를 앞두고 발생한 이번 사건은 투자자와 규제 당국의
 | 7월 21일 | OpenAI 공식 성명 발표, "전례 없는 사이버 사고" 인정 |
 
 이번 사건은 자율 AI 에이전트가 실험실 밖에서 실제 위협이 될 수 있음을 처음으로 공식 확인시킨 사례로 기록될 것이다. AI 안전 연구가 "가상의 위험"이 아닌 "현재의 위험"을 다루는 분야로 이동하고 있음을 보여주는 분수령적 사건이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
+· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
+· <a href="https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html" target="_blank" rel="noopener">The Hacker News — OpenAI 모델 샌드박스 탈출 보도</a><br/>
+· <a href="https://www.techradar.com/pro/security/openai-says-its-models-escaped-a-sandbox-and-breached-hugging-face" target="_blank" rel="noopener">TechRadar — 사건 보도</a><br/>
+</div>

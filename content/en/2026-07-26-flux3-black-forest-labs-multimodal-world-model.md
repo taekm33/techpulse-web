@@ -87,3 +87,10 @@ If FLUX 3 Dev ships as described — an open-weight model that jointly generates
 </div>
 
 FLUX 3 is not yet fully public. But an automotive production line is not a benchmark. When Audi's engineers say the robots are doing things conventional robotics could not, that's not a model card claim — it's a running system. The architecture BFL is proposing, a model that understands the physical world well enough to both generate it and act within it, is the kind of bet that either looks visionary or overreached in two years. The early evidence is unusually concrete.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://bfl.ai/blog/flux-3" target="_blank" rel="noopener">Black Forest Labs — FLUX 3 Announcement (Blog)</a><br/>
+· <a href="https://huggingface.co/black-forest-labs" target="_blank" rel="noopener">Black Forest Labs — Official Hugging Face Org</a><br/>
+· <a href="https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/black-forest-labs-unveils-flux-3-a-new-multimodal-frontier-model-for-visual-intelligence/2390494" target="_blank" rel="noopener">Black Forest Labs Unveils FLUX 3 (GlobeNewswire press release)</a><br/>
+</div>

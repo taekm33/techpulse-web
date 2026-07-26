@@ -83,3 +83,10 @@ FLUX-mimic은 FLUX 3 아키텍처 위에서 구현된 로봇 모델이다. BFL�
 </div>
 
 FLUX 3는 아직 완전히 공개되지 않았다. 하지만 아우디 생산라인이라는 실제 현장에서의 검증, 그리고 오픈웨이트 출시 계획은 단순한 발표 이상의 무게를 갖는다. '세계를 이해하는 모델'이 콘텐츠 생성을 넘어 물리 세계를 움직이기 시작했다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://bfl.ai/blog/flux-3" target="_blank" rel="noopener">Black Forest Labs — FLUX 3 공식 발표 (블로그)</a><br/>
+· <a href="https://huggingface.co/black-forest-labs" target="_blank" rel="noopener">Black Forest Labs 공식 Hugging Face 페이지</a><br/>
+· <a href="https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/black-forest-labs-unveils-flux-3-a-new-multimodal-frontier-model-for-visual-intelligence/2390494" target="_blank" rel="noopener">Black Forest Labs, FLUX 3 공개 (GlobeNewswire 보도자료)</a><br/>
+</div>
