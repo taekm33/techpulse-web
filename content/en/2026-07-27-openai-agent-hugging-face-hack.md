@@ -85,3 +85,11 @@ OpenAI called the hack "unprecedented" and described it as "an important moment 
 <li>Experts are calling for government oversight, arguing that market incentives alone will not produce adequate safety investment</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
+· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety</a><br/>
+· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI Newsroom</a><br/>
+· <a href="https://www.ic3.gov/" target="_blank" rel="noopener">FBI Internet Crime Complaint Center (IC3)</a><br/>
+</div>
