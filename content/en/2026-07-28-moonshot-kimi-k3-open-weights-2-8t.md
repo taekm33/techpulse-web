@@ -90,3 +90,9 @@ The release of Kimi K3 extends a pattern of Chinese AI firms closing the perform
 </div>
 
 The competitive frontier is no longer solely about benchmark scores or parameter counts. It's about who can put the most capable AI directly into developers' hands — and at what cost. With 2.8 trillion parameters now freely available for download, a milestone that would have seemed far-fetched a year ago is simply the new baseline.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Moonshot AI Official Model Repository — moonshotai/Kimi-K3 (Hugging Face)</a><br/>
+· <a href="https://thenewstack.io/kimi-k3-open-weights/" target="_blank" rel="noopener">The New Stack — Moonshot opens Kimi K3 weights, but few can run it</a><br/>
+</div>

@@ -86,3 +86,10 @@ VENOM에서 검증된 AI 전투 에이전트는 궁극적으로 **CCA(Collaborat
 </div>
 
 군사 AI의 진화는 단순한 자동화를 넘어, 전장의 패러다임 자체를 바꾸고 있다. VENOM이 성공적으로 실전 F-16에 AI 조종사를 탑재한 것은 그 변화의 명확한 신호탄이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16" target="_blank" rel="noopener">DARPA 공식 발표 — DARPA, U.S. Air Force fly AI-controlled F-16</a><br/>
+· <a href="https://www.stripes.com/branches/air_force/2026-07-20/first-venom-autonomous-jet-flight-22317435.html" target="_blank" rel="noopener">Stars and Stripes — First VENOM autonomous jet flight</a><br/>
+· <a href="https://theaviationist.com/2026/07/16/darpa-usaf-fly-f-16-venom-autonomy-modification/" target="_blank" rel="noopener">The Aviationist — DARPA and USAF fly F-16 with VENOM autonomy modification</a><br/>
+</div>

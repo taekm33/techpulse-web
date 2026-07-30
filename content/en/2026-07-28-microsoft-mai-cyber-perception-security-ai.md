@@ -88,3 +88,9 @@ Microsoft's entry into the AI cybersecurity space carries significant weight —
 The key questions heading into the November preview: Can the Cyber Gym benchmark claims hold up to independent scrutiny? And will Perception's multi-agent architecture deliver the minutes-not-hours remediation promise at enterprise scale — or reveal the brittleness that has tripped up other agentic AI products in complex production environments?
 
 The AI cybersecurity race is accelerating. With Microsoft now fully in, the pressure on Anthropic, OpenAI, and specialized security vendors just got considerably higher.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/" target="_blank" rel="noopener">Microsoft Official Blog — Rethinking security for the age of AI</a><br/>
+· <a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/" target="_blank" rel="noopener">TechCrunch — Microsoft launches its first cyber model and agentic security system</a><br/>
+</div>

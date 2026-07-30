@@ -93,3 +93,10 @@ DARPA says the program will ultimately "pave the way for human pilots to seamles
 </div>
 
 The VENOM program is not science fiction playing out on a movie set — it is the methodical, funded, flight-tested progression of combat AI from controlled experiment to deployable warfighting capability. The first flip of that switch in July 2026 may be a quiet moment in a Florida summer, but its strategic implications are anything but.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16" target="_blank" rel="noopener">DARPA Official — DARPA, U.S. Air Force fly AI-controlled F-16</a><br/>
+· <a href="https://www.stripes.com/branches/air_force/2026-07-20/first-venom-autonomous-jet-flight-22317435.html" target="_blank" rel="noopener">Stars and Stripes — First VENOM autonomous jet flight</a><br/>
+· <a href="https://theaviationist.com/2026/07/16/darpa-usaf-fly-f-16-venom-autonomy-modification/" target="_blank" rel="noopener">The Aviationist — DARPA and USAF fly F-16 with VENOM autonomy modification</a><br/>
+</div>

@@ -82,3 +82,9 @@ Perception은 MDASH와의 통합도 지원하며, 기업 보안팀이 기존 워
 </div>
 
 마이크로소프트가 자체 AI 모델로 사이버보안 시장에 진출한 이번 발표는, 단순한 제품 출시를 넘어 AI 보안 주도권을 확보하려는 전략적 신호탄으로 해석된다. Anthropic·OpenAI와의 직접 경쟁이 본격화되는 가운데, 11월 프리뷰 이후 실제 성능 검증이 업계의 최대 관심사가 될 전망이다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/" target="_blank" rel="noopener">Microsoft 공식 블로그 — Rethinking security for the age of AI</a><br/>
+· <a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/" target="_blank" rel="noopener">TechCrunch — Microsoft launches its first cyber model and agentic security system</a><br/>
+</div>

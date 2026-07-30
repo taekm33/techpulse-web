@@ -90,3 +90,9 @@ Kimi K3의 등장은 단순한 성능 경쟁을 넘어선다. 이제 AI 주도�
 DeepSeek, 알리바바, Z.ai, MiniMax, 문샷 AI 등 중국 AI 기업들은 지난 1년간 추론·코딩·에이전틱 워크로드에서 미국 최고 모델과의 성능 격차를 빠르게 좁혀왔다. 2.8조 파라미터 모델이 누구나 다운로드해 활용할 수 있는 시대가 열리면서, 연구기관·스타트업·클라우드 사업자 모두 새로운 기회를 맞이하고 있다.
 
 불과 1년 전만 해도 상상하기 어려웠던 일이 현실이 됐다. 프론티어급 AI를 운영하기 위한 인프라 장벽은 여전히 높지만, 그 장벽을 넘는 주체의 범위는 분명 넓어지고 있다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Moonshot AI 공식 모델 저장소 — moonshotai/Kimi-K3 (Hugging Face)</a><br/>
+· <a href="https://thenewstack.io/kimi-k3-open-weights/" target="_blank" rel="noopener">The New Stack — Moonshot opens Kimi K3 weights, but few can run it</a><br/>
+</div>
