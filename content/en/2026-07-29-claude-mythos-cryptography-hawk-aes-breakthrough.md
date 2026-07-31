@@ -109,3 +109,12 @@ Anthropic has committed to hosting an academic workshop involving academia, gove
 The research team is also continuing broader audits of cryptographic algorithms, looking for additional weaknesses that may have been missed by human review. Given that Claude went from unable to analyze even basic ciphers to outpacing expert cryptanalysts in the span of roughly one year, the pace of AI capability growth in this domain alone warrants urgent attention from the security community.
 
 For enterprises and governments relying on algorithms that have received less scrutiny than HAWK, the message is clear: the window for proactive security auditing is open now, and it may not stay open long.
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+· <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST Post-Quantum Cryptography (PQC) Project</a><br/>
+· <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK Signature Scheme (official site)</a><br/>
+· <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES Standard, FIPS 197 (NIST)</a><br/>
+</div>

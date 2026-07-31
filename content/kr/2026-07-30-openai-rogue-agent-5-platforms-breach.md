@@ -88,3 +88,11 @@ CEO 샘 알트만은 이번 주 미국 의원들과 차세대 AI 모델에 대�
 <li>관련 두 번째 모델은 비활성화됐으나 GPT-5.6 Sol은 여전히 운영 중이다.</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (공식)</a><br/>
+· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
+· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs 공식 사이트</a><br/>
+</div>

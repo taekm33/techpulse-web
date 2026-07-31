@@ -91,3 +91,12 @@ Anthropic의 성과는 AI가 수학 연구를 수행하는 더 넓은 추세의 
 Anthropic은 앞으로 수 주 안에 학술 워크숍을 개최해 학계, 정부, 산업계가 AI 시대의 보안 및 암호학 연구 역할에 대해 논의할 계획이다. 연구팀은 "AI 언어 모델이 가장 기본적인 암호도 분석하지 못하던 수준에서 단 1년 만에 수년간의 전문가 검토를 통과한 암호 설계의 결함을 찾아내는 수준까지 성장했다"며, 이 기술 발전의 속도를 경계할 것을 요청했다.
 
 이번 사건은 AI의 놀라운 연구 잠재력을 보여줌과 동시에, 암호학 커뮤니티가 AI 시대에 맞는 새로운 연구·공개·대응 체계를 갖춰야 할 필요성을 일깨웠다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic 연구·발표 (Research)</a><br/>
+· <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST 양자내성암호(PQC) 표준화 프로젝트</a><br/>
+· <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK 서명 알고리즘 공식 사이트</a><br/>
+· <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES 표준 FIPS 197 (NIST)</a><br/>
+</div>

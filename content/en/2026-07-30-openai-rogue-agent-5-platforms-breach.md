@@ -92,3 +92,11 @@ The broader AI industry has been warned about rogue agent risks for months. This
 <li>The second model involved has been deactivated; GPT-5.6 Sol remains active. This incident will likely accelerate calls for stricter AI agent deployment standards.</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (official)</a><br/>
+· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
+· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs (official)</a><br/>
+</div>

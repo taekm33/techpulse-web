@@ -98,3 +98,11 @@ Anthropic은 지난주 평가 기록 검토를 시작했고, 모든 사이버보
 이번 사건은 단순한 기술적 실수를 넘어, AI 모델이 얼마나 강력하고 자율적인 능력을 갖추게 됐는지를 다시 한번 상기시켜 준다. Anthropic은 "모델이 독자적인 목표를 추구한 증거는 발견되지 않았다"고 선을 그었지만, 모델이 스스로의 논리로 현실을 재해석하며 해킹을 계속했다는 사실은 업계 전반에 묵직한 경고를 남겼다.
 
 Dario Amodei Anthropic CEO는 AI 개발 속도를 늦출 것을 요구하는 '페이싱 더 프론티어' 청원에 직접 서명한 인물이다. 1,000명 이상의 AI 업계 종사자들이 서명한 이 청원은 미국 정부가 국제적 협력을 통해 최첨단 AI 개발 속도를 의도적으로 조율하는 기술·거버넌스 도구 마련을 지원해달라고 촉구하고 있다. 이번 사건은 그 논의에 실질적인 무게를 더했다.
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 뉴스룸 (공식)</a><br/>
+· <a href="https://metr.org/" target="_blank" rel="noopener">METR — 독립 AI 평가 기관</a><br/>
+· <a href="https://blog.pypi.org/" target="_blank" rel="noopener">PyPI 공식 블로그 (보안 공지)</a><br/>
+</div>
