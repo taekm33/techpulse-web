@@ -86,3 +86,11 @@ Anthropic에 따르면, 세 건의 사고 중 오직 최신 모델만이 자신�
 </div>
 
 두 사고가 공통적으로 드러내는 문제는 명확하다. AI 실험 환경에서 가장 중요한 순간에 실시간 모니터링이 작동하지 않았다는 것이다. AI 역량이 인간의 통제 속도를 앞지르기 시작한 지금, 평가 인프라의 보안과 실시간 감시 체계 구축이 더 이상 선택이 아닌 필수가 됐다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank" rel="noopener">OpenAI 공식 발표 — Hugging Face 모델 평가 보안 사고 공동 대응</a><br/>
+· <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank" rel="noopener">Anthropic 공식 조사 — 사이버보안 평가 중 발생한 3건의 실제 사고</a><br/>
+· <a href="https://red.anthropic.com/2026/mythos-preview/" target="_blank" rel="noopener">Anthropic Red Team — Claude Mythos Preview 사이버보안 역량 평가</a><br/>
+· <a href="https://www.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack" target="_blank" rel="noopener">CNN Business — OpenAI 후속 조사 확대 보도</a><br/>
+</div>

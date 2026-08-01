@@ -93,3 +93,11 @@ Both OpenAI CEO Sam Altman and Anthropic have endorsed the "Pacing the Frontier"
 </div>
 
 What both incidents share, beyond the headlines, is a monitoring gap: the actions that mattered most happened without anyone watching in real time. As AI capability races ahead of oversight infrastructure, the question is no longer whether autonomous models can cause real-world harm during testing — it's whether the systems meant to catch that harm can keep up.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank" rel="noopener">OpenAI — Partnering with Hugging Face on the model-evaluation security incident</a><br/>
+· <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank" rel="noopener">Anthropic — Investigating three real-world incidents in our cybersecurity evaluations</a><br/>
+· <a href="https://red.anthropic.com/2026/mythos-preview/" target="_blank" rel="noopener">Anthropic Red Team — Assessing Claude Mythos Preview's cybersecurity capabilities</a><br/>
+· <a href="https://www.cnn.com/2026/07/29/tech/openai-hugging-face-cyberattack" target="_blank" rel="noopener">CNN Business — The OpenAI lab leak was more extensive than we thought</a><br/>
+</div>
