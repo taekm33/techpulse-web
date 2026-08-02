@@ -82,3 +82,10 @@ OpenAI simultaneously announced the **ChatGPT for Academic Researchers** program
 <li>OpenAI is giving 100,000 academic researchers free access to frontier models through 2027</li>
 </ul>
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://openai.com/index/ten-advances-in-mathematics/" target="_blank" rel="noopener">OpenAI announcement — Ten advances in mathematics and theoretical computer science</a><br/>
+· <a href="https://github.com/openai/ten-proofs" target="_blank" rel="noopener">OpenAI GitHub — Lean 4 formal certificates (openai/ten-proofs)</a><br/>
+· <a href="https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups" target="_blank" rel="noopener">The Next Web — coverage of Astra's ten math proofs</a><br/>
+</div>
