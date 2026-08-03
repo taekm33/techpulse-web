@@ -93,3 +93,12 @@ The OpenAI announcement cited the Leiden Declaration on AI and Mathematics — p
   <li>Federal pre-release review likely before public launch; no release date announced; academic access to frontier models expanding through 2027</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://www.erdosproblems.com/" target="_blank" rel="noopener">Erdős Problems database (maintained by Thomas Bloom)</a><br/>
+· <a href="https://lean-lang.org/" target="_blank" rel="noopener">Lean 4 theorem prover — official site</a><br/>
+· <a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/" target="_blank" rel="noopener">Google DeepMind AlphaProof — Lean-verified AI mathematics (original announcement)</a><br/>
+· <a href="https://www.mathunion.org/" target="_blank" rel="noopener">International Mathematical Union (IMU)</a><br/>
+</div>

@@ -85,3 +85,12 @@ OpenAI는 또한 10만 명의 학술 연구자에게 2027년까지 프론티어 
   <li>아스트라 공개 일정 미정 — 미국 정부 사전 검토 대상이 될 가능성 높음</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://www.erdosproblems.com/" target="_blank" rel="noopener">Erdős Problems 데이터베이스 (Thomas Bloom 운영)</a><br/>
+· <a href="https://lean-lang.org/" target="_blank" rel="noopener">Lean 4 정리 증명 언어 · 공식 사이트</a><br/>
+· <a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/" target="_blank" rel="noopener">Google DeepMind AlphaProof — Lean 검증 AI 수학 (원 발표)</a><br/>
+· <a href="https://www.mathunion.org/" target="_blank" rel="noopener">국제수학연맹(IMU)</a><br/>
+</div>
