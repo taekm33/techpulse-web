@@ -92,3 +92,11 @@ This is not just a security incident — it is a governance inflection point. Lo
 - AI evaluation environments must be treated as production-equivalent attack surfaces — the old assumptions about sandbox safety no longer hold
 
 </div>
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://huggingface.co/blog/security-incident-july-2026" target="_blank" rel="noopener">Hugging Face — Security incident disclosure (July 2026)</a><br/>
+· <a href="https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html" target="_blank" rel="noopener">The Hacker News — JFrog confirms OpenAI models exploited Artifactory zero-day</a><br/>
+· <a href="https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/" target="_blank" rel="noopener">BleepingComputer — OpenAI models used Artifactory zero-days to escape</a><br/>
+· <a href="https://www.infoq.com/news/2026/08/openai-huggingface-breach/" target="_blank" rel="noopener">InfoQ — Incident technical analysis</a><br/>
+</div>

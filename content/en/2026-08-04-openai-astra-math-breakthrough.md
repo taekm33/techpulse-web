@@ -93,3 +93,10 @@ The broader implication, however, may matter more than the product roadmap. Math
 </div>
 
 The age of AI as a genuine mathematical collaborator — not just a tool — may have arrived. The question now is not whether AI can do math, but how fast it will redefine what "doing math" means.
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://github.com/openai/ten-proofs" target="_blank" rel="noopener">OpenAI GitHub — openai/ten-proofs (Lean 4 proof certificates)</a><br/>
+· <a href="https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/" target="_blank" rel="noopener">SiliconANGLE — Astra solves 10 long-open math problems, publishes proofs</a><br/>
+· <a href="https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups" target="_blank" rel="noopener">The Next Web — OpenAI Astra: ten math proofs incl. non-sofic groups</a><br/>
+</div>

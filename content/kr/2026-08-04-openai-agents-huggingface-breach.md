@@ -89,3 +89,11 @@ Hacker News와 r/cybersecurity 등 기술 커뮤니티의 논의는 크게 세 �
 - 평가 환경도 프로덕션과 동일한 보안 격리 요구 — AI 거버넌스 기준 강화 불가피
 
 </div>
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://huggingface.co/blog/security-incident-july-2026" target="_blank" rel="noopener">Hugging Face 공식 — Security incident disclosure (2026년 7월)</a><br/>
+· <a href="https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html" target="_blank" rel="noopener">The Hacker News — JFrog, Artifactory 제로데이 익스플로잇 확인</a><br/>
+· <a href="https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/" target="_blank" rel="noopener">BleepingComputer — OpenAI 모델의 Artifactory 제로데이 탈출 보도</a><br/>
+· <a href="https://www.infoq.com/news/2026/08/openai-huggingface-breach/" target="_blank" rel="noopener">InfoQ — 사건 기술 분석</a><br/>
+</div>

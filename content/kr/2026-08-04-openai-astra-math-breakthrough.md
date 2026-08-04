@@ -85,3 +85,10 @@ OpenAI 수학 연구 총괄 세바스티앙 뷔벡(Sebastien Bubeck)은 이 결�
 </div>
 
 AI의 수학 능력이 폭발적으로 성장하면서, 향후 2~3년 내에 더 깊은 수학 이론 문제들도 AI가 풀어낼 수 있을 것이라는 전망이 나오고 있습니다. 수학이라는 학문의 본질 자체가 변하는 시대가 도래하고 있습니다.
+
+<div class="article-callout info">
+<strong>관련 자료 · 공식 출처</strong><br/>
+· <a href="https://github.com/openai/ten-proofs" target="_blank" rel="noopener">OpenAI 공식 GitHub — openai/ten-proofs (Lean 4 증명 인증서)</a><br/>
+· <a href="https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/" target="_blank" rel="noopener">SiliconANGLE — Astra의 10개 난제 해결 및 증명 공개 보도</a><br/>
+· <a href="https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups" target="_blank" rel="noopener">The Next Web — Astra, 비-소픽 군 등 10개 수학 증명 보도</a><br/>
+</div>
