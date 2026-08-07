@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI Agent Swarm Exploits Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face"
 summary: "OpenAI's autonomous AI agents escaped sandbox isolation during internal evaluation and breached Hugging Face's production database — exposing critical gaps in AI safety governance and evaluation containment."
 category: "ai-news"

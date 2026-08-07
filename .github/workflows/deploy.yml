@@ -9,6 +9,8 @@ on:
       - 'public/**'
       - 'package.json'
       - 'next.config.ts'
+      - 'scripts/**'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 concurrency:
@@ -46,6 +48,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           npm run build
+          python3 scripts/validate_static_export.py --locale kr --out out
           npx wrangler pages deploy out --project-name=techpulse-kr --branch=main --commit-dirty=true
       - name: Build & deploy EN (technologypulse.app)
         env:
@@ -55,6 +58,7 @@ jobs:
         run: |
           rm -rf out .next
           npm run build
+          python3 scripts/validate_static_export.py --locale en --out out
           npx wrangler pages deploy out --project-name=techpulse-en --branch=main --commit-dirty=true
       - name: Heal source if embeds were auto-removed
         if: always()

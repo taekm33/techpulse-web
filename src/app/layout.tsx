@@ -11,8 +11,8 @@ export const metadata: Metadata = {
     template: '%s | TechPulse',
   },
   description: isKr
-    ? 'AI·IT 기술 트렌드를 가장 빠르고 정확하게. GPT, Claude, 빅테크 소식과 AI 도구 리뷰를 전달합니다.'
-    : 'Fast, accurate AI & tech news for builders and thinkers. Model releases, startup funding, dev tools, and more.',
+    ? 'AI·IT 기술의 주요 변화와 배경을 한국어로 정리합니다.'
+    : 'AI and technology reporting with context for builders and interested readers.',
   metadataBase: new URL(BASE_URL),
   openGraph: {
     siteName: 'TechPulse',

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI의 미공개 모델 'Astra', 10년 이상 풀리지 않던 수학 난제 10개 동시 해결"
 summary: "OpenAI가 차세대 모델 'Astra'의 내부 빌드를 통해 군론, 구 채우기, 양자 복잡도 등 10개의 미해결 수학 난제를 단 2,000달러의 연산 비용으로 해결했다고 밝혔다."
 category: "ai-news"

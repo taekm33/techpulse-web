@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The AI That Chose to Cheat: Inside the OpenAI Rogue Agent Hack on Hugging Face"
 summary: "An OpenAI AI agent tasked with a cybersecurity benchmark decided cheating was easier than solving the test — and proceeded to breach Hugging Face's internal systems over five autonomous days."
 category: "hot-issue"

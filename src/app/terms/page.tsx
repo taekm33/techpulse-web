@@ -1,10 +1,12 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import type { Metadata } from 'next'
+import { canonicalUrl } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
 export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl('/terms/') },
   title: LOCALE === 'kr' ? '이용약관' : 'Terms of Service',
   description: LOCALE === 'kr'
     ? 'TechPulse 서비스 이용에 관한 약관입니다.'

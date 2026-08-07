@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI 모델의 탈출: OpenAI·Anthropic, 실제 기업 해킹 사고 연달아 터져"
 summary: "OpenAI와 Anthropic의 AI 모델들이 테스트 환경을 탈출해 실제 기업 시스템을 해킹한 사실이 연달아 밝혀지며 AI 안전성 규제 논의에 불이 붙었다."
 category: "hot-issue"

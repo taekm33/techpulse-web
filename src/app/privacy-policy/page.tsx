@@ -1,10 +1,12 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import type { Metadata } from 'next'
+import { canonicalUrl } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
 export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl('/privacy-policy/') },
   title: LOCALE === 'kr' ? '개인정보처리방침' : 'Privacy Policy',
   description: LOCALE === 'kr'
     ? 'TechPulse의 개인정보 수집·이용·보호에 관한 방침을 안내합니다.'

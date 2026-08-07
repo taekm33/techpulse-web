@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "EU AI Act Transparency Rules Go Live — Label Your Chatbots and Deepfakes or Face €15M Fines"
 summary: "As of August 2, the EU AI Act's Article 50 transparency obligations are fully enforceable. Chatbot disclosure, machine-readable marking of AI-generated content, emotion-recognition notices, and deepfake labeling are now mandatory, with fines up to €15 million or 3% of worldwide turnover. The rules reach any provider placing AI on the EU market or whose AI outputs are used in the EU — making them effectively global."
 category: "it-news"

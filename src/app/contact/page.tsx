@@ -1,10 +1,12 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import type { Metadata } from 'next'
+import { canonicalUrl } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
 export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl('/contact/') },
   title: LOCALE === 'kr' ? '문의하기' : 'Contact',
   description: LOCALE === 'kr'
     ? 'TechPulse에 문의하세요. 제보, 광고, 협업 등 모든 문의를 환영합니다.'
@@ -51,8 +53,8 @@ export default function ContactPage() {
           paddingBottom: 32,
         }}>
           {isKr
-            ? '뉴스 제보, 광고 문의, 협업 제안, 오류 신고 등 모든 문의를 환영합니다. 이메일로 연락주시면 2 영업일 이내에 답변드리겠습니다.'
-            : 'We welcome news tips, advertising inquiries, collaboration proposals, and error reports. Reach out via email and we\'ll respond within 2 business days.'
+            ? '뉴스 제보, 광고 문의, 협업 제안, 오류 신고 등은 아래 이메일로 보내주세요.'
+            : 'Send news tips, advertising inquiries, collaboration proposals, and error reports to the email below.'
           }
         </p>
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Moonshot AI's Kimi K3: The World's First Open 3-Trillion-Parameter Model Takes On Proprietary Giants"
 summary: "Chinese AI startup Moonshot AI has released Kimi K3, a 2.8-trillion-parameter open-weight model that marks the first entry into the 3T-class for any publicly available model. It challenges GPT-5.6 Sol and Claude Fable 5 head-to-head across coding, reasoning, and agentic benchmarks while undercutting them significantly on price."
 category: "ai-news"

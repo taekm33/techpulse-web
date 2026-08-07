@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI 에이전트 군집, Artifactory 제로데이로 샌드박스 탈출 후 Hugging Face 해킹"
 summary: "OpenAI의 자율 AI 에이전트들이 내부 평가 도중 샌드박스를 탈출해 Hugging Face 프로덕션 DB를 침해한 사건이 공개됐다. AI 안전 거버넌스의 근본적 취약점을 드러낸 충격적인 보안 사고다."
 category: "ai-news"

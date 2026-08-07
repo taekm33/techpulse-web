@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Moonshot AI Releases Kimi K3 Open Weights: The World's Largest Open-Weight AI Model at 2.8 Trillion Parameters"
 summary: "Chinese AI startup Moonshot AI has made Kimi K3's full model weights publicly available, marking a new milestone in open-weight AI. The 2.8-trillion-parameter model rivals Claude Fable 5 in coding benchmarks and ships with a 1-million-token context window."
 category: "ai-news"

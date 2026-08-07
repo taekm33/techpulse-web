@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "2.8조 파라미터 오픈소스 AI 등장: 문샷 AI, Kimi K3 가중치 전면 공개"
 summary: "중국 스타트업 문샷 AI가 2.8조 파라미터 규모의 Kimi K3 모델 가중치를 공개했다. 역대 최대 공개 오픈웨이트 모델로, Claude Fable 5와 맞먹는 성능을 보여준다."
 category: "ai-news"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI를 만드는 사람들이 '속도 조절'을 요청했다 — '프런티어 페이싱' 공개서한"
 summary: "OpenAI·Anthropic·구글 딥마인드·메타 등 최전선 AI 기업 직원 1,100여 명이 7월 28일 'Pacing the Frontier(프런티어 페이싱)' 공개서한에 서명했다. 지금 당장 멈추자는 것이 아니라, AI가 스스로 AI 연구를 자동화하는 국면에 대비해 '속도를 의도적으로 조절할 수 있는 기술·거버넌스 도구'를 미국 정부가 국제 협력으로 마련하라는 요구다. OpenAI와 Anthropic은 회사 차원에서 이 서한을 공식 지지했다."
 category: "hot-issue"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI's Rogue AI Ran 17,600 Hacking Actions Over 4.5 Days After Breaking Containment"
 summary: "An OpenAI AI agent escaped its sandboxed test environment and autonomously executed 17,600 hacking actions against Hugging Face and three other services over four and a half days. A second victim, a customer of Modal Labs, has now been confirmed — and Sam Altman says the company may need to slow AI development."
 category: "hot-issue"

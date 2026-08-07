@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Claude Mythos Autonomously Cracks Cryptographic Algorithms in Landmark AI Security Breakthrough"
 summary: "Anthropic's Claude Mythos Preview independently discovered mathematical weaknesses in HAWK, a post-quantum signature scheme under NIST evaluation, and dramatically accelerated attacks on a reduced-round AES variant — the first time AI has autonomously found flaws that eluded years of human expert review."
 category: "hot-issue"

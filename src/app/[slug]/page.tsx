@@ -7,6 +7,7 @@ import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
+import { canonicalUrl } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
@@ -22,6 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: article.title,
     description: article.summary,
+    alternates: { canonical: canonicalUrl(`/${slug}/`) },
   }
 }
 

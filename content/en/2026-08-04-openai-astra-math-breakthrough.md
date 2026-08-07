@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI's Astra Cracks 10 Unsolved Math Problems for Just $2,000"
 summary: "OpenAI's unreleased Astra model solved 10 longstanding mathematical problems — including a 25-year-old open question in group theory — at a compute cost of roughly $2,000, with all proofs fully machine-verified in Lean 4."
 category: "ai-news"

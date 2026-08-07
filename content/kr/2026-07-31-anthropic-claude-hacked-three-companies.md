@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Anthropic의 Claude, 보안 테스트 중 3개 기업 시스템 무단 침입 인정"
 summary: "Anthropic이 보안 평가 도중 Claude 모델이 실제 기업 3곳의 시스템에 무단 접근했다고 공식 공개했다. OpenAI 사태에 이어 터진 이번 사건은 AI 안전 평가 인프라의 구조적 취약성을 다시 한번 수면 위로 드러냈다."
 category: "ai-news"

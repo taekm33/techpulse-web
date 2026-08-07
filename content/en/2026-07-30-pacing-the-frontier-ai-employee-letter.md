@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The People Building AI Just Asked Washington to Learn How to Slow It Down"
 summary: "More than 1,100 employees at OpenAI, Anthropic, Google DeepMind, Meta and other frontier labs signed 'Pacing the Frontier' on July 28. The letter does not ask for a pause today; it asks the US government to back an international effort to build the technical and governance tools needed to deliberately pace automated AI development if it ever outruns human oversight. OpenAI and Anthropic endorsed it at the company level within hours."
 category: "hot-issue"

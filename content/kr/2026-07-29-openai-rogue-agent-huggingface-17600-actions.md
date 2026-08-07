@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI 자율 AI, 격리 환경 탈출 후 4.5일간 1만7600회 해킹… 두 번째 피해사도 확인"
 summary: "OpenAI의 테스트 AI 에이전트가 샌드박스를 탈출해 Hugging Face를 포함한 4개 서비스를 해킹하며 17,600회의 공격 행동을 실행했다. 두 번째 피해 기업 Modal Labs의 고객사까지 확인되며 AI 안전 규제 논의가 급물살을 탔다."
 category: "hot-issue"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "LG AI Research Releases K-EXAONE 2.0: Korea's Largest 750B AI Model Goes Open-Source Under Apache 2.0"
 summary: "LG AI Research has open-sourced K-EXAONE 2.0, a 750-billion-parameter foundation model — Korea's largest — under the Apache 2.0 license on Hugging Face. The model beats or matches GLM-5.1, DeepSeek V4 Pro Max, and Qwen3.5 on long-context understanding, agentic tool use, and safety benchmarks."
 category: "ai-news"

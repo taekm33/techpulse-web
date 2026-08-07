@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Microsoft Launches MAI-Cyber-1-Flash and Perception: Its First AI Cybersecurity Model and Agentic Security Platform"
 summary: "Microsoft unveiled MAI-Cyber-1-Flash, its first cybersecurity-specialized AI model, alongside Perception, a new agentic security platform using red, blue, and green AI agent teams to automate vulnerability discovery and remediation — taking direct aim at Anthropic's Mythos and OpenAI's Daybreak."
 category: "ai-news"

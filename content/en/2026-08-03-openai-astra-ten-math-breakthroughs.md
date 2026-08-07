@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI's Astra Solves 10 Decade-Old Math Problems With Machine-Verifiable Lean 4 Proofs"
 summary: "OpenAI's unreleased Astra model has cracked ten long-standing open problems in mathematics and theoretical computer science, publishing machine-checkable Lean 4 certificates on GitHub — a structural leap beyond social validation that changes how AI math results can be trusted."
 category: "ai-news"

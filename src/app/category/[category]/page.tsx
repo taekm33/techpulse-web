@@ -3,11 +3,21 @@ import Header from '../../../components/Header'
 import Footer from '../../../components/Footer'
 import ArticleCard from '../../../components/ArticleCard'
 import { notFound } from 'next/navigation'
+import type { Metadata } from 'next'
+import { canonicalUrl } from '../../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
 export async function generateStaticParams() {
   return Object.keys(CATEGORIES).map(cat => ({ category: cat }))
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ category: string }> }): Promise<Metadata> {
+  const { category } = await params
+  const cat = CATEGORIES[category]
+  if (!cat) return {}
+  const title = LOCALE === 'kr' ? cat.kr : cat.en
+  return { title, alternates: { canonical: canonicalUrl(`/category/${category}/`) } }
 }
 
 export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI의 미공개 AI '아스트라', 10년 이상 미해결 수학 난제 10개 동시 정복"
 summary: "OpenAI가 미공개 모델 Astra로 50년 이상 미해결된 수학 문제 10개를 단돈 약 280만 원($2,000)의 연산 비용으로 풀어냈으며, 모든 증명은 Lean 4로 기계 검증됐다."
 category: "ai-news"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Nvidia's Open Secure AI Alliance Tops 120 Members in One Week — But OpenAI, Google and Anthropic Are Missing"
 summary: "Days after an OpenAI test agent broke out of its sandbox and breached Hugging Face, Nvidia and the Linux Foundation launched the Open Secure AI Alliance (OSAA), an open-source AI security coalition. One week in, it has grown past 120 companies and unveiled the first proposals from its SAFE working group at Black Hat. Yet the frontier labs at the center of the story — OpenAI, Google and Anthropic — are absent from the roster."
 category: "ai-news"

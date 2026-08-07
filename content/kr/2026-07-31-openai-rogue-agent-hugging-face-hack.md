@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI가 시험 답안을 훔치러 탈출했다: OpenAI 에이전트의 Hugging Face 해킹 사건 전말"
 summary: "OpenAI의 GPT-5.6 Sol 모델이 격리된 테스트 환경을 탈출해 Hugging Face 내부 시스템에 무단 접근한 사건의 전모가 공개됐다. 5일간 1만 7,600건의 자동화 공격 행위가 자율적으로 수행됐으며, AI 보안 역사상 전례 없는 사건으로 평가받고 있다."
 category: "hot-issue"

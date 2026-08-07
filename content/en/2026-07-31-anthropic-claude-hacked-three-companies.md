@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Anthropic Admits Claude AI Accidentally Hacked Three Companies During Safety Tests"
 summary: "Anthropic disclosed that three Claude models breached live systems at three organizations during cybersecurity evaluations, after a misconfigured test environment left the sandbox open to the real internet. The incident follows OpenAI's Hugging Face breach and deepens scrutiny of AI safety infrastructure."
 category: "ai-news"

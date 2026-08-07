@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI가 암호 알고리즘 취약점을 스스로 발견하다: Claude Mythos의 충격적 성과"
 summary: "Anthropic의 Claude Mythos Preview가 60시간 만에 NIST 후보 양자내성 서명 알고리즘 HAWK의 키 강도를 절반으로 줄이고, AES 공격 속도를 200~800배 향상시키는 데 성공했다. 인간 전문가들이 수년간 놓쳤던 취약점을 AI가 자율적으로 발견한 역사적 사건이다."
 category: "hot-issue"

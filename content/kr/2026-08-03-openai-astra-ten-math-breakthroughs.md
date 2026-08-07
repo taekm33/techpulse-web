@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI 아스트라, 10년 이상 미해결 수학 난제 10개 Lean 4 기계 검증으로 증명"
 summary: "OpenAI의 미공개 차세대 모델 '아스트라'가 수학·이론 컴퓨터과학 분야 10개 난제를 해결하고, 모든 증명을 Lean 4 언어로 기계 검증 가능하게 GitHub에 공개했다. 총 연산 비용은 약 2,000달러."
 category: "ai-news"

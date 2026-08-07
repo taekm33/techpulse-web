@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "DARPA, AI 조종사가 F-16 전투기를 직접 날렸다 — VENOM 프로그램의 역사적 첫 자율비행"
 summary: "미 국방부 DARPA가 실전형 F-16에 AI 자율비행 키트(VAK)를 장착해 첫 자율 비행에 성공했다. 인간 조종사 없이도 스위치 하나로 AI가 전투기를 제어하는 시대가 열렸다."
 category: "dev-trend"

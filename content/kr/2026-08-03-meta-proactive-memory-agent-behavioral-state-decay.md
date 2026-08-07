@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "메타 AI, '기억 코치' 에이전트로 장기 작업의 '행동 상태 감쇠' 해결"
 summary: "메타 AI가 액션 에이전트 옆에서 별도로 돌아가는 '능동적 메모리 에이전트'를 제안했다. 문맥 창 안에 정보가 남아 있어도 다음 결정에 영향을 주지 못하는 '행동 상태 감쇠(behavioral state decay)' 문제를 겨냥해, Terminal-Bench 2.0에서 +8.3%p 성능 향상을 기록했다."
 category: "dev-trend"

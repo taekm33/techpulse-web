@@ -1,14 +1,16 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import type { Metadata } from 'next'
+import { canonicalUrl } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
 export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl('/about/') },
   title: LOCALE === 'kr' ? 'TechPulse 소개' : 'About TechPulse',
   description: LOCALE === 'kr'
-    ? 'TechPulse는 AI·IT 기술 트렌드를 빠르고 정확하게 전달하는 한국어/영어 테크 미디어입니다.'
-    : 'TechPulse is a bilingual AI & tech media platform delivering fast, accurate insights for builders and thinkers.',
+    ? 'TechPulse는 AI·IT 기술의 주요 변화와 배경을 다루는 한국어/영어 테크 미디어입니다.'
+    : 'TechPulse is a bilingual publication covering AI and technology for builders and interested readers.',
 }
 
 export default function AboutPage() {
@@ -51,8 +53,8 @@ export default function AboutPage() {
           paddingBottom: 32,
         }}>
           {isKr
-            ? 'TechPulse는 AI·IT 기술 트렌드를 빠르고 정확하게 전달하는 테크 미디어입니다. 개발자, IT 종사자, 기술 관심자를 위해 매일 최신 AI/IT 뉴스, 도구 리뷰, 개발 트렌드를 한국어와 영어로 제공합니다.'
-            : 'TechPulse is a fast, accurate AI & tech media platform built for builders, developers, and technology enthusiasts. We deliver daily AI/IT news, tool reviews, and development trend analysis in both Korean and English.'
+            ? 'TechPulse는 AI·IT 기술의 주요 변화와 배경을 다루는 테크 미디어입니다. 개발자, IT 종사자, 기술 관심자를 위해 AI/IT 뉴스, 도구 리뷰, 개발 트렌드를 한국어와 영어로 정리합니다.'
+            : 'TechPulse is a bilingual AI and technology publication for builders, developers, and interested readers. We cover AI/IT news, tools, and development trends with audience-specific Korean and English editions.'
           }
         </p>
 

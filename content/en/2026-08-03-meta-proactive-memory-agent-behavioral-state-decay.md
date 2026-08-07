@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Meta AI's 'Memory Coach' Agent Tackles Behavioral State Decay in Long Tasks"
 summary: "Meta AI proposes a proactive memory agent that runs alongside an unmodified action agent, targeting 'behavioral state decay' — where information stays in the context window yet stops shaping the next decision. It lifted pass@1 by 8.3 points on Terminal-Bench 2.0."
 category: "dev-trend"

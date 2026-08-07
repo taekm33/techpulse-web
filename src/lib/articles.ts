@@ -23,6 +23,7 @@ export function getArticles(locale: 'kr' | 'en'): Article[] {
     .map(file => {
       const raw = fs.readFileSync(path.join(dir, file), 'utf8')
       const { data, content } = matter(raw)
+      if (data.draft === true) return null
       return {
         slug: file.replace(/\.md$/, ''),
         locale,
@@ -36,7 +37,7 @@ export function getArticles(locale: 'kr' | 'en'): Article[] {
         featured: data.featured ?? false,
       } as Article
     })
-    .filter(a => a.title)
+    .filter((a): a is Article => Boolean(a?.title))
     .sort((a, b) => (a.date < b.date ? 1 : -1))
 }
 
@@ -45,6 +46,7 @@ export function getArticle(locale: 'kr' | 'en', slug: string): Article | null {
   if (!fs.existsSync(file)) return null
   const raw = fs.readFileSync(file, 'utf8')
   const { data, content } = matter(raw)
+  if (data.draft === true) return null
   return {
     slug,
     locale,

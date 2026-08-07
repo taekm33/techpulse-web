@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "알리바바 Qwen3.8-Max 공개 — 2.4조 파라미터 오픈웨이트로 서방 선두 AI에 정면 도전"
 summary: "알리바바가 2.4조 파라미터 규모의 최신 플래그십 모델 Qwen3.8-Max를 공식 출시했다. 내부 벤치마크에서 Anthropic Fable 5·GPT-5.6 Sol과 동급 성능을 주장하며, 다음 주 Hugging Face에 오픈웨이트까지 공개 예정이다. 수일 단위 장기 작업을 자율 수행하는 에이전트 능력이 핵심으로, 중국 AI의 미국 추격이 다시 속도를 내고 있다."
 category: "ai-news"

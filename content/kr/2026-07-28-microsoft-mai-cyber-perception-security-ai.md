@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "마이크로소프트, 첫 사이버보안 전용 AI 모델 'MAI-Cyber-1-Flash'와 에이전틱 보안 플랫폼 'Perception' 공개"
 summary: "마이크로소프트가 7월 27일 샌프란시스코에서 자사 최초의 사이버보안 특화 AI 모델 MAI-Cyber-1-Flash와 에이전틱 보안 플랫폼 Perception을 발표했다. 복잡한 코드베이스에서 취약점을 찾아내고 수분 내 패치까지 제안하는 이 시스템은, Anthropic의 Mythos·OpenAI의 Daybreak와 직접 경쟁한다."
 category: "ai-news"

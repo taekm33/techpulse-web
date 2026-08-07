@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "세계 최초 3조 파라미터급 오픈소스 모델 'Kimi K3' 등장 — 독점 AI와 정면 승부"
 summary: "중국 AI 스타트업 Moonshot AI가 2.8조 파라미터의 완전 공개 모델 Kimi K3를 출시했다. 오픈 모델 최초로 3조 파라미터 클래스에 진입해 GPT-5.6 Sol, Claude Fable 5와 대등한 코딩·추론 성능을 기록하며 독점 AI 생태계에 강력한 도전장을 던졌다."
 category: "ai-news"

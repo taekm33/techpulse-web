@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI 'Slop' Jammed Apple's Bug Bounty — and Buried a Real $200K macOS Flaw"
 summary: "A flood of low-quality, AI-generated 'slop' vulnerability reports clogged Apple's bug bounty review pipeline, so Apple capped how many submissions each researcher can file. The side effect: a genuine macOS full-takeover flaw found by Italian startup Bynario using ChatGPT — worth an estimated $100K–$200K on the black market — couldn't be reported for a while."
 category: "it-news"

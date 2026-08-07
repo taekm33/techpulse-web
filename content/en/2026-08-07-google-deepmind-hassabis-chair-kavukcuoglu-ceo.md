@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Hassabis Steps Down as DeepMind CEO to Become Alphabet Chief Scientist in Google AI Shake-Up"
 summary: "On August 5, Sundar Pichai announced a reshuffle of Google's AI leadership. Demis Hassabis hands over day-to-day running of Google DeepMind to become its Chair and Alphabet's Chief Scientist, focusing on AGI, while Koray Kavukcuoglu takes over operations. Jeff Dean is leaving after 27 years to launch a new venture, Discovery Loop."
 category: "ai-news"

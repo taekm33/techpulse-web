@@ -2,6 +2,12 @@ import { getArticles, CATEGORIES } from '../lib/articles'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Link from 'next/link'
+import type { Metadata } from 'next'
+import { canonicalUrl } from '../lib/seo'
+
+export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl('/') },
+}
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 

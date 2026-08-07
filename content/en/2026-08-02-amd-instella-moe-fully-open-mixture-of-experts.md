@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AMD Releases 'Instella-MoE,' a Fully Open MoE Trained Entirely on Its Own GPUs — a Frontier Experiment Without NVIDIA"
 summary: "AMD has released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model with 16B total and 2.8B active parameters. It was trained end-to-end — from pretraining through reinforcement learning — solely on Instinct MI300X and MI325X GPUs with the ROCm stack, with weights, data mixtures and training code released for every stage. It posts the strongest average among fully open models."
 category: "ai-news"

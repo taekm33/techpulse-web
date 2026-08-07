@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI Slashes GPT-5.6 'Luna' API Price by 80% — the AI Price War Is On"
 summary: "On July 30, 2026 OpenAI abruptly cut API prices for its lower-tier GPT-5.6 Luna and Terra models. Luna dropped 80% on both input and output; Terra fell about 20%. The flagship Sol was left untouched, effectively commoditizing the utility tier while protecting the frontier."
 category: "ai-news"

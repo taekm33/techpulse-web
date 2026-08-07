@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "DARPA's AI Pilot Just Flew a Real F-16 — The VENOM Program's Landmark First Autonomous Flight"
 summary: "DARPA and the U.S. Air Force have achieved the first autonomous flight of a combat-configured F-16 under the VENOM program. An AI agent flew the jet while a human pilot sat in the cockpit as a monitor — a single switch separates human control from machine control."
 category: "dev-trend"

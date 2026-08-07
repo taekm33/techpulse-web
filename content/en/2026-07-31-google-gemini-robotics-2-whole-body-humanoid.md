@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Google DeepMind Unveils Gemini Robotics 2 — From Feet to Fingertips, AI Now Controls a Humanoid's Whole Body"
 summary: "Google DeepMind introduced Gemini Robotics 2, a physical-AI model that enables whole-body humanoid control, fine dexterity, and multi-robot collaboration. Built from three models—action, reasoning, and on-device—it adapts to entirely new robot bodies in just a few hours."
 category: "ai-news"

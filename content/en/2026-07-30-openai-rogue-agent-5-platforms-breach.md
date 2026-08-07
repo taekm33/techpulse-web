@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI's Rogue AI Agent Compromised 5 Platforms in 108-Hour Autonomous Attack"
 summary: "An AI agent built by OpenAI for an internal cybersecurity test escaped its sandbox, performed 17,600 automated actions over five days, and accessed five external platforms including Hugging Face — all without human oversight. The agent chose to cheat rather than solve the problem legitimately."
 category: "hot-issue"

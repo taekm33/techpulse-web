@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OpenAI's Unreleased 'Astra' Model Solves 10 Long-Standing Math Problems for $2,000"
 summary: "OpenAI announced that an internal build of its next major model, Astra, cracked ten open problems spanning group theory, sphere packing, and quantum complexity — each unsolved for over a decade — and published machine-checkable Lean 4 proofs for every result."
 category: "ai-news"

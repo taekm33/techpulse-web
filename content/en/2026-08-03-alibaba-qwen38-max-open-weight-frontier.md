@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Alibaba's Qwen3.8-Max: China's 2.4-Trillion-Parameter Open-Weight AI Takes Aim at Western Frontier Models"
 summary: "Alibaba officially released Qwen3.8-Max, its largest and most capable model yet, featuring 2.4 trillion parameters and claiming benchmark parity with Anthropic's Fable 5 and OpenAI's GPT-5.6 Sol. Open weights drop next week — a first for any Qwen-Max-class model."
 category: "ai-news"

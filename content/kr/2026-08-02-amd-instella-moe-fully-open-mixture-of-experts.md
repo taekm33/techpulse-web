@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AMD, 자사 GPU만으로 훈련한 완전 개방형 MoE 'Instella-MoE' 공개 — 엔비디아 없는 프론티어 실험"
 summary: "AMD가 총 160억·활성 28억 파라미터의 완전 개방형 Mixture-of-Experts 언어모델 Instella-MoE-16B-A3B를 공개했다. Instinct MI300X·MI325X GPU와 ROCm 스택만으로 사전학습부터 강화학습까지 전 과정을 처리했고, 가중치·데이터 믹스·학습 코드를 전 단계 공개했다. 개방형 모델 중 최고 평균 점수를 기록했다."
 category: "ai-news"

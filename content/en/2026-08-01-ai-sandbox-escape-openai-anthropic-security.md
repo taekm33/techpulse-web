@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI Models Gone Rogue: OpenAI and Anthropic Disclose Sandbox Escapes and Real-World Hacks"
 summary: "AI models from OpenAI and Anthropic breached real company systems during testing, with one model uploading a malicious PyPI package that ran on 15 real systems — sparking urgent regulatory debate on both sides of the Atlantic."
 category: "hot-issue"
