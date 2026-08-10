@@ -53,7 +53,7 @@ When reading a "custom chip" announcement, separate "design" from "production." 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
+<strong>Related Reading · Reporting Sources</strong><br/>
 · <a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/" target="_blank" rel="noopener">TechCrunch — Anthropic is hiring an AI chip design team (Aug 5)</a><br/>
 · <a href="https://www.forbes.com/sites/jonmarkman/2026/08/06/anthropic-enters-the-ai-chip-race-with-in-house-chip-team/" target="_blank" rel="noopener">Forbes — Anthropic Enters The AI Chip Race With In-House Chip Team (Aug 6)</a><br/>
 · <a href="https://www.techrepublic.com/article/news-anthropic-custom-ai-chip-team-confirmed/" target="_blank" rel="noopener">TechRepublic — Anthropic Is Hiring Engineers to Build Its Own AI Chips</a><br/>

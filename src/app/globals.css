@@ -80,6 +80,7 @@ html[data-theme="light"] .tp, .tp[data-theme="light"] {
 
 /* ── 티커 ─────────────────────────────────────────────── */
 .tp-ticker {
+  width: 100%; max-width: 100%; min-width: 0;
   border-bottom: 1px solid var(--line);
   font-family: 'JetBrains Mono', ui-monospace, monospace;
   font-size: 11px;
@@ -376,13 +377,13 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
 .tp-prompt__run:hover { opacity: 0.88; }
 
 /* ── 아티클 본문 ─────────────────────────────────────── */
-.article-body { font-size: 1rem; line-height: 1.8; color: var(--ink2); overflow-wrap: break-word; }
+.article-body { min-width: 0; max-width: 100%; font-size: 1rem; line-height: 1.8; color: var(--ink2); overflow-wrap: break-word; }
 .article-body h2 { font-size: 1.35rem; font-weight: 600; color: var(--ink); margin-top: 2.5rem; margin-bottom: 0.9rem; letter-spacing: -0.02em; }
 .article-body h3 { font-size: 1.1rem; font-weight: 600; color: var(--ink); margin-top: 2rem; margin-bottom: 0.7rem; }
 .article-body p { margin-bottom: 1.3rem; }
 .article-body a { color: var(--accent); border-bottom: 1px solid color-mix(in oklab, var(--accent) 35%, transparent); transition: border-color .15s; }
 .article-body a:hover { border-color: var(--accent); }
-.article-body table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.875rem; }
+.article-body table { display: block; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.875rem; }
 .article-body th { text-align: left; padding: 0.55rem 1rem; border-bottom: 2px solid var(--line2); color: var(--ink3); font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 500; }
 .article-body td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 .article-body tr:last-child td { border-bottom: none; }
@@ -437,6 +438,4 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
   .tp-footer__brand { display: none; }
   .tp-section { padding: 0 16px 20px; }
   .tp-hero { padding: 16px; }
-  /* wide tables scroll inside their own box instead of pushing page width (mobile bg cutoff fix) */
-  .article-body table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 }

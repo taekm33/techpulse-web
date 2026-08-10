@@ -53,7 +53,7 @@ tags: ["앤트로픽", "AI칩", "클로드", "반도체", "인퍼런스"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
+<strong>관련 자료 · 보도 출처</strong><br/>
 · <a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/" target="_blank" rel="noopener">TechCrunch — Anthropic is hiring an AI chip design team (8/5)</a><br/>
 · <a href="https://www.forbes.com/sites/jonmarkman/2026/08/06/anthropic-enters-the-ai-chip-race-with-in-house-chip-team/" target="_blank" rel="noopener">Forbes — Anthropic Enters The AI Chip Race With In-House Chip Team (8/6)</a><br/>
 · <a href="https://www.techrepublic.com/article/news-anthropic-custom-ai-chip-team-confirmed/" target="_blank" rel="noopener">TechRepublic — Anthropic Is Hiring Engineers to Build Its Own AI Chips</a><br/>

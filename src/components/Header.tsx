@@ -24,15 +24,6 @@ const NAV_EN = [
   { href: '/category/startup', label: '/startup' },
 ]
 
-const TICKER_DATA = [
-  { sym: 'NVDA', val: '135.26', chg: '+2.31%', up: true },
-  { sym: 'MSFT', val: '429.10', chg: '+0.84%', up: true },
-  { sym: 'GOOGL', val: '178.55', chg: '-0.41%', up: false },
-  { sym: 'META', val: '612.80', chg: '+1.22%', up: true },
-  { sym: 'AAPL', val: '211.35', chg: '+0.31%', up: true },
-  { sym: 'AMZN', val: '224.60', chg: '-0.18%', up: false },
-]
-
 function kstTime() {
   const now = new Date()
   const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000)
@@ -75,17 +66,6 @@ export default function Header({ locale }: HeaderProps) {
     <>
       {/* Ticker bar */}
       <div className="tp-ticker">
-        <span className="tp-ticker__live">
-          <span className="tp-blink">●</span>
-          LIVE
-        </span>
-        {TICKER_DATA.map(item => (
-          <span key={item.sym} style={{ display: 'inline-flex', gap: 5, alignItems: 'center' }}>
-            <span style={{ color: 'var(--ink3)' }}>{item.sym}</span>
-            <span>{item.val}</span>
-            <span style={{ color: item.up ? 'var(--up)' : 'var(--down)' }}>{item.chg}</span>
-          </span>
-        ))}
         <span className="tp-ticker__time">{time}</span>
       </div>
 

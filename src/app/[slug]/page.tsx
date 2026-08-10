@@ -66,7 +66,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 260px', gap: 56 }}>
 
           {/* Article */}
-          <article style={{ paddingTop: 40, paddingBottom: 80 }}>
+          <article style={{ minWidth: 0, paddingTop: 40, paddingBottom: 80 }}>
 
             {/* Breadcrumb */}
             <div style={{
