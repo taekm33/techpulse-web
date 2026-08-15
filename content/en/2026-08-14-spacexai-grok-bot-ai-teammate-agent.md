@@ -82,3 +82,11 @@ For businesses evaluating the space, the key question isn't whether to adopt age
   <li>Available for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers; enterprise waitlist open</li>
 </ul>
 </div>
+
+
+<div class="article-callout info">
+<strong>Related Reading · Official Sources</strong><br/>
+· <a href="https://x.ai/news" target="_blank" rel="noopener">xAI Official News (x.ai/news)</a><br/>
+· <a href="https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/" target="_blank" rel="noopener">Unite.AI — xAI Launches Grok Bot, Always-On AI Teammates</a><br/>
+· <a href="https://www.businesstoday.in/technology/artificial-intelligence/story/xai-launches-grok-bot-an-always-on-ai-agent-app-that-completes-tasks-on-users-behalf-548723-2026-08-12" target="_blank" rel="noopener">Business Today — xAI Launches Grok Bot AI Agent App</a><br/>
+</div>
