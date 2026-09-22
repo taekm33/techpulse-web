@@ -3,6 +3,7 @@ title: "OpenAI Unveils GPT-6 Astra — Brockman Declares ‘the AGI Era’"
 summary: "OpenAI released its top-end model GPT-6 Astra on September 3. Trained on more than 100,000 GPUs, it claims state-of-the-art results in computer use, coding, science and cybersecurity, and president Greg Brockman called it the arrival of ‘the AGI era.’ The launch also reignited safety debate: OpenAI says the model reached its ‘Critical’ cybersecurity threshold and is harder to monitor."
 category: "ai-news"
 date: "2026-09-05"
+draft: true
 readingTime: 7
 tags: ["OpenAI", "GPT-6", "AGI", "AI agents", "cybersecurity"]
 ---

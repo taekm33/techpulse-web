@@ -3,6 +3,7 @@ title: "Canada and Germany Commit Up to CAD 300M to Bengio's LawZero — Betting
 summary: "LawZero, the nonprofit led by Turing Award winner Yoshua Bengio, has secured up to CAD 300 million — CAD 150M from Canada and EUR 100M from Germany. The money funds 'Scientist AI,' a safe-by-design methodology built to reason without goals of its own. Announced Sept 16 at the ALL IN conference in Montréal."
 category: "ai-news"
 date: "2026-09-17"
+draft: true
 readingTime: 6
 tags: ["LawZero", "Bengio", "AI safety", "Canada", "Germany"]
 ---

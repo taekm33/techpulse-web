@@ -3,6 +3,7 @@ title: "Apple's 'Surprise and Shine' Event Is Tomorrow — iPhone 18 Pro and the
 summary: "Apple holds its 'Surprise and Shine' special event on September 9 at Apple Park. The iPhone 18 Pro and Pro Max, Apple's first foldable phone (expected to be called iPhone Ultra), and new Apple Watches are anticipated. Here's what is confirmed versus what is still rumored."
 category: "it-news"
 date: "2026-09-08"
+draft: true
 readingTime: 6
 tags: ["Apple", "iPhone 18 Pro", "iPhone Ultra", "foldable", "Apple Event"]
 ---

@@ -3,6 +3,7 @@ title: "Justice Department Sides With OpenAI in New York Times Copyright Suit â€
 summary: "The U.S. Justice Department filed a statement of interest in the Southern District of New York backing OpenAI's fair-use defense against copyright claims from The New York Times and other publishers and authors. Training LLMs on copyrighted works is transformative, DOJ argued, and a robust American AI ecosystem is essential to national security. It is the first time the U.S. government has intervened directly in the wave of AI copyright suits."
 category: "hot-issue"
 date: "2026-09-03"
+draft: true
 readingTime: 5
 tags: ["copyright", "OpenAI", "fair-use", "New York Times", "AI-regulation"]
 ---

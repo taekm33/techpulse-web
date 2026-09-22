@@ -3,6 +3,7 @@ title: "Anthropic Folds Cowork Into Claude Chat, Launches Docs and Slides to Tak
 summary: "Anthropic has merged Claude's regular chat with its agentic 'Cowork' mode into a single interface and launched Claude Docs and Claude Slides in beta. Users no longer pick a tab: Claude decides whether a request needs an answer, a document, a deck, a design, or a long-running agent. It's a direct push into the productivity software turf held by Google Workspace and Microsoft 365."
 category: "it-news"
 date: "2026-09-18"
+draft: true
 readingTime: 5
 tags: ["Anthropic", "Claude", "Productivity", "Cowork", "AI Agents"]
 ---

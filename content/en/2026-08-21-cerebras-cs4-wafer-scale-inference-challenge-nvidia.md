@@ -3,6 +3,7 @@ title: "Cerebras Unveils CS-4: Three Wafer-Sized Chips, Up to 30x Faster Inferen
 summary: "Cerebras built its CS-4 rack-scale system from three next-generation Wafer Scale Engine 3 Turbo processors, claiming 750 PFLOPS of AI compute and more than 4,400 tokens per second per user on GPT-OSS-120B — up to 30x faster than GPU systems, with up to 10x the throughput per watt of the CS-3. First shipments begin this quarter."
 category: "ai-news"
 date: "2026-08-21"
+draft: true
 readingTime: 6
 tags: ["Cerebras", "AI chips", "inference", "Nvidia", "wafer-scale"]
 ---

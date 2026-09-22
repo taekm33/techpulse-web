@@ -3,6 +3,7 @@ title: "DeepSeek Effectively Retires Its Flagship 'V4-Pro' Today — All Request
 summary: "From 04:00 UTC on September 14, DeepSeek routes every request made to its flagship V4-Pro to the new V4.1-Flash, at the cheaper Flash rates. The 552B 'causal encoder-decoder' MoE claims to beat DeepSeek's own top model for less money — though all benchmarks are DeepSeek's own and remain independently unverified."
 category: "ai-news"
 date: "2026-09-14"
+draft: true
 readingTime: 6
 tags: ["DeepSeek", "V4.1-Flash", "open-source-LLM", "AI-agents", "MoE"]
 ---

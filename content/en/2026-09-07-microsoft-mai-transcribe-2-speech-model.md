@@ -3,6 +3,7 @@ title: "Microsoft Ships 10-Cent Speech Model ‘MAI-Transcribe-2,’ Taking Dire
 summary: "Microsoft AI released MAI-Transcribe-2 on September 3, a speech-recognition model that supports 60 languages, bundles speaker diarization and word-level timestamps by default, and is priced at $0.10 per hour of audio — the lowest on the market. It is Microsoft's third speech model in five months and the clearest sign yet that its push to reduce OpenAI dependence is maturing fastest in transcription."
 category: "ai-news"
 date: "2026-09-07"
+draft: true
 readingTime: 6
 tags: ["Microsoft", "Speech Recognition", "MAI", "STT", "OpenAI"]
 ---

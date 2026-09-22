@@ -3,6 +3,7 @@ title: "Broadcom Chases $60B+ Debt to Buy Anthropic's AI Chips — Compute That 
 summary: "Broadcom is in talks to raise more than $60 billion in debt to fund AI chips for customers including Anthropic, Bloomberg and others report. A special-purpose vehicle buys the chips and leases them to Anthropic — an off-balance-sheet structure through which Anthropic has stacked roughly $71 billion in chip-lease debt in about 60 days, kept off its own accounts."
 category: "ai-news"
 date: "2026-08-28"
+draft: true
 readingTime: 6
 tags: ["Broadcom", "Anthropic", "AI chips", "SPV", "AI infrastructure"]
 ---

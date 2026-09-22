@@ -3,6 +3,7 @@ title: "Google Open-Sources 'HEIR,' a Compiler That Runs AI on Encrypted Data"
 summary: "Google has released HEIR, an open-source homomorphic-encryption (FHE) compiler toolchain. It converts trained AI models to run inference directly on encrypted inputs, so a server returns results without ever seeing the underlying data. Google shipped four working demos: recommendations, fraud detection, intrusion detection, and hotword spotting."
 category: "dev-trend"
 date: "2026-08-16"
+draft: true
 readingTime: 6
 tags: ["Google", "homomorphic encryption", "FHE", "privacy", "AI infrastructure"]
 ---

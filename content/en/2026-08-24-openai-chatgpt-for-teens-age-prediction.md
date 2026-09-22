@@ -3,6 +3,7 @@ title: "OpenAI Launches ChatGPT for Teens, Auto-Enrolling Under-18s via Age Pred
 summary: "On August 18, OpenAI unveiled ChatGPT for Teens, a dedicated experience for 13-to-17-year-olds. Users are placed into it automatically if they state they are 13-17 or if OpenAI's age-prediction system estimates they are under 18. It centers on learning over answers, turns on default safeguards for self-harm, eating disorders and sexual content, and bars romantic language or responses that encourage emotional dependence."
 category: "ai-news"
 date: "2026-08-24"
+draft: true
 readingTime: 6
 tags: ["OpenAI", "ChatGPT", "teen safety", "age prediction", "AI safety"]
 ---

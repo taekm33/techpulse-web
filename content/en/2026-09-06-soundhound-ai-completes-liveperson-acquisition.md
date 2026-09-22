@@ -3,6 +3,7 @@ title: "SoundHound Completes LivePerson Acquisition, Betting on Omnichannel Conv
 summary: "Voice and agentic AI company SoundHound (Nasdaq: SOUN) closed its acquisition of LivePerson on September 4. The combined company serves 25 of the Fortune 100, holds 750+ patents, and enters life debt-free after SoundHound retired LivePerson's outstanding debt. Former LivePerson CFO John Collins takes the CFO seat at the combined company."
 category: "it-news"
 date: "2026-09-06"
+draft: true
 readingTime: 6
 tags: ["SoundHound", "LivePerson", "M&A", "Conversational AI", "AI Agents"]
 ---

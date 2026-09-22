@@ -3,6 +3,7 @@ title: "Federal Judge Rules Pentagon's 'Supply-Chain Risk' Label on Anthropic Wa
 summary: "A U.S. federal judge struck down the Defense Department's blacklisting of Anthropic as unconstitutional and ordered it rescinded. The fight over how the military can use Claude turned into a free-speech case."
 category: "hot-issue"
 date: "2026-08-30"
+draft: true
 readingTime: 6
 tags: ["Anthropic", "Pentagon", "AI regulation", "free speech", "Claude"]
 ---

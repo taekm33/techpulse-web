@@ -3,6 +3,7 @@ title: "Infillion to Acquire Foursquare, Betting on Location Data to Link Ads wi
 summary: "Adtech platform Infillion announced on September 18 that it will acquire location intelligence company Foursquare. It plans to combine Foursquare's visitation data (100M+ points of interest across 200 countries, 16 billion human-verified check-ins) with the purchase intelligence of Catalina, which Infillion already owns, to measure — in a privacy-safe way — whether advertising drove store visits and real-world purchases. Deal terms were not disclosed."
 category: "it-news"
 date: "2026-09-20"
+draft: true
 readingTime: 5
 tags: ["M&A", "AdTech", "Foursquare", "Infillion", "LocationData"]
 ---

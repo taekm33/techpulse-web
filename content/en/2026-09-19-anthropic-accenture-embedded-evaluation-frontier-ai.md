@@ -3,12 +3,13 @@ title: "Anthropic Taps Accenture for 'Embedded Evaluation' of Frontier AI — Ea
 summary: "Anthropic is partnering with Accenture to place independent evaluators inside the company under a model it calls 'embedded evaluation.' Accenture's specialist AI arm, Faculty, will handle red-teaming, alignment assessments, and safeguard testing, with each firm expecting to invest at least $1 billion (roughly $2 billion combined) over five years. It's the first concrete step toward a pledge CEO Dario Amodei made in his essay 'We Must Pace the Frontier.'"
 category: "ai-news"
 date: "2026-09-19"
+draft: true
 readingTime: 5
 tags: ["Anthropic", "Accenture", "AI Safety", "Red Teaming", "AI Governance"]
 ---
 
 <div class="article-tldr">
-On September 18, Anthropic announced a partnership with Accenture for independent evaluation of its frontier AI. The centerpiece is "embedded evaluation": unlike traditional external testing, which sees only finished models from the outside, independent evaluators here get access comparable to an employee's and work inside the company, watching models take shape in training and deployment. The hands-on work is led by Faculty, Accenture's specialist AI business, covering red-teaming, alignment assessments, and safeguard testing. Anthropic and Accenture each expect to invest at least $1 billion over five years. It's the first concrete follow-through on the pledge Dario Amodei made in his essay "We Must Pace the Frontier."
+On September 18, Anthropic announced a partnership with Accenture for independent evaluation of its frontier AI. The centerpiece is "embedded evaluation": unlike traditional external testing, which sees only finished models from the outside, independent evaluators here get access comparable to an employee's and work inside the company, watching models take shape in training and deployment. The day-to-day evaluation work is led by Faculty, Accenture's specialist AI business, covering red-teaming, alignment assessments, and safeguard testing. Anthropic and Accenture each expect to invest at least $1 billion over five years. It's the first concrete follow-through on the pledge Dario Amodei made in his essay "We Must Pace the Frontier."
 </div>
 
 Anthropic is opening its most advanced models to outside eyes. On September 18, the company said it is partnering with consulting giant Accenture on independent evaluation of frontier AI. This is not an ordinary audit contract: the weight of the announcement sits in "embedded evaluation," in which evaluators take up positions inside an AI company and look at the development process from within.
@@ -21,11 +22,11 @@ Anthropic drew a clear line: "independent embedded evaluators do not reduce our 
 
 ## Who does the work — Accenture's AI arm, Faculty
 
-The hands-on work is led by Faculty, Accenture's specialist AI business. The scope covers evaluating and red-teaming models (probing aggressively for weaknesses), conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments across many industries actually deploy AI, and Anthropic says that understanding of how AI is used in practice will inform the evaluation work.
+The day-to-day evaluation work is led by Faculty, Accenture's specialist AI business. The scope covers evaluating and red-teaming models (probing aggressively for weaknesses), conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments across many industries actually deploy AI, and Anthropic says that understanding of how AI is used in practice will inform the evaluation work.
 
 <div class="article-stats">
 <strong>Announced</strong> September 18, 2026<br/>
-<strong>Partner</strong> Accenture (hands-on work: AI arm Faculty)<br/>
+<strong>Partner</strong> Accenture (evaluation work: AI arm Faculty)<br/>
 <strong>Investment</strong> at least $1B each · over five years (~$2B combined)<br/>
 <strong>Scope</strong> model evaluation & red-teaming · alignment assessments · safeguard testing
 </div>

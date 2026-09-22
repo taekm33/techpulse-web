@@ -3,6 +3,7 @@ title: "MS, 시간당 10센트 음성인식 ‘MAI-Transcribe-2’ 공개 — Op
 summary: "마이크로소프트 AI가 9월 3일 자체 음성인식 모델 MAI-Transcribe-2를 공개했다. 60개 언어를 지원하고 화자 분리·단어 단위 타임스탬프를 기본 탑재했으며, 오디오 시간당 0.10달러라는 시장 최저가로 OpenAI·구글·일레븐랩스를 정면 겨냥했다. 5개월 만에 세 번째 음성 모델로, MS의 ‘OpenAI 의존 탈피’ 전략이 가장 빠르게 성숙한 분야다."
 category: "ai-news"
 date: "2026-09-07"
+draft: true
 readingTime: 6
 tags: ["마이크로소프트", "음성인식", "MAI", "STT", "OpenAI"]
 ---

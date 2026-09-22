@@ -3,6 +3,7 @@ title: "오픈AI, 커서에 모델 공급 중단 — 스페이스X 인수가 부
 summary: "오픈AI가 스페이스X에 인수된 코딩 툴 커서(Cursor)에 대한 모델 공급 계약을 종료한다고 8월 28일 공식 발표했다. 차단 예정일은 11월 12일이며, 오픈AI는 '머스크 계열사의 계약 위반 전력'을 이유로 들었다."
 category: "ai-news"
 date: "2026-08-31"
+draft: true
 readingTime: 5
 tags: ["OpenAI", "Cursor", "SpaceX", "일론 머스크", "AI 코딩"]
 ---

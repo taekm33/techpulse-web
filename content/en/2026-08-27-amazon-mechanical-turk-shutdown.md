@@ -3,6 +3,7 @@ title: "Amazon Shuts Down Mechanical Turk After 21 Years as AI Reshapes Crowd Wo
 summary: "Amazon will fully close Mechanical Turk (MTurk), its crowdsourced labor marketplace launched in 2005, on September 30, 2026. New signups already ended July 30. The exit of the service Jeff Bezos once called 'artificial artificial intelligence' marks how data labeling is being remade by AI automation and specialist rivals like Scale AI and Mercor."
 category: "it-news"
 date: "2026-08-27"
+draft: true
 readingTime: 6
 tags: ["Amazon", "Mechanical Turk", "data labeling", "AI labor", "crowdsourcing"]
 ---

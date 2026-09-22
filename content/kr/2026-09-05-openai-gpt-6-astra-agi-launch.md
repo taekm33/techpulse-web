@@ -3,6 +3,7 @@ title: "OpenAI, GPT-6 ‘아스트라’ 공개 — 브록먼 ‘AGI 시대’ �
 summary: "OpenAI가 9월 3일 최상위 모델 GPT-6 아스트라(Astra)를 공개했다. 10만 개 이상 GPU로 훈련한 이 모델은 컴퓨터 사용·코딩·과학·사이버보안에서 최고 성능을 주장하며, 그레그 브록먼 사장은 ‘AGI 시대 개막’이라고 표현했다. 동시에 사이버 위협 임계선 도달과 감시 난이도 상승이라는 안전 논쟁도 불러왔다."
 category: "ai-news"
 date: "2026-09-05"
+draft: true
 readingTime: 7
 tags: ["OpenAI", "GPT-6", "AGI", "AI 에이전트", "사이버보안"]
 ---

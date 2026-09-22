@@ -3,6 +3,7 @@ title: "OpenAI Confirms It's Coordinating on AI Safety With Rivals Anthropic and
 summary: "OpenAI policy chief Chris Lehane confirmed at a Washington briefing that the company has spent weeks coordinating with Anthropic and Google DeepMind on AI safety. The three are discussing an industry-led safety standards body — but three dominant players sitting down together has already raised antitrust questions."
 category: "ai-news"
 date: "2026-09-16"
+draft: true
 readingTime: 6
 tags: ["AI safety", "OpenAI", "Anthropic", "Google DeepMind", "antitrust", "AI regulation"]
 ---

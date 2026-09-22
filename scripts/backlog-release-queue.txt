@@ -1,0 +1,39 @@
+# TechPulse backlog release queue (2026-09-23). Oldest first.
+# Daily release: remove 'draft: true' from the next KR+EN pair (same slug) only if production tag == origin/main.
+# Delete a line after its pair is released.
+2026-08-14-spacexai-grok-bot-ai-teammate-agent.md
+2026-08-16-google-heir-homomorphic-encryption-private-ai.md
+2026-08-17-anthropic-claude-invisible-watermark-eu-ai-act.md
+2026-08-19-stripe-acquires-openrouter-7b-ai-model-gateway.md
+2026-08-20-anthropic-claude-protein-binder-design.md
+2026-08-21-cerebras-cs4-wafer-scale-inference-challenge-nvidia.md
+2026-08-22-nvidia-poolside-6b-model-factory-license.md
+2026-08-23-gemma-1-billion-downloads-gemmaverse.md
+2026-08-24-openai-chatgpt-for-teens-age-prediction.md
+2026-08-25-anthropic-65b-run-rate-ipo-nears.md
+2026-08-26-google-a2a-joins-aaif-agent-protocol-standard.md
+2026-08-27-amazon-mechanical-turk-shutdown.md
+2026-08-28-broadcom-60b-debt-anthropic-chip-financing.md
+2026-08-29-google-gemini-3-5-transcribe-speech-to-text.md
+2026-08-30-anthropic-pentagon-blacklist-ruling-unlawful.md
+2026-08-31-openai-terminates-cursor-model-access-spacex.md
+2026-09-01-anthropic-claude-infostealer-session-hijack.md
+2026-09-02-apple-john-ternus-ceo-tim-cook-executive-chairman.md
+2026-09-03-doj-statement-of-interest-openai-nyt-fair-use.md
+2026-09-04-nvidia-acquires-hugging-face-12-9-billion.md
+2026-09-05-openai-gpt-6-astra-agi-launch.md
+2026-09-06-soundhound-ai-completes-liveperson-acquisition.md
+2026-09-07-microsoft-mai-transcribe-2-speech-model.md
+2026-09-08-apple-surprise-and-shine-event-preview.md
+2026-09-09-mistral-3b-series-d-samsung-sovereign-ai.md
+2026-09-10-meta-muse-personal-ai-agent-launch.md
+2026-09-11-nasa-ibm-lunar-foundation-model-open-source.md
+2026-09-12-anthropic-ai-misuse-threat-report-september-2026.md
+2026-09-13-ant-visa-mastercard-know-your-agent-kya-framework.md
+2026-09-14-deepseek-v4-1-flash-retires-v4-pro.md
+2026-09-15-amodei-pace-the-frontier-trump-rejects-ai-slowdown.md
+2026-09-16-openai-anthropic-google-safety-body-antitrust.md
+2026-09-17-lawzero-bengio-canada-germany-safe-ai.md
+2026-09-18-anthropic-claude-unifies-cowork-chat-docs-slides.md
+2026-09-19-anthropic-accenture-embedded-evaluation-frontier-ai.md
+2026-09-20-infillion-acquires-foursquare-location-intelligence.md

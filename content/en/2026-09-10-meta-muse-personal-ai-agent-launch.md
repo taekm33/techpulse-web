@@ -3,6 +3,7 @@ title: "Meta Unveils 'Muse,' a Personal AI Agent That Reads Your Email, Books Tr
 summary: "Meta launched Muse, a personal AI agent, on September 8. It reads your email, books your travel, fills out forms, negotiates on your behalf, and pays with your card. It rolls out in the US on iOS, Android and web with a free tier and $20 and $100 monthly plans, and is the first consumer product from Meta Superintelligence Labs."
 category: "ai-news"
 date: "2026-09-10"
+draft: true
 readingTime: 6
 tags: ["Meta", "AI Agent", "Muse", "Muse Spark", "Alexandr Wang"]
 ---

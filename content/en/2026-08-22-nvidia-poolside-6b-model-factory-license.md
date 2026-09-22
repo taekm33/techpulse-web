@@ -3,6 +3,7 @@ title: "Nvidia's $6B 'License-and-Hire' Deal for Poolside — Absorbing an AI Co
 summary: "Nvidia is paying $6 billion to non-exclusively license AI coding startup Poolside's model-development platform, investing another $1 billion, and extending job offers to 109 of its staff. The 'reverse acquihire' structure — taking the tech and talent while leaving the shell company alive — is back."
 category: "ai-news"
 date: "2026-08-22"
+draft: true
 readingTime: 6
 tags: ["Nvidia", "Poolside", "AI coding", "M&A", "Jensen Huang"]
 ---

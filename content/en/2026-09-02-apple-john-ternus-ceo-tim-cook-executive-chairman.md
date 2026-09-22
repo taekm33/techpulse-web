@@ -3,6 +3,7 @@ title: "Tim Cook Hands Apple to Hardware Chief John Ternus After 15 Years as CEO
 summary: "John Ternus, Apple's senior vice president of Hardware Engineering, became CEO effective September 1, 2026, with Tim Cook moving to executive chairman of the board. A 25-year Apple engineer who led the iPad, AirPods and the latest iPhone lineups inherits a $4 trillion company in the thick of the AI race."
 category: "it-news"
 date: "2026-09-02"
+draft: true
 readingTime: 5
 tags: ["Apple", "John Ternus", "Tim Cook", "CEO succession"]
 ---

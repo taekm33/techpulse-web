@@ -3,6 +3,7 @@ title: "Anthropic's Revenue Run Rate Tops $65 Billion as Mega-IPO Nears"
 summary: "Anthropic told investors its annualized revenue run rate surpassed $65 billion by the end of July. Preliminary second-quarter revenue hit $11.5 billion, a 14-fold jump year over year, and the company has filed confidentially with the SEC. An IPO is expected in September or October, with a public filing possible as soon as the end of August."
 category: "startup"
 date: "2026-08-25"
+draft: true
 readingTime: 6
 tags: ["Anthropic", "IPO", "Claude", "AI revenue", "public offering"]
 ---

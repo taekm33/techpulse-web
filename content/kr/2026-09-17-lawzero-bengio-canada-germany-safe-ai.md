@@ -3,6 +3,7 @@ title: "벤지오의 'Scientist AI'에 캐나다·독일 최대 3억 달러…�
 summary: "튜링상 수상자 요슈아 벤지오가 이끄는 비영리 LawZero가 캐나다 1.5억 캐나다달러·독일 1억 유로, 합계 최대 3억 캐나다달러 지원을 확보했다. 목표는 스스로 목표를 추구하지 않는 '설계부터 안전한' AI, 즉 Scientist AI다. 9월 16일 몬트리올 ALL IN 컨퍼런스에서 발표됐다."
 category: "ai-news"
 date: "2026-09-17"
+draft: true
 readingTime: 6
 tags: ["LawZero", "벤지오", "AI안전", "캐나다", "독일"]
 ---

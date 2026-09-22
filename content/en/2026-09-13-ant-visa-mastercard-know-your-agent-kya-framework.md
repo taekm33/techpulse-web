@@ -3,6 +3,7 @@ title: "Visa, Mastercard and Ant Join Forces on 'Know Your Agent' — A KYA Inte
 summary: "Ant International, Mastercard and Visa have begun building a 'Know Your Agent' (KYA) interoperability framework to verify AI shopping agents. The goal is to bridge the three firms' separate agent-authentication protocols under common principles, laying the trust foundation for an agentic-commerce market projected at $3–5 trillion by 2030."
 category: "ai-news"
 date: "2026-09-13"
+draft: true
 readingTime: 6
 tags: ["AI agents", "agentic commerce", "Visa", "Mastercard", "Ant International"]
 ---

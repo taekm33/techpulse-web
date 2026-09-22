@@ -3,6 +3,7 @@ title: "Anthropic, 인포스틸러에 세션 탈취당한 Claude 사용자 강�
 summary: "Vidar·Lumma·RedLine 등 인포스틸러 악성코드가 사용자 PC에서 Claude 로그인 세션 쿠키를 훔쳐 유료 사용량을 무단 소진했다. Anthropic은 피해 계정을 강제 로그아웃하고 저장된 결제수단을 제거한 뒤 부정 청구를 환불했다. 2FA를 우회하는 '세션 절도'가 새로운 위협으로 부상했다."
 category: "hot-issue"
 date: "2026-09-01"
+draft: true
 readingTime: 5
 tags: ["보안", "Anthropic", "인포스틸러", "세션하이재킹"]
 ---

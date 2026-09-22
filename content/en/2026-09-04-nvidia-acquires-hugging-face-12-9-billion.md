@@ -3,6 +3,7 @@ title: "Nvidia Buys Open-Source AI Hub Hugging Face for $12.93 Billion — Testi
 summary: "Nvidia will acquire Hugging Face, the leading open-source AI model-sharing platform, for $12.93 billion. As the dominant AI hardware maker takes control of the gateway to the open-source software ecosystem, the neutrality that won Hugging Face developer trust — and looming antitrust review — become the central questions."
 category: "ai-news"
 date: "2026-09-04"
+draft: true
 readingTime: 6
 tags: ["Nvidia", "HuggingFace", "OpenSourceAI", "M&A", "JensenHuang"]
 ---

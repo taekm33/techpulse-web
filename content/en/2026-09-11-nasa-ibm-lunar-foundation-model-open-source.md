@@ -3,6 +3,7 @@ title: "NASA and IBM Release Open-Source AI Foundation Model Built for Lunar Sci
 summary: "NASA and IBM Research have launched an open-source AI foundation model for analyzing the Moon's surface. Trained on 17 years of Lunar Reconnaissance Orbiter data, it supports crater mapping, volcanic-feature detection and polar-ice prediction, with weights and code fully public on Hugging Face and GitHub."
 category: "ai-news"
 date: "2026-09-11"
+draft: true
 readingTime: 6
 tags: ["NASA", "IBM", "foundation-model", "open-source", "space"]
 ---

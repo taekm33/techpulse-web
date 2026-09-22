@@ -3,6 +3,7 @@ title: "Mistral Raises €3B Series D Led by Samsung — Europe's Largest Ever, 
 summary: "France's Mistral AI has raised €3 billion in a Samsung-led Series D, pushing its post-money valuation above €21 billion — the largest equity round ever completed by a European tech company, nearly doubling last year's Series C. The capital will fund Mistral's own data centers."
 category: "startup"
 date: "2026-09-09"
+draft: true
 readingTime: 5
 tags: ["Mistral", "AI funding", "Samsung", "sovereign AI", "open-weight"]
 ---

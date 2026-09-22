@@ -3,6 +3,7 @@ title: "Amodei Says 'We Must Pace the Frontier' — Trump Flatly Rejects an AI S
 summary: "Anthropic CEO Dario Amodei used a September 12 essay, 'We Must Pace the Frontier,' to propose a three-step plan for slowing AI development, with Anthropic committing to the first step unilaterally. Altman and Musk agreed, but President Trump rejected the call on September 14 and singled out Amodei."
 category: "hot-issue"
 date: "2026-09-15"
+draft: true
 readingTime: 6
 tags: ["Anthropic", "Dario Amodei", "AI safety", "Trump", "AI regulation"]
 ---

@@ -3,6 +3,7 @@ title: "Google Unveils Gemini 3.5 Transcribe — Betting on Precision With a 2.6
 summary: "Google launched Gemini 3.5 Transcribe, its latest speech-to-text model, on Aug. 26. It posts a 2.6% average word error rate for non-streaming and 4.0% for streaming as measured by Artificial Analysis, beating its own Chirp 3, and auto-detects more than 85 languages. It ships as two separate APIs — one for real-time streaming, one for pre-recorded audio — and already powers Gboard Rambler, the Gemini app on macOS, and Antigravity."
 category: "ai-news"
 date: "2026-08-29"
+draft: true
 readingTime: 6
 tags: ["Google", "Gemini", "speech recognition", "STT", "AI model"]
 ---

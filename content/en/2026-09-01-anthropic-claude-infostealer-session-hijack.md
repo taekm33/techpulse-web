@@ -3,6 +3,7 @@ title: "Anthropic Locks Out Claude Users After Infostealers Hijack Login Session
 summary: "General-purpose infostealer malware on users' own PCs—Vidar, Lumma, RedLine and others—copied Claude session cookies and drained paid usage without passwords or 2FA. Anthropic signed affected accounts out, removed saved payment methods, and refunded unauthorized charges. 'Session theft' that sidesteps 2FA is emerging as the new credential theft."
 category: "hot-issue"
 date: "2026-09-01"
+draft: true
 readingTime: 5
 tags: ["security", "Anthropic", "infostealer", "session-hijacking"]
 ---

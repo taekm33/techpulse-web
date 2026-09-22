@@ -7,7 +7,7 @@ from pathlib import Path
 URL_RE=re.compile(r"https?://[^\s)\]>'\"]+")
 WORD_RE=re.compile(r"[A-Za-z0-9가-힣]+(?:[-'][A-Za-z0-9가-힣]+)*")
 BANNED=re.compile(r"adsense\s*(?:readiness|approval)|seo\s*filler|publishing\s*(?:run|workflow)|generated[- ]image\s*qa|content\s*batch|final\s*gate|애드센스\s*(?:준비|승인)|발행\s*(?:작업|워크플로)|콘텐츠\s*배치|최종\s*게이트",re.I)
-HANDS_ON=re.compile(r"\b(?:hands?[- ]on|we (?:tested|reviewed|verified)|exclusive)\b|직접\s*(?:테스트|검증|사용|플레이)|단독\s*(?:보도|입수)",re.I)
+HANDS_ON=re.compile(r"\b(?:hands?[- ]on|we (?:tested|reviewed|verified)|(?<!non-)(?<!non)exclusive)\b|직접\s*(?:테스트|검증|사용|플레이)|단독\s*(?:보도|입수)",re.I)
 ARTICLE_PATTERNS=(re.compile(r"^website/gamepeak/content/(kr|en)/articles/.+\.mdx$"),re.compile(r"^content/(kr|en)/.+\.md$"))
 def run(*args:str)->str:return subprocess.check_output(args,text=True,stderr=subprocess.DEVNULL).strip()
 def resolve_base(base):
@@ -43,7 +43,8 @@ def main():
   if len(urls)<2:errors.append(f'{p}: source URLs {len(urls)} < 2 (require primary + corroborating/context source)')
   hit=BANNED.search(raw)
   if hit:errors.append(f'{p}: production-process phrase {hit.group(0)!r}')
-  claim=HANDS_ON.search(body)
+  claim_body=re.sub(r'<a\b[^>]*>.*?</a>',' ',body,flags=re.S|re.I);claim_body=re.sub(r'\[[^\]]*\]\([^)]+\)',' ',claim_body)  # third-party source/link titles are not first-party claims
+  claim=HANDS_ON.search(claim_body)
   if claim:
    evidence=re.search(r'^hands_on_evidence:\s*["\']?([^"\'\n]+)',fm,re.M);ep=Path(evidence.group(1).strip()) if evidence else None
    if not ep or ep.is_absolute() or not ep.is_file():errors.append(f'{p}: unsupported first-party claim {claim.group(0)!r}; add a repository-relative hands_on_evidence artifact or remove the claim')

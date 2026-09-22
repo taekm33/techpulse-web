@@ -3,6 +3,7 @@ title: "Google's A2A Joins Anthropic's MCP Under One Roof as Agent Standards Con
 summary: "Google's agent-to-agent communication standard, A2A, formally joined the Linux Foundation's Agentic AI Foundation (AAIF) on August 20. Together with Anthropic's MCP, the two pillars of the agent economy now sit under a single neutral governance body, sharpening the blueprint for a vendor-neutral, interoperable agent ecosystem."
 category: "dev-trend"
 date: "2026-08-26"
+draft: true
 readingTime: 6
 tags: ["A2A", "MCP", "AI agents", "Linux Foundation", "open source"]
 ---

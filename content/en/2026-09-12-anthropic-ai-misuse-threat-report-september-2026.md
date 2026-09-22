@@ -3,6 +3,7 @@ title: "Anthropic's AI Misuse Threat Report: 'Sophisticated Attacks No Longer Re
 summary: "Anthropic published a threat intelligence report cataloguing eight months of attempts to abuse Claude, from December 2025 to August 2026. Its core findings: the skill gap between state, criminal and lone actors has collapsed, AI now executes attacks autonomously, and the 'AI supply chain' of stolen API keys has become a deliberate target."
 category: "ai-news"
 date: "2026-09-12"
+draft: true
 readingTime: 8
 tags: ["Anthropic", "Claude", "AI security", "cyber threats", "influence operations"]
 ---

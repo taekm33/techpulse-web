@@ -3,6 +3,7 @@ title: "OpenAI Cuts Off Cursor's Model Access — a Breakup Triggered by the Spa
 summary: "OpenAI said on August 28 that it will wind down the contract supplying its models to the coding tool Cursor after SpaceX acquired it. The proposed shutoff date is November 12, and OpenAI cited a track record of contract violations by Musk-owned companies."
 category: "ai-news"
 date: "2026-08-31"
+draft: true
 readingTime: 5
 tags: ["OpenAI", "Cursor", "SpaceX", "Elon Musk", "AI coding"]
 ---
