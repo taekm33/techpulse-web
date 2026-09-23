@@ -3,7 +3,6 @@ title: "SpaceXAI Launches Grok Bot: Autonomous AI Teammates That Work While You 
 summary: "SpaceXAI's Grok Bot beta went live on August 12, putting always-on AI agents with their own cloud computers directly into competition with OpenAI's ChatGPT Work and Anthropic's Claude Cowork."
 category: "ai-news"
 date: "2026-08-14"
-draft: true
 readingTime: 5
 tags: ["GrokBot", "SpaceXAI", "AI-agents", "agentic-ai", "autonomous-AI"]
 ---

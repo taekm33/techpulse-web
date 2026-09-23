@@ -3,7 +3,6 @@ title: "SpaceXAI, 'AI 동료' Grok Bot 베타 출시 — 혼자 일하는 자율
 summary: "SpaceXAI가 8월 12일 Grok Bot을 베타 공개했다. 클라우드 컴퓨터 환경에서 독립적으로 동작하는 AI 에이전트로, ChatGPT Work·Claude Cowork와 정면 경쟁한다."
 category: "ai-news"
 date: "2026-08-14"
-draft: true
 readingTime: 5
 tags: ["GrokBot", "SpaceXAI", "AI에이전트", "agentic-ai", "자율AI"]
 ---
