@@ -3,7 +3,6 @@ title: "Stripe Buys AI Model Gateway OpenRouter for $7B+ — When Model Routing 
 summary: "Payments giant Stripe has agreed to acquire OpenRouter, the gateway that routes across 400+ AI models, for more than $7 billion — over 5x its Series B valuation of just three months ago. It signals that model selection and metering are becoming a payments-infrastructure problem."
 category: "startup"
 date: "2026-08-19"
-draft: true
 readingTime: 5
 tags: ["Stripe", "OpenRouter", "M&A", "AI infrastructure", "model routing"]
 ---
