@@ -3,7 +3,6 @@ title: "Anthropic Says Claude Designed Protein Binders Largely on Its Own — Hi
 summary: "Anthropic published lab-validated results showing Claude designed de novo protein binders with minimal human intervention, succeeding on 14 of 15 targets. Success rates of 22-35% beat the typical 10-15% industry range, with Adaptyv Bio and Twist Bioscience independently synthesizing and testing the designs."
 category: "ai-news"
 date: "2026-08-20"
-draft: true
 readingTime: 6
 tags: ["Anthropic", "Claude", "protein design", "AI drug discovery", "biotech"]
 ---
