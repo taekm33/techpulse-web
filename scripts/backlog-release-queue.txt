@@ -1,8 +1,6 @@
 # TechPulse backlog release queue (2026-09-23). Oldest first.
 # Daily release: remove 'draft: true' from the next KR+EN pair (same slug) only if production tag == origin/main.
 # Delete a line after its pair is released.
-2026-08-22-nvidia-poolside-6b-model-factory-license.md
-2026-08-23-gemma-1-billion-downloads-gemmaverse.md
 2026-08-24-openai-chatgpt-for-teens-age-prediction.md
 2026-08-25-anthropic-65b-run-rate-ipo-nears.md
 2026-08-26-google-a2a-joins-aaif-agent-protocol-standard.md

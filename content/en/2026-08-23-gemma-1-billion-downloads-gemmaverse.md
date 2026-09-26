@@ -3,7 +3,6 @@ title: "Google's Gemma Open Models Pass 1 Billion Downloads — 100,000+ Variant
 summary: "Google DeepMind says its open-weight Gemma models have surpassed one billion cumulative downloads, with developers publishing more than 100,000 variants. Real-world use now spans orbit, India's 100-million-user health app, and a Yale-Google cancer discovery — a sign that open ecosystems are a second front in the frontier AI race."
 category: "dev-trend"
 date: "2026-08-23"
-draft: true
 readingTime: 6
 tags: ["Google", "Gemma", "open-models", "DeepMind", "MedGemma"]
 ---
