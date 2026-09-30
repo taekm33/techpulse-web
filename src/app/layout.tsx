@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import { OG_IMAGE } from '../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 const BASE_URL = LOCALE === 'kr' ? 'https://techpulse.co.kr' : 'https://technologypulse.app'
@@ -19,9 +20,11 @@ export const metadata: Metadata = {
     type: 'website',
     locale: isKr ? 'ko_KR' : 'en_US',
     url: BASE_URL,
+    images: [OG_IMAGE],
   },
   twitter: {
     card: 'summary_large_image',
+    images: [OG_IMAGE.url],
     site: isKr ? '@techpulsekr' : '@techpulseai',
   },
   robots: {

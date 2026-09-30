@@ -6,6 +6,14 @@ export function canonicalUrl(pathname = '/'): string {
   return `${BASE_URL}${path === '/' ? '/' : `${path.replace(/\/$/, '')}/`}`
 }
 
+/** Site-owned share card (public/og-<locale>.png, 1200x630) used for og:image / twitter:image. */
+export const OG_IMAGE = {
+  url: `${BASE_URL}/og-${LOCALE}.png`,
+  width: 1200,
+  height: 630,
+  alt: LOCALE === 'kr' ? 'TechPulse — AI·IT 기술의 변화와 배경을 한국어로' : 'TechPulse — AI & tech news with context',
+}
+
 const SITE: Record<'kr' | 'en', string> = { kr: 'https://techpulse.co.kr', en: 'https://technologypulse.app' }
 
 /** hreflang map for a page that exists (non-draft) in the given locales. */

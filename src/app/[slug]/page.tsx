@@ -7,7 +7,7 @@ import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import { canonicalUrl, languageAlternates } from '../../lib/seo'
+import { canonicalUrl, languageAlternates, OG_IMAGE } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
@@ -39,8 +39,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: article.summary,
       publishedTime: article.date || undefined,
       locale: LOCALE === 'kr' ? 'ko_KR' : 'en_US',
+      images: [OG_IMAGE],
     },
-    twitter: { card: 'summary', title: article.title, description: article.summary },
+    twitter: { card: 'summary_large_image', title: article.title, description: article.summary, images: [OG_IMAGE.url] },
   }
 }
 

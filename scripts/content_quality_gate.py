@@ -9,7 +9,7 @@ WORD_RE=re.compile(r"[A-Za-z0-9가-힣]+(?:[-'][A-Za-z0-9가-힣]+)*")
 BANNED=re.compile(r"adsense\s*(?:readiness|approval)|seo\s*filler|publishing\s*(?:run|workflow)|generated[- ]image\s*qa|content\s*batch|final\s*gate|애드센스\s*(?:준비|승인)|발행\s*(?:작업|워크플로)|콘텐츠\s*배치|최종\s*게이트",re.I)
 HANDS_ON=re.compile(r"\b(?:hands?[- ]on|we (?:tested|reviewed|verified)|(?<!non-)(?<!non)exclusive)\b|직접\s*(?:테스트|검증|사용|플레이)|단독\s*(?:보도|입수)",re.I)
 ARTICLE_PATTERNS=(re.compile(r"^website/gamepeak/content/(kr|en)/articles/.+\.mdx$"),re.compile(r"^content/(kr|en)/.+\.md$"))
-def run(*args:str)->str:return subprocess.check_output(args,text=True,stderr=subprocess.DEVNULL).strip()
+def run(*args:str)->str:return subprocess.check_output(args,text=True,encoding='utf-8',errors='replace',stderr=subprocess.DEVNULL).strip()  # utf-8: Windows default cp949 made baseline_public() fail and miscount edits as new
 def resolve_base(base):
  if base and set(base)!={'0'}:return base
  try:return run('git','rev-parse','HEAD~1')
