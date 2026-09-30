@@ -63,8 +63,8 @@ GLM-5.2는 컴퓨팅 비용 절감을 위한 아키텍처 변경도 포함했다
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai 공식 사이트</a><br/>
-· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) 공식 Hugging Face</a><br/>
-· <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai 공식 GitHub</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) 공식 Hugging Face</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai 공식 GitHub</a><br/>
 </div>

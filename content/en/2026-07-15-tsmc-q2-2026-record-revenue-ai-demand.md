@@ -54,11 +54,11 @@ The key figures in this article (Q2 revenue of ~$39.6B / +36%, guidance, the Jul
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://investor.tsmc.com/english" target="_blank" rel="noopener">TSMC Investor Relations (official) — monthly and quarterly revenue and results</a><br/>
-· <a href="http://www.econotimes.com/TSMC-Q2-Revenue-Surges-36-as-AI-Chip-Demand-Powers-Growth-Ahead-of-Earnings-1746573" target="_blank" rel="noopener">EconoTimes — TSMC Q2 Revenue Surges 36% as AI Chip Demand Powers Growth</a><br/>
-· <a href="https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm" target="_blank" rel="noopener">TechTimes — TSMC Q2 Earnings July 16: Three CoWoS Signals</a><br/>
-· <a href="https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/" target="_blank" rel="noopener">Forbes — What TSMC's Earnings Can Tell Investors About Its 2026 Outlook</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://investor.tsmc.com/english" target="_blank" rel="noopener">TSMC Investor Relations (official) — monthly and quarterly revenue and results</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="http://www.econotimes.com/TSMC-Q2-Revenue-Surges-36-as-AI-Chip-Demand-Powers-Growth-Ahead-of-Earnings-1746573" target="_blank" rel="noopener">EconoTimes — TSMC Q2 Revenue Surges 36% as AI Chip Demand Powers Growth</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm" target="_blank" rel="noopener">TechTimes — TSMC Q2 Earnings July 16: Three CoWoS Signals</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/" target="_blank" rel="noopener">Forbes — What TSMC's Earnings Can Tell Investors About Its 2026 Outlook</a>
 </div>
 
 <div class="article-keypoints">

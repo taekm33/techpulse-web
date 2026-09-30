@@ -85,8 +85,8 @@ OpenAI는 학술 연구자 10만 명에게 2027년까지 최전선 모델 무료
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/ten-advances-in-mathematics/" target="_blank" rel="noopener">OpenAI 공식 발표 — Ten advances in mathematics and theoretical computer science</a><br/>
-· <a href="https://github.com/openai/ten-proofs" target="_blank" rel="noopener">OpenAI GitHub — Lean 4 형식 인증서 저장소 (openai/ten-proofs)</a><br/>
-· <a href="https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups" target="_blank" rel="noopener">The Next Web — Astra의 10개 수학 증명 보도</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/ten-advances-in-mathematics/" target="_blank" rel="noopener">OpenAI 공식 발표 — Ten advances in mathematics and theoretical computer science</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/openai/ten-proofs" target="_blank" rel="noopener">OpenAI GitHub — Lean 4 형식 인증서 저장소 (openai/ten-proofs)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups" target="_blank" rel="noopener">The Next Web — Astra의 10개 수학 증명 보도</a><br/>
 </div>

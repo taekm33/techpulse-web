@@ -63,8 +63,8 @@ GLM-5.2 won't automatically become every team's first choice — many developers
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai (official site)</a><br/>
-· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) Official Hugging Face</a><br/>
-· <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai Official GitHub</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://z.ai/" target="_blank" rel="noopener">Z.ai (official site)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) Official Hugging Face</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/zai-org" target="_blank" rel="noopener">Z.ai Official GitHub</a><br/>
 </div>

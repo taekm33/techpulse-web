@@ -66,9 +66,9 @@ With over 5,700 GitHub stars in two days, developers are paying attention. The b
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Resources · Official Sources · Getting Started</strong><br>
-— <a href="https://github.com/XiaomiMiMo/MiMo-Code" target="_blank" rel="noopener noreferrer">MiMo Code Official GitHub Repository (MIT License, v0.1.0)</a><br>
-— <a href="https://github.com/XiaomiMiMo/MiMo-Code/releases/tag/v0.1.0" target="_blank" rel="noopener noreferrer">v0.1.0 Release Notes and Download</a><br>
-— <a href="https://raw.githubusercontent.com/XiaomiMiMo/MiMo-Code/main/README.md" target="_blank" rel="noopener noreferrer">README: Installation, Quick Start, and Configuration Guide</a>
+<div class="article-callout__body"><strong>Primary Sources · Getting Started</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/XiaomiMiMo/MiMo-Code" target="_blank" rel="noopener noreferrer">MiMo Code Official GitHub Repository (MIT License, v0.1.0)</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/XiaomiMiMo/MiMo-Code/releases/tag/v0.1.0" target="_blank" rel="noopener noreferrer">v0.1.0 Release Notes and Download</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://raw.githubusercontent.com/XiaomiMiMo/MiMo-Code/main/README.md" target="_blank" rel="noopener noreferrer">README: Installation, Quick Start, and Configuration Guide</a>
 </div>
 </div>

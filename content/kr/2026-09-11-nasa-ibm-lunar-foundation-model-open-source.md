@@ -68,9 +68,9 @@ NASA에 따르면 모델은 평가한 모든 과제에서 여러 강력한 기�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/" target="_blank" rel="noopener">NASA Science — NASA, IBM Launch AI Foundation Model for Lunar Science</a><br/>
-<a href="https://huggingface.co/collections/nasa-ibm-ai4science/nasa-ibm-lunar-fm-and-downstream-models" target="_blank" rel="noopener">Hugging Face — NASA-IBM Lunar FM 및 다운스트림 모델 컬렉션</a><br/>
-<a href="https://github.com/NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model" target="_blank" rel="noopener">GitHub — NASA-IBM Lunar Foundation Model 코드베이스</a><br/>
-<a href="https://science.nasa.gov/artificial-intelligence-science" target="_blank" rel="noopener">NASA — Artificial Intelligence for Science</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/" target="_blank" rel="noopener">NASA Science — NASA, IBM Launch AI Foundation Model for Lunar Science</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/collections/nasa-ibm-ai4science/nasa-ibm-lunar-fm-and-downstream-models" target="_blank" rel="noopener">Hugging Face — NASA-IBM Lunar FM 및 다운스트림 모델 컬렉션</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://github.com/NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model" target="_blank" rel="noopener">GitHub — NASA-IBM Lunar Foundation Model 코드베이스</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://science.nasa.gov/artificial-intelligence-science" target="_blank" rel="noopener">NASA — Artificial Intelligence for Science</a>
 </div>

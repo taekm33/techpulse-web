@@ -70,8 +70,8 @@ Opus 5's real message sits on the price tag more than the benchmark table. By bi
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.anthropic.com/news/claude-opus-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5</a><br/>
-<a href="https://www.anthropic.com/claude-opus-5-system-card" target="_blank" rel="noopener">Claude Opus 5 System Card</a><br/>
-<a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5" target="_blank" rel="noopener">Prompting Claude Opus 5 (Claude Platform docs)</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/claude-opus-5-system-card" target="_blank" rel="noopener">Claude Opus 5 System Card</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5" target="_blank" rel="noopener">Prompting Claude Opus 5 (Claude Platform docs)</a>
 </div>

@@ -107,8 +107,8 @@ What is already clear is that the field of play has shifted. DeepSeek proved in 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI (official site)</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face (model weights)</a><br/>
-· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI on GitHub</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI (official site)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face (model weights)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI on GitHub</a><br/>
 </div>

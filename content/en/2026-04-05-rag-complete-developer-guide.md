@@ -627,7 +627,7 @@ RAG is not a solved problem. But it's a solvable one — and this guide gives yo
 *TechPulse covers AI development from a practitioner's perspective. For more implementation guides, visit our Developer Trends category.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain Documentation (RAG)</a><br/>
-· <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex Documentation</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain Documentation (RAG)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex Documentation</a>
 </div>

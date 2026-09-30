@@ -60,10 +60,10 @@ Infillion said it will evaluate the future of Foursquare's consumer applications
 The Foursquare deal shows adtech's center of gravity shifting from "impressions" to "proof of outcomes." In an era when walled gardens surface only their own metrics, an independent measurement layer linking ads to offline results can be a differentiator for adtech players competing against the giants. Two things will decide it. One is privacy — whether location and purchase data can be combined while keeping regulators and consumers on side. The other is integration — whether Infillion, which has grown by buying and bolting together different technologies, can actually fold Foursquare into a single platform. Terms weren't disclosed, but what this deal is aiming at is the last mile of advertising measurement.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/" target="_blank" rel="noopener">Infillion — Infillion to Acquire Foursquare (official announcement, Sep 18)</a><br/>
-· <a href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" target="_blank" rel="noopener">Axios — Exclusive: Infillion acquires location data company Foursquare</a><br/>
-· <a href="https://ppc.land/infillion-buys-foursquare-to-link-ads-with-16-billion-visits/" target="_blank" rel="noopener">PPC Land — Infillion buys Foursquare to link ads with 16 billion visits</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/" target="_blank" rel="noopener">Infillion — Infillion to Acquire Foursquare (official announcement, Sep 18)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" target="_blank" rel="noopener">Axios — Exclusive: Infillion acquires location data company Foursquare</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://ppc.land/infillion-buys-foursquare-to-link-ads-with-16-billion-visits/" target="_blank" rel="noopener">PPC Land — Infillion buys Foursquare to link ads with 16 billion visits</a>
 </div>
 
 <div class="article-keypoints">

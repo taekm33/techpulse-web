@@ -60,7 +60,7 @@ Brain remains in Research Preview, and Perplexity says further capabilities are 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity Docs (official)</a><br/>
-· <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity Blog (official)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity Docs (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity Blog (official)</a><br/>
 </div>

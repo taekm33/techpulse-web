@@ -215,8 +215,8 @@ Practical data quality checklist:
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://huggingface.co/docs/peft/main/en/conceptual_guides/lora" target="_blank" rel="noopener">Hugging Face PEFT — LoRA Documentation (official)</a><br/>
-· <a href="https://huggingface.co/docs/trl/main/en/dpo_trainer" target="_blank" rel="noopener">Hugging Face TRL — DPO Trainer Documentation (official)</a><br/>
-· <a href="https://arxiv.org/abs/2305.14314" target="_blank" rel="noopener">QLoRA Paper (arXiv:2305.14314)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/docs/peft/main/en/conceptual_guides/lora" target="_blank" rel="noopener">Hugging Face PEFT — LoRA Documentation (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/docs/trl/main/en/dpo_trainer" target="_blank" rel="noopener">Hugging Face TRL — DPO Trainer Documentation (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://arxiv.org/abs/2305.14314" target="_blank" rel="noopener">QLoRA Paper (arXiv:2305.14314)</a>
 </div>

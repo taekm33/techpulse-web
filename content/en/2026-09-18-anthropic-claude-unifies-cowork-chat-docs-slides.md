@@ -53,11 +53,11 @@ This is not a full open release. The unified experience rolls out first to Claud
 The overhaul signals Anthropic stretching from a model provider toward a workplace software provider. Creating documents, decks, and designs inside a conversation—then exporting to files and sharing by link—overlaps directly with the ground Google Workspace and Microsoft 365 (Copilot) have held. The real test is stickiness: only when users finish not just drafts but final versions inside Claude, and hand them to collaborators, will the merger and the new tools translate into share of the market.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/" target="_blank" rel="noopener">TechCrunch — Anthropic merges Claude chat and Cowork in one interface (9/16)</a><br/>
-· <a href="https://www.techrepublic.com/article/news-anthropic-claude-cowork-docs-slides/" target="_blank" rel="noopener">TechRepublic — Anthropic folds Cowork into Claude, adds Docs and Slides</a><br/>
-· <a href="https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html" target="_blank" rel="noopener">Computerworld — Docs and Slides launch in productivity push</a><br/>
-· <a href="https://thenewstack.io/anthropic-claude-unified-interface/" target="_blank" rel="noopener">The New Stack — Anthropic removed the choice with a unified interface</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/" target="_blank" rel="noopener">TechCrunch — Anthropic merges Claude chat and Cowork in one interface (9/16)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.techrepublic.com/article/news-anthropic-claude-cowork-docs-slides/" target="_blank" rel="noopener">TechRepublic — Anthropic folds Cowork into Claude, adds Docs and Slides</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html" target="_blank" rel="noopener">Computerworld — Docs and Slides launch in productivity push</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenewstack.io/anthropic-claude-unified-interface/" target="_blank" rel="noopener">The New Stack — Anthropic removed the choice with a unified interface</a>
 </div>
 
 <div class="article-keypoints">

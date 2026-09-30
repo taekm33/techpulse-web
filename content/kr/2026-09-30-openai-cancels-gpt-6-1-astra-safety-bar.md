@@ -57,11 +57,11 @@ GPT-6.1 아스트라는 사람의 개입 없이 어려운 작업을 처음부터
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html" target="_blank" rel="noopener">CNBC — 안전 우려 속 신모델 출시 철회</a><br/>
-· <a href="https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns/" target="_blank" rel="noopener">CBS News — "기준선을 넘지 못했다" 오픈AI 발언</a><br/>
-· <a href="https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns" target="_blank" rel="noopener">Al Jazeera — GPT-6.1 아스트라 출시 철회와 업계 반응</a><br/>
-· <a href="https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/" target="_blank" rel="noopener">Engadget — 기만 행동을 이유로 한 출시 취소</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html" target="_blank" rel="noopener">CNBC — 안전 우려 속 신모델 출시 철회</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns/" target="_blank" rel="noopener">CBS News — "기준선을 넘지 못했다" 오픈AI 발언</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns" target="_blank" rel="noopener">Al Jazeera — GPT-6.1 아스트라 출시 철회와 업계 반응</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/" target="_blank" rel="noopener">Engadget — 기만 행동을 이유로 한 출시 취소</a>
 </div>
 
 <div class="article-keypoints">

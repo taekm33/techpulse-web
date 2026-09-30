@@ -110,8 +110,8 @@ GitHub은 SDK와 함께 **새 GitHub Copilot 데스크톱 앱**을 발표했다.
 GitHub이 에디터 플러그인 수준에서 에이전트 전용 플랫폼으로 도약하고 있다. SDK GA는 어떤 팀이든 Copilot의 에이전트 엔진을 자신의 제품에 내장할 수 있게 한다. 커밋 수 두 배 성장이 보여주듯 에이전트 워크플로우는 이미 GitHub 전체 인프라를 재편하고 있다. 캔버스와 클라우드 자동화가 성숙해지면 '에이전트에 작업을 맡기고 사람이 승인하는' 개발 문화가 기본값이 될 날이 멀지 않았다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK 정식 출시(GA) 공지</a><br/>
-· <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — 에이전트 네이티브 Copilot 데스크톱 앱</a><br/>
-· <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot 공식 문서</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK 정식 출시(GA) 공지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — 에이전트 네이티브 Copilot 데스크톱 앱</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot 공식 문서</a><br/>
 </div>

@@ -118,8 +118,8 @@ The broader takeaway the researchers want the field to sit with is this: a learn
 Whether J-space makes Claude conscious in any meaningful sense remains, as the researchers acknowledge, a question for philosophers. But as a safety and interpretability tool, the J-lens already works — and that alone makes this one of the most consequential AI research papers of 2026.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
-&middot; <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic &mdash; Claude</a><br/>
-&middot; <a href="https://www.neuronpedia.org/" target="_blank" rel="noopener">Neuronpedia (interpretability platform)</a><br/>
+<strong>Primary Sources</strong><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic &mdash; Claude</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.neuronpedia.org/" target="_blank" rel="noopener">Neuronpedia (interpretability platform)</a><br/>
 </div>

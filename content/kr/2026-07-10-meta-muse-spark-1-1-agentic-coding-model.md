@@ -57,11 +57,11 @@ tags: ["MuseSpark", "Meta", "에이전틱코딩", "슈퍼인텔리전스랩스",
 메타의 이번 진입은 다소 늦은 감이 있다. OpenAI와 Anthropic은 이미 오래전부터 유사한 에이전틱 코딩 모델을 제공해 왔다. 그러나 공격적인 가격 책정과 100만 토큰 컨텍스트, 기존 개발 도구와의 호환성을 앞세운 만큼 시장 판도에 적지 않은 영향을 줄 수 있다는 평가다. 코딩 AI를 둘러싼 경쟁이 성능뿐 아니라 가격과 생태계 호환성 싸움으로 확장되는 흐름이 뚜렷해지고 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI 공식 블로그 — Introducing Muse Spark 1.1</a><br/>
-· <a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" target="_blank" rel="noopener">TechCrunch — Meta enters the crowded AI coding battle with Muse Spark 1.1 (7/9)</a><br/>
-· <a href="https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/" target="_blank" rel="noopener">Fortune — Meta releases latest AI model Muse Spark 1.1 (7/9)</a><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/" target="_blank" rel="noopener">Meta AI 공식 블로그 — Introducing Muse Image and Muse Video</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI 공식 블로그 — Introducing Muse Spark 1.1</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" target="_blank" rel="noopener">TechCrunch — Meta enters the crowded AI coding battle with Muse Spark 1.1 (7/9)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/" target="_blank" rel="noopener">Fortune — Meta releases latest AI model Muse Spark 1.1 (7/9)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/" target="_blank" rel="noopener">Meta AI 공식 블로그 — Introducing Muse Image and Muse Video</a>
 </div>
 
 <div class="article-keypoints">

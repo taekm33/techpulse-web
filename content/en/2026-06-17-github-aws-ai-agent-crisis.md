@@ -65,10 +65,10 @@ GitHub's COO has expressed confidence that availability problems will shrink by 
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Related resources, official sources & further reading</strong><br>
-— <a href="https://www.techtimes.com/articles/318481/20260616/githubs-ai-agent-crisis-forces-microsoft-tap-aws-outages-break-enterprise-slas.htm" target="_blank" rel="noopener noreferrer">Tech Times: GitHub's AI Agent Crisis Forces Microsoft to Tap AWS</a><br>
-— <a href="https://letsdatascience.com/news/github-capacity-surge-pushes-microsoft-to-aws-13a2ffa4" target="_blank" rel="noopener noreferrer">Let's Data Science: GitHub Capacity Surge Pushes Microsoft to AWS</a><br>
-— <a href="https://www.githubstatus.com/" target="_blank" rel="noopener noreferrer">GitHub official status page (live availability)</a><br>
-— <a href="https://github.blog/news-insights/company-news/" target="_blank" rel="noopener noreferrer">GitHub official blog: monthly availability reports</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis)</strong><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.techtimes.com/articles/318481/20260616/githubs-ai-agent-crisis-forces-microsoft-tap-aws-outages-break-enterprise-slas.htm" target="_blank" rel="noopener noreferrer">Tech Times: GitHub's AI Agent Crisis Forces Microsoft to Tap AWS</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://letsdatascience.com/news/github-capacity-surge-pushes-microsoft-to-aws-13a2ffa4" target="_blank" rel="noopener noreferrer">Let's Data Science: GitHub Capacity Surge Pushes Microsoft to AWS</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.githubstatus.com/" target="_blank" rel="noopener noreferrer">GitHub official status page (live availability)</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.blog/news-insights/company-news/" target="_blank" rel="noopener noreferrer">GitHub official blog: monthly availability reports</a>
 </div>
 </div>

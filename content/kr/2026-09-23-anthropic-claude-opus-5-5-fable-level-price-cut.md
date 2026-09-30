@@ -58,11 +58,11 @@ Anthropic은 출시에 맞춰 Pro·Max·Team 및 좌석 기반 엔터프라이�
 오퍼스 5.5는 '더 비싼 상위 모델'과 '더 싼 하위 모델'이라는 이분법을 흐리는 방향으로 움직였다. 상위급 성능을 하위급 가격대에 밀어 넣는 전략은, 같은 날 경쟁사들이 잇따라 가격을 내리며 벌어지고 있는 프런티어 모델 가격 경쟁과도 맞닿아 있다. 성능 우위만으로는 고객을 붙잡기 어려워진 시장에서, '성능 대비 비용(price-performance)'이 다음 승부처가 되고 있음을 보여주는 출시다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/claude-opus-5-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5.5 (공식 발표)</a><br/>
-· <a href="https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot/" target="_blank" rel="noopener">GitHub Changelog — 깃허브 코파일럿에서 오퍼스 5.5 지원 (9/22)</a><br/>
-· <a href="https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/" target="_blank" rel="noopener">MacRumors — Anthropic Launches Claude Opus 5.5 (9/22)</a><br/>
-· <a href="https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/" target="_blank" rel="noopener">9to5Mac — Anthropic upgrades Claude with new Opus 5.5 model (9/22)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/claude-opus-5-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5.5 (공식 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot/" target="_blank" rel="noopener">GitHub Changelog — 깃허브 코파일럿에서 오퍼스 5.5 지원 (9/22)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/" target="_blank" rel="noopener">MacRumors — Anthropic Launches Claude Opus 5.5 (9/22)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/" target="_blank" rel="noopener">9to5Mac — Anthropic upgrades Claude with new Opus 5.5 model (9/22)</a>
 </div>
 
 <div class="article-keypoints">

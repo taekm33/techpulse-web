@@ -582,10 +582,10 @@ korean_splitter = RecursiveCharacterTextSplitter(
 
 ---
 
-## 관련 자료 · 공식 출처 · 사용 안내
+## 관련 자료 · 출처 · 사용 안내
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
-— <a href="https://www.ibm.com/think/topics/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer">IBM — RAG 개념 정리</a><br>
-— <a href="https://python.langchain.com/docs/tutorials/rag/" target="_blank" rel="noopener noreferrer">LangChain — RAG 구축 튜토리얼 (실습)</a><br>
-— <a href="https://arxiv.org/abs/2005.11401" target="_blank" rel="noopener noreferrer">원논문: Retrieval-Augmented Generation (Lewis et al., arXiv)</a><br>
-— <a href="https://docs.llamaindex.ai/en/stable/" target="_blank" rel="noopener noreferrer">LlamaIndex 공식 문서 (RAG 프레임워크)</a><br></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.ibm.com/think/topics/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer">IBM — RAG 개념 정리</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://python.langchain.com/docs/tutorials/rag/" target="_blank" rel="noopener noreferrer">LangChain — RAG 구축 튜토리얼 (실습)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2005.11401" target="_blank" rel="noopener noreferrer">원논문: Retrieval-Augmented Generation (Lewis et al., arXiv)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://docs.llamaindex.ai/en/stable/" target="_blank" rel="noopener noreferrer">LlamaIndex 공식 문서 (RAG 프레임워크)</a><br></div></div>

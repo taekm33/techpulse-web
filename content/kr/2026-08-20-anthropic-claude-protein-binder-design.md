@@ -58,9 +58,9 @@ tags: ["앤트로픽", "클로드", "단백질설계", "AI신약", "바이오"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.anthropic.com/research/Claude-accelerates-protein-design" target="_blank" rel="noopener">Anthropic — How Claude is accelerating protein design and analytical chemistry (공식)</a><br/>
-<a href="https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf" target="_blank" rel="noopener">Anthropic — Autonomous de novo protein binder design with Claude (연구 보고서 PDF)</a><br/>
-<a href="https://www.adaptyvbio.com/blog/anthropic-1" target="_blank" rel="noopener">Adaptyv Bio — Benchmarking Claude's protein designs in the wet lab (파트너 케이스 스터디)</a><br/>
-<a href="https://finance.biggo.com/news/098c484e-bac4-4d7e-a4e2-0ca0127b8d37" target="_blank" rel="noopener">BigGo Finance — Anthropic Says Claude Autonomously Designed Proteins, Hitting 14 of 15 Targets</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/research/Claude-accelerates-protein-design" target="_blank" rel="noopener">Anthropic — How Claude is accelerating protein design and analytical chemistry (공식)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf" target="_blank" rel="noopener">Anthropic — Autonomous de novo protein binder design with Claude (연구 보고서 PDF)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.adaptyvbio.com/blog/anthropic-1" target="_blank" rel="noopener">Adaptyv Bio — Benchmarking Claude's protein designs in the wet lab (파트너 케이스 스터디)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://finance.biggo.com/news/098c484e-bac4-4d7e-a4e2-0ca0127b8d37" target="_blank" rel="noopener">BigGo Finance — Anthropic Says Claude Autonomously Designed Proteins, Hitting 14 of 15 Targets</a>
 </div>

@@ -64,9 +64,9 @@ OpenAI 역시 2분기에 약 120만 달러를 지출해 직전 분기보다 18% 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://lda.senate.gov/" target="_blank" rel="noopener">미국 상원 로비 공시 데이터베이스 (Lobbying Disclosure Act, 1차 자료)</a><br/>
-<a href="https://news.bgov.com/bloomberg-government-news/anthropic-openai-waymo-drop-record-4-3-million-on-q2-lobbying" target="_blank" rel="noopener">Bloomberg Government — Anthropic, OpenAI, Waymo Drop Record $4.3 Million on Q2 Lobbying</a><br/>
-<a href="https://thenextweb.com/news/openai-anthropic-record-lobbying-q2" target="_blank" rel="noopener">The Next Web — OpenAI and Anthropic now out-lobby Nvidia in Washington</a><br/>
-<a href="https://issueone.org/press/big-tech-spends-millions-to-buy-influence-in-washington-in-first-half-of-2026/" target="_blank" rel="noopener">Issue One — Big Tech Spends Millions to Buy Influence in Washington (H1 2026)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://lda.senate.gov/" target="_blank" rel="noopener">미국 상원 로비 공시 데이터베이스 (Lobbying Disclosure Act, 1차 자료)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://news.bgov.com/bloomberg-government-news/anthropic-openai-waymo-drop-record-4-3-million-on-q2-lobbying" target="_blank" rel="noopener">Bloomberg Government — Anthropic, OpenAI, Waymo Drop Record $4.3 Million on Q2 Lobbying</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/openai-anthropic-record-lobbying-q2" target="_blank" rel="noopener">The Next Web — OpenAI and Anthropic now out-lobby Nvidia in Washington</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://issueone.org/press/big-tech-spends-millions-to-buy-influence-in-washington-in-first-half-of-2026/" target="_blank" rel="noopener">Issue One — Big Tech Spends Millions to Buy Influence in Washington (H1 2026)</a>
 </div>

@@ -77,9 +77,9 @@ tags: ["중국규제", "의인화AI", "더우바오", "통이첸원", "AI에이�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">중국 국가인터넷정보판공실(CAC) 공식</a><br/>
-· <a href="https://www.doubao.com/" target="_blank" rel="noopener">바이트댄스 더우바오(Doubao) 공식</a><br/>
-· <a href="https://qwen.ai/" target="_blank" rel="noopener">알리바바 Qwen(통이첸원) 공식</a><br/>
-· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 팀 공식 블로그</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">중국 국가인터넷정보판공실(CAC) 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.doubao.com/" target="_blank" rel="noopener">바이트댄스 더우바오(Doubao) 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://qwen.ai/" target="_blank" rel="noopener">알리바바 Qwen(통이첸원) 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 팀 공식 블로그</a>
 </div>

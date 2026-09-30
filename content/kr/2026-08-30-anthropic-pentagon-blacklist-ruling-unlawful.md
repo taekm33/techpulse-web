@@ -67,9 +67,9 @@ tags: ["앤트로픽", "펜타곤", "AI규제", "표현의자유", "클로드"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.250.0_1.pdf" target="_blank" rel="noopener">법원 판결문 원문 (CourtListener/RECAP, 59쪽 PDF)</a><br/>
-<a href="https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825" target="_blank" rel="noopener">NBC News — Federal judge blocks Pentagon blacklisting of Anthropic</a><br/>
-<a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html" target="_blank" rel="noopener">CNBC — Judge blocks Pentagon blacklist of Anthropic as supply chain risk</a><br/>
-<a href="https://www.forbes.com/sites/siladityaray/2026/08/28/federal-judge-blocks-pentagons-illegal-designation-of-anthropic-as-a-supply-chain-risk/" target="_blank" rel="noopener">Forbes — Federal Judge Rules Pentagon's Designation of Anthropic Is Unlawful</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.250.0_1.pdf" target="_blank" rel="noopener">법원 판결문 원문 (CourtListener/RECAP, 59쪽 PDF)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825" target="_blank" rel="noopener">NBC News — Federal judge blocks Pentagon blacklisting of Anthropic</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html" target="_blank" rel="noopener">CNBC — Judge blocks Pentagon blacklist of Anthropic as supply chain risk</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.forbes.com/sites/siladityaray/2026/08/28/federal-judge-blocks-pentagons-illegal-designation-of-anthropic-as-a-supply-chain-risk/" target="_blank" rel="noopener">Forbes — Federal Judge Rules Pentagon's Designation of Anthropic Is Unlawful</a>
 </div>

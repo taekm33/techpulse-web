@@ -60,10 +60,10 @@ tags: ["인수합병", "애드테크", "포스퀘어", "인필리온", "위치�
 포스퀘어 인수는 애드테크의 무게중심이 '노출'에서 '성과 증명'으로 이동하고 있음을 보여주는 거래다. 담장 정원이 자기 안의 지표만 보여주는 시대에, 광고와 오프라인 결과를 잇는 독립 측정 기반은 대형 플랫폼에 맞서는 애드테크 사업자의 차별점이 될 수 있다. 관건은 두 가지다. 하나는 프라이버시—위치와 구매를 결합하면서도 규제와 소비자 신뢰를 지킬 수 있느냐다. 다른 하나는 통합 실행력—서로 다른 기술을 사들여 붙여 온 인필리온이 포스퀘어까지 실제로 하나의 플랫폼으로 녹여낼 수 있느냐다. 인수 금액은 공개되지 않았지만, 이 거래가 겨냥한 것은 광고 성과 측정의 '마지막 한 구간'이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/" target="_blank" rel="noopener">Infillion — Infillion to Acquire Foursquare (공식 발표, 9/18)</a><br/>
-· <a href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" target="_blank" rel="noopener">Axios — Exclusive: Infillion acquires location data company Foursquare</a><br/>
-· <a href="https://ppc.land/infillion-buys-foursquare-to-link-ads-with-16-billion-visits/" target="_blank" rel="noopener">PPC Land — Infillion buys Foursquare to link ads with 16 billion visits</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/" target="_blank" rel="noopener">Infillion — Infillion to Acquire Foursquare (공식 발표, 9/18)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" target="_blank" rel="noopener">Axios — Exclusive: Infillion acquires location data company Foursquare</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://ppc.land/infillion-buys-foursquare-to-link-ads-with-16-billion-visits/" target="_blank" rel="noopener">PPC Land — Infillion buys Foursquare to link ads with 16 billion visits</a>
 </div>
 
 <div class="article-keypoints">

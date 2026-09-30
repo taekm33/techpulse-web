@@ -90,8 +90,8 @@ The real test is long-term governance. If Cloudflare follows through on the same
 For now, developers using Vite, Vitest, or Oxc can expect accelerating investment, faster tooling, and — if Cloudflare's strategic thesis is correct — a build experience purpose-built for the agentic development era.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite Official Site</a><br/>
-· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero Official</a><br/>
-· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Blog</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://vite.dev/" target="_blank" rel="noopener">Vite Official Site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero Official</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare Blog</a><br/>
 </div>

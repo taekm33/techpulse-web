@@ -399,7 +399,7 @@ AI 스타트업에서는 경력보다 AI 프로젝트 포트폴리오를 더 중
 *작성: TechPulse 에디터팀 | 2026-05-03 | techpulse.co.kr*
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://roadmap.sh/" target="_blank" rel="noopener">roadmap.sh — 개발자 로드맵</a><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://roadmap.sh/" target="_blank" rel="noopener">roadmap.sh — 개발자 로드맵</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a>
 </div>

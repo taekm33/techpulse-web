@@ -88,8 +88,8 @@ The pattern echoes January 2025, when DeepSeek's R1 disrupted assumptions about 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen official blog</a><br/>
-· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI (Kimi) on Hugging Face</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen official blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI (Kimi) on Hugging Face</a><br/>
 </div>

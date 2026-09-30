@@ -96,9 +96,9 @@ OpenAI는 두 번째 관련 모델을 비활성화·암호화해 연구 접근�
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (공식)</a><br/>
-· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
-· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs 공식 사이트</a><br/>
-· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) — Hugging Face 조직</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) — Hugging Face 조직</a><br/>
 </div>

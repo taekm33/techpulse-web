@@ -55,11 +55,11 @@ Samsung Electronics is also scaling its HBM capacity, but SK Hynix holds the dom
 Proceeds from the listing are expected to flow into HBM4 and HBM4E production ramp at SK Hynix's Cheongju and Icheon fabs. The company's ability to maintain supply against surging AI server demand will likely determine whether it can defend its 60% HBM share as Samsung and Micron push harder into the space. Any production shortfall could become a direct bottleneck for NVIDIA's accelerator shipments — and by extension, for the AI expansion plans of every hyperscaler.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/" target="_blank" rel="noopener">SK Hynix Newsroom — 2026 Market Outlook: HBM-Led Memory Supercycle</a><br/>
-· <a href="https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html" target="_blank" rel="noopener">CNBC — SK Hynix plans to raise $29 billion via Nasdaq listing (Jun 24)</a><br/>
-· <a href="https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/" target="_blank" rel="noopener">Fortune — SK Hynix US listing: will it signal AI boom or bust? (Jul 5)</a><br/>
-· <a href="https://finance.yahoo.com/technology/article/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html" target="_blank" rel="noopener">Yahoo Finance — SK Hynix IPO gives US investors bigger bite of the memory pie</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/" target="_blank" rel="noopener">SK Hynix Newsroom — 2026 Market Outlook: HBM-Led Memory Supercycle</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html" target="_blank" rel="noopener">CNBC — SK Hynix plans to raise $29 billion via Nasdaq listing (Jun 24)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/" target="_blank" rel="noopener">Fortune — SK Hynix US listing: will it signal AI boom or bust? (Jul 5)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://finance.yahoo.com/technology/article/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html" target="_blank" rel="noopener">Yahoo Finance — SK Hynix IPO gives US investors bigger bite of the memory pie</a>
 </div>
 
 <div class="article-keypoints">

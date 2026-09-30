@@ -54,11 +54,11 @@ If your team runs an AI training-data pipeline, MTurk's exit is a prompt to audi
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/sms-workforce-management-public.html" target="_blank" rel="noopener">AWS Docs — SageMaker Ground Truth / Mechanical Turk workforce</a><br/>
-· <a href="https://www.mturk.com/" target="_blank" rel="noopener">Amazon Mechanical Turk — official site</a><br/>
-· <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank" rel="noopener">TechCrunch — Amazon will stop accepting new customers for Mechanical Turk</a><br/>
-· <a href="https://www.pymnts.com/amazon/2026/amazon-sunsets-crowd-sourced-work-platform-mturk/" target="_blank" rel="noopener">PYMNTS — Amazon Sunsets Crowd-Sourced Work Platform MTurk</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/sms-workforce-management-public.html" target="_blank" rel="noopener">AWS Docs — SageMaker Ground Truth / Mechanical Turk workforce</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.mturk.com/" target="_blank" rel="noopener">Amazon Mechanical Turk — official site</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank" rel="noopener">TechCrunch — Amazon will stop accepting new customers for Mechanical Turk</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/amazon/2026/amazon-sunsets-crowd-sourced-work-platform-mturk/" target="_blank" rel="noopener">PYMNTS — Amazon Sunsets Crowd-Sourced Work Platform MTurk</a>
 </div>
 
 <div class="article-keypoints">

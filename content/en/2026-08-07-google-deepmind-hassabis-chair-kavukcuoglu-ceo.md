@@ -52,11 +52,11 @@ When reading org changes, reporting lines and scope of ownership tell you more t
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" target="_blank" rel="noopener">Google — Sundar Pichai's message, "The next chapter of our AI momentum" (official)</a><br/>
-· <a href="https://9to5google.com/2026/08/05/demis-hassabis-deepmind/" target="_blank" rel="noopener">9to5Google — Hassabis no longer DeepMind CEO, moves to AGI role; Jeff Dean departs (Aug 5)</a><br/>
-· <a href="https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html" target="_blank" rel="noopener">CNBC — Jeff Dean leaving Google after 27 years (Aug 5)</a><br/>
-· <a href="https://www.discoveryloop.com/" target="_blank" rel="noopener">Discovery Loop — official site of Jeff Dean's new public benefit corporation</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" target="_blank" rel="noopener">Google — Sundar Pichai's message, "The next chapter of our AI momentum" (official)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://9to5google.com/2026/08/05/demis-hassabis-deepmind/" target="_blank" rel="noopener">9to5Google — Hassabis no longer DeepMind CEO, moves to AGI role; Jeff Dean departs (Aug 5)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html" target="_blank" rel="noopener">CNBC — Jeff Dean leaving Google after 27 years (Aug 5)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.discoveryloop.com/" target="_blank" rel="noopener">Discovery Loop — official site of Jeff Dean's new public benefit corporation</a>
 </div>
 
 <div class="article-keypoints">

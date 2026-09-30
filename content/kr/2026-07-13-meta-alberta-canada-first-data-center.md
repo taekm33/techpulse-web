@@ -50,11 +50,11 @@ tags: ["메타", "데이터센터", "AI인프라", "앨버타", "컴퓨트", "�
 착공은 시작일 뿐이고 완공까지 약 3년이 걸린다. 관전 포인트는 세 가지다. 첫째, 932MW 신규 가스 발전소와 '100% 재생에너지 매칭' 약속이 실제 배출량에서 어떻게 조화되는지. 둘째, 앨버타의 값싼 전력 카드가 다른 빅테크의 캐나다·한랭지 데이터센터 러시를 촉발할지. 셋째, 이 캠퍼스가 메타의 차세대 AI 모델(라마 계열 및 후속 모델) 학습에 실제로 얼마나 기여하게 될지다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/" target="_blank" rel="noopener">Meta 뉴스룸 — Breaking Ground on Meta's First Data Center in Canada (공식)</a><br/>
-· <a href="https://datacenters.atmeta.com/2026/07/hello-sturgeon-county/" target="_blank" rel="noopener">Meta Data Centers — Hello, Sturgeon County! (공식)</a><br/>
-· <a href="https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html" target="_blank" rel="noopener">CNBC — Meta is building its first big data center in Canada amid AI push (7/8)</a><br/>
-· <a href="https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271" target="_blank" rel="noopener">CBC News — Meta building its first Canadian data centre northeast of Edmonton</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/" target="_blank" rel="noopener">Meta 뉴스룸 — Breaking Ground on Meta's First Data Center in Canada (공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://datacenters.atmeta.com/2026/07/hello-sturgeon-county/" target="_blank" rel="noopener">Meta Data Centers — Hello, Sturgeon County! (공식)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html" target="_blank" rel="noopener">CNBC — Meta is building its first big data center in Canada amid AI push (7/8)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271" target="_blank" rel="noopener">CBC News — Meta building its first Canadian data centre northeast of Edmonton</a>
 </div>
 
 <div class="article-keypoints">

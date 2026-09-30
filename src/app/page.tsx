@@ -3,10 +3,10 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Link from 'next/link'
 import type { Metadata } from 'next'
-import { canonicalUrl } from '../lib/seo'
+import { canonicalUrl, languageAlternates } from '../lib/seo'
 
 export const metadata: Metadata = {
-  alternates: { canonical: canonicalUrl('/') },
+  alternates: { canonical: canonicalUrl('/'), languages: languageAlternates('/', ['kr', 'en']) },
 }
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'

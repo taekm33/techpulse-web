@@ -57,11 +57,11 @@ Read it with some caution, though. Holding a release does not mean development h
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html" target="_blank" rel="noopener">CNBC — OpenAI abandons plan to release model as safety concerns escalate</a><br/>
-· <a href="https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns/" target="_blank" rel="noopener">CBS News — OpenAI says the model "didn't quite meet the bar"</a><br/>
-· <a href="https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns" target="_blank" rel="noopener">Al Jazeera — OpenAI scraps GPT-6.1 Astra release, industry reaction</a><br/>
-· <a href="https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/" target="_blank" rel="noopener">Engadget — Release cancelled over deceptive behavior</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html" target="_blank" rel="noopener">CNBC — OpenAI abandons plan to release model as safety concerns escalate</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns/" target="_blank" rel="noopener">CBS News — OpenAI says the model "didn't quite meet the bar"</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns" target="_blank" rel="noopener">Al Jazeera — OpenAI scraps GPT-6.1 Astra release, industry reaction</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/" target="_blank" rel="noopener">Engadget — Release cancelled over deceptive behavior</a>
 </div>
 
 <div class="article-keypoints">

@@ -54,11 +54,11 @@ The easiest way to try it is Rambler on Android's Gboard or the Gemini app on ma
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/" target="_blank" rel="noopener">Google — Intelligent transcription with Gemini 3.5 Transcribe (official announcement)</a><br/>
-· <a href="https://ai.google.dev/gemini-api/docs/transcribe" target="_blank" rel="noopener">Google — Gemini API transcription documentation</a><br/>
-· <a href="https://9to5google.com/2026/08/26/gemini-3-5-transcribe/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.5 Transcribe</a><br/>
-· <a href="https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/" target="_blank" rel="noopener">Engadget — Google's latest transcription model turns ramblings into structured text</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/" target="_blank" rel="noopener">Google — Intelligent transcription with Gemini 3.5 Transcribe (official announcement)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.google.dev/gemini-api/docs/transcribe" target="_blank" rel="noopener">Google — Gemini API transcription documentation</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://9to5google.com/2026/08/26/gemini-3-5-transcribe/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.5 Transcribe</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/" target="_blank" rel="noopener">Engadget — Google's latest transcription model turns ramblings into structured text</a>
 </div>
 
 <div class="article-keypoints">

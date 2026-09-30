@@ -61,8 +61,8 @@ tags: ["Anthropic", "AI안전", "IPO", "재귀적자기개선", "초지능"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 뉴스</a><br/>
-· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic 공식</a><br/>
-· <a href="https://www.sec.gov/" target="_blank" rel="noopener">미국 증권거래위원회(SEC)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 뉴스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.sec.gov/" target="_blank" rel="noopener">미국 증권거래위원회(SEC)</a><br/>
 </div>

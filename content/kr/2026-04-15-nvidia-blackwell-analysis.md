@@ -299,8 +299,8 @@ Blackwell은 출시 초기 공급 부족 이슈를 겪었다. TSMC 3nm 공정(Co
 8. 전자신문 — [NVIDIA 블랙웰, 국내 클라우드 시장 판도 변화](https://www.etnews.com) (2025)
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — 젠슨 황 GTC 2026 키노트 (Blackwell·Vera Rubin)</a><br/>
-· <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell 아키텍처 공식 자료</a><br/>
-· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC 공식 페이지</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — 젠슨 황 GTC 2026 키노트 (Blackwell·Vera Rubin)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell 아키텍처 공식 자료</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC 공식 페이지</a>
 </div>

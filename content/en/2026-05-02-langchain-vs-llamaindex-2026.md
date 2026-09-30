@@ -354,8 +354,8 @@ Both frameworks have stabilized their APIs significantly since the rapid-iterati
 The framework war framing was never particularly useful. In 2026, LangChain and LlamaIndex are complementary tools with different strengths. Pick the one that matches your primary bottleneck, know the other one exists, and don't feel obligated to pick a side.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain Documentation (Python)</a><br/>
-· <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex Documentation</a><br/>
-· <a href="https://www.langchain.com/" target="_blank" rel="noopener">LangChain official site</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain Documentation (Python)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex Documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.langchain.com/" target="_blank" rel="noopener">LangChain official site</a>
 </div>

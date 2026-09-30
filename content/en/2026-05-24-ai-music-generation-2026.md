@@ -180,9 +180,9 @@ For now, the four tools reviewed here cover the realistic needs of most creators
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://suno.com/" target="_blank" rel="noopener">Suno (official)</a><br/>
-· <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio (official)</a><br/>
-· <a href="https://labs.google/musicfx" target="_blank" rel="noopener">Google MusicFX (official)</a><br/>
-· <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI (official)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://suno.com/" target="_blank" rel="noopener">Suno (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.udio.com/" target="_blank" rel="noopener">Udio (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://labs.google/musicfx" target="_blank" rel="noopener">Google MusicFX (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI (official)</a>
 </div>

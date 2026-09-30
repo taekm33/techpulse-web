@@ -273,8 +273,8 @@ The result is genuine, sustained regulatory fragmentation. Companies building AI
 The cost of navigating AI regulatory fragmentation is real and will advantage well-capitalized incumbents over smaller competitors — a pattern we have seen before with financial regulation, pharmaceutical regulation, and data privacy. Understanding the landscape today is the prerequisite for building compliance into your product architecture before you need it.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — AI regulatory framework</a><br/>
-· <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener">NIST — AI Risk Management Framework</a><br/>
-· <a href="https://oecd.ai/en/ai-principles" target="_blank" rel="noopener">OECD — AI Principles</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — AI regulatory framework</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener">NIST — AI Risk Management Framework</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://oecd.ai/en/ai-principles" target="_blank" rel="noopener">OECD — AI Principles</a>
 </div>

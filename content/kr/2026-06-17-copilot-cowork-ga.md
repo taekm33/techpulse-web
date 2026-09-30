@@ -62,9 +62,9 @@ Copilot Cowork는 현재 Microsoft 365 Copilot 고객 전체에 전 세계 정�
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/" target="_blank" rel="noopener noreferrer">Microsoft 365 공식 블로그: Copilot Cowork is now generally available</a><br>
-— <a href="https://www.techradar.com/pro/microsoft-makes-copilot-cowork-open-to-everyone-and-wants-to-help-you-tackle-even-the-trickiest-work-tasks" target="_blank" rel="noopener noreferrer">TechRadar: Microsoft makes Copilot Cowork open to everyone</a><br>
-— <a href="https://cryptobriefing.com/microsoft-copilot-cowork-general-availability/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/" target="_blank" rel="noopener noreferrer">Microsoft 365 공식 블로그: Copilot Cowork is now generally available</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.techradar.com/pro/microsoft-makes-copilot-cowork-open-to-everyone-and-wants-to-help-you-tackle-even-the-trickiest-work-tasks" target="_blank" rel="noopener noreferrer">TechRadar: Microsoft makes Copilot Cowork open to everyone</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://cryptobriefing.com/microsoft-copilot-cowork-general-availability/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration</a>
 </div>
 </div>

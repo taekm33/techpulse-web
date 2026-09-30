@@ -43,11 +43,11 @@ tags: ["애플", "아이폰18프로", "아이폰울트라", "폴더블", "애플
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.apple.com/apple-events/" target="_blank" rel="noopener">Apple — Apple Events (공식 이벤트 페이지 · 생중계)</a><br/>
-<a href="https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/" target="_blank" rel="noopener">MacRumors — Apple Announces 'Surprise and Shine' Event for September 9</a><br/>
-<a href="https://www.macrumors.com/2026/09/06/iphone-18-pro-heres-what-we-know/" target="_blank" rel="noopener">MacRumors — iPhone 18 Pro: Here's What We Know</a><br/>
-<a href="https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/" target="_blank" rel="noopener">Fortune — Apple to launch $2,000-plus foldable 'iPhone Ultra' in September</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.apple.com/apple-events/" target="_blank" rel="noopener">Apple — Apple Events (공식 이벤트 페이지 · 생중계)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/" target="_blank" rel="noopener">MacRumors — Apple Announces 'Surprise and Shine' Event for September 9</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.macrumors.com/2026/09/06/iphone-18-pro-heres-what-we-know/" target="_blank" rel="noopener">MacRumors — iPhone 18 Pro: Here's What We Know</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/" target="_blank" rel="noopener">Fortune — Apple to launch $2,000-plus foldable 'iPhone Ultra' in September</a>
 </div>
 
 <div class="article-keypoints">

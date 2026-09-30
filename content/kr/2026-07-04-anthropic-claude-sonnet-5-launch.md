@@ -63,9 +63,9 @@ Sonnet 5의 등장은 업계 전반의 흐름과 맞물린다. TechCrunch는 이
 Sonnet 5는 새로운 모델이라기보다 '가격 재편'에 가깝다. Anthropic은 소넷급 모델에도 오퍼스급에 근접한 에이전트 능력을 담아, 도입 가격 기준으로 오퍼스 대비 5분의 1 이하의 출력 단가를 제시했다. 다만 토크나이저 변경으로 동일 입력이 이전보다 최대 1.35배 많은 토큰으로 계산될 수 있어, 실사용 비용 절감폭은 워크로드에 따라 달라질 수 있다는 점은 유의할 부분이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank" rel="noopener">Anthropic 공식 발표 — Introducing Claude Sonnet 5 (2026.06.30)</a><br/>
-· <a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/" target="_blank" rel="noopener">TechCrunch — Anthropic launches Claude Sonnet 5 as a cheaper way to run agents (6/30)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank" rel="noopener">Anthropic 공식 발표 — Introducing Claude Sonnet 5 (2026.06.30)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/" target="_blank" rel="noopener">TechCrunch — Anthropic launches Claude Sonnet 5 as a cheaper way to run agents (6/30)</a>
 </div>
 
 <div class="article-keypoints">

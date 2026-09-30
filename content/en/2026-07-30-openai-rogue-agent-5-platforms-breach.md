@@ -96,8 +96,8 @@ The broader AI industry has been warned about rogue agent risks for months. This
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (official)</a><br/>
-· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
-· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs (official)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs (official)</a><br/>
 </div>

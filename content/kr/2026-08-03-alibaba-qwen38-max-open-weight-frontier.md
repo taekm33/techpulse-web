@@ -87,8 +87,8 @@ Qwen3.8-Max는 단순한 신규 모델 출시가 아니다. 이번 발표는 세
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.alibabacloud.com/blog/qwen3-8-max-a-new-bar-for-coding-and-cowork_603421" target="_blank" rel="noopener">Alibaba Cloud — Qwen3.8-Max 공식 블로그 포스트</a><br/>
-· <a href="https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/" target="_blank" rel="noopener">The Decoder — Qwen3.8-Max 상세 분석</a><br/>
-· <a href="https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai" target="_blank" rel="noopener">The Verge — China's Alibaba takes another swipe at America's AI supremacy</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.alibabacloud.com/blog/qwen3-8-max-a-new-bar-for-coding-and-cowork_603421" target="_blank" rel="noopener">Alibaba Cloud — Qwen3.8-Max 공식 블로그 포스트</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/" target="_blank" rel="noopener">The Decoder — Qwen3.8-Max 상세 분석</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai" target="_blank" rel="noopener">The Verge — China's Alibaba takes another swipe at America's AI supremacy</a><br/>
 </div>

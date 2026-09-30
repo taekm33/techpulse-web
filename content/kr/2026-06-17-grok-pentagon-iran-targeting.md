@@ -64,9 +64,9 @@ xAI는 올해 초 스페이스X에 합병됐으며, 구글·앤트로픽 등도 
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://cryptobriefing.com/grok-ai-us-military-strikes-iran/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Grok AI was used in US military strikes against Iran, government confirms</a><br>
-— <a href="https://www.rt.com/news/641700-grok-palantir-iran-targets/" target="_blank" rel="noopener noreferrer">RT World News: Musk's Grok AI helped fire 2,000 missiles at Iran – Pentagon</a><br>
-— <a href="https://letsdatascience.com/news/pentagon-uses-xais-grok-to-target-iran-strikes-ef9dbaa9" target="_blank" rel="noopener noreferrer">Let's Data Science: Pentagon Uses xAI's Grok to Target Iran Strikes</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://cryptobriefing.com/grok-ai-us-military-strikes-iran/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Grok AI was used in US military strikes against Iran, government confirms</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.rt.com/news/641700-grok-palantir-iran-targets/" target="_blank" rel="noopener noreferrer">RT World News: Musk's Grok AI helped fire 2,000 missiles at Iran – Pentagon</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://letsdatascience.com/news/pentagon-uses-xais-grok-to-target-iran-strikes-ef9dbaa9" target="_blank" rel="noopener noreferrer">Let's Data Science: Pentagon Uses xAI's Grok to Target Iran Strikes</a>
 </div>
 </div>

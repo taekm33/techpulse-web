@@ -107,8 +107,8 @@ For AI teams evaluating whether to build on closed frontier APIs or self-hosted 
 The broader signal is that the open model ecosystem is maturing fast enough to challenge closed models on the metrics that enterprise buyers care most about: cost, performance, and control.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron developer hub</a><br/>
-· <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
-· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — open weights</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron developer hub</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — open weights</a><br/>
 </div>

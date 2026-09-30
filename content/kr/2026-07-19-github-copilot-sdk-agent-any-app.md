@@ -84,10 +84,10 @@ GitHub는 이 SDK로 Copilot을 단순 어시스턴트 제품에서 **배포 가
 Copilot SDK의 진짜 승부처는 기술 스펙이 아니라 **기업 내 기존 GitHub 생태계와의 결합력**이다. 이미 Copilot에 투자한 조직에게는 자연스러운 선택이 될 수 있지만, 외부 진입자에게는 구독 라이선스라는 장벽이 작용할 수도 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 문서</a><br/>
-· <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub 체인지로그</a><br/>
-· <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK 문서</a><br/>
-· <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub 체인지로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
 </div>

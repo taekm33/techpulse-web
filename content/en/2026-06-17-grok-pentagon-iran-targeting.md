@@ -67,9 +67,9 @@ Whether the full DOJ declaration becomes public, and whether Congress opens an i
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Related resources, official sources & further reading</strong><br>
-— <a href="https://cryptobriefing.com/grok-ai-us-military-strikes-iran/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Grok AI was used in US military strikes against Iran, government confirms</a><br>
-— <a href="https://www.rt.com/news/641700-grok-palantir-iran-targets/" target="_blank" rel="noopener noreferrer">RT World News: Musk's Grok AI helped fire 2,000 missiles at Iran – Pentagon</a><br>
-— <a href="https://letsdatascience.com/news/pentagon-uses-xais-grok-to-target-iran-strikes-ef9dbaa9" target="_blank" rel="noopener noreferrer">Let's Data Science: Pentagon Uses xAI's Grok to Target Iran Strikes</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis)</strong><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://cryptobriefing.com/grok-ai-us-military-strikes-iran/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Grok AI was used in US military strikes against Iran, government confirms</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.rt.com/news/641700-grok-palantir-iran-targets/" target="_blank" rel="noopener noreferrer">RT World News: Musk's Grok AI helped fire 2,000 missiles at Iran – Pentagon</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://letsdatascience.com/news/pentagon-uses-xais-grok-to-target-iran-strikes-ef9dbaa9" target="_blank" rel="noopener noreferrer">Let's Data Science: Pentagon Uses xAI's Grok to Target Iran Strikes</a>
 </div>
 </div>

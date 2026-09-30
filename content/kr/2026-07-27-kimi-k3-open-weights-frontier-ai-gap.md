@@ -83,8 +83,8 @@ OpenAI, Anthropic, Google에게 진짜 위협은 K3가 당장 자신들을 추�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Hugging Face — Kimi K3 모델 페이지</a><br/>
-<a href="https://glitchwire.com/news/kimi-k3-open-sources-today-the-frontier-gap-just-shrunk/" target="_blank" rel="noopener">Glitchwire — Kimi K3 Open-Sources Today. The Frontier Gap Just Shrunk.</a><br/>
-<a href="https://startupfortune.com/moonshot-ai-releases-kimi-k3-open-weights-making-the-worlds-largest-open-weight-model-free-to-download/" target="_blank" rel="noopener">Startup Fortune — Moonshot AI releases Kimi K3 open weights</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Hugging Face — Kimi K3 모델 페이지</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://glitchwire.com/news/kimi-k3-open-sources-today-the-frontier-gap-just-shrunk/" target="_blank" rel="noopener">Glitchwire — Kimi K3 Open-Sources Today. The Frontier Gap Just Shrunk.</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://startupfortune.com/moonshot-ai-releases-kimi-k3-open-weights-making-the-worlds-largest-open-weight-model-free-to-download/" target="_blank" rel="noopener">Startup Fortune — Moonshot AI releases Kimi K3 open weights</a>
 </div>

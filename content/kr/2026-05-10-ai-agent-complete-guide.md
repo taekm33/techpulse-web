@@ -435,7 +435,7 @@ EU AI Act 시행과 각국의 AI 규제 강화로 인해 **설명 가능한(Expl
 7. NAVER Cloud Blog — [AI 에이전트 도입 가이드](https://blog.ncloud.com) (2026)
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (공식 가이드)</a><br/>
-· <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI 공식 문서</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (공식 가이드)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI 공식 문서</a>
 </div>

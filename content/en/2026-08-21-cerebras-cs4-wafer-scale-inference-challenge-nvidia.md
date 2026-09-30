@@ -61,9 +61,9 @@ As AI spending shifts from training toward inference, the opening for alternativ
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-unveils-cs-4-30-times-faster-gpu-based-solutions" target="_blank" rel="noopener">Cerebras — Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions (official press release)</a><br/>
-<a href="https://www.hpcwire.com/off-the-wire/cerebras-introduces-cs-4-with-750-pflops-of-ai-compute/" target="_blank" rel="noopener">HPCwire — Cerebras Introduces CS-4 with 750 PFLOPS of AI Compute</a><br/>
-<a href="https://www.techzine.eu/news/infrastructure/143699/cerebras-launches-cs-4-for-faster-ai-inference/" target="_blank" rel="noopener">Techzine — Cerebras launches CS-4 for faster AI inference</a><br/>
-<a href="https://qz.com/cerebras-cs-4-server-system-ai-inference-081926" target="_blank" rel="noopener">Quartz — Cerebras CS-4 server system claims 30x faster AI inference</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-unveils-cs-4-30-times-faster-gpu-based-solutions" target="_blank" rel="noopener">Cerebras — Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions (official press release)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.hpcwire.com/off-the-wire/cerebras-introduces-cs-4-with-750-pflops-of-ai-compute/" target="_blank" rel="noopener">HPCwire — Cerebras Introduces CS-4 with 750 PFLOPS of AI Compute</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.techzine.eu/news/infrastructure/143699/cerebras-launches-cs-4-for-faster-ai-inference/" target="_blank" rel="noopener">Techzine — Cerebras launches CS-4 for faster AI inference</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://qz.com/cerebras-cs-4-server-system-ai-inference-081926" target="_blank" rel="noopener">Quartz — Cerebras CS-4 server system claims 30x faster AI inference</a>
 </div>

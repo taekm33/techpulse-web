@@ -55,9 +55,9 @@ This deal sits where two trends meet. One is the multi-model era — swapping mo
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank" rel="noopener">TechCrunch — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</a><br/>
-<a href="https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/" target="_blank" rel="noopener">Fortune — Stripe clinches over $7 billion deal to buy AI firm OpenRouter</a><br/>
-<a href="https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/" target="_blank" rel="noopener">Tech Startups — Stripe acquires OpenRouter for over $7B, more than 5X its valuation</a><br/>
-<a href="https://openrouter.ai/" target="_blank" rel="noopener">OpenRouter — Official site</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank" rel="noopener">TechCrunch — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/" target="_blank" rel="noopener">Fortune — Stripe clinches over $7 billion deal to buy AI firm OpenRouter</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/" target="_blank" rel="noopener">Tech Startups — Stripe acquires OpenRouter for over $7B, more than 5X its valuation</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://openrouter.ai/" target="_blank" rel="noopener">OpenRouter — Official site</a>
 </div>

@@ -63,9 +63,9 @@ tags: ["앤트로픽", "클로드", "페이블5", "가격정책", "사용량크�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank" rel="noopener">Anthropic — Redeploying Fable 5 (공식 발표)</a><br/>
-<a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank" rel="noopener">Anthropic — Fable 5 안전장치·탈옥 프레임워크 상세</a><br/>
-<a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/" target="_blank" rel="noopener">BleepingComputer — Claude Fable 5 isn't permanently leaving subscriptions</a><br/>
-<a href="https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans" target="_blank" rel="noopener">Claude 지원센터 — 유료 플랜 사용량 크레딧 관리 안내</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank" rel="noopener">Anthropic — Redeploying Fable 5 (공식 발표)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank" rel="noopener">Anthropic — Fable 5 안전장치·탈옥 프레임워크 상세</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/" target="_blank" rel="noopener">BleepingComputer — Claude Fable 5 isn't permanently leaving subscriptions</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans" target="_blank" rel="noopener">Claude 지원센터 — 유료 플랜 사용량 크레딧 관리 안내</a>
 </div>

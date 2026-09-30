@@ -84,8 +84,8 @@ For NVIDIA, the move is a clear extension of its hardware dominance into the sof
 The broader industry signal: the era of black-box AV AI is giving way to open, auditable, reason-tracing models. For a sector where safety and regulatory scrutiny are paramount, that transparency may prove as commercially important as raw benchmark performance.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA Self-Driving (DRIVE)</a><br/>
-· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA Developer Blog</a><br/>
-· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA Self-Driving (DRIVE)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA Developer Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
 </div>

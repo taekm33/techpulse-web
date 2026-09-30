@@ -343,9 +343,9 @@ At $20/month, it's a trivial investment for any developer billing more than $30/
 *Tested on: MacBook Pro M3 Max (48GB RAM), Ubuntu 22.04 (AMD Ryzen 9 5900X, 64GB RAM, RTX 4090). Cursor version 0.45.x.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor official site</a><br/>
-· <a href="https://docs.cursor.com" target="_blank" rel="noopener">Cursor documentation</a><br/>
-· <a href="https://www.cursor.com/pricing" target="_blank" rel="noopener">Cursor pricing</a><br/>
-· <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench leaderboard</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.cursor.com" target="_blank" rel="noopener">Cursor documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cursor.com/pricing" target="_blank" rel="noopener">Cursor pricing</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench leaderboard</a>
 </div>

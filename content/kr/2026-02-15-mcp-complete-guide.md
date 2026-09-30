@@ -489,14 +489,14 @@ Cursor와 VS Code Copilot의 MCP 도입은 특히 개발자 생태계에 큰 영
 ---
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol (공식 발표)</a><br/>
-· <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP 공식 문서 (modelcontextprotocol.io)</a><br/>
-· <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP 레퍼런스 서버 GitHub 레포지토리</a><br/>
-· <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">MCP Python SDK</a> · <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a><br/>
-· <a href="https://docs.cursor.com/advanced/mcp" target="_blank" rel="noopener">Cursor MCP 설정 가이드</a><br/>
-· <a href="https://simonwillison.net/2024/Nov/25/model-context-protocol" target="_blank" rel="noopener">Simon Willison — MCP 표준 해설</a><br/>
-· <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank" rel="noopener">awesome-mcp-servers 큐레이션 목록</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol (공식 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP 공식 문서 (modelcontextprotocol.io)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP 레퍼런스 서버 GitHub 레포지토리</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">MCP Python SDK</a> · <span class="src-role">[공식·1차]</span> <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.cursor.com/advanced/mcp" target="_blank" rel="noopener">Cursor MCP 설정 가이드</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://simonwillison.net/2024/Nov/25/model-context-protocol" target="_blank" rel="noopener">Simon Willison — MCP 표준 해설</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank" rel="noopener">awesome-mcp-servers 큐레이션 목록</a>
 </div>
 
 <div class="article-keypoints">

@@ -57,11 +57,11 @@ SK하이닉스의 나스닥 상장 자금은 주로 HBM4·HBM4E 생산 라인 �
 한국 반도체 기업이 미국 빅테크의 AI 인프라 공급망에서 핵심 고리를 차지하며 글로벌 자본 시장 무대에 오른 것은 한국 IT 산업사에서도 중요한 장면이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/" target="_blank" rel="noopener">SK하이닉스 뉴스룸 — 2026 AI 메모리 시장 전망 (HBM 슈퍼사이클)</a><br/>
-· <a href="https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html" target="_blank" rel="noopener">CNBC — SK Hynix plans to raise $29 billion via Nasdaq listing (6/24)</a><br/>
-· <a href="https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/" target="_blank" rel="noopener">Fortune — SK Hynix US listing: AI boom or bust signal? (7/5)</a><br/>
-· <a href="https://finance.yahoo.com/technology/article/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html" target="_blank" rel="noopener">Yahoo Finance — SK Hynix IPO gives US investors bigger bite of the memory pie</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/" target="_blank" rel="noopener">SK하이닉스 뉴스룸 — 2026 AI 메모리 시장 전망 (HBM 슈퍼사이클)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html" target="_blank" rel="noopener">CNBC — SK Hynix plans to raise $29 billion via Nasdaq listing (6/24)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/" target="_blank" rel="noopener">Fortune — SK Hynix US listing: AI boom or bust signal? (7/5)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://finance.yahoo.com/technology/article/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html" target="_blank" rel="noopener">Yahoo Finance — SK Hynix IPO gives US investors bigger bite of the memory pie</a>
 </div>
 
 <div class="article-keypoints">

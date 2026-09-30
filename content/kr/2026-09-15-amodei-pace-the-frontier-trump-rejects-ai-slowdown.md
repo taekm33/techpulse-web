@@ -56,11 +56,11 @@ FINRA는 증권업계가 자율규제기구를 두어 회원사를 감독하는 
 이번 사안은 AI 경쟁의 무게중심이 '누가 더 빨리 강한 모델을 내놓느냐'에서 '얼마나 빠른 속도까지 사회가 감당할 수 있느냐'로 옮겨가고 있음을 보여준다. 프런티어 랩들이 자발적 속도 조절과 자율 기준에 접근하는 동안, 백악관은 규제 자체에 회의적이라는 점에서 '업계 자율 vs 국가 주도'의 간극이 뚜렷하다. 앤스로픽의 1단계 선이행이 실제 경쟁사 참여로 이어질지, 아니면 상징적 선언에 그칠지가 향후 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (에세이 원문)</a><br/>
-· <a href="https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html" target="_blank" rel="noopener">CNBC — 트럼프, AI 추가 규제 불필요…아모데이 비판 (9/14)</a><br/>
-· <a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown" target="_blank" rel="noopener">NPR — 트럼프, AI 속도 조절 요구 일축</a><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos" target="_blank" rel="noopener">Al Jazeera — 트럼프, 주요 CEO들의 AI 속도 조절 요구 거부</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (에세이 원문)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html" target="_blank" rel="noopener">CNBC — 트럼프, AI 추가 규제 불필요…아모데이 비판 (9/14)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown" target="_blank" rel="noopener">NPR — 트럼프, AI 속도 조절 요구 일축</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos" target="_blank" rel="noopener">Al Jazeera — 트럼프, 주요 CEO들의 AI 속도 조절 요구 거부</a>
 </div>
 
 <div class="article-keypoints">

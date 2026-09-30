@@ -48,11 +48,11 @@ Every figure in this article (14,653,926 conversations; April 6–19 window; 800
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://ai.google/static/documents/GoogleATLASv1.pdf" target="_blank" rel="noopener">Google — AI & Economy ATLAS v1.0 (full report PDF)</a><br/>
-· <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank" rel="noopener">Google Official Blog — The first ATLAS report on AI</a><br/>
-· <a href="https://ai.google/economy/" target="_blank" rel="noopener">Google AI — AI and Economy Research Program</a><br/>
-· <a href="https://ppc.land/google-finds-ai-touches-68-of-jobs-but-only-21-of-their-tasks/" target="_blank" rel="noopener">PPC Land — Google finds AI touches 68% of jobs but only 21% of tasks</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.google/static/documents/GoogleATLASv1.pdf" target="_blank" rel="noopener">Google — AI & Economy ATLAS v1.0 (full report PDF)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank" rel="noopener">Google Official Blog — The first ATLAS report on AI</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.google/economy/" target="_blank" rel="noopener">Google AI — AI and Economy Research Program</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://ppc.land/google-finds-ai-touches-68-of-jobs-but-only-21-of-their-tasks/" target="_blank" rel="noopener">PPC Land — Google finds AI touches 68% of jobs but only 21% of tasks</a>
 </div>
 
 <div class="article-keypoints">

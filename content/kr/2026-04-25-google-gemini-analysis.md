@@ -446,10 +446,10 @@ Google은 2025년을 "에이전틱 AI의 해"로 선언하며 다음 방향을 �
 
 ---
 
-## 관련 자료 · 공식 출처 · 사용 안내
+## 관련 자료 · 출처 · 사용 안내
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
-— <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">Gemini 공식 사이트 (바로 사용하기)</a><br>
-— <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">Google DeepMind — Gemini 기술 소개</a><br>
-— <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener noreferrer">Google 공식 Gemini 블로그 (최신 소식)</a><br>
-— <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer">Gemini API 개발자 문서 (다운로드·연동)</a><br></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer">Gemini 공식 사이트 (바로 사용하기)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">Google DeepMind — Gemini 기술 소개</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener noreferrer">Google 공식 Gemini 블로그 (최신 소식)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer">Gemini API 개발자 문서 (다운로드·연동)</a><br></div></div>

@@ -64,9 +64,9 @@ Behind the surge is the intensifying push toward AI regulation in the U.S. With 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://lda.senate.gov/" target="_blank" rel="noopener">U.S. Senate Lobbying Disclosure database (Lobbying Disclosure Act — primary source)</a><br/>
-<a href="https://news.bgov.com/bloomberg-government-news/anthropic-openai-waymo-drop-record-4-3-million-on-q2-lobbying" target="_blank" rel="noopener">Bloomberg Government — Anthropic, OpenAI, Waymo Drop Record $4.3 Million on Q2 Lobbying</a><br/>
-<a href="https://thenextweb.com/news/openai-anthropic-record-lobbying-q2" target="_blank" rel="noopener">The Next Web — OpenAI and Anthropic now out-lobby Nvidia in Washington</a><br/>
-<a href="https://issueone.org/press/big-tech-spends-millions-to-buy-influence-in-washington-in-first-half-of-2026/" target="_blank" rel="noopener">Issue One — Big Tech Spends Millions to Buy Influence in Washington (H1 2026)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://lda.senate.gov/" target="_blank" rel="noopener">U.S. Senate Lobbying Disclosure database (Lobbying Disclosure Act — primary source)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://news.bgov.com/bloomberg-government-news/anthropic-openai-waymo-drop-record-4-3-million-on-q2-lobbying" target="_blank" rel="noopener">Bloomberg Government — Anthropic, OpenAI, Waymo Drop Record $4.3 Million on Q2 Lobbying</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/openai-anthropic-record-lobbying-q2" target="_blank" rel="noopener">The Next Web — OpenAI and Anthropic now out-lobby Nvidia in Washington</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://issueone.org/press/big-tech-spends-millions-to-buy-influence-in-washington-in-first-half-of-2026/" target="_blank" rel="noopener">Issue One — Big Tech Spends Millions to Buy Influence in Washington (H1 2026)</a>
 </div>

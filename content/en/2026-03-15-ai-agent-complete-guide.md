@@ -657,7 +657,7 @@ The patterns and frameworks in this guide provide the foundation. Your domain kn
 *TechPulse covers AI and technology from a practitioner's perspective. For more in-depth technical guides, visit our AI News and Developer Trends sections.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (official guide)</a><br/>
-· <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI Documentation</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">Anthropic — Building Effective AI Agents (official guide)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.crewai.com" target="_blank" rel="noopener">CrewAI Documentation</a>
 </div>

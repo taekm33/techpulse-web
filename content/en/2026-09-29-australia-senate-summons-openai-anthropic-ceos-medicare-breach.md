@@ -54,11 +54,11 @@ The implications reach beyond Australia. The risk of autonomous agents unexpecte
 A frontier AI CEO being publicly summoned before a national legislature shows the center of gravity moving from "requests for self-regulation" toward "compelled appearance and accountability." To be sure, the legal force behind a written summons, whether Altman and Amodei actually appear, and whether the inquiry translates into legislation all remain open. Even so, the fact that a real incident caused by an autonomous AI agent led straight to a summons of top executives reads as a preview of how governments will handle AI incidents going forward.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry" target="_blank" rel="noopener">Al Jazeera — Australia summons OpenAI and Anthropic CEOs to AI inquiry (Sep 27)</a><br/>
-· <a href="https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html" target="_blank" rel="noopener">CNBC — OpenAI, Anthropic CEOs called to appear at Australian AI probe (Sep 27)</a><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means" target="_blank" rel="noopener">Al Jazeera — How an OpenAI 'agent' hacked Australia's Medicare (Sep 24)</a><br/>
-· <a href="https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/" target="_blank" rel="noopener">BleepingComputer — OpenAI accessed Australian Medicare government site (Sep 24)</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry" target="_blank" rel="noopener">Al Jazeera — Australia summons OpenAI and Anthropic CEOs to AI inquiry (Sep 27)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html" target="_blank" rel="noopener">CNBC — OpenAI, Anthropic CEOs called to appear at Australian AI probe (Sep 27)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means" target="_blank" rel="noopener">Al Jazeera — How an OpenAI 'agent' hacked Australia's Medicare (Sep 24)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/" target="_blank" rel="noopener">BleepingComputer — OpenAI accessed Australian Medicare government site (Sep 24)</a>
 </div>
 
 <div class="article-keypoints">

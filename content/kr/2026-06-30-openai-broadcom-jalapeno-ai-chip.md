@@ -49,10 +49,10 @@ AI 인프라를 설계하는 기업이라면, 학습용 GPU 확보 못지않게 
 Jalapeño 공개는 AI 경쟁이 모델 성능을 넘어 **'추론 인프라의 단가 싸움'**으로 본격 확장됐음을 보여준다. 9개월이라는 압축된 개발 주기는 빅테크–반도체 기업 간 협업이 얼마나 빠르게 맞춤형 실리콘을 찍어낼 수 있는지를 입증했다. 실제 양산·배치 성과와 50% 절감 주장의 검증 여부가 향후 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/" target="_blank" rel="noopener">OpenAI — Jalapeño 추론 칩 공식 발표</a><br/>
-· <a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener">TechCrunch — OpenAI unveils its first custom chip, built by Broadcom (6/24)</a><br/>
-· <a href="https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html" target="_blank" rel="noopener">CNBC — OpenAI and Broadcom reveal Jalapeño first AI chip (6/24)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/" target="_blank" rel="noopener">OpenAI — Jalapeño 추론 칩 공식 발표</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener">TechCrunch — OpenAI unveils its first custom chip, built by Broadcom (6/24)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html" target="_blank" rel="noopener">CNBC — OpenAI and Broadcom reveal Jalapeño first AI chip (6/24)</a>
 </div>
 
 <div class="article-keypoints">

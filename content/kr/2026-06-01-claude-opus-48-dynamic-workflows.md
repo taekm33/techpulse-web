@@ -125,8 +125,8 @@ Max 플랜($100/월) 이상에서 기본 활성화되는 이 기능은 엔터프
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 공식 뉴스</a><br/>
-· <a href="https://docs.anthropic.com/en/docs/agents-and-tools" target="_blank" rel="noopener">Anthropic: 에이전트 & 도구 문서</a><br/>
-· <a href="https://claude.ai" target="_blank" rel="noopener">Claude 공식 사이트</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 공식 뉴스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.anthropic.com/en/docs/agents-and-tools" target="_blank" rel="noopener">Anthropic: 에이전트 & 도구 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://claude.ai" target="_blank" rel="noopener">Claude 공식 사이트</a><br/>
 </div>

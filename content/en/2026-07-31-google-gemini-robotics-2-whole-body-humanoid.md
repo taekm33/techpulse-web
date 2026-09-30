@@ -102,9 +102,9 @@ DeepMind frames Gemini Robotics 2 as "an important milestone on the path toward 
 Robots that judge and move on their own in the physical world have long been a dream. That Gemini Robotics 2 has begun intelligently controlling a real humanoid's entire body is a signal that the dream has taken a decisive step out of the lab and into reality.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank" rel="noopener">Google DeepMind Blog — Gemini Robotics 2 brings whole body intelligence to robots</a><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/" target="_blank" rel="noopener">Google Developer Blog — Gemini Robotics ER 2</a><br/>
-· <a href="https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control" target="_blank" rel="noopener">The Next Web — Gemini Robotics 2 controls whole humanoids</a><br/>
-· <a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/" target="_blank" rel="noopener">MarkTechPost — Google DeepMind ships three physical AI models</a><br/>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank" rel="noopener">Google DeepMind Blog — Gemini Robotics 2 brings whole body intelligence to robots</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/" target="_blank" rel="noopener">Google Developer Blog — Gemini Robotics ER 2</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control" target="_blank" rel="noopener">The Next Web — Gemini Robotics 2 controls whole humanoids</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/" target="_blank" rel="noopener">MarkTechPost — Google DeepMind ships three physical AI models</a><br/>
 </div>

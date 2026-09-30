@@ -91,8 +91,8 @@ NVFP4 덕분에 SWE-bench와 Terminal bench 2.0 실험에서 같은 결과를 �
 NVIDIA가 칩 제조사를 넘어 오픈 AI 모델 생태계의 핵심 공급자로 자리를 굳히고 있다. Nemotron 3 Ultra의 완전 오픈 정책은 기업들이 폐쇄 API 종속 없이 자체 인프라에서 프런티어급 에이전트를 구동할 수 있는 경로를 열어준다. 처리량 효율과 비용 절감이 검증되면서 오픈 모델이 클로즈드 모델의 실질적인 대안으로 부상하는 속도가 빨라질 것으로 보인다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron 개발자 허브</a><br/>
-· <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
-· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — 오픈 가중치</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron 개발자 허브</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://build.nvidia.com/nvidia" target="_blank" rel="noopener">NVIDIA NIM (build.nvidia.com)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face — 오픈 가중치</a><br/>
 </div>

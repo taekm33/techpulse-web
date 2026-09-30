@@ -49,10 +49,10 @@ That said, custom chips will not replace NVIDIA overnight. Building out design, 
 Jalapeño's debut shows that AI competition has expanded beyond model performance into a **battle over the cost of inference infrastructure**. The compressed nine-month cycle demonstrates how quickly Big Tech and semiconductor partners can now turn out bespoke silicon. The key things to watch are real-world production and deployment results, and whether the claimed 50% savings hold up.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/" target="_blank" rel="noopener">OpenAI — Jalapeño inference chip (official announcement)</a><br/>
-· <a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener">TechCrunch — OpenAI unveils its first custom chip, built by Broadcom (June 24)</a><br/>
-· <a href="https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html" target="_blank" rel="noopener">CNBC — OpenAI and Broadcom reveal Jalapeño, first AI chip (June 24)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/" target="_blank" rel="noopener">OpenAI — Jalapeño inference chip (official announcement)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener">TechCrunch — OpenAI unveils its first custom chip, built by Broadcom (June 24)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html" target="_blank" rel="noopener">CNBC — OpenAI and Broadcom reveal Jalapeño, first AI chip (June 24)</a>
 </div>
 
 <div class="article-keypoints">

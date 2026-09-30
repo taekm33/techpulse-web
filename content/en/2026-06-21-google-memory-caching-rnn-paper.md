@@ -59,8 +59,8 @@ Memory Caching sits on the same research trajectory as linear attention, RWKV, R
 Industry observers are treating this less as something to deploy immediately and more as a reference point for the long-context efficiency work already underway at OpenAI, Anthropic, and Meta. As agentic AI systems increasingly need to retain sprawling conversation and task histories over long sessions, demand for architectures that cut serving costs without losing recall accuracy is only set to grow.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://research.google/" target="_blank" rel="noopener">Google Research</a><br/>
-· <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind</a><br/>
-· <a href="https://arxiv.org/list/cs.LG/recent" target="_blank" rel="noopener">arXiv cs.LG — machine learning papers</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://research.google/" target="_blank" rel="noopener">Google Research</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://deepmind.google/" target="_blank" rel="noopener">Google DeepMind</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://arxiv.org/list/cs.LG/recent" target="_blank" rel="noopener">arXiv cs.LG — machine learning papers</a><br/>
 </div>

@@ -91,7 +91,7 @@ The key questions heading into the November preview: Can the Cyber Gym benchmark
 The AI cybersecurity race is accelerating. With Microsoft now fully in, the pressure on Anthropic, OpenAI, and specialized security vendors just got considerably higher.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/" target="_blank" rel="noopener">Microsoft Official Blog — Rethinking security for the age of AI</a><br/>
-· <a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/" target="_blank" rel="noopener">TechCrunch — Microsoft launches its first cyber model and agentic security system</a><br/>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/" target="_blank" rel="noopener">Microsoft Official Blog — Rethinking security for the age of AI</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/" target="_blank" rel="noopener">TechCrunch — Microsoft launches its first cyber model and agentic security system</a><br/>
 </div>

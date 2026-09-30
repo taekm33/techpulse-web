@@ -85,8 +85,8 @@ RAG(검색 증강 생성)은 LLM이 외부 문서 저장소에서 관련 정보�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/technology/google-deepmind/ Google DeepMind 공식 블로그" target="_blank" rel="noopener"></a><br/>
-· <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API 공식 문서</a><br/>
-· <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/technology/google-deepmind/ Google DeepMind 공식 블로그" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
 </div>

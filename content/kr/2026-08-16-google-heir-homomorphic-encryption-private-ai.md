@@ -65,9 +65,9 @@ HEIR가 '원클릭 암호화 추론'이라는 비전에 도달했다고 보기�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/" target="_blank" rel="noopener">Google 공식 블로그 — How Google is Making Private AI Practical with Homomorphic Encryption</a><br/>
-<a href="https://heir.dev/" target="_blank" rel="noopener">HEIR — 공식 프로젝트 사이트</a><br/>
-<a href="https://github.com/google/heir" target="_blank" rel="noopener">GitHub — google/heir (오픈소스 저장소)</a><br/>
-<a href="https://arxiv.org/abs/2508.11095" target="_blank" rel="noopener">arXiv — HEIR: A Universal Compiler for Homomorphic Encryption</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/" target="_blank" rel="noopener">Google 공식 블로그 — How Google is Making Private AI Practical with Homomorphic Encryption</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://heir.dev/" target="_blank" rel="noopener">HEIR — 공식 프로젝트 사이트</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://github.com/google/heir" target="_blank" rel="noopener">GitHub — google/heir (오픈소스 저장소)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2508.11095" target="_blank" rel="noopener">arXiv — HEIR: A Universal Compiler for Homomorphic Encryption</a>
 </div>

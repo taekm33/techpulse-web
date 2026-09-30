@@ -64,9 +64,9 @@ CEO **아르튀르 멘슈(Arthur Mensch)**는 CNBC 인터뷰에서 이번 자금
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/" target="_blank" rel="noopener">Mistral AI 공식 발표 — Making sovereign, open-weight AI the technology frontier</a><br/>
-<a href="https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/" target="_blank" rel="noopener">TechCrunch — Mistral raises €3B as sovereign AI becomes big business</a><br/>
-<a href="https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941" target="_blank" rel="noopener">The Register — Mistral bags €3B to build Europe's sovereign AI champion</a><br/>
-<a href="https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase" target="_blank" rel="noopener">Tech.eu — Mistral secures €3B Series D to push sovereign AI into its next phase</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/" target="_blank" rel="noopener">Mistral AI 공식 발표 — Making sovereign, open-weight AI the technology frontier</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/" target="_blank" rel="noopener">TechCrunch — Mistral raises €3B as sovereign AI becomes big business</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941" target="_blank" rel="noopener">The Register — Mistral bags €3B to build Europe's sovereign AI champion</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase" target="_blank" rel="noopener">Tech.eu — Mistral secures €3B Series D to push sovereign AI into its next phase</a>
 </div>

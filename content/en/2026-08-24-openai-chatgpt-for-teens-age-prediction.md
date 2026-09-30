@@ -57,11 +57,11 @@ A Common Sense Media study last year found that nearly three-quarters of U.S. te
 Critics push back sharply. Jim Steyer, founder and CEO of Common Sense Media, said "social AI companions are not safe for kids," warning they are "designed to create emotional attachment and dependency, which is particularly concerning for developing adolescent brains" — the view that younger teens should not be forming relationships with AI at all. The undisclosed accuracy of age prediction, and the risk of misclassification, remain open questions.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/index/chatgpt-for-teens/" target="_blank" rel="noopener">OpenAI — Introducing ChatGPT for Teens (official, Aug 18)</a><br/>
-· <a href="https://openai.com/index/our-approach-to-age-prediction/" target="_blank" rel="noopener">OpenAI — Our approach to age prediction (official)</a><br/>
-· <a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens" target="_blank" rel="noopener">Axios — OpenAI debuts ChatGPT for Teens</a><br/>
-· <a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode" target="_blank" rel="noopener">The Next Web — ChatGPT for Teens & age prediction</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/index/chatgpt-for-teens/" target="_blank" rel="noopener">OpenAI — Introducing ChatGPT for Teens (official, Aug 18)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/index/our-approach-to-age-prediction/" target="_blank" rel="noopener">OpenAI — Our approach to age prediction (official)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens" target="_blank" rel="noopener">Axios — OpenAI debuts ChatGPT for Teens</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode" target="_blank" rel="noopener">The Next Web — ChatGPT for Teens & age prediction</a>
 </div>
 
 <div class="article-keypoints">

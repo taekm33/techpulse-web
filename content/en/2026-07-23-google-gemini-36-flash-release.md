@@ -106,8 +106,8 @@ Google confirmed that Gemini 3.5 Pro — originally slated for June — is still
 All three models — 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber — are available now through the Gemini API, Google AI Studio, and Android Studio. General users can access the new models in the Gemini app, with Flash-Lite also rolling out in Google Search.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener">Google Blog &mdash; Gemini</a><br/>
-&middot; <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API Docs (Google AI for Developers)</a><br/>
-&middot; <a href="https://deepmind.google/models/gemini/" target="_blank" rel="noopener">Google DeepMind &mdash; Gemini models</a><br/>
+<strong>Primary Sources</strong><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://blog.google/products/gemini/" target="_blank" rel="noopener">Google Blog &mdash; Gemini</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API Docs (Google AI for Developers)</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://deepmind.google/models/gemini/" target="_blank" rel="noopener">Google DeepMind &mdash; Gemini models</a><br/>
 </div>

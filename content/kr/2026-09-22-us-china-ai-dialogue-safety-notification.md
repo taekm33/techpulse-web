@@ -54,10 +54,10 @@ tags: ["미중관계", "AI규제", "AI안전", "베선트", "AI거버넌스"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.euronews.com/next/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns" target="_blank" rel="noopener">Euronews — 미·중, 공동 우려 소통 위한 'AI 대화' 추진 (AP 인용)</a><br/>
-· <a href="https://www.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk" target="_blank" rel="noopener">CNN Business — 베선트, 시-트럼프 회담 앞두고 대중국 회담서 AI 안전 통보 제안</a><br/>
-· <a href="https://www.detroitnews.com/story/tech/2026/09/21/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/91870614007/" target="_blank" rel="noopener">The Detroit News — 베선트, 허리펑 부총리 회담서 미·중 AI 안전 통보 제안</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.euronews.com/next/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns" target="_blank" rel="noopener">Euronews — 미·중, 공동 우려 소통 위한 'AI 대화' 추진 (AP 인용)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk" target="_blank" rel="noopener">CNN Business — 베선트, 시-트럼프 회담 앞두고 대중국 회담서 AI 안전 통보 제안</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.detroitnews.com/story/tech/2026/09/21/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/91870614007/" target="_blank" rel="noopener">The Detroit News — 베선트, 허리펑 부총리 회담서 미·중 AI 안전 통보 제안</a>
 </div>
 
 <div class="article-keypoints">

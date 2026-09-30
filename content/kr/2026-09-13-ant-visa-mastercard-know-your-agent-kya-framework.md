@@ -59,11 +59,11 @@ AI가 사람을 대신해 물건을 고르고 결제까지 하는 '에이전트 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.ant-intl.com/en/news/detail?id=ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce" target="_blank" rel="noopener">Ant International — KYA 상호운용 협력 착수 공식 발표</a><br/>
-· <a href="https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework/" target="_blank" rel="noopener">PYMNTS — Visa·Mastercard, 앤트와 KYA 프레임워크 협력</a><br/>
-· <a href="https://www.unite.ai/ant-international-visa-mastercard-align-on-ai-agent-verification-rules/" target="_blank" rel="noopener">Unite.AI — 3사, AI 에이전트 검증 규칙 정렬</a><br/>
-· <a href="https://forkast.news/ant-international-visa-and-mastercard-agree-on-agent-identity-standard-now-comes-the-hard-part/" target="_blank" rel="noopener">Forkast — 에이전트 신원 표준 합의, 이제 진짜 과제는</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.ant-intl.com/en/news/detail?id=ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce" target="_blank" rel="noopener">Ant International — KYA 상호운용 협력 착수 공식 발표</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework/" target="_blank" rel="noopener">PYMNTS — Visa·Mastercard, 앤트와 KYA 프레임워크 협력</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.unite.ai/ant-international-visa-mastercard-align-on-ai-agent-verification-rules/" target="_blank" rel="noopener">Unite.AI — 3사, AI 에이전트 검증 규칙 정렬</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://forkast.news/ant-international-visa-and-mastercard-agree-on-agent-identity-standard-now-comes-the-hard-part/" target="_blank" rel="noopener">Forkast — 에이전트 신원 표준 합의, 이제 진짜 과제는</a>
 </div>
 
 <div class="article-keypoints">

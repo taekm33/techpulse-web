@@ -88,8 +88,8 @@ VoidZero는 이미 Void라는 배포 플랫폼을 Cloudflare 네트워크 위에
 개발자 커뮤니티의 신뢰를 잃지 않으면서 이 균형을 유지하는 것이 인수 성공의 관건이다. Cloudflare가 Astro 인수에서 약속을 지켜왔다면, VoidZero 인수도 자바스크립트 생태계 역사에서 가장 중요한 인프라 투자 중 하나로 기억될 수 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://vite.dev/" target="_blank" rel="noopener">Vite 공식 사이트</a><br/>
-· <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero 공식</a><br/>
-· <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://vite.dev/" target="_blank" rel="noopener">Vite 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://voidzero.dev/" target="_blank" rel="noopener">VoidZero 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener">Cloudflare 블로그</a><br/>
 </div>

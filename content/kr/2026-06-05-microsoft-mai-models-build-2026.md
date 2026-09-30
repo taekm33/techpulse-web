@@ -83,8 +83,8 @@ AI 모델 외에도 마이크로소프트는 이전 세대 대비 1,000배 높�
 마이크로소프트의 이번 발표는 단순한 기능 업데이트가 아니다. OpenAI·구글·앤트로픽이 주도하는 AI 프런티어 경쟁에 마이크로소프트가 독자적 선수로 공식 등판한 역사적인 순간이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://build.microsoft.com/ Microsoft Build 공식 사이트" target="_blank" rel="noopener"></a><br/>
-· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
-· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://build.microsoft.com/ Microsoft Build 공식 사이트" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
 </div>

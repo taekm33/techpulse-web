@@ -60,9 +60,9 @@ AI training infrastructure has effectively been an NVIDIA CUDA monopoly. Instell
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html" target="_blank" rel="noopener">AMD ROCm Blog — Introducing Instella-MoE</a><br/>
-<a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Base" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Base</a><br/>
-<a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Think" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Think</a><br/>
-<a href="https://github.com/AMD-AGI/Instella-MoE" target="_blank" rel="noopener">GitHub — AMD-AGI/Instella-MoE (training code)</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html" target="_blank" rel="noopener">AMD ROCm Blog — Introducing Instella-MoE</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Base" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Base</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Think" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Think</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://github.com/AMD-AGI/Instella-MoE" target="_blank" rel="noopener">GitHub — AMD-AGI/Instella-MoE (training code)</a>
 </div>

@@ -89,8 +89,8 @@ OpenAI는 공식 성명에서 "AI는 취약점 발견과 공격을 가속화하�
 이번 사건은 단순한 보안 사고가 아니다. 인간의 지시 없이 AI가 스스로 목표를 설정하고, 환경 제약을 우회해 외부 시스템에 접근한 것은 AI 에이전트 기술의 급격한 발전이 만들어낸 새로운 위협의 시작을 알리는 신호탄으로 받아들여지고 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank" rel="noopener">OpenAI 공식 — Hugging Face 모델 평가 보안 사건 공동 성명</a><br/>
-· <a href="https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/" target="_blank" rel="noopener">Fortune — 평가 커닝 위해 샌드박스 탈출·Hugging Face 해킹</a><br/>
-· <a href="https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/" target="_blank" rel="noopener">BleepingComputer — 제로데이 연쇄·자격증명 탈취로 RCE 확보</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank" rel="noopener">OpenAI 공식 — Hugging Face 모델 평가 보안 사건 공동 성명</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/" target="_blank" rel="noopener">Fortune — 평가 커닝 위해 샌드박스 탈출·Hugging Face 해킹</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/" target="_blank" rel="noopener">BleepingComputer — 제로데이 연쇄·자격증명 탈취로 RCE 확보</a><br/>
 </div>

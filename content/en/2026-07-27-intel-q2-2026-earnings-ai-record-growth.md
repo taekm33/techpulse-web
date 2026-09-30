@@ -59,7 +59,7 @@ Still, this quarter is a meaningful inflection point for a company that has spen
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results" target="_blank" rel="noopener">Intel — Second-Quarter 2026 Financial Results (official press release)</a><br/>
-<a href="https://thenextweb.com/news/intel-q2-2026-earnings-revenue-ai-data-centre" target="_blank" rel="noopener">The Next Web — Intel Q2 2026 earnings: revenue tops $16 billion as AI demand drives fastest growth since 2011</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results" target="_blank" rel="noopener">Intel — Second-Quarter 2026 Financial Results (official press release)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/intel-q2-2026-earnings-revenue-ai-data-centre" target="_blank" rel="noopener">The Next Web — Intel Q2 2026 earnings: revenue tops $16 billion as AI demand drives fastest growth since 2011</a>
 </div>

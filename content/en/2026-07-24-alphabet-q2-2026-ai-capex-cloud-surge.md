@@ -50,10 +50,10 @@ All figures in this article (revenue $119.8B, EPS $9.11, Google Cloud $24.8B / +
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm" target="_blank" rel="noopener">Alphabet Q2 2026 Earnings Release (SEC Form 8-K, Exhibit 99.1)</a><br/>
-· <a href="https://abc.xyz/investor/" target="_blank" rel="noopener">Alphabet Investor Relations</a><br/>
-· <a href="https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html" target="_blank" rel="noopener">CNBC — Alphabet Q2 2026 earnings (capex hike, cloud +82%)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm" target="_blank" rel="noopener">Alphabet Q2 2026 Earnings Release (SEC Form 8-K, Exhibit 99.1)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://abc.xyz/investor/" target="_blank" rel="noopener">Alphabet Investor Relations</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html" target="_blank" rel="noopener">CNBC — Alphabet Q2 2026 earnings (capex hike, cloud +82%)</a>
 </div>
 
 <div class="article-keypoints">

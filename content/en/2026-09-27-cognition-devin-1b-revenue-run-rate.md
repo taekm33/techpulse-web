@@ -56,10 +56,10 @@ The numbers deserve a careful read, though. An annualized revenue run rate takes
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://cognition.com/blog/1b-run-rate" target="_blank" rel="noopener">Cognition official blog — Crossing $1B in annualized revenue run rate</a><br/>
-· <a href="https://www.unite.ai/cognition-says-annualized-revenue-run-rate-has-passed-1b/" target="_blank" rel="noopener">Unite.AI — Analysis of the $1B run rate and growth drivers</a><br/>
-· <a href="https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/" target="_blank" rel="noopener">TechCrunch — Cognition's May funding round (background)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://cognition.com/blog/1b-run-rate" target="_blank" rel="noopener">Cognition official blog — Crossing $1B in annualized revenue run rate</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.unite.ai/cognition-says-annualized-revenue-run-rate-has-passed-1b/" target="_blank" rel="noopener">Unite.AI — Analysis of the $1B run rate and growth drivers</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/" target="_blank" rel="noopener">TechCrunch — Cognition's May funding round (background)</a>
 </div>
 
 <div class="article-keypoints">

@@ -86,7 +86,7 @@ For individual developers, the BYOK path means the agentic orchestration infrast
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
 </div>

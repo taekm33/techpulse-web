@@ -64,11 +64,11 @@ Front-loading efficient "Flash" models is effective for retaining customers who 
 With this lineup, Google banks the practical wins of cheaper, faster, more reliable production models. Lower prices and token savings translate directly into cost cuts for enterprises running agents in bulk. At the same time, DeepMind signaled where the next fight is headed, saying it has "already started" its most ambitious pre-training run for Gemini 4. The open question is when the Pro gap closes. If Google holds the base with value-tier models but fails to finish the flagship, it risks continuing to cede the highest-end coding and reasoning workloads to its rivals.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/" target="_blank" rel="noopener">Google (The Keyword) — Official announcement: Gemini 3.6 Flash, 3.5 Flash-Lite, Flash Cyber</a><br/>
-· <a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank" rel="noopener">TechCrunch — Google releases three new Gemini models — but no 3.5 Pro (7/21)</a><br/>
-· <a href="https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4 (7/21)</a><br/>
-· <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — Gemini launch delayed as tech falls short of internal goals (7/16, background)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/" target="_blank" rel="noopener">Google (The Keyword) — Official announcement: Gemini 3.6 Flash, 3.5 Flash-Lite, Flash Cyber</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank" rel="noopener">TechCrunch — Google releases three new Gemini models — but no 3.5 Pro (7/21)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4 (7/21)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — Gemini launch delayed as tech falls short of internal goals (7/16, background)</a>
 </div>
 
 <div class="article-keypoints">

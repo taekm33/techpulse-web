@@ -82,9 +82,9 @@ This is less a promotion than a snapshot of a shifting market. Until recently, f
 The axis of frontier-AI competition is shifting from "how smart" to "how cheap." This price cut is one of the clearest markers of that turn so far.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/index/gpt-5-6/" target="_blank" rel="noopener">OpenAI — GPT-5.6 official page</a><br/>
-· <a href="https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html" target="_blank" rel="noopener">CNBC — OpenAI cuts prices for two of its GPT-5.6 AI models</a><br/>
-· <a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost" target="_blank" rel="noopener">VentureBeat — AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80%</a><br/>
-· <a href="https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html" target="_blank" rel="noopener">InfoWorld — OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%</a><br/>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/index/gpt-5-6/" target="_blank" rel="noopener">OpenAI — GPT-5.6 official page</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html" target="_blank" rel="noopener">CNBC — OpenAI cuts prices for two of its GPT-5.6 AI models</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost" target="_blank" rel="noopener">VentureBeat — AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80%</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html" target="_blank" rel="noopener">InfoWorld — OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%</a><br/>
 </div>

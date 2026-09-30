@@ -63,8 +63,8 @@ CNBC·Tom's Hardware 등은 7월 27일, 엔비디아가 OpenAI의 오하이오�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html" target="_blank" rel="noopener">CNBC — Nvidia and OpenAI in talks for up to $250 billion AI backstop</a><br/>
-<a href="https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus" target="_blank" rel="noopener">Tom's Hardware — Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus</a><br/>
-<a href="https://finance.yahoo.com/technology/ai/articles/nvidia-talks-back-openai-ohio-114515389.html" target="_blank" rel="noopener">Yahoo Finance — Nvidia in talks to back OpenAI Ohio data center with $250 billion</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html" target="_blank" rel="noopener">CNBC — Nvidia and OpenAI in talks for up to $250 billion AI backstop</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus" target="_blank" rel="noopener">Tom's Hardware — Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://finance.yahoo.com/technology/ai/articles/nvidia-talks-back-openai-ohio-114515389.html" target="_blank" rel="noopener">Yahoo Finance — Nvidia in talks to back OpenAI Ohio data center with $250 billion</a>
 </div>

@@ -84,9 +84,9 @@ The core of this story is speed and composition. An industry coalition gathering
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blogs.nvidia.com/blog/open-secure-ai-alliance/" target="_blank" rel="noopener">NVIDIA Blog — Industry Leaders Unite in Open Secure AI Alliance (official)</a><br/>
-· <a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" target="_blank" rel="noopener">TechCrunch — 120+ companies and SAFE working group progress in a week</a><br/>
-· <a href="https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security" target="_blank" rel="noopener">Linux Foundation — Proposing the SAFE Working Group</a><br/>
-· <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach" target="_blank" rel="noopener">Tom's Hardware — On the absence of OpenAI, Google and Anthropic</a><br/>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/blog/open-secure-ai-alliance/" target="_blank" rel="noopener">NVIDIA Blog — Industry Leaders Unite in Open Secure AI Alliance (official)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" target="_blank" rel="noopener">TechCrunch — 120+ companies and SAFE working group progress in a week</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security" target="_blank" rel="noopener">Linux Foundation — Proposing the SAFE Working Group</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach" target="_blank" rel="noopener">Tom's Hardware — On the absence of OpenAI, Google and Anthropic</a><br/>
 </div>

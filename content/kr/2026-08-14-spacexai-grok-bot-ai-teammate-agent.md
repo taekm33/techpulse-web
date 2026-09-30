@@ -74,8 +74,8 @@ Grok Bot의 등장은 '사람처럼 협업하는 AI'가 더 이상 개념이 아
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://x.ai/news" target="_blank" rel="noopener">xAI 공식 뉴스 (x.ai/news)</a><br/>
-· <a href="https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/" target="_blank" rel="noopener">Unite.AI — xAI Launches Grok Bot, Always-On AI Teammates</a><br/>
-· <a href="https://www.businesstoday.in/technology/artificial-intelligence/story/xai-launches-grok-bot-an-always-on-ai-agent-app-that-completes-tasks-on-users-behalf-548723-2026-08-12" target="_blank" rel="noopener">Business Today — xAI Launches Grok Bot AI Agent App</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://x.ai/news" target="_blank" rel="noopener">xAI 공식 뉴스 (x.ai/news)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/" target="_blank" rel="noopener">Unite.AI — xAI Launches Grok Bot, Always-On AI Teammates</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.businesstoday.in/technology/artificial-intelligence/story/xai-launches-grok-bot-an-always-on-ai-agent-app-that-completes-tasks-on-users-behalf-548723-2026-08-12" target="_blank" rel="noopener">Business Today — xAI Launches Grok Bot AI Agent App</a><br/>
 </div>

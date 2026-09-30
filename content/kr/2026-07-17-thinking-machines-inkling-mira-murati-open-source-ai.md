@@ -94,8 +94,8 @@ Inkling 공개는 서방 AI 기업들이 독점 모델로만 경쟁하던 구도
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab 공식 사이트</a><br/>
-· <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines 공식 Hugging Face</a><br/>
-· <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker 공식 문서</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines 공식 Hugging Face</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker 공식 문서</a><br/>
 </div>

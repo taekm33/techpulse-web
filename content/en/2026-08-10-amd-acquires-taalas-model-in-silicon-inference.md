@@ -53,11 +53,11 @@ The significance here is less a routine startup M&A than "hardware specializatio
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344" target="_blank" rel="noopener">The Register — AMD acquires AI chip startup Taalas (8/6)</a><br/>
-· <a href="https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/" target="_blank" rel="noopener">SiliconANGLE — AMD acquires Taalas to hardwire AI models into silicon (8/6)</a><br/>
-· <a href="https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/" target="_blank" rel="noopener">The Decoder — AMD acquires Taalas (8/6)</a><br/>
-· <a href="https://www.forbes.com/sites/jonmarkman/2026/08/09/amd-buys-taalas-the-startup-that-carves-ai-models-into-silicon/" target="_blank" rel="noopener">Forbes — AMD Buys Taalas, The Startup That Carves AI Models Into Silicon (8/9)</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344" target="_blank" rel="noopener">The Register — AMD acquires AI chip startup Taalas (8/6)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/" target="_blank" rel="noopener">SiliconANGLE — AMD acquires Taalas to hardwire AI models into silicon (8/6)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/" target="_blank" rel="noopener">The Decoder — AMD acquires Taalas (8/6)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.forbes.com/sites/jonmarkman/2026/08/09/amd-buys-taalas-the-startup-that-carves-ai-models-into-silicon/" target="_blank" rel="noopener">Forbes — AMD Buys Taalas, The Startup That Carves AI Models Into Silicon (8/9)</a>
 </div>
 
 <div class="article-keypoints">

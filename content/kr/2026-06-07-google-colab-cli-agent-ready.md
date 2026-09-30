@@ -65,8 +65,8 @@ Colab CLI는 단순한 편의성 개선을 넘어 ML 인프라 접근 방식을 
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory 공식</a><br/>
-· <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab 공식 FAQ (Google Research)</a><br/>
-· <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab 공식 GitHub</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab 공식 FAQ (Google Research)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab 공식 GitHub</a><br/>
 </div>

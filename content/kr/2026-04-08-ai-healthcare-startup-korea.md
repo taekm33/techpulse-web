@@ -301,10 +301,10 @@ AI 헬스케어는 쉽지 않은 시장이다. 규제, 임상 데이터, 보험 
 </ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.lunit.io/en" target="_blank" rel="noopener">루닛(Lunit) 공식 홈페이지</a><br/>
-· <a href="https://www.vuno.co/" target="_blank" rel="noopener">뷰노(VUNO) 공식 홈페이지</a><br/>
-· <a href="https://mediwhale.com/" target="_blank" rel="noopener">메디웨일(Mediwhale) 공식 홈페이지</a><br/>
-· <a href="https://www.standigm.com/" target="_blank" rel="noopener">스탠다임(Standigm) 공식 홈페이지</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.lunit.io/en" target="_blank" rel="noopener">루닛(Lunit) 공식 홈페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.vuno.co/" target="_blank" rel="noopener">뷰노(VUNO) 공식 홈페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://mediwhale.com/" target="_blank" rel="noopener">메디웨일(Mediwhale) 공식 홈페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.standigm.com/" target="_blank" rel="noopener">스탠다임(Standigm) 공식 홈페이지</a><br/>
 </div>
 

@@ -80,8 +80,8 @@ For enterprise security teams, the implications are clear. Penetration testing f
 
 The research underlines a broader reality entering 2026: the barrier to launching sophisticated, adaptive cyberattacks has collapsed. Defending against them requires the same level of automation and speed that AI now gives attackers.
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
-· <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE Database</a><br/>
-· <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto — Computer Science</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE Database</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto — Computer Science</a><br/>
 </div>

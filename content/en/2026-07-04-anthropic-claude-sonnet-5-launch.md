@@ -63,9 +63,9 @@ Sonnet 5 undercuts Opus 4.8, OpenAI's GPT-5.5, and Google's Gemini 3.1 Pro on pr
 Sonnet 5 is less a new model than a repricing of agentic capability: Anthropic has pushed Opus-adjacent performance down into its mid-tier model at roughly a fifth of Opus 4.8's output cost during the introductory window. One caveat worth flagging — a tokenizer change means the same input can map to up to 1.35x more tokens than before, so real-world savings will vary by workload even as the headline per-token price drops.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Sonnet 5 (official announcement, June 30, 2026)</a><br/>
-· <a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/" target="_blank" rel="noopener">TechCrunch — Anthropic launches Claude Sonnet 5 as a cheaper way to run agents (June 30)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Sonnet 5 (official announcement, June 30, 2026)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/" target="_blank" rel="noopener">TechCrunch — Anthropic launches Claude Sonnet 5 as a cheaper way to run agents (June 30)</a>
 </div>
 
 <div class="article-keypoints">

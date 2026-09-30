@@ -63,10 +63,10 @@ tags: ["알리바바", "Qwen", "AI칩", "아프사라콘퍼런스", "풀스택AI
 이번 발표는 미·중 AI 경쟁이 모델 성능을 넘어 '칩부터 에이전트까지'의 수직 통합 경쟁으로 확장되고 있음을 보여준다. 엔비디아 칩 접근이 제약된 환경에서 알리바바가 자체 스택으로 활로를 여는 데 성공한다면, 중국 AI 생태계 전반의 자립도가 한 단계 올라설 수 있다. 관건은 선언이 아니라 검증이다. V900의 실제 양산 수율, 5~10조 파라미터 Qwen의 성능, 그리고 20GW 인프라를 수익으로 전환하는 실행력이 향후 12~18개월의 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy" target="_blank" rel="noopener">Alibaba Cloud 공식 뉴스룸 — 칩·클라우드·모델·에이전트 풀스택 AI 로드맵 발표</a><br/>
-· <a href="https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency" target="_blank" rel="noopener">South China Morning Post — 알리바바의 '실용주의' AI 로드맵과 수익화·인프라 효율</a><br/>
-· <a href="https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence" target="_blank" rel="noopener">Constellation Research — 전무 V900·Qwen·'머신 인텔리전스' 상세</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy" target="_blank" rel="noopener">Alibaba Cloud 공식 뉴스룸 — 칩·클라우드·모델·에이전트 풀스택 AI 로드맵 발표</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency" target="_blank" rel="noopener">South China Morning Post — 알리바바의 '실용주의' AI 로드맵과 수익화·인프라 효율</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence" target="_blank" rel="noopener">Constellation Research — 전무 V900·Qwen·'머신 인텔리전스' 상세</a>
 </div>
 
 <div class="article-keypoints">

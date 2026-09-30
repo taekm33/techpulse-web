@@ -108,8 +108,8 @@ J-스페이스를 억제(ablate)하는 실험에서 클로드는 여전히 유�
 > "그러한 구조가 언어 모델 내에 존재한다는 사실 자체가 놀랍다. 이는 의식적 접근과 관련된 기능적 아키텍처가 생물학적 구현의 우연이 아니라, 적절한 계산적 압력에 직면한 학습 시스템이 수렴하는 해법임을 시사한다." — 앤트로픽 연구팀
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-&middot; <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
-&middot; <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic &mdash; Claude</a><br/>
-&middot; <a href="https://www.neuronpedia.org/" target="_blank" rel="noopener">Neuronpedia (인터랙티브 해석가능성 플랫폼)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic &mdash; Claude</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://www.neuronpedia.org/" target="_blank" rel="noopener">Neuronpedia (인터랙티브 해석가능성 플랫폼)</a><br/>
 </div>

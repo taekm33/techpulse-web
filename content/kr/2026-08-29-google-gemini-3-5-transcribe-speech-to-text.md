@@ -54,11 +54,11 @@ WER(단어오류율, Word Error Rate)은 낮을수록 좋다. 구글이 제시�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/" target="_blank" rel="noopener">Google — Intelligent transcription with Gemini 3.5 Transcribe (공식 발표)</a><br/>
-· <a href="https://ai.google.dev/gemini-api/docs/transcribe" target="_blank" rel="noopener">Google — Gemini API 트랜스크립션 공식 문서</a><br/>
-· <a href="https://9to5google.com/2026/08/26/gemini-3-5-transcribe/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.5 Transcribe</a><br/>
-· <a href="https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/" target="_blank" rel="noopener">Engadget — Google's latest transcription model turns ramblings into structured text</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/" target="_blank" rel="noopener">Google — Intelligent transcription with Gemini 3.5 Transcribe (공식 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.google.dev/gemini-api/docs/transcribe" target="_blank" rel="noopener">Google — Gemini API 트랜스크립션 공식 문서</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://9to5google.com/2026/08/26/gemini-3-5-transcribe/" target="_blank" rel="noopener">9to5Google — Google launches Gemini 3.5 Transcribe</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/" target="_blank" rel="noopener">Engadget — Google's latest transcription model turns ramblings into structured text</a>
 </div>
 
 <div class="article-keypoints">

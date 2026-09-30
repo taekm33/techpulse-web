@@ -70,8 +70,8 @@ Adobe, SAP, and Salesforce all announced same-day integrations for document and 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Intelligence (official)</a><br/>
-· <a href="https://developer.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Developer · Apple Intelligence</a><br/>
-· <a href="https://machinelearning.apple.com/" target="_blank" rel="noopener">Apple Machine Learning Research</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Intelligence (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple Developer · Apple Intelligence</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://machinelearning.apple.com/" target="_blank" rel="noopener">Apple Machine Learning Research</a><br/>
 </div>

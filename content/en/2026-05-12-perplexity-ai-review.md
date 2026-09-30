@@ -229,7 +229,7 @@ It is not a replacement for deep reasoning assistants on coding or analytical ta
 *Reviewed on Pro tier, May 2026. Pricing and features subject to change.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.perplexity.ai" target="_blank" rel="noopener">Perplexity AI official site</a><br/>
-· <a href="https://docs.perplexity.ai" target="_blank" rel="noopener">Perplexity official documentation</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.perplexity.ai" target="_blank" rel="noopener">Perplexity AI official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.perplexity.ai" target="_blank" rel="noopener">Perplexity official documentation</a>
 </div>

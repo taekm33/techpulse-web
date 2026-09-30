@@ -65,9 +65,9 @@ It would be premature to say HEIR has reached its "one-click encrypted inference
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/" target="_blank" rel="noopener">Google Blog — How Google is Making Private AI Practical with Homomorphic Encryption</a><br/>
-<a href="https://heir.dev/" target="_blank" rel="noopener">HEIR — Official Project Site</a><br/>
-<a href="https://github.com/google/heir" target="_blank" rel="noopener">GitHub — google/heir (open-source repo)</a><br/>
-<a href="https://arxiv.org/abs/2508.11095" target="_blank" rel="noopener">arXiv — HEIR: A Universal Compiler for Homomorphic Encryption</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/" target="_blank" rel="noopener">Google Blog — How Google is Making Private AI Practical with Homomorphic Encryption</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://heir.dev/" target="_blank" rel="noopener">HEIR — Official Project Site</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://github.com/google/heir" target="_blank" rel="noopener">GitHub — google/heir (open-source repo)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://arxiv.org/abs/2508.11095" target="_blank" rel="noopener">arXiv — HEIR: A Universal Compiler for Homomorphic Encryption</a>
 </div>

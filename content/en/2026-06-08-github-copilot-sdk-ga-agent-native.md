@@ -107,8 +107,8 @@ The 1.4 billion monthly commits figure is not a vanity metric. It demonstrates t
 For teams evaluating their AI developer tooling strategy, the Copilot SDK GA closes the gap between what's possible with custom development and what ships out of the box. The question is no longer whether to add AI to development workflows — it's which platform to build those workflows on.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK is now generally available</a><br/>
-· <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — The agent-native Copilot desktop app</a><br/>
-· <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot documentation</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/" target="_blank" rel="noopener">GitHub Changelog — Copilot SDK is now generally available</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener">GitHub Blog — The agent-native Copilot desktop app</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot documentation</a><br/>
 </div>

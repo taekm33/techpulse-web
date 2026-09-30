@@ -176,8 +176,8 @@ GPU 비용은 AI SaaS의 가장 큰 복병이다. 생존 기업들은 자체 모
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.kvca.or.kr/" target="_blank" rel="noopener">한국벤처캐피탈협회(KVCA) 공식 사이트</a><br/>
-· <a href="https://www.mss.go.kr/" target="_blank" rel="noopener">중소벤처기업부 공식 사이트</a><br/>
-· <a href="https://www.cbinsights.com/" target="_blank" rel="noopener">CB Insights — 글로벌 스타트업 투자 데이터</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.kvca.or.kr/" target="_blank" rel="noopener">한국벤처캐피탈협회(KVCA) 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.mss.go.kr/" target="_blank" rel="noopener">중소벤처기업부 공식 사이트</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cbinsights.com/" target="_blank" rel="noopener">CB Insights — 글로벌 스타트업 투자 데이터</a>
 </div>

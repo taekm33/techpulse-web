@@ -222,6 +222,8 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
   display: grid; grid-template-columns: 2.4fr 1fr; gap: 24px;
   border-bottom: 1px solid var(--line);
 }
+.tp-hero > * { min-width: 0; }
+.tp-hero__title, .tp-hero__sub { overflow-wrap: anywhere; }
 .tp-hero__tags { display: flex; gap: 8px; margin-bottom: 20px; }
 .tp-hero__title {
   font-size: clamp(40px, 5vw, 64px);
@@ -421,7 +423,7 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
 
 /* ── 반응형 ──────────────────────────────────────────── */
 @media (max-width: 1024px) {
-  .tp-hero { grid-template-columns: 1fr; }
+  .tp-hero { grid-template-columns: minmax(0, 1fr); }
   .tp-cards { grid-template-columns: repeat(2, 1fr); }
   .tp-footer__top { grid-template-columns: 1fr 1fr; gap: 24px; }
   .tp-newsletter { grid-template-columns: 1fr; }
@@ -438,4 +440,17 @@ a:hover .tp-arrow, button:hover .tp-arrow { transform: translateX(3px); }
   .tp-footer__brand { display: none; }
   .tp-section { padding: 0 16px 20px; }
   .tp-hero { padding: 16px; }
+  .tp-hero__title { font-size: clamp(28px, 8vw, 40px); }
+  .tp-metric-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .tp-metric { padding: 10px 12px; }
+  .tp-metric:nth-child(3n) { border-right: none; }
+  .tp-metric:nth-child(n+4) { border-top: 1px solid var(--line); }
+}
+
+/* 출처 역할 표기 (공식·1차 / 보도·해설) */
+.src-role {
+  display: inline-block; font-family: 'JetBrains Mono', ui-monospace, monospace;
+  font-size: 10px; letter-spacing: 0.02em; color: var(--ink3);
+  border: 1px solid var(--line2); border-radius: 2px; padding: 0 4px; margin-right: 2px;
+  vertical-align: 1px; white-space: nowrap;
 }

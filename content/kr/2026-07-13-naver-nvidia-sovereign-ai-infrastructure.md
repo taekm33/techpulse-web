@@ -65,9 +65,9 @@ NVIDIA DSX는 GPU 칩 하나가 아니라 컴퓨팅·네트워킹·소프트웨�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 뉴스룸</a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 블로그</a><br/>
-· <a href="https://www.navercloudcorp.com/" target="_blank" rel="noopener">네이버클라우드</a><br/>
-· <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 뉴스룸</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.navercloudcorp.com/" target="_blank" rel="noopener">네이버클라우드</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA</a><br/>
 </div>

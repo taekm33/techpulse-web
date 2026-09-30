@@ -57,11 +57,11 @@ Wildberger called the effort "a novel, mathematically grounded approach: to deve
 The defining feature here is that public money is going directly into a safety-first alternative architecture rather than the commercial frontier race. The open question is whether a non-agentic approach like Scientist AI can become a practical, widely used tool in a market dominated by performance and cost. At the same time, the Canada–Germany "sovereign AI" move shows the geopolitics of frontier models diversifying beyond the U.S.–China duopoly.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html" target="_blank" rel="noopener">Government of Canada (ISED) — Official news release on the LawZero investment (Sept 16)</a><br/>
-· <a href="https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html" target="_blank" rel="noopener">PR Newswire — LawZero secures up to $300M joint funding from Canada and Germany</a><br/>
-· <a href="https://lawzero.org/en" target="_blank" rel="noopener">LawZero — Official website</a><br/>
-· <a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" target="_blank" rel="noopener">The Globe and Mail — Bengio's nonprofit to get up to $300M from Canada, Germany</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html" target="_blank" rel="noopener">Government of Canada (ISED) — Official news release on the LawZero investment (Sept 16)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html" target="_blank" rel="noopener">PR Newswire — LawZero secures up to $300M joint funding from Canada and Germany</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://lawzero.org/en" target="_blank" rel="noopener">LawZero — Official website</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" target="_blank" rel="noopener">The Globe and Mail — Bengio's nonprofit to get up to $300M from Canada, Germany</a>
 </div>
 
 <div class="article-keypoints">

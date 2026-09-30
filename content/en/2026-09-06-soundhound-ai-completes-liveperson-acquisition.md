@@ -70,8 +70,8 @@ The SoundHound-LivePerson combination is an attempt to put a voice leader and a 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html" target="_blank" rel="noopener">SoundHound AI — Completes Acquisition of LivePerson (official release, GlobeNewswire)</a><br/>
-<a href="https://ir.liveperson.com/news-releases/news-release-details/liveperson-stockholders-approve-acquisition-soundhound-ai" target="_blank" rel="noopener">LivePerson IR — Stockholders Approve Acquisition by SoundHound AI</a><br/>
-<a href="https://www.prnewswire.com/news-releases/liveperson-stockholders-approve-acquisition-by-soundhound-ai-302867972.html" target="_blank" rel="noopener">PR Newswire — LivePerson Stockholders Approve Acquisition by SoundHound AI</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html" target="_blank" rel="noopener">SoundHound AI — Completes Acquisition of LivePerson (official release, GlobeNewswire)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://ir.liveperson.com/news-releases/news-release-details/liveperson-stockholders-approve-acquisition-soundhound-ai" target="_blank" rel="noopener">LivePerson IR — Stockholders Approve Acquisition by SoundHound AI</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.prnewswire.com/news-releases/liveperson-stockholders-approve-acquisition-by-soundhound-ai-302867972.html" target="_blank" rel="noopener">PR Newswire — LivePerson Stockholders Approve Acquisition by SoundHound AI</a>
 </div>

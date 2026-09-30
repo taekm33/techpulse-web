@@ -330,8 +330,8 @@ The honest forecast: hallucination will not be solved at the model level within 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research (official)</a><br/>
-· <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI — Research (official)</a><br/>
-· <a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noopener">TruthfulQA Paper (arXiv:2109.07958)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI — Research (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://arxiv.org/abs/2109.07958" target="_blank" rel="noopener">TruthfulQA Paper (arXiv:2109.07958)</a>
 </div>

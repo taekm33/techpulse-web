@@ -57,11 +57,11 @@ Meta has now shipped the original Muse Spark in April, Muse Image on July 7, and
 Meta is arriving somewhat late; OpenAI and Anthropic have offered comparable agentic coding models for a while. But the aggressive pricing, million-token context, and compatibility with existing developer tooling could still shift the competitive landscape. The fight over coding AI is increasingly being fought not just on raw capability, but on price and ecosystem compatibility.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Spark 1.1</a><br/>
-· <a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" target="_blank" rel="noopener">TechCrunch — Meta enters the crowded AI coding battle with Muse Spark 1.1 (Jul 9)</a><br/>
-· <a href="https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/" target="_blank" rel="noopener">Fortune — Meta releases latest AI model Muse Spark 1.1 (Jul 9)</a><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Image and Muse Video</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Spark 1.1</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" target="_blank" rel="noopener">TechCrunch — Meta enters the crowded AI coding battle with Muse Spark 1.1 (Jul 9)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/" target="_blank" rel="noopener">Fortune — Meta releases latest AI model Muse Spark 1.1 (Jul 9)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Image and Muse Video</a>
 </div>
 
 <div class="article-keypoints">

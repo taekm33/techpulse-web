@@ -263,7 +263,7 @@ The debate will continue, and it should — the questions are genuinely hard and
 Build carefully. Evaluate honestly. Govern thoughtfully. And keep asking the hard questions even when the answers are inconvenient.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener">UK AI Safety Institute (official)</a><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener">UK AI Safety Institute (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
 </div>

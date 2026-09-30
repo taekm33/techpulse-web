@@ -69,9 +69,9 @@ Fable 5·Mythos 5는 4월 공개된 'Claude Mythos Preview'의 후속작으로, 
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">앤트로픽 공식 성명: Fable 5·Mythos 5 접근 정지 관련</a><br>
-— <a href="https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" target="_blank" rel="noopener noreferrer">CNBC: Anthropic disables access to Fable 5, Mythos 5</a><br>
-— <a href="https://cyberscoop.com/us-government-anthropic-fable-5-mythos-5-export-controls/" target="_blank" rel="noopener noreferrer">CyberScoop: 정부 지시 전문 분석 및 업계 반응</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">앤트로픽 공식 성명: Fable 5·Mythos 5 접근 정지 관련</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" target="_blank" rel="noopener noreferrer">CNBC: Anthropic disables access to Fable 5, Mythos 5</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://cyberscoop.com/us-government-anthropic-fable-5-mythos-5-export-controls/" target="_blank" rel="noopener noreferrer">CyberScoop: 정부 지시 전문 분석 및 업계 반응</a>
 </div>
 </div>

@@ -56,11 +56,11 @@ Once safety becomes a political flashpoint, companies' voluntary commitments are
 The episode shows the center of gravity in the AI race shifting from "who ships a stronger model fastest" toward "how fast a pace society can absorb." While the frontier labs move toward voluntary pacing and self-governance, the White House is skeptical of regulation itself — leaving a clear gap between "industry self-rule" and "state-led oversight." Whether Anthropic's unilateral first step draws real participation from rivals, or remains a symbolic gesture, is the thing to watch next.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (full essay)</a><br/>
-· <a href="https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html" target="_blank" rel="noopener">CNBC — Trump says no need for more AI regulation, slams Amodei (9/14)</a><br/>
-· <a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown" target="_blank" rel="noopener">NPR — Trump downplays calls for AI slowdown</a><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos" target="_blank" rel="noopener">Al Jazeera — Trump dismisses calls for AI slowdown from leading tech CEOs</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (full essay)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html" target="_blank" rel="noopener">CNBC — Trump says no need for more AI regulation, slams Amodei (9/14)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown" target="_blank" rel="noopener">NPR — Trump downplays calls for AI slowdown</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos" target="_blank" rel="noopener">Al Jazeera — Trump dismisses calls for AI slowdown from leading tech CEOs</a>
 </div>
 
 <div class="article-keypoints">

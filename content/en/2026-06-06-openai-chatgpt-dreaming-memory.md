@@ -83,7 +83,7 @@ The key differentiator isn't just the technology itself, but the vision: an AI a
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/index/memory-and-new-controls-for-chatgpt/" target="_blank" rel="noopener">OpenAI — Memory and new controls for ChatGPT (official)</a><br/>
-· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News (official newsroom)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/index/memory-and-new-controls-for-chatgpt/" target="_blank" rel="noopener">OpenAI — Memory and new controls for ChatGPT (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News (official newsroom)</a><br/>
 </div>

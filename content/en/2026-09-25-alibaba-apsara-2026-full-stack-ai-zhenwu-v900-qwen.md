@@ -63,10 +63,10 @@ Heavy capital expenditure that weighs on cloud profitability remains a risk. The
 The announcements show that U.S.–China AI competition is expanding beyond model performance into a vertical-integration contest that runs "from chips to agents." In an environment where access to Nvidia chips is constrained, if Alibaba can carve a path with its own stack, the self-sufficiency of China's broader AI ecosystem could rise a notch. The key is not the declaration but the verification: V900's actual production yields, the performance of a 5–10 trillion-parameter Qwen, and the ability to convert 20GW of infrastructure into revenue will be the storylines to watch over the next 12–18 months.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy" target="_blank" rel="noopener">Alibaba Cloud Newsroom — Full-stack AI roadmap across chips, cloud, models and agents</a><br/>
-· <a href="https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency" target="_blank" rel="noopener">South China Morning Post — Alibaba's 'pragmatic' AI roadmap, monetisation and infrastructure efficiency</a><br/>
-· <a href="https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence" target="_blank" rel="noopener">Constellation Research — Details on Zhenwu V900, Qwen and the "machine intelligence" era</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy" target="_blank" rel="noopener">Alibaba Cloud Newsroom — Full-stack AI roadmap across chips, cloud, models and agents</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency" target="_blank" rel="noopener">South China Morning Post — Alibaba's 'pragmatic' AI roadmap, monetisation and infrastructure efficiency</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence" target="_blank" rel="noopener">Constellation Research — Details on Zhenwu V900, Qwen and the "machine intelligence" era</a>
 </div>
 
 <div class="article-keypoints">

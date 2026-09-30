@@ -91,7 +91,7 @@ K-EXAONE 2.0은 한국이 글로벌 AI 경쟁에서 독자적인 프론티어급
 한국이 독자 개발한 프론티어급 AI 기반 모델이 오픈소스로 세상에 나왔다. K-EXAONE 2.0이 글로벌 경쟁자들과 어깨를 나란히 하는 성능을 증명한 지금, 다음 행보인 도메인 특화 모델과 추론 고도화가 어디까지 이어질지 주목된다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.lgresearch.ai/news/view?seq=678" target="_blank" rel="noopener">LG AI Research 공식 보도자료 — K-EXAONE 2.0 공개</a><br/>
-· <a href="https://huggingface.co/LGAI-EXAONE" target="_blank" rel="noopener">허깅페이스 — LGAI-EXAONE 모델 페이지</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.lgresearch.ai/news/view?seq=678" target="_blank" rel="noopener">LG AI Research 공식 보도자료 — K-EXAONE 2.0 공개</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/LGAI-EXAONE" target="_blank" rel="noopener">허깅페이스 — LGAI-EXAONE 모델 페이지</a><br/>
 </div>

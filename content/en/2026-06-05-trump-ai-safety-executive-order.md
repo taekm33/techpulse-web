@@ -84,8 +84,8 @@ Response from the AI industry has been broadly positive. Groups like Americans f
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener">White House Presidential Actions</a><br/>
-· <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA</a><br/>
-· <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener">NIST Artificial Intelligence</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener">White House Presidential Actions</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener">NIST Artificial Intelligence</a><br/>
 </div>

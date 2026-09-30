@@ -45,11 +45,11 @@ OpenAI가 소프트웨어를 넘어 소비자 하드웨어로 향한다는 신�
 분명한 것은 OpenAI가 '앱과 API' 너머 물리적 기기로 사용자 접점을 넓히려 한다는 방향성이다. 스마트폰을 대체하기보다, 스마트폰과 별개로 항상 켜져 있는 AI 접점을 하나 더 만드는 전략에 가깝다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/" target="_blank" rel="noopener">MacRumors — OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300</a><br/>
-· <a href="https://www.tomsguide.com/ai/forget-the-homepod-openai-is-launching-a-smart-speaker-designed-by-jony-ive" target="_blank" rel="noopener">Tom's Guide — OpenAI is launching a smart speaker designed by Jony Ive</a><br/>
-· <a href="https://www.notebookcheck.net/OpenAI-teams-with-Jony-Ive-and-Luxshare-to-launch-AI-native-hardware-by-2027.1119691.0.html" target="_blank" rel="noopener">Notebookcheck — OpenAI teams with Jony Ive and Luxshare to launch AI-native hardware by 2027</a><br/>
-· <a href="https://mobilesyrup.com/2026/08/06/openai-speaker-size-price-report/" target="_blank" rel="noopener">MobileSyrup — OpenAI speaker to be hockey puck-sized and cost over US$300</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/" target="_blank" rel="noopener">MacRumors — OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.tomsguide.com/ai/forget-the-homepod-openai-is-launching-a-smart-speaker-designed-by-jony-ive" target="_blank" rel="noopener">Tom's Guide — OpenAI is launching a smart speaker designed by Jony Ive</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.notebookcheck.net/OpenAI-teams-with-Jony-Ive-and-Luxshare-to-launch-AI-native-hardware-by-2027.1119691.0.html" target="_blank" rel="noopener">Notebookcheck — OpenAI teams with Jony Ive and Luxshare to launch AI-native hardware by 2027</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://mobilesyrup.com/2026/08/06/openai-speaker-size-price-report/" target="_blank" rel="noopener">MobileSyrup — OpenAI speaker to be hockey puck-sized and cost over US$300</a>
 </div>
 
 <div class="article-keypoints">

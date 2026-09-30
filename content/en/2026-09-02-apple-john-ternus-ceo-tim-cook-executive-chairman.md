@@ -36,11 +36,11 @@ Cook joined Apple in 1998 and became CEO in 2011, going on to launch new product
 The handoff itself was long in the making, but the timing is delicate. Apple has been seen as trailing OpenAI, Google and Anthropic in generative AI, with questions hanging over the pace of its Siri overhaul and on-device AI strategy. An engineer-CEO's first test will be translating Apple's hardware strength into software and AI services that keep pace with rivals.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank" rel="noopener">Apple Newsroom — Tim Cook to become Apple Executive Chairman, John Ternus to become Apple CEO (official press release)</a><br/>
-<a href="https://www.npr.org/2026/09/01/g-s1-141411/apple-ceo-tim-cook-john-ternus" target="_blank" rel="noopener">NPR — John Ternus replaces Tim Cook as CEO of Apple</a><br/>
-<a href="https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank" rel="noopener">TechCrunch — Who is John Ternus, the new Apple CEO?</a><br/>
-<a href="https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years" target="_blank" rel="noopener">Al Jazeera — John Ternus succeeds Tim Cook as Apple CEO after 15 years</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank" rel="noopener">Apple Newsroom — Tim Cook to become Apple Executive Chairman, John Ternus to become Apple CEO (official press release)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.npr.org/2026/09/01/g-s1-141411/apple-ceo-tim-cook-john-ternus" target="_blank" rel="noopener">NPR — John Ternus replaces Tim Cook as CEO of Apple</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank" rel="noopener">TechCrunch — Who is John Ternus, the new Apple CEO?</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years" target="_blank" rel="noopener">Al Jazeera — John Ternus succeeds Tim Cook as Apple CEO after 15 years</a>
 </div>
 
 <div class="article-keypoints">

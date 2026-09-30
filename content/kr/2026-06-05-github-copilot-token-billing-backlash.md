@@ -82,8 +82,8 @@ Pro 플랜($10/월), Pro+($39/월), Business($19/사용자/월), Enterprise($39/
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://github.com/features/copilot GitHub Copilot 공식 소개 페이지" target="_blank" rel="noopener"></a><br/>
-· <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot 요금·빌링 공식 문서</a><br/>
-· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot GitHub Copilot 공식 소개 페이지" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot 요금·빌링 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
 </div>

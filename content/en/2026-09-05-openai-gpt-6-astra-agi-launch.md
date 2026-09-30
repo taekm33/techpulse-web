@@ -75,8 +75,8 @@ OpenAI itself hedged that it “remains to be seen” how well Astra can take on
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://openai.com/index/gpt-6-astra/" target="_blank" rel="noopener">OpenAI — GPT-6 Astra: A new generation of intelligence (official announcement)</a><br/>
-<a href="https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman" target="_blank" rel="noopener">Axios — “Welcome to the AGI era,” OpenAI says as GPT-6 Astra debuts</a><br/>
-<a href="https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/" target="_blank" rel="noopener">Forbes — OpenAI Launches GPT-6 Astra After A Curious False Start</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://openai.com/index/gpt-6-astra/" target="_blank" rel="noopener">OpenAI — GPT-6 Astra: A new generation of intelligence (official announcement)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman" target="_blank" rel="noopener">Axios — “Welcome to the AGI era,” OpenAI says as GPT-6 Astra debuts</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/" target="_blank" rel="noopener">Forbes — OpenAI Launches GPT-6 Astra After A Curious False Start</a>
 </div>

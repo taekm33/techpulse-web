@@ -57,11 +57,11 @@ If ChatGPT and Claude opened the market with conversational interfaces, Muse is 
 Muse shows that Big Tech's AI competition is shifting from "smarter models" to "agents that finish tasks for you." Because it handles sensitive permissions like email and payments, early trust and its safety track record will shape how fast it spreads. With OpenAI, Anthropic and Google each pushing their own agent products, the next thing to watch is what impact Meta — with its multibillion-user base — can make in the consumer market.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/" target="_blank" rel="noopener">Meta Newsroom — Introducing Muse: The Personal AI Agent (official)</a><br/>
-· <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Spark 1.3 (official blog)</a><br/>
-· <a href="https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/" target="_blank" rel="noopener">SiliconANGLE — Meta debuts its 'secure by design' personal AI agent Muse</a><br/>
-· <a href="https://thenextweb.com/news/meta-muse-personal-ai-agent-launch" target="_blank" rel="noopener">The Next Web — Meta launches Muse, an agent that books, buys and negotiates</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/" target="_blank" rel="noopener">Meta Newsroom — Introducing Muse: The Personal AI Agent (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Spark 1.3 (official blog)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/" target="_blank" rel="noopener">SiliconANGLE — Meta debuts its 'secure by design' personal AI agent Muse</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/meta-muse-personal-ai-agent-launch" target="_blank" rel="noopener">The Next Web — Meta launches Muse, an agent that books, buys and negotiates</a>
 </div>
 
 <div class="article-keypoints">

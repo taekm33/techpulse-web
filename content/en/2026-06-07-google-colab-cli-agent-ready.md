@@ -68,8 +68,8 @@ The Colab CLI is available now. Setup instructions are in the Google Colab CLI G
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory (official)</a><br/>
-· <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab Official FAQ (Google Research)</a><br/>
-· <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab Official GitHub</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://colab.research.google.com/" target="_blank" rel="noopener">Google Colaboratory (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://research.google.com/colaboratory/faq.html" target="_blank" rel="noopener">Colab Official FAQ (Google Research)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/googlecolab" target="_blank" rel="noopener">Google Colab Official GitHub</a><br/>
 </div>

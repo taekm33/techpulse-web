@@ -53,11 +53,11 @@ AI 컴퓨팅 확보 경쟁이 자본시장의 대형 부채 딜로 번지고 있
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic" target="_blank" rel="noopener">The Next Web — Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic</a><br/>
-· <a href="https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126" target="_blank" rel="noopener">Quartz — Broadcom seeks up to $80 billion in debt for AI chip deal</a><br/>
-· <a href="https://seekingalpha.com/news/4635702-broadcom-engages-with-lenders-to-secure-60b-for-ai-chip-financing-report" target="_blank" rel="noopener">Seeking Alpha — Broadcom engages with lenders to secure $60B for AI chip financing</a><br/>
-· <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html" target="_blank" rel="noopener">Yahoo Finance — Anthropic SPVs stack $71 billion in chip-lease debt in 60 days</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic" target="_blank" rel="noopener">The Next Web — Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126" target="_blank" rel="noopener">Quartz — Broadcom seeks up to $80 billion in debt for AI chip deal</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://seekingalpha.com/news/4635702-broadcom-engages-with-lenders-to-secure-60b-for-ai-chip-financing-report" target="_blank" rel="noopener">Seeking Alpha — Broadcom engages with lenders to secure $60B for AI chip financing</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html" target="_blank" rel="noopener">Yahoo Finance — Anthropic SPVs stack $71 billion in chip-lease debt in 60 days</a>
 </div>
 
 <div class="article-keypoints">

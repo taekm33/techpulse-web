@@ -48,11 +48,11 @@ tags: ["구글", "Gemini", "AI경제", "ATLAS", "일자리", "자동화", "AI리
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://ai.google/static/documents/GoogleATLASv1.pdf" target="_blank" rel="noopener">Google — AI & Economy ATLAS v1.0 (전체 보고서 PDF)</a><br/>
-· <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank" rel="noopener">Google 공식 블로그 — The first ATLAS report on AI</a><br/>
-· <a href="https://ai.google/economy/" target="_blank" rel="noopener">Google AI — AI and Economy Research Program</a><br/>
-· <a href="https://ppc.land/google-finds-ai-touches-68-of-jobs-but-only-21-of-their-tasks/" target="_blank" rel="noopener">PPC Land — Google finds AI touches 68% of jobs but only 21% of tasks</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.google/static/documents/GoogleATLASv1.pdf" target="_blank" rel="noopener">Google — AI & Economy ATLAS v1.0 (전체 보고서 PDF)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank" rel="noopener">Google 공식 블로그 — The first ATLAS report on AI</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.google/economy/" target="_blank" rel="noopener">Google AI — AI and Economy Research Program</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://ppc.land/google-finds-ai-touches-68-of-jobs-but-only-21-of-their-tasks/" target="_blank" rel="noopener">PPC Land — Google finds AI touches 68% of jobs but only 21% of tasks</a>
 </div>
 
 <div class="article-keypoints">

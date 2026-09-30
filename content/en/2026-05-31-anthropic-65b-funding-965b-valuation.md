@@ -144,8 +144,8 @@ The coming 12 to 18 months will determine whether that valuation is vindicated. 
 
 The bet from $65 billion worth of investors: they'll do all of it.
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Official News</a><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
-· <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Official News</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
 </div>

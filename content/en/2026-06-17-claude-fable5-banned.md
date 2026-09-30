@@ -67,9 +67,9 @@ Anthropic calls the episode a "misunderstanding" and says it's working to restor
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Official Sources &amp; Further Reading</strong><br>
-— <a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">Anthropic's official statement on the suspension</a><br>
-— <a href="https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" target="_blank" rel="noopener noreferrer">CNBC: Anthropic disables access to Fable 5, Mythos 5</a><br>
-— <a href="https://cyberscoop.com/us-government-anthropic-fable-5-mythos-5-export-controls/" target="_blank" rel="noopener noreferrer">CyberScoop: full breakdown of the directive and industry reaction</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis) · Further Reading</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener noreferrer">Anthropic's official statement on the suspension</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" target="_blank" rel="noopener noreferrer">CNBC: Anthropic disables access to Fable 5, Mythos 5</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://cyberscoop.com/us-government-anthropic-fable-5-mythos-5-export-controls/" target="_blank" rel="noopener noreferrer">CyberScoop: full breakdown of the directive and industry reaction</a>
 </div>
 </div>

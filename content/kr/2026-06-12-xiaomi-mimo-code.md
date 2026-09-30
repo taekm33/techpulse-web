@@ -64,9 +64,9 @@ MiMo Code는 특정 모델에 종속되지 않는다. 기본 내장 **MiMo Auto*
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://github.com/XiaomiMiMo/MiMo-Code" target="_blank" rel="noopener noreferrer">MiMo Code 공식 GitHub 저장소 (MIT 라이선스, v0.1.0)</a><br>
-— <a href="https://github.com/XiaomiMiMo/MiMo-Code/releases/tag/v0.1.0" target="_blank" rel="noopener noreferrer">v0.1.0 릴리즈 노트 및 바이너리 다운로드</a><br>
-— <a href="https://raw.githubusercontent.com/XiaomiMiMo/MiMo-Code/main/README.md" target="_blank" rel="noopener noreferrer">README: 설치 방법 · 빠른 시작 · 설정 가이드</a>
+<div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/XiaomiMiMo/MiMo-Code" target="_blank" rel="noopener noreferrer">MiMo Code 공식 GitHub 저장소 (MIT 라이선스, v0.1.0)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/XiaomiMiMo/MiMo-Code/releases/tag/v0.1.0" target="_blank" rel="noopener noreferrer">v0.1.0 릴리즈 노트 및 바이너리 다운로드</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://raw.githubusercontent.com/XiaomiMiMo/MiMo-Code/main/README.md" target="_blank" rel="noopener noreferrer">README: 설치 방법 · 빠른 시작 · 설정 가이드</a>
 </div>
 </div>

@@ -113,9 +113,9 @@ For enterprises and governments relying on algorithms that have received less sc
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
-· <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST Post-Quantum Cryptography (PQC) Project</a><br/>
-· <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK Signature Scheme (official site)</a><br/>
-· <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES Standard, FIPS 197 (NIST)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST Post-Quantum Cryptography (PQC) Project</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK Signature Scheme (official site)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES Standard, FIPS 197 (NIST)</a><br/>
 </div>

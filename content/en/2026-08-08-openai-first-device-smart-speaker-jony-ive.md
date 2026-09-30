@@ -45,11 +45,11 @@ It is worth stressing that none of this is an official announcement. Specs, pric
 What is clear is the direction: OpenAI wants to widen its user touchpoints beyond apps and APIs into physical hardware. The strategy reads less like replacing the smartphone and more like adding one more always-on AI touchpoint alongside it.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/" target="_blank" rel="noopener">MacRumors — OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300</a><br/>
-· <a href="https://www.tomsguide.com/ai/forget-the-homepod-openai-is-launching-a-smart-speaker-designed-by-jony-ive" target="_blank" rel="noopener">Tom's Guide — OpenAI is launching a smart speaker designed by Jony Ive</a><br/>
-· <a href="https://www.notebookcheck.net/OpenAI-teams-with-Jony-Ive-and-Luxshare-to-launch-AI-native-hardware-by-2027.1119691.0.html" target="_blank" rel="noopener">Notebookcheck — OpenAI teams with Jony Ive and Luxshare to launch AI-native hardware by 2027</a><br/>
-· <a href="https://mobilesyrup.com/2026/08/06/openai-speaker-size-price-report/" target="_blank" rel="noopener">MobileSyrup — OpenAI speaker to be hockey puck-sized and cost over US$300</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/" target="_blank" rel="noopener">MacRumors — OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.tomsguide.com/ai/forget-the-homepod-openai-is-launching-a-smart-speaker-designed-by-jony-ive" target="_blank" rel="noopener">Tom's Guide — OpenAI is launching a smart speaker designed by Jony Ive</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.notebookcheck.net/OpenAI-teams-with-Jony-Ive-and-Luxshare-to-launch-AI-native-hardware-by-2027.1119691.0.html" target="_blank" rel="noopener">Notebookcheck — OpenAI teams with Jony Ive and Luxshare to launch AI-native hardware by 2027</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://mobilesyrup.com/2026/08/06/openai-speaker-size-price-report/" target="_blank" rel="noopener">MobileSyrup — OpenAI speaker to be hockey puck-sized and cost over US$300</a>
 </div>
 
 <div class="article-keypoints">

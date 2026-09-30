@@ -58,10 +58,10 @@ The deal signals two things. First, AI compute demand is spilling well beyond GP
 Execution is the question. Akamai has to absorb roughly $5.5 billion in capex while protecting margins, and Anthropic has to fill that infrastructure with real, growing usage. Because the equity warrant vests in stages, whether the contract expands from $11.6 billion toward $20 billion will be the first real test of how much confidence sits behind this partnership.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand" target="_blank" rel="noopener">Akamai Newsroom — Akamai Announces $11.6 Billion Multi-year Agreement with Anthropic</a><br/>
-· <a href="https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic" target="_blank" rel="noopener">Akamai Investor Relations — Deal details and financial terms</a><br/>
-· <a href="https://qz.com/akamai-anthropic-cloud-deal-11-billion-092526" target="_blank" rel="noopener">Quartz — Analysis of the Akamai-Anthropic cloud deal</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand" target="_blank" rel="noopener">Akamai Newsroom — Akamai Announces $11.6 Billion Multi-year Agreement with Anthropic</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic" target="_blank" rel="noopener">Akamai Investor Relations — Deal details and financial terms</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://qz.com/akamai-anthropic-cloud-deal-11-billion-092526" target="_blank" rel="noopener">Quartz — Analysis of the Akamai-Anthropic cloud deal</a>
 </div>
 
 <div class="article-keypoints">

@@ -138,8 +138,8 @@ Codex Cloud의 등장은 소프트웨어 개발 방식의 근본적인 변화를
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 페이지</a><br/>
-· <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI 개발자 문서</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI 개발자 문서</a><br/>
 </div>

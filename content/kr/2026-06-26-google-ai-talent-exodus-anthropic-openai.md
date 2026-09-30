@@ -58,11 +58,11 @@ tags: ["구글", "Anthropic", "OpenAI", "AI인재전쟁", "제미나이"]
 이번 연쇄 이탈은 AI 경쟁이 모델 성능 싸움을 넘어 '인재 확보전'으로 본격 전환했음을 보여준다. 상장을 앞둔 Anthropic·OpenAI가 자본시장의 기대를 등에 업고 공격적으로 인재를 흡수하는 구도가 당분간 이어질 가능성이 크다. 구글이 이 흐름을 보상·연구 자율성·제품화 속도 등 어떤 카드로 막아낼지가 향후 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html" target="_blank" rel="noopener">CNBC — 제미나이 공동 리드 노엄 셔지어, OpenAI로 이직 (6/18)</a><br/>
-· <a href="https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html" target="_blank" rel="noopener">CNBC — 존 점퍼, 딥마인드 떠나 Anthropic 합류 (6/19)</a><br/>
-· <a href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener">TechCrunch — 구글 AI 연구자들의 경쟁사 이탈 지속 (6/24)</a><br/>
-· <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank" rel="noopener">Anthropic — 구글·브로드컴 연산 파트너십 확대 공식 발표</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html" target="_blank" rel="noopener">CNBC — 제미나이 공동 리드 노엄 셔지어, OpenAI로 이직 (6/18)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html" target="_blank" rel="noopener">CNBC — 존 점퍼, 딥마인드 떠나 Anthropic 합류 (6/19)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener">TechCrunch — 구글 AI 연구자들의 경쟁사 이탈 지속 (6/24)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank" rel="noopener">Anthropic — 구글·브로드컴 연산 파트너십 확대 공식 발표</a>
 </div>
 
 <div class="article-keypoints">

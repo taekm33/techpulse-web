@@ -96,8 +96,8 @@ Qwen3.8이 "Fable 5 다음"임을 증명하려면 세 가지가 필요하다: �
 그럼에도 불구하고, 중국 AI 생태계가 2026년 7월 한 달 동안 2조 파라미터를 넘나드는 모델을 두 개나 연속으로 공개한 것은 글로벌 AI 경쟁의 판도가 돌이킬 수 없이 변했음을 보여준다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
+<strong>공식·1차 출처</strong><br/>
 &middot; <a href="" target="_blank" rel="noopener">Qwen 공식 GitHub https://github.com/QwenLM</a><br/>
-&middot; <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
-&middot; <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그</a><br/>
 </div>

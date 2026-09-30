@@ -67,9 +67,9 @@ The roadmap from 55MW to gigawatt-scale also signals that NAVER and NVIDIA see s
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA Newsroom</a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
-· <a href="https://www.navercloudcorp.com/" target="_blank" rel="noopener">NAVER Cloud</a><br/>
-· <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA Newsroom</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.navercloudcorp.com/" target="_blank" rel="noopener">NAVER Cloud</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA</a><br/>
 </div>

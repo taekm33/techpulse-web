@@ -54,10 +54,10 @@ tags: ["저작권", "OpenAI", "공정이용", "뉴욕타임스", "AI규제"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.whec.com/ap-top-news/trump-administration-backs-openai-in-new-york-times-copyright-case-over-training-of-chatbots/" target="_blank" rel="noopener">AP / WHEC — Trump administration backs OpenAI in New York Times' copyright case over training of chatbots</a><br/>
-<a href="https://www.thewrap.com/industry-news/tech/trump-administration-openai-new-york-times-ai-copyright/" target="_blank" rel="noopener">TheWrap — Trump Administration Backs OpenAI in New York Times Copyright Fight</a><br/>
-<a href="https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/" target="_blank" rel="noopener">The Intercept — Trump Admin Tells Court: Let OpenAI Rip Off The Intercept's Articles</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.whec.com/ap-top-news/trump-administration-backs-openai-in-new-york-times-copyright-case-over-training-of-chatbots/" target="_blank" rel="noopener">AP / WHEC — Trump administration backs OpenAI in New York Times' copyright case over training of chatbots</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.thewrap.com/industry-news/tech/trump-administration-openai-new-york-times-ai-copyright/" target="_blank" rel="noopener">TheWrap — Trump Administration Backs OpenAI in New York Times Copyright Fight</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/" target="_blank" rel="noopener">The Intercept — Trump Admin Tells Court: Let OpenAI Rip Off The Intercept's Articles</a>
 </div>
 
 <div class="article-keypoints">

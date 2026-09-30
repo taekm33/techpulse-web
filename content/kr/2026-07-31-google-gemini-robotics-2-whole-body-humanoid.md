@@ -102,9 +102,9 @@ VLA 모델은 시각과 언어 지시를 실제 모터 제어로 바꿔 로봇�
 물리 세계에서 스스로 판단하고 움직이는 로봇은 오랜 꿈이었다. 제미나이 로보틱스 2가 실제 휴머노이드의 전신을 지능적으로 제어하기 시작했다는 사실은, 그 꿈이 실험실을 넘어 현실로 성큼 다가왔다는 신호다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank" rel="noopener">Google DeepMind 공식 블로그 — Gemini Robotics 2 brings whole body intelligence to robots</a><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/" target="_blank" rel="noopener">Google 개발자 블로그 — Gemini Robotics ER 2</a><br/>
-· <a href="https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control" target="_blank" rel="noopener">The Next Web — Gemini Robotics 2 controls whole humanoids</a><br/>
-· <a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/" target="_blank" rel="noopener">MarkTechPost — Google DeepMind ships three physical AI models</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank" rel="noopener">Google DeepMind 공식 블로그 — Gemini Robotics 2 brings whole body intelligence to robots</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/" target="_blank" rel="noopener">Google 개발자 블로그 — Gemini Robotics ER 2</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control" target="_blank" rel="noopener">The Next Web — Gemini Robotics 2 controls whole humanoids</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/" target="_blank" rel="noopener">MarkTechPost — Google DeepMind ships three physical AI models</a><br/>
 </div>

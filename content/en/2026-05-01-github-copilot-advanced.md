@@ -322,7 +322,7 @@ What it has not done is eliminate the need for experienced engineers. The value 
 The developers thriving in 2026 are those who have learned to be effective AI collaborators — directing the tool with precision, reviewing its outputs with expertise, and combining AI speed with human architectural thinking. The 20 tips in this guide are a starting point. The real skill is developing an instinct for when to trust the AI and when to question it.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub — Copilot (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Docs — Copilot</a>
 </div>

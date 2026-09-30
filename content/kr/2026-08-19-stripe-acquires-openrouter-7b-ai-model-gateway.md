@@ -55,9 +55,9 @@ tags: ["스트라이프", "오픈라우터", "인수합병", "AI인프라", "모
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank" rel="noopener">TechCrunch — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</a><br/>
-<a href="https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/" target="_blank" rel="noopener">Fortune — Stripe clinches over $7 billion deal to buy AI firm OpenRouter</a><br/>
-<a href="https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/" target="_blank" rel="noopener">Tech Startups — Stripe acquires OpenRouter for over $7B, more than 5X its valuation</a><br/>
-<a href="https://openrouter.ai/" target="_blank" rel="noopener">OpenRouter — 공식 사이트</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank" rel="noopener">TechCrunch — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/" target="_blank" rel="noopener">Fortune — Stripe clinches over $7 billion deal to buy AI firm OpenRouter</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/" target="_blank" rel="noopener">Tech Startups — Stripe acquires OpenRouter for over $7B, more than 5X its valuation</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://openrouter.ai/" target="_blank" rel="noopener">OpenRouter — 공식 사이트</a>
 </div>

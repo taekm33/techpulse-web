@@ -139,7 +139,7 @@ Anthropic의 이번 라운드는 단순한 펀딩 소식이 아니다. AI 산업
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — 뉴스룸(공식)</a><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research(공식)</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — 뉴스룸(공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic — Research(공식)</a>
 </div>

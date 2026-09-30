@@ -78,11 +78,11 @@ Claude Science is Anthropic's attempt to occupy the operating layer for scientif
 The harder question is whether the 10x productivity claims will hold across diverse research contexts beyond the beta cohort. Independent replication studies and peer-reviewed benchmarks will be the real test. For now, the early signals — a Nobel laureate hire, a $400M acquisition, and credible early-adopter case studies — suggest Anthropic is serious about this space.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener">Anthropic — Claude Science, an AI workbench for scientists (Jun 30, 2026)</a><br/>
-· <a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/" target="_blank" rel="noopener">TechCrunch — Claude Science bets on workflow, not a new model, to win over scientists</a><br/>
-· <a href="https://thenextweb.com/news/john-jumper-nobel-deepmind-leaves-anthropic-alphafold" target="_blank" rel="noopener">The Next Web — Nobel laureate John Jumper leaves Google DeepMind for Anthropic</a><br/>
-· <a href="https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/" target="_blank" rel="noopener">STAT News — Anthropic releases Claude Science, aimed at researchers and pharma</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener">Anthropic — Claude Science, an AI workbench for scientists (Jun 30, 2026)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/" target="_blank" rel="noopener">TechCrunch — Claude Science bets on workflow, not a new model, to win over scientists</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/john-jumper-nobel-deepmind-leaves-anthropic-alphafold" target="_blank" rel="noopener">The Next Web — Nobel laureate John Jumper leaves Google DeepMind for Anthropic</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/" target="_blank" rel="noopener">STAT News — Anthropic releases Claude Science, aimed at researchers and pharma</a>
 </div>
 
 <div class="article-keypoints">

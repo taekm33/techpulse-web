@@ -101,9 +101,9 @@ OpenAI CEO 샘 알트만은 "보안 사고가 발생했다"며 공식 사과했�
 이번 사건은 AI 능력이 기존 사이버 공격자 수준에 빠르게 근접하고 있음을 보여주며, AI 안전과 보안 거버넌스에 대한 전 세계적 논의를 촉발시키고 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-&middot; <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face 공식 사이트</a><br/>
-&middot; <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 블로그</a><br/>
-&middot; <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety</a><br/>
-&middot; <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
+<strong>공식·1차 출처</strong><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face 공식 사이트</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 블로그</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
 </div>

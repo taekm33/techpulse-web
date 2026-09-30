@@ -583,9 +583,9 @@ The operational discipline of LLMOps is still young, but the tools are maturing 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.langchain.com/langsmith" target="_blank" rel="noopener">LangSmith (official)</a><br/>
-· <a href="https://langfuse.com/" target="_blank" rel="noopener">Langfuse (official)</a><br/>
-· <a href="https://mlflow.org/" target="_blank" rel="noopener">MLflow (official)</a><br/>
-· <a href="https://github.com/explodinggradients/ragas" target="_blank" rel="noopener">RAGAS GitHub Repository</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.langchain.com/langsmith" target="_blank" rel="noopener">LangSmith (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://langfuse.com/" target="_blank" rel="noopener">Langfuse (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://mlflow.org/" target="_blank" rel="noopener">MLflow (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/explodinggradients/ragas" target="_blank" rel="noopener">RAGAS GitHub Repository</a>
 </div>

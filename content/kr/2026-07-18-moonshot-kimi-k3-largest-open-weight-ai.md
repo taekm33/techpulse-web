@@ -96,9 +96,9 @@ Kimi K3의 가격은 서방 경쟁사 대비 현저히 낮다.
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face</a><br/>
-· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
-· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 서비스</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 서비스</a><br/>
 </div>

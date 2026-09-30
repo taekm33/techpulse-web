@@ -52,11 +52,11 @@ Anthropic은 "로그아웃은 탈취된 세션을 차단하지만 악성코드�
 이번 사건은 AI 구독 서비스가 인포스틸러의 새로운 수익화 표적이 됐음을 보여준다. 한 피해자는 러시아 지하 포럼에서 내려받은 불법 복제 게임에서 감염이 시작됐다고 밝혔다. Anthropic은 "이 악성코드가 Claude와 관련되거나 Claude를 통해 설치됐다고 볼 근거가 없으며, 휴대폰·태블릿은 영향받지 않은 것으로 보인다"고 밝혔다. 다만 이번 캠페인을 빌미로 Anthropic을 사칭하는 모방 이메일도 나올 수 있어, 사용자들은 공식 안내와 피싱을 구분하는 주의가 필요하다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/" target="_blank" rel="noopener">Help Net Security — Anthropic locks out Claude users after infostealers hijack login sessions</a><br/>
-<a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" target="_blank" rel="noopener">BleepingComputer — Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</a><br/>
-<a href="https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/" target="_blank" rel="noopener">SecurityWeek — Anthropic Warns Claude Users of Infostealer Malware Infections</a><br/>
-<a href="https://securityaffairs.com/198166/ai/infostealers-are-hijacking-claude-sessions-and-draining-subscriptions.html" target="_blank" rel="noopener">Security Affairs — Infostealers Are Hijacking Claude Sessions and Draining Subscriptions</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/" target="_blank" rel="noopener">Help Net Security — Anthropic locks out Claude users after infostealers hijack login sessions</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" target="_blank" rel="noopener">BleepingComputer — Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/" target="_blank" rel="noopener">SecurityWeek — Anthropic Warns Claude Users of Infostealer Malware Infections</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://securityaffairs.com/198166/ai/infostealers-are-hijacking-claude-sessions-and-draining-subscriptions.html" target="_blank" rel="noopener">Security Affairs — Infostealers Are Hijacking Claude Sessions and Draining Subscriptions</a>
 </div>
 
 <div class="article-keypoints">

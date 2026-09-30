@@ -69,8 +69,8 @@ NVIDIA는 네모트론 3 울트라와 함께 두 가지 특화 모델도 출시�
 이번 릴리즈와 함께 NVIDIA는 라이선스도 OpenMDW-1.1로 전환했다. 리눅스 재단이 오픈 AI 모델 배포를 위해 설계한 이 허용적 라이선스는 아키텍처·파라미터·문서·소프트웨어 등 모델의 전체 자료를 단일 프레임워크로 포괄한다. 가중치, 데이터, 레시피까지 완전 오픈임을 명시한 것은 NVIDIA가 에이전트 AI 생태계에서 오픈소스 리더십을 적극적으로 추구하겠다는 신호로 읽힌다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-&middot; <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron 공식</a><br/>
-&middot; <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a><br/>
-&middot; <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron 공식</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
 </div>

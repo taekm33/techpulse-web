@@ -66,9 +66,9 @@ The letter is clearer on <em>what</em> to prepare than on <em>how</em>. Whether 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.pacingthefrontier.com/" target="_blank" rel="noopener">Pacing the Frontier — official letter site</a><br/>
-<a href="https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter" target="_blank" rel="noopener">CNN Business — Employees from the world's biggest AI companies want the US to be ready to slow AI development</a><br/>
-<a href="https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/" target="_blank" rel="noopener">Fortune — AI workers ask Washington to help build an AI slowdown plan</a><br/>
-<a href="https://thenextweb.com/news/pacing-the-frontier-ai-employees-letter-us-government" target="_blank" rel="noopener">The Next Web — AI staff ask the US for a way to pace AI</a>
+<strong>Press & Analysis</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.pacingthefrontier.com/" target="_blank" rel="noopener">Pacing the Frontier — official letter site</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter" target="_blank" rel="noopener">CNN Business — Employees from the world's biggest AI companies want the US to be ready to slow AI development</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/" target="_blank" rel="noopener">Fortune — AI workers ask Washington to help build an AI slowdown plan</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/pacing-the-frontier-ai-employees-letter-us-government" target="_blank" rel="noopener">The Next Web — AI staff ask the US for a way to pace AI</a>
 </div>

@@ -65,11 +65,11 @@ The access you grant an AI agent should be treated the same as access granted to
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.air.security/blog-posts/plugin4shell" target="_blank" rel="noopener">AIR — Plugin4Shell official disclosure (original research)</a><br/>
-· <a href="https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/" target="_blank" rel="noopener">Help Net Security — Zero-click RCE hits four major AI coding agents</a><br/>
-· <a href="https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html" target="_blank" rel="noopener">The Hacker News — Plugin4Shell lets repository owners swap pinned plugin code</a><br/>
-· <a href="https://cybersecuritynews.com/plugin4shell-zero-click-rce/" target="_blank" rel="noopener">Cybersecurity News — Plugin4Shell zero-click RCE details</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.air.security/blog-posts/plugin4shell" target="_blank" rel="noopener">AIR — Plugin4Shell official disclosure (original research)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/" target="_blank" rel="noopener">Help Net Security — Zero-click RCE hits four major AI coding agents</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html" target="_blank" rel="noopener">The Hacker News — Plugin4Shell lets repository owners swap pinned plugin code</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://cybersecuritynews.com/plugin4shell-zero-click-rce/" target="_blank" rel="noopener">Cybersecurity News — Plugin4Shell zero-click RCE details</a>
 </div>
 
 <div class="article-keypoints">

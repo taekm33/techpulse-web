@@ -60,11 +60,11 @@ A delayed model launch is common enough — but the reason being coding is the r
 With Gemini 3.1 Pro dating to February, the 3.5 Pro slip meaningfully widens the gap in Google's flagship lineup. The question is how Google balances polish against speed. Choosing to secure coding reliability before shipping — rather than rushing out an unfinished model — is reasonable, but if rivals lock in the developer ecosystem in the meantime, the gap could become hard to reverse.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — Google Gemini launch delayed as tech falls short of internal goals (7/16, original report)</a><br/>
-· <a href="https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/" target="_blank" rel="noopener">9to5Google — Gemini 3.5 Pro delays due to coding performance (7/16)</a><br/>
-· <a href="https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/" target="_blank" rel="noopener">Search Engine Journal — Google Delays Gemini 3.5 Pro Over Coding Issues</a><br/>
-· <a href="https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/" target="_blank" rel="noopener">Neowin — Gemini 3.5 Pro faces delays over coding performance misses</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — Google Gemini launch delayed as tech falls short of internal goals (7/16, original report)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/" target="_blank" rel="noopener">9to5Google — Gemini 3.5 Pro delays due to coding performance (7/16)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/" target="_blank" rel="noopener">Search Engine Journal — Google Delays Gemini 3.5 Pro Over Coding Issues</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/" target="_blank" rel="noopener">Neowin — Gemini 3.5 Pro faces delays over coding performance misses</a>
 </div>
 
 <div class="article-keypoints">

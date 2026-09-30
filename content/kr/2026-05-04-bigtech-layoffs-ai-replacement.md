@@ -283,9 +283,9 @@ AI 시대의 전환에서도 마찬가지다. 사라지는 직무가 있는 반�
 속도에 압도되지 않기 위해, 지금 필요한 것은 공포가 아니라 냉정한 분석과 구체적인 행동이다. AI를 이해하고, 활용하고, 감독하는 능력을 갖춘 사람이 이 전환의 승자가 될 것이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/" target="_blank" rel="noopener">Meta 공식 발표: Year of Efficiency (마크 저커버그)</a><br/>
-· <a href="https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america" target="_blank" rel="noopener">McKinsey Global Institute: Generative AI and the Future of Work in America</a><br/>
-· <a href="https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/" target="_blank" rel="noopener">GitHub 공식 연구: Copilot 개발자 생산성 영향 분석</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/" target="_blank" rel="noopener">Meta 공식 발표: Year of Efficiency (마크 저커버그)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america" target="_blank" rel="noopener">McKinsey Global Institute: Generative AI and the Future of Work in America</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/" target="_blank" rel="noopener">GitHub 공식 연구: Copilot 개발자 생산성 영향 분석</a><br/>
 </div>
 

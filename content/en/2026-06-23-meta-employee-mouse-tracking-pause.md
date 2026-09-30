@@ -60,8 +60,8 @@ The episode is a sharp illustration of the risks lurking behind a broader indust
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/" target="_blank" rel="noopener">Engadget - How a permissions misconfiguration exposed the data</a><br/>
-&middot; <a href="https://thenextweb.com/news/meta-pauses-mouse-tracking-data-security" target="_blank" rel="noopener">The Next Web - Mouse-tracking program paused over data security</a><br/>
-&middot; <a href="https://www.ghacks.net/2026/06/23/meta-pauses-employee-mouse-tracking-ai-training-program-after-internal-data-exposure/" target="_blank" rel="noopener">gHacks - What the MCI program collected</a><br/>
+<strong>Press & Analysis</strong><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/" target="_blank" rel="noopener">Engadget - How a permissions misconfiguration exposed the data</a><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/meta-pauses-mouse-tracking-data-security" target="_blank" rel="noopener">The Next Web - Mouse-tracking program paused over data security</a><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://www.ghacks.net/2026/06/23/meta-pauses-employee-mouse-tracking-ai-training-program-after-internal-data-exposure/" target="_blank" rel="noopener">gHacks - What the MCI program collected</a><br/>
 </div>

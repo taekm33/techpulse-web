@@ -70,11 +70,11 @@ The lawsuit signals three broader shifts in the AI industry. First, the competit
 Whatever the court decides, this case marks a turning point where the AI hardware race moved from engineering labs into federal court.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/" target="_blank" rel="noopener">TechCrunch — Apple sues OpenAI over alleged trade secret theft (Jul 10)</a><br/>
-· <a href="https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html" target="_blank" rel="noopener">CNBC — Apple sues OpenAI, says scheme was 'at every level' (Jul 10)</a><br/>
-· <a href="https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft" target="_blank" rel="noopener">Axios — Apple sues OpenAI for trade secret theft (Jul 10)</a><br/>
-· <a href="https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/" target="_blank" rel="noopener">Fortune — Apple accuses OpenAI and Jony Ive's io Products of stealing hardware trade secrets (Jul 10)</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/" target="_blank" rel="noopener">TechCrunch — Apple sues OpenAI over alleged trade secret theft (Jul 10)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html" target="_blank" rel="noopener">CNBC — Apple sues OpenAI, says scheme was 'at every level' (Jul 10)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft" target="_blank" rel="noopener">Axios — Apple sues OpenAI for trade secret theft (Jul 10)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/" target="_blank" rel="noopener">Fortune — Apple accuses OpenAI and Jony Ive's io Products of stealing hardware trade secrets (Jul 10)</a>
 </div>
 
 <div class="article-keypoints">

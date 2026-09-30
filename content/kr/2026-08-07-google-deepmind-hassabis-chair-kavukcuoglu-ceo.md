@@ -52,11 +52,11 @@ tags: ["구글", "딥마인드", "허사비스", "AGI", "제미나이"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" target="_blank" rel="noopener">Google — 순다르 피차이 사내 메시지 'The next chapter of our AI momentum' (공식)</a><br/>
-· <a href="https://9to5google.com/2026/08/05/demis-hassabis-deepmind/" target="_blank" rel="noopener">9to5Google — 허사비스, 딥마인드 CEO 물러나 AGI 역할로 · 제프 딘 퇴사 (8/5)</a><br/>
-· <a href="https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html" target="_blank" rel="noopener">CNBC — 제프 딘, 27년 만에 구글 떠난다 (8/5)</a><br/>
-· <a href="https://www.discoveryloop.com/" target="_blank" rel="noopener">Discovery Loop — 제프 딘 신설 공익법인 공식 사이트</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" target="_blank" rel="noopener">Google — 순다르 피차이 사내 메시지 'The next chapter of our AI momentum' (공식)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://9to5google.com/2026/08/05/demis-hassabis-deepmind/" target="_blank" rel="noopener">9to5Google — 허사비스, 딥마인드 CEO 물러나 AGI 역할로 · 제프 딘 퇴사 (8/5)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html" target="_blank" rel="noopener">CNBC — 제프 딘, 27년 만에 구글 떠난다 (8/5)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.discoveryloop.com/" target="_blank" rel="noopener">Discovery Loop — 제프 딘 신설 공익법인 공식 사이트</a>
 </div>
 
 <div class="article-keypoints">

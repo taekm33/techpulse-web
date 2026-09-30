@@ -75,8 +75,8 @@ MAI-Transcribe-2는 단일 제품 발표라기보다 하나의 ‘템플릿’�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/" target="_blank" rel="noopener">Microsoft AI — MAI-Transcribe-2 공식 발표</a><br/>
-<a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" target="_blank" rel="noopener">VentureBeat — Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a><br/>
-<a href="https://artificialanalysis.ai/speech-to-text/non-streaming" target="_blank" rel="noopener">Artificial Analysis — Speech-to-Text 리더보드 (독립 벤치마크)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/" target="_blank" rel="noopener">Microsoft AI — MAI-Transcribe-2 공식 발표</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" target="_blank" rel="noopener">VentureBeat — Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://artificialanalysis.ai/speech-to-text/non-streaming" target="_blank" rel="noopener">Artificial Analysis — Speech-to-Text 리더보드 (독립 벤치마크)</a>
 </div>

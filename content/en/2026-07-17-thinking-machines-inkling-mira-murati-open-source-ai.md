@@ -102,8 +102,8 @@ Whether the performance lead holds as competitors respond remains to be seen. Th
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab (official site)</a><br/>
-· <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines on Hugging Face</a><br/>
-· <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker Docs (official)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://thinkingmachines.ai/" target="_blank" rel="noopener">Thinking Machines Lab (official site)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/thinkingmachines" target="_blank" rel="noopener">Thinking Machines on Hugging Face</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://tinker-docs.thinkingmachines.ai/" target="_blank" rel="noopener">Tinker Docs (official)</a><br/>
 </div>

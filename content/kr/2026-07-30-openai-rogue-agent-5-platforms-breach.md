@@ -92,8 +92,8 @@ CEO 샘 알트만은 이번 주 미국 의원들과 차세대 AI 모델에 대�
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (공식)</a><br/>
-· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
-· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs 공식 사이트</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs 공식 사이트</a><br/>
 </div>

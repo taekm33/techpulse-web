@@ -54,11 +54,11 @@ TSMC는 AI 관련 칩 수요가 "극도로 견조하다(extremely robust)"고 �
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://investor.tsmc.com/english" target="_blank" rel="noopener">TSMC 공식 투자자 정보(Investor Relations) — 월별·분기 매출 및 실적 자료</a><br/>
-· <a href="http://www.econotimes.com/TSMC-Q2-Revenue-Surges-36-as-AI-Chip-Demand-Powers-Growth-Ahead-of-Earnings-1746573" target="_blank" rel="noopener">EconoTimes — TSMC Q2 Revenue Surges 36% as AI Chip Demand Powers Growth</a><br/>
-· <a href="https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm" target="_blank" rel="noopener">TechTimes — TSMC Q2 Earnings July 16: Three CoWoS Signals</a><br/>
-· <a href="https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/" target="_blank" rel="noopener">Forbes — What TSMC's Earnings Can Tell Investors About Its 2026 Outlook</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://investor.tsmc.com/english" target="_blank" rel="noopener">TSMC 공식 투자자 정보(Investor Relations) — 월별·분기 매출 및 실적 자료</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="http://www.econotimes.com/TSMC-Q2-Revenue-Surges-36-as-AI-Chip-Demand-Powers-Growth-Ahead-of-Earnings-1746573" target="_blank" rel="noopener">EconoTimes — TSMC Q2 Revenue Surges 36% as AI Chip Demand Powers Growth</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm" target="_blank" rel="noopener">TechTimes — TSMC Q2 Earnings July 16: Three CoWoS Signals</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/" target="_blank" rel="noopener">Forbes — What TSMC's Earnings Can Tell Investors About Its 2026 Outlook</a>
 </div>
 
 <div class="article-keypoints">

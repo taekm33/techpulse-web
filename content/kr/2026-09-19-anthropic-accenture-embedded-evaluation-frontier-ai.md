@@ -56,11 +56,11 @@ tags: ["앤트로픽", "액센츄어", "AI안전", "레드팀", "AI거버넌스"
 이번 발표는 프런티어 AI의 안전 검증을 '내부 자율'과 '외부 사후 감사'의 이분법에서 끌어내려는 시도다. 평가자를 개발 현장에 상주시키면, 문제를 사후가 아니라 형성 단계에서 포착할 여지가 생긴다. 관건은 두 가지다. 첫째는 독립성—회사가 비용을 대는 동안 평가자가 불편한 결론을 낼 수 있느냐다. 둘째는 표준화—접근 권한과 보고 방식의 공통 규칙이 자리 잡아야 다른 기업으로 확산될 수 있다. 다리오 아모데이가 '프런티어의 속도를 맞춰야 한다'며 던진 약속이, 20억 달러짜리 첫 계약을 통해 실제로 검증 가능한 형태를 갖추기 시작했다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news/accenture-embedded-evaluation" target="_blank" rel="noopener">Anthropic — Partnering with Accenture on embedded evaluation (공식 발표, 9/18)</a><br/>
-· <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (에세이 원문)</a><br/>
-· <a href="https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/" target="_blank" rel="noopener">Unite.AI — Anthropic Taps Accenture's Faculty for Embedded AI Model Evaluation</a><br/>
-· <a href="https://www.globalbankingandfinance.com/anthropic-accenture-invest-2-billion-ai-model-evaluation/" target="_blank" rel="noopener">Global Banking &amp; Finance — Anthropic, Accenture Invest $2B in AI Model Evaluation</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/accenture-embedded-evaluation" target="_blank" rel="noopener">Anthropic — Partnering with Accenture on embedded evaluation (공식 발표, 9/18)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (에세이 원문)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/" target="_blank" rel="noopener">Unite.AI — Anthropic Taps Accenture's Faculty for Embedded AI Model Evaluation</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.globalbankingandfinance.com/anthropic-accenture-invest-2-billion-ai-model-evaluation/" target="_blank" rel="noopener">Global Banking &amp; Finance — Anthropic, Accenture Invest $2B in AI Model Evaluation</a>
 </div>
 
 <div class="article-keypoints">

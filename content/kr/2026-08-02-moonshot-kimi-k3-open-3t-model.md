@@ -55,10 +55,10 @@ Kimi K3는 <strong>항상 추론 모드가 켜져</strong> 있고, API 호출 �
 모델 가중치는 2026년 7월 27일 공식 공개됐다. 출시 직후 수요가 Moonshot AI의 서버 용량을 초과해 API 신규 구독이 일시 중단됐다. Together AI를 통한 API 접근과 GitHub에서 오픈 가중치 직접 다운로드가 가능해 개발자들이 자체 인프라에서 구동할 수 있다. 가격은 캐시 히트 입력 기준 $0.30/M 토큰으로, 주요 독점 모델 대비 상당히 낮은 편이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.kimi.com/blog/kimi-k3" target="_blank" rel="noopener">Moonshot AI 공식 기술 블로그 — Kimi K3</a><br/>
-<a href="https://github.com/MoonshotAI/Kimi-K3" target="_blank" rel="noopener">GitHub — MoonshotAI/Kimi-K3 (모델 스펙·벤치마크)</a><br/>
-<a href="https://platform.kimi.ai/docs/guide/kimi-k3-quickstart" target="_blank" rel="noopener">Kimi API 개발자 문서 — K3 빠른 시작</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" rel="noopener">Moonshot AI 공식 기술 블로그 — Kimi K3</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://github.com/MoonshotAI/Kimi-K3" target="_blank" rel="noopener">GitHub — MoonshotAI/Kimi-K3 (모델 스펙·벤치마크)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://platform.kimi.ai/docs/guide/kimi-k3-quickstart" target="_blank" rel="noopener">Kimi API 개발자 문서 — K3 빠른 시작</a>
 </div>
 
 ## 오픈 AI 생태계에 미치는 영향

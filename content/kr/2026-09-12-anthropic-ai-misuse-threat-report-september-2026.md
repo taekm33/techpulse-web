@@ -72,9 +72,9 @@ tags: ["앤트로픽", "클로드", "AI보안", "사이버위협", "영향력공
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank" rel="noopener">Anthropic — Detecting and countering misuse of AI: September 2026</a><br/>
-<a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf" target="_blank" rel="noopener">Anthropic — 보고서 전문 PDF</a><br/>
-<a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">Anthropic — 이전 위협 보고서 (2025년 11월)</a><br/>
-<a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025" target="_blank" rel="noopener">Anthropic — 이전 위협 보고서 (2025년 8월)</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank" rel="noopener">Anthropic — Detecting and countering misuse of AI: September 2026</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf" target="_blank" rel="noopener">Anthropic — 보고서 전문 PDF</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">Anthropic — 이전 위협 보고서 (2025년 11월)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025" target="_blank" rel="noopener">Anthropic — 이전 위협 보고서 (2025년 8월)</a>
 </div>

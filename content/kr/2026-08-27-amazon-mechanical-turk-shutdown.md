@@ -54,11 +54,11 @@ AI 학습 데이터 파이프라인을 운영하는 팀이라면, MTurk 종료�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/sms-workforce-management-public.html" target="_blank" rel="noopener">AWS 공식 문서 — SageMaker Ground Truth / Mechanical Turk 워크포스</a><br/>
-· <a href="https://www.mturk.com/" target="_blank" rel="noopener">Amazon Mechanical Turk 공식 사이트</a><br/>
-· <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank" rel="noopener">TechCrunch — Amazon will stop accepting new customers for Mechanical Turk</a><br/>
-· <a href="https://www.pymnts.com/amazon/2026/amazon-sunsets-crowd-sourced-work-platform-mturk/" target="_blank" rel="noopener">PYMNTS — Amazon Sunsets Crowd-Sourced Work Platform MTurk</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.aws.amazon.com/sagemaker/latest/dg/sms-workforce-management-public.html" target="_blank" rel="noopener">AWS 공식 문서 — SageMaker Ground Truth / Mechanical Turk 워크포스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.mturk.com/" target="_blank" rel="noopener">Amazon Mechanical Turk 공식 사이트</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank" rel="noopener">TechCrunch — Amazon will stop accepting new customers for Mechanical Turk</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.pymnts.com/amazon/2026/amazon-sunsets-crowd-sourced-work-platform-mturk/" target="_blank" rel="noopener">PYMNTS — Amazon Sunsets Crowd-Sourced Work Platform MTurk</a>
 </div>
 
 <div class="article-keypoints">

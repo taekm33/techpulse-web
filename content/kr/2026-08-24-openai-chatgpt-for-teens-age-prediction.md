@@ -57,11 +57,11 @@ tags: ["오픈AI", "챗GPT", "미성년자보호", "나이예측", "AI안전"]
 반론도 뚜렷하다. 커먼센스미디어의 짐 스타이어 CEO는 "소셜 AI 동반자는 아이들에게 안전하지 않다"며 "정서적 애착과 의존을 유도하도록 설계돼 있어 발달 중인 청소년의 뇌에 특히 우려된다"고 지적했다. 애초에 어린이·저연령 청소년이 AI와 관계를 맺어서는 안 된다는 시각이다. 나이 예측의 정확도 미공개, 오탐 가능성도 앞으로의 쟁점으로 남는다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/chatgpt-for-teens/" target="_blank" rel="noopener">OpenAI — Introducing ChatGPT for Teens (공식 발표, 8/18)</a><br/>
-· <a href="https://openai.com/index/our-approach-to-age-prediction/" target="_blank" rel="noopener">OpenAI — Our approach to age prediction (공식)</a><br/>
-· <a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens" target="_blank" rel="noopener">Axios — OpenAI debuts ChatGPT for Teens</a><br/>
-· <a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode" target="_blank" rel="noopener">The Next Web — 챗GPT 틴즈·나이 예측 보도</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/chatgpt-for-teens/" target="_blank" rel="noopener">OpenAI — Introducing ChatGPT for Teens (공식 발표, 8/18)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/our-approach-to-age-prediction/" target="_blank" rel="noopener">OpenAI — Our approach to age prediction (공식)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.axios.com/2026/08/18/openai-chatgpt-for-teens" target="_blank" rel="noopener">Axios — OpenAI debuts ChatGPT for Teens</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode" target="_blank" rel="noopener">The Next Web — 챗GPT 틴즈·나이 예측 보도</a>
 </div>
 
 <div class="article-keypoints">

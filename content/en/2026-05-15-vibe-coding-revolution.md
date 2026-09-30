@@ -260,9 +260,9 @@ The developers who will thrive in this landscape are those who treat AI assistan
 *Interested in specific tool reviews or tutorials on prompt engineering for code generation? Browse TechPulse's Developer Trends category for more.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://cursor.com/" target="_blank" rel="noopener">Cursor — official site</a><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot — official product page</a><br/>
-· <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf (Codeium) — official site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://cursor.com/" target="_blank" rel="noopener">Cursor — official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot — official product page</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf (Codeium) — official site</a><br/>
 </div>
 

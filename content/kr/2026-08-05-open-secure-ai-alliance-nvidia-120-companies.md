@@ -84,9 +84,9 @@ OSAA의 문제의식은 명확하다. AI 에이전트를 방어할 도구가 소
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blogs.nvidia.com/blog/open-secure-ai-alliance/" target="_blank" rel="noopener">NVIDIA Blog — Industry Leaders Unite in Open Secure AI Alliance (공식 발표)</a><br/>
-· <a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" target="_blank" rel="noopener">TechCrunch — 1주 만에 120개사·SAFE 워킹그룹 진척</a><br/>
-· <a href="https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security" target="_blank" rel="noopener">Linux Foundation — Proposing the SAFE Working Group</a><br/>
-· <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach" target="_blank" rel="noopener">Tom's Hardware — 오픈AI·구글·앤트로픽의 불참</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/blog/open-secure-ai-alliance/" target="_blank" rel="noopener">NVIDIA Blog — Industry Leaders Unite in Open Secure AI Alliance (공식 발표)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" target="_blank" rel="noopener">TechCrunch — 1주 만에 120개사·SAFE 워킹그룹 진척</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security" target="_blank" rel="noopener">Linux Foundation — Proposing the SAFE Working Group</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach" target="_blank" rel="noopener">Tom's Hardware — 오픈AI·구글·앤트로픽의 불참</a><br/>
 </div>

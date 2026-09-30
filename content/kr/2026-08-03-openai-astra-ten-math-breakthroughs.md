@@ -89,9 +89,9 @@ OpenAI는 또한 10만 명의 학술 연구자에게 2027년까지 프론티어 
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.erdosproblems.com/" target="_blank" rel="noopener">Erdős Problems 데이터베이스 (Thomas Bloom 운영)</a><br/>
-· <a href="https://lean-lang.org/" target="_blank" rel="noopener">Lean 4 정리 증명 언어 · 공식 사이트</a><br/>
-· <a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/" target="_blank" rel="noopener">Google DeepMind AlphaProof — Lean 검증 AI 수학 (원 발표)</a><br/>
-· <a href="https://www.mathunion.org/" target="_blank" rel="noopener">국제수학연맹(IMU)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.erdosproblems.com/" target="_blank" rel="noopener">Erdős Problems 데이터베이스 (Thomas Bloom 운영)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://lean-lang.org/" target="_blank" rel="noopener">Lean 4 정리 증명 언어 · 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/" target="_blank" rel="noopener">Google DeepMind AlphaProof — Lean 검증 AI 수학 (원 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.mathunion.org/" target="_blank" rel="noopener">국제수학연맹(IMU)</a><br/>
 </div>

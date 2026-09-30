@@ -369,8 +369,8 @@ LM Studio는 그래픽 인터페이스로 모델을 관리하고 실행할 수 �
 11. Open LLM Leaderboard (Hugging Face), https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama 공식 블로그</a><br/>
-· <a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard" target="_blank" rel="noopener">Open LLM Leaderboard (Hugging Face)</a><br/>
-· <a href="https://arxiv.org/abs/2501.12948" target="_blank" rel="noopener">DeepSeek-R1 논문 (arXiv)</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard" target="_blank" rel="noopener">Open LLM Leaderboard (Hugging Face)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2501.12948" target="_blank" rel="noopener">DeepSeek-R1 논문 (arXiv)</a>
 </div>

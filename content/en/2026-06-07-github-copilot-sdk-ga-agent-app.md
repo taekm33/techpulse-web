@@ -73,8 +73,8 @@ The Copilot SDK GA and the new desktop app are GitHub's answer to a clear shift:
 For developers evaluating the agentic tooling landscape, the Copilot SDK's production-stable API, multi-language support, and deep integration with GitHub's existing repository and CI/CD infrastructure make it one of the most immediately usable options for embedding agent capabilities into real engineering workflows.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot official page</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot documentation</a><br/>
-· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot official page</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a>
 </div>

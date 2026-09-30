@@ -43,11 +43,11 @@ Product composition, specs, and pricing are <strong>all expectations until the S
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.apple.com/apple-events/" target="_blank" rel="noopener">Apple — Apple Events (official event page · livestream)</a><br/>
-<a href="https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/" target="_blank" rel="noopener">MacRumors — Apple Announces 'Surprise and Shine' Event for September 9</a><br/>
-<a href="https://www.macrumors.com/2026/09/06/iphone-18-pro-heres-what-we-know/" target="_blank" rel="noopener">MacRumors — iPhone 18 Pro: Here's What We Know</a><br/>
-<a href="https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/" target="_blank" rel="noopener">Fortune — Apple to launch $2,000-plus foldable 'iPhone Ultra' in September</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.apple.com/apple-events/" target="_blank" rel="noopener">Apple — Apple Events (official event page · livestream)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/" target="_blank" rel="noopener">MacRumors — Apple Announces 'Surprise and Shine' Event for September 9</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.macrumors.com/2026/09/06/iphone-18-pro-heres-what-we-know/" target="_blank" rel="noopener">MacRumors — iPhone 18 Pro: Here's What We Know</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://fortune.com/2026/08/24/apple-launch-2000-foldable-iphone-ultra-september/" target="_blank" rel="noopener">Fortune — Apple to launch $2,000-plus foldable 'iPhone Ultra' in September</a>
 </div>
 
 <div class="article-keypoints">

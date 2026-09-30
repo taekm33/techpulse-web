@@ -76,8 +76,8 @@ tags: ["트럼프", "AI규제", "행정명령", "AI안전", "프런티어AI"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener">백악관 대통령 조치</a><br/>
-· <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA (사이버보안·인프라 보안국)</a><br/>
-· <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener">NIST 인공지능</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener">백악관 대통령 조치</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cisa.gov/" target="_blank" rel="noopener">CISA (사이버보안·인프라 보안국)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener">NIST 인공지능</a><br/>
 </div>

@@ -84,8 +84,8 @@ US export controls on Nvidia chips have given Chinese AI labs an unusually stron
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.t-head.cn/" target="_blank" rel="noopener">Alibaba T-Head (official)</a><br/>
-· <a href="https://www.alibabagroup.com/en-US/" target="_blank" rel="noopener">Alibaba Group (official)</a><br/>
-· <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noopener">NVIDIA CUDA Zone (official)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.t-head.cn/" target="_blank" rel="noopener">Alibaba T-Head (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.alibabagroup.com/en-US/" target="_blank" rel="noopener">Alibaba Group (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noopener">NVIDIA CUDA Zone (official)</a><br/>
 </div>

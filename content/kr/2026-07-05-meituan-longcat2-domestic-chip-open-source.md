@@ -57,10 +57,10 @@ MIT 라이선스는 상업적 활용까지 포함한 가장 개방적인 오픈�
 LongCat-2.0은 오픈소스 여부와 학습 인프라 국산화라는 두 축에서 동시에 화제를 모으고 있다. 다만 두 주장 모두 아직 검증이 필요한 단계다. 학습 인프라의 국산화 정도는 제3자 검증이, 가중치 오픈소스는 실제 배포가 이뤄져야 실체를 확인할 수 있다. 오픈라우터 상위권을 두 달간 익명으로 지켜온 실적 자체는 실사용 지표로 이미 확인된 부분이라, 향후 가중치 공개와 독립 벤치마크 결과가 이 모델의 실제 위상을 가를 것으로 보인다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.longcatai.org/models/longcat-2" target="_blank" rel="noopener">LongCat-2.0 공식 모델 페이지 (longcatai.org)</a><br/>
-· <a href="https://www.scmp.com/tech/tech-trends/article/3358854/china-debuts-biggest-ai-model-trained-local-chips-meituan-releases-longcat-20" target="_blank" rel="noopener">South China Morning Post — China debuts biggest AI model trained on local chips (2026.06.30)</a><br/>
-· <a href="https://siliconangle.com/2026/06/30/chinas-meituan-open-sources-massive-longcat-2-0-ai-model-saying-trained-domestic-chips/" target="_blank" rel="noopener">SiliconANGLE — China's Meituan open-sources massive LongCat-2.0 AI model (2026.06.30)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.longcatai.org/models/longcat-2" target="_blank" rel="noopener">LongCat-2.0 공식 모델 페이지 (longcatai.org)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.scmp.com/tech/tech-trends/article/3358854/china-debuts-biggest-ai-model-trained-local-chips-meituan-releases-longcat-20" target="_blank" rel="noopener">South China Morning Post — China debuts biggest AI model trained on local chips (2026.06.30)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://siliconangle.com/2026/06/30/chinas-meituan-open-sources-massive-longcat-2-0-ai-model-saying-trained-domestic-chips/" target="_blank" rel="noopener">SiliconANGLE — China's Meituan open-sources massive LongCat-2.0 AI model (2026.06.30)</a>
 </div>
 
 <div class="article-keypoints">

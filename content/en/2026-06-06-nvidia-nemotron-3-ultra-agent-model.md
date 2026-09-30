@@ -92,8 +92,8 @@ Nemotron 3 Ultra is fully open — weights, data, and recipes — under the Open
 Nemotron 3 Ultra represents the clearest sign yet that open models are reaching parity with closed frontier systems for agentic workloads. For teams building production agent pipelines, a fully open, commercially licensed model at this performance level significantly changes the build-vs-buy calculation.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
-· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
 </div>

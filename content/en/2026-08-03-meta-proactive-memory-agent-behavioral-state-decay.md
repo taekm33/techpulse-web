@@ -87,8 +87,8 @@ Through 2026, memory has become one of the fastest-moving areas in AI agents. St
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://arxiv.org/abs/2607.08716" target="_blank" rel="noopener">arXiv — Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents (original paper)</a><br/>
-· <a href="https://github.com/yifannnwu/proactive-memory-agent" target="_blank" rel="noopener">GitHub — authors' public code repository (yifannnwu/proactive-memory-agent)</a><br/>
-· <a href="https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/" target="_blank" rel="noopener">The Decoder — Meta AI uses a second AI agent as a memory coach</a><br/>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://arxiv.org/abs/2607.08716" target="_blank" rel="noopener">arXiv — Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents (original paper)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/yifannnwu/proactive-memory-agent" target="_blank" rel="noopener">GitHub — authors' public code repository (yifannnwu/proactive-memory-agent)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/" target="_blank" rel="noopener">The Decoder — Meta AI uses a second AI agent as a memory coach</a><br/>
 </div>

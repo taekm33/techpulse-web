@@ -90,8 +90,8 @@ TECHi는 "2.8조 파라미터를 공개한다는 것은, 가장 강력한 모델
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face (Kimi 모델·가중치 공개처)</a><br/>
-· <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3" target="_blank" rel="noopener">Tom's Hardware — 2.8조 파라미터 Kimi K3, Frontend Code Arena서 Claude Fable 5 추월</a><br/>
-· <a href="https://www.techi.com/kimi-k3-open-weights-inference-economics/" target="_blank" rel="noopener">TECHi — 7월 27일 오픈웨이트 공개, 1.4TB 메모리 요구의 함의</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face (Kimi 모델·가중치 공개처)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3" target="_blank" rel="noopener">Tom's Hardware — 2.8조 파라미터 Kimi K3, Frontend Code Arena서 Claude Fable 5 추월</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.techi.com/kimi-k3-open-weights-inference-economics/" target="_blank" rel="noopener">TECHi — 7월 27일 오픈웨이트 공개, 1.4TB 메모리 요구의 함의</a><br/>
 </div>

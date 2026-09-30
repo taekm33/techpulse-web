@@ -90,8 +90,8 @@ Nemotron 3 Ultra is a genuine milestone for US open-source AI. It narrows the ga
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron developer page" target="_blank" rel="noopener"></a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
-· <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron developer page" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
 </div>

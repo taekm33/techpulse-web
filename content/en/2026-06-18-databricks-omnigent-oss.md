@@ -63,7 +63,7 @@ As companies move agents from experimentation into live deployment, pressure is 
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks Blog (official)</a><br/>
-· <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks on GitHub</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks Blog (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks on GitHub</a><br/>
 </div>

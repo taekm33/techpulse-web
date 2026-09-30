@@ -58,8 +58,8 @@ tags: ["삼성전자", "OpenAI", "ChatGPT Enterprise", "Codex", "기업AI"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/chatgpt/enterprise/" target="_blank" rel="noopener">OpenAI — ChatGPT Enterprise</a><br/>
-· <a href="https://openai.com/codex/" target="_blank" rel="noopener">OpenAI — Codex</a><br/>
-· <a href="https://news.samsung.com/global/" target="_blank" rel="noopener">Samsung Newsroom (글로벌)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/chatgpt/enterprise/" target="_blank" rel="noopener">OpenAI — ChatGPT Enterprise</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/codex/" target="_blank" rel="noopener">OpenAI — Codex</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://news.samsung.com/global/" target="_blank" rel="noopener">Samsung Newsroom (글로벌)</a><br/>
 </div>

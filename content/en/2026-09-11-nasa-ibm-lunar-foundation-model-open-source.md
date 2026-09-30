@@ -68,9 +68,9 @@ The release sits at the intersection of two trends: the explosion of space-scien
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/" target="_blank" rel="noopener">NASA Science — NASA, IBM Launch AI Foundation Model for Lunar Science</a><br/>
-<a href="https://huggingface.co/collections/nasa-ibm-ai4science/nasa-ibm-lunar-fm-and-downstream-models" target="_blank" rel="noopener">Hugging Face — NASA-IBM Lunar FM and downstream models collection</a><br/>
-<a href="https://github.com/NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model" target="_blank" rel="noopener">GitHub — NASA-IBM Lunar Foundation Model codebase</a><br/>
-<a href="https://science.nasa.gov/artificial-intelligence-science" target="_blank" rel="noopener">NASA — Artificial Intelligence for Science</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/" target="_blank" rel="noopener">NASA Science — NASA, IBM Launch AI Foundation Model for Lunar Science</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://huggingface.co/collections/nasa-ibm-ai4science/nasa-ibm-lunar-fm-and-downstream-models" target="_blank" rel="noopener">Hugging Face — NASA-IBM Lunar FM and downstream models collection</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://github.com/NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model" target="_blank" rel="noopener">GitHub — NASA-IBM Lunar Foundation Model codebase</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://science.nasa.gov/artificial-intelligence-science" target="_blank" rel="noopener">NASA — Artificial Intelligence for Science</a>
 </div>

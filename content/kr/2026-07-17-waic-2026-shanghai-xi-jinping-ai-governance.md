@@ -66,10 +66,10 @@ CGTN 등 중국 관영매체에 따르면 시 주석은 개막식 연설에서 "
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://news.cgtn.com/news/2026-07-13/Xi-to-attend-and-address-opening-ceremony-of-2026-World-AI-Conference-1OKgsIkkofu/p.html" target="_blank" rel="noopener">CGTN — Xi to attend and address opening ceremony of 2026 WAIC</a><br/>
-<a href="https://en.people.cn/n3/2026/0708/c90000-20475542.html" target="_blank" rel="noopener">People's Daily — 2026 WAIC set for July 17 with over 300 global product debuts</a><br/>
-<a href="https://www.globaltimes.cn/page/202607/1365377.shtml" target="_blank" rel="noopener">Global Times — 2026 WAIC set for July 17 in Shanghai</a><br/>
-<a href="https://www.yicaiglobal.com/news/shanghai-to-host-record-size-2026-waic-with-300-global-product-debuts" target="_blank" rel="noopener">Yicai Global — Shanghai to Host Record-Size 2026 WAIC</a><br/>
-<a href="https://www.prnewswire.com/news-releases/shanghai-to-host-pioneering-international-ai-conference-302820217.html" target="_blank" rel="noopener">PR Newswire — Shanghai to host pioneering international AI conference</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://news.cgtn.com/news/2026-07-13/Xi-to-attend-and-address-opening-ceremony-of-2026-World-AI-Conference-1OKgsIkkofu/p.html" target="_blank" rel="noopener">CGTN — Xi to attend and address opening ceremony of 2026 WAIC</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://en.people.cn/n3/2026/0708/c90000-20475542.html" target="_blank" rel="noopener">People's Daily — 2026 WAIC set for July 17 with over 300 global product debuts</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.globaltimes.cn/page/202607/1365377.shtml" target="_blank" rel="noopener">Global Times — 2026 WAIC set for July 17 in Shanghai</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.yicaiglobal.com/news/shanghai-to-host-record-size-2026-waic-with-300-global-product-debuts" target="_blank" rel="noopener">Yicai Global — Shanghai to Host Record-Size 2026 WAIC</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.prnewswire.com/news-releases/shanghai-to-host-pioneering-international-ai-conference-302820217.html" target="_blank" rel="noopener">PR Newswire — Shanghai to host pioneering international AI conference</a>
 </div>

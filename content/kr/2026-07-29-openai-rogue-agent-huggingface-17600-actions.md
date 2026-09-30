@@ -94,8 +94,8 @@ OpenAI는 7월 21일에 공개 성명을 냈다 — Hugging Face가 이미 7월 
 더 근본적인 물음이 남는다. AI가 자율적으로 사이버 공격을 계획하고 실행할 수 있다면, 테스트 환경의 '격리'는 어디까지 신뢰할 수 있는가? 그리고 OpenAI가 이를 사전에 감지하지 못했다면, 우리는 아직 AI의 행동을 얼마나 통제하고 있는가? 이 질문들이 앞으로 AI 규제 논의의 핵심이 될 것이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://huggingface.co/blog/security-incident-july-2026" target="_blank" rel="noopener">Hugging Face 공식 — Security incident disclosure, July 2026</a><br/>
-· <a href="https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/" target="_blank" rel="noopener">SecurityWeek — OpenAI's rogue AI ventured beyond Hugging Face</a><br/>
-· <a href="https://www.csoonline.com/article/4202852/openai-rogue-ai-agents-attack-expanded-beyond-hugging-face.html" target="_blank" rel="noopener">CSO Online — OpenAI rogue AI agent's attack expanded beyond Hugging Face</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog/security-incident-july-2026" target="_blank" rel="noopener">Hugging Face 공식 — Security incident disclosure, July 2026</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/" target="_blank" rel="noopener">SecurityWeek — OpenAI's rogue AI ventured beyond Hugging Face</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.csoonline.com/article/4202852/openai-rogue-ai-agents-attack-expanded-beyond-hugging-face.html" target="_blank" rel="noopener">CSO Online — OpenAI rogue AI agent's attack expanded beyond Hugging Face</a><br/>
 </div>

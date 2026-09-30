@@ -59,10 +59,10 @@ Electrek 취재에 응한 4명의 소식통에 따르면, 이런 유도에도 �
 테슬라의 기업가치는 로보택시와 옵티머스 등 AI 사업에 크게 의존한다고 머스크 스스로 밝혀왔다. 그런 회사가 엔지니어 1인당 주 몇천 달러 수준의 토큰 비용조차 통제하지 못해 급하게 제동을 걸었다는 사실은, AI를 대규모로 운영하는 일이 기술 못지않게 비용 거버넌스의 문제이기도 하다는 점을 보여준다. 동시에 비용 한도에서 자사 제품만 예외로 두는 방식은 내부 직원의 도구 선택을 시장 경쟁이 아닌 정책으로 좌우하려는 시도로 읽힐 수 있어, 향후 테슬라 내부의 AI 도구 사용 구도가 어떻게 바뀌는지 지켜볼 대목이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/" target="_blank" rel="noopener">Electrek — Tesla caps employee AI spending at $200/week except for Grok</a><br/>
-· <a href="https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm" target="_blank" rel="noopener">Tech Times — Tesla Limits AI Tool Spending to $200 Weekly While Musk's Grok Stays Exempt</a><br/>
-· <a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/" target="_blank" rel="noopener">TechCrunch — Uber caps employee AI spending after blowing through budget in four months</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/" target="_blank" rel="noopener">Electrek — Tesla caps employee AI spending at $200/week except for Grok</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm" target="_blank" rel="noopener">Tech Times — Tesla Limits AI Tool Spending to $200 Weekly While Musk's Grok Stays Exempt</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/" target="_blank" rel="noopener">TechCrunch — Uber caps employee AI spending after blowing through budget in four months</a>
 </div>
 
 <div class="article-keypoints">

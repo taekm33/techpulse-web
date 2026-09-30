@@ -190,7 +190,7 @@ Several significant questions about Rubin remain genuinely open:
 *TechPulse covers AI and technology from a practitioner's perspective. Specifications and timelines reflect best available public information as of May 2026. For official NVIDIA product information, refer to [nvidia.com](https://nvidia.com).*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
-· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC (official)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC (official)</a>
 </div>

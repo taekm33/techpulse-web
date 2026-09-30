@@ -235,8 +235,8 @@ Blackwell is not a product cycle you can ignore if you're serious about AI infra
 *Pricing information reflects market estimates as of Q1 2026. Specifications reflect publicly announced figures. Supply and availability change frequently; verify current availability with vendors.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — Jensen Huang GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
-· <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell Architecture (official)</a><br/>
-· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC official page</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/gtc/keynote/" target="_blank" rel="noopener">NVIDIA — Jensen Huang GTC 2026 Keynote (Blackwell · Vera Rubin)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://resources.nvidia.com/en-us-blackwell-architecture" target="_blank" rel="noopener">NVIDIA — Blackwell Architecture (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC official page</a>
 </div>

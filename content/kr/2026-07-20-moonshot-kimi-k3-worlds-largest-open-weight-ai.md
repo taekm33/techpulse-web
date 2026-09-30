@@ -83,8 +83,8 @@ Kimi K3의 가격 정책은 또 하나의 파격이다. 100만 입력 토큰에 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
+<strong>공식·1차 출처</strong><br/>
 &middot; <a href="" target="_blank" rel="noopener">Moonshot AI 공식 GitHub https://github.com/MoonshotAI</a><br/>
-&middot; <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Kimi on Hugging Face</a><br/>
-&middot; <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Kimi on Hugging Face</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
 </div>

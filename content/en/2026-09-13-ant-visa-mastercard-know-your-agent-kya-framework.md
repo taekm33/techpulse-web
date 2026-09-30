@@ -59,11 +59,11 @@ There is a wide gap between agreeing on an authentication standard and implement
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.ant-intl.com/en/news/detail?id=ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce" target="_blank" rel="noopener">Ant International — Official announcement of the KYA interoperability collaboration</a><br/>
-· <a href="https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework/" target="_blank" rel="noopener">PYMNTS — Visa and Mastercard team with Ant on KYA framework</a><br/>
-· <a href="https://www.unite.ai/ant-international-visa-mastercard-align-on-ai-agent-verification-rules/" target="_blank" rel="noopener">Unite.AI — Trio aligns on AI-agent verification rules</a><br/>
-· <a href="https://forkast.news/ant-international-visa-and-mastercard-agree-on-agent-identity-standard-now-comes-the-hard-part/" target="_blank" rel="noopener">Forkast — Agreement on an agent identity standard; now the hard part</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.ant-intl.com/en/news/detail?id=ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce" target="_blank" rel="noopener">Ant International — Official announcement of the KYA interoperability collaboration</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework/" target="_blank" rel="noopener">PYMNTS — Visa and Mastercard team with Ant on KYA framework</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.unite.ai/ant-international-visa-mastercard-align-on-ai-agent-verification-rules/" target="_blank" rel="noopener">Unite.AI — Trio aligns on AI-agent verification rules</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://forkast.news/ant-international-visa-and-mastercard-agree-on-agent-identity-standard-now-comes-the-hard-part/" target="_blank" rel="noopener">Forkast — Agreement on an agent identity standard; now the hard part</a>
 </div>
 
 <div class="article-keypoints">

@@ -69,9 +69,9 @@ Robinhood launched a similar agent trading product last month. With Coinbase now
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Resources · Official Sources · Getting Started</strong><br>
-— <a href="https://github.com/coinbase/agentkit" target="_blank" rel="noopener noreferrer">Coinbase AgentKit GitHub (agent wallet and trading SDK)</a><br>
-— <a href="https://github.com/coinbase/x402" target="_blank" rel="noopener noreferrer">x402 Payment Protocol GitHub (open-source standard)</a><br>
-— <a href="https://github.com/coinbase/coinbase-sdk-nodejs" target="_blank" rel="noopener noreferrer">Coinbase Node.js SDK (agent integration development)</a>
+<div class="article-callout__body"><strong>Primary Sources · Getting Started</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/coinbase/agentkit" target="_blank" rel="noopener noreferrer">Coinbase AgentKit GitHub (agent wallet and trading SDK)</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/coinbase/x402" target="_blank" rel="noopener noreferrer">x402 Payment Protocol GitHub (open-source standard)</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/coinbase/coinbase-sdk-nodejs" target="_blank" rel="noopener noreferrer">Coinbase Node.js SDK (agent integration development)</a>
 </div>
 </div>

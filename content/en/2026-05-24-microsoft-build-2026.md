@@ -183,6 +183,6 @@ Across all of Build 2026's announcements, several themes carry immediate practic
 </ul></div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 (official)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 (official)</a>
 </div>

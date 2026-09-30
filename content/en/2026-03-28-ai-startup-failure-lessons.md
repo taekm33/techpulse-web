@@ -251,9 +251,9 @@ The AI boom has created genuine wealth, genuine technological progress, and genu
 The seven cases here are not cautionary tales about AI specifically. They are cautionary tales about what happens when startup fundamentals — defensible differentiation, sustainable business models, sound governance, and capital discipline — are treated as optional in a hot market. The founders who survive the AI wave are those who understood that hype cycles end but good businesses do not.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/" target="_blank" rel="noopener">Official Microsoft Blog: Mustafa Suleyman joins Microsoft to lead Copilot</a><br/>
-· <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI — official site</a><br/>
-· <a href="https://character.ai/" target="_blank" rel="noopener">Character.AI — official site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/" target="_blank" rel="noopener">Official Microsoft Blog: Mustafa Suleyman joins Microsoft to lead Copilot</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI — official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://character.ai/" target="_blank" rel="noopener">Character.AI — official site</a><br/>
 </div>
 

@@ -63,9 +63,9 @@ The episode illustrates how tightening safeguards on frontier models translates 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank" rel="noopener">Anthropic — Redeploying Fable 5 (official announcement)</a><br/>
-<a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank" rel="noopener">Anthropic — More details on Fable 5's cyber safeguards and jailbreak framework</a><br/>
-<a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/" target="_blank" rel="noopener">BleepingComputer — Claude Fable 5 isn't permanently leaving subscriptions</a><br/>
-<a href="https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans" target="_blank" rel="noopener">Claude Support — Manage usage credits for paid Claude plans</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank" rel="noopener">Anthropic — Redeploying Fable 5 (official announcement)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/fable-safeguards-jailbreak-framework" target="_blank" rel="noopener">Anthropic — More details on Fable 5's cyber safeguards and jailbreak framework</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/" target="_blank" rel="noopener">BleepingComputer — Claude Fable 5 isn't permanently leaving subscriptions</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans" target="_blank" rel="noopener">Claude Support — Manage usage credits for paid Claude plans</a>
 </div>

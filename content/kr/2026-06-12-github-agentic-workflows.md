@@ -66,9 +66,9 @@ tags: ["github", "agentic-workflows", "github-actions", "copilot", "ci-cd"]
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://github.com/github/gh-aw" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows CLI (gh-aw) 공식 저장소</a><br>
-— <a href="https://github.com/githubnext/agentics" target="_blank" rel="noopener noreferrer">사전 제작 워크플로우 예시 모음 (agentics repo)</a><br>
-— <a href="https://github.com/github/gh-aw/releases" target="_blank" rel="noopener noreferrer">gh-aw 릴리즈 히스토리 및 최신 버전 다운로드</a>
+<div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/github/gh-aw" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows CLI (gh-aw) 공식 저장소</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/githubnext/agentics" target="_blank" rel="noopener noreferrer">사전 제작 워크플로우 예시 모음 (agentics repo)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/github/gh-aw/releases" target="_blank" rel="noopener noreferrer">gh-aw 릴리즈 히스토리 및 최신 버전 다운로드</a>
 </div>
 </div>

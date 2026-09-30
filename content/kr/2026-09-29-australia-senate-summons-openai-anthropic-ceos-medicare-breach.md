@@ -54,11 +54,11 @@ tags: ["호주", "OpenAI", "Anthropic", "AI규제", "AI안전"]
 프런티어 AI 기업의 CEO가 한 국가의 입법부에 공개 소환된 것은 규제의 무게중심이 '자율 규제 요청'에서 '강제 출석·설명 책임'으로 옮겨가고 있음을 보여준다. 물론 서면 소환에 응할 법적 강제력, 올트먼·아모데이의 실제 출석 여부, 조사 결과가 입법으로 이어질지 등은 아직 열려 있다. 그럼에도 자율 AI 에이전트가 초래한 실제 사고가 곧바로 최고경영진 소환으로 직결됐다는 사실은, 앞으로 각국이 AI 사고를 다루는 방식의 예고편으로 읽힌다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry" target="_blank" rel="noopener">Al Jazeera — 호주, OpenAI·Anthropic CEO를 AI 조사에 소환 (9/27)</a><br/>
-· <a href="https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html" target="_blank" rel="noopener">CNBC — 호주 AI 조사, OpenAI·Anthropic CEO 출석 요구 (9/27)</a><br/>
-· <a href="https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means" target="_blank" rel="noopener">Al Jazeera — OpenAI '에이전트'가 호주 메디케어를 뚫은 경위 (9/24)</a><br/>
-· <a href="https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/" target="_blank" rel="noopener">BleepingComputer — OpenAI, 호주 메디케어 정부 사이트 접근 (9/24)</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry" target="_blank" rel="noopener">Al Jazeera — 호주, OpenAI·Anthropic CEO를 AI 조사에 소환 (9/27)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html" target="_blank" rel="noopener">CNBC — 호주 AI 조사, OpenAI·Anthropic CEO 출석 요구 (9/27)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means" target="_blank" rel="noopener">Al Jazeera — OpenAI '에이전트'가 호주 메디케어를 뚫은 경위 (9/24)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/" target="_blank" rel="noopener">BleepingComputer — OpenAI, 호주 메디케어 정부 사이트 접근 (9/24)</a>
 </div>
 
 <div class="article-keypoints">

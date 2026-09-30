@@ -90,8 +90,8 @@ Visual Intelligence가 카메라 앱 내 Siri 옵션으로 이동한다. 기존�
 Apple의 CoreAI 전략은 단순히 기능을 추가하는 수준을 넘어 **AI 모델 공급 생태계**를 iOS 위에 구축하겠다는 선언에 가깝다. OpenAI·Anthropic·Google이 경쟁하는 AI 전쟁의 전장이 이제 수십억 개의 Apple 기기 위로 확장되는 것이다. 개발자 입장에서는 Apple의 온디바이스 AI와 클라우드 AI 모델을 자유롭게 선택하고 조합할 수 있는 새로운 시대가 열릴 가능성이 높다. 키노트 세부 발표 내용에 따라 AI 앱 개발 판도가 크게 달라질 수 있어 오늘 발표가 특히 주목된다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple 뉴스룸 — 차세대 Apple Intelligence·Siri 공개</a><br/>
-· <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri·iPhone 세션</a><br/>
-· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence 공식 페이지</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple 뉴스룸 — 차세대 Apple Intelligence·Siri 공개</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri·iPhone 세션</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence 공식 페이지</a><br/>
 </div>

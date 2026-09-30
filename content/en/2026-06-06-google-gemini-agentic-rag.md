@@ -85,8 +85,8 @@ The broader trend is clear: enterprise RAG is evolving from a retrieval-assistan
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.google/technology/google-deepmind/ Google DeepMind Blog" target="_blank" rel="noopener"></a><br/>
-· <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API documentation</a><br/>
-· <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/technology/google-deepmind/ Google DeepMind Blog" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener">Gemini API documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noopener">Google Cloud Vertex AI</a><br/>
 </div>

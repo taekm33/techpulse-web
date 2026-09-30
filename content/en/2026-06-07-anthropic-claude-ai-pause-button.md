@@ -68,7 +68,7 @@ There is an obvious tension in a self-described AI safety company publishing dat
 Whether the global community finds this reasoning convincing — and whether any viable pause mechanism can be built before it's needed — is now one of the defining questions in technology policy.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/institute/recursive-self-improvement" target="_blank" rel="noopener">Anthropic Institute — When AI builds itself (original report)</a><br/>
-· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic — official site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/institute/recursive-self-improvement" target="_blank" rel="noopener">Anthropic Institute — When AI builds itself (original report)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic — official site</a><br/>
 </div>

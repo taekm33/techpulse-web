@@ -51,11 +51,11 @@ tags: ["앤트로픽", "IPO", "클로드", "AI매출", "상장"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html" target="_blank" rel="noopener">CNBC — Anthropic annualized revenue run rate climbed to $65B in July</a><br/>
-· <a href="https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing" target="_blank" rel="noopener">Bloomberg — Anthropic set to add Citigroup to top IPO banks</a><br/>
-· <a href="https://www.axios.com/2026/08/17/anthropic-revenue-run-rate-ipo-openai" target="_blank" rel="noopener">Axios — Anthropic's revenue run rate surpasses $65B pre-IPO</a><br/>
-· <a href="https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/" target="_blank" rel="noopener">Fortune — Anthropic revenue surges to over $11.5B in Q2</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html" target="_blank" rel="noopener">CNBC — Anthropic annualized revenue run rate climbed to $65B in July</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing" target="_blank" rel="noopener">Bloomberg — Anthropic set to add Citigroup to top IPO banks</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.axios.com/2026/08/17/anthropic-revenue-run-rate-ipo-openai" target="_blank" rel="noopener">Axios — Anthropic's revenue run rate surpasses $65B pre-IPO</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/" target="_blank" rel="noopener">Fortune — Anthropic revenue surges to over $11.5B in Q2</a>
 </div>
 
 <div class="article-keypoints">

@@ -72,8 +72,8 @@ LaunchDarkly, Bright, Amplitude, Sonar, Endor Labs, Octopus Deploy, Packfiles, P
 깃허브에 따르면 월간 커밋 수가 14억 건을 넘어 전년 대비 거의 두 배 증가했으며, 주당 깃허브 액션 실행 시간도 20억 분을 돌파했다. 에이전트 네이티브 개발 환경으로의 전환이 단순한 트렌드가 아닌 현실로 자리 잡고 있음을 보여주는 수치다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
-· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a>
 </div>

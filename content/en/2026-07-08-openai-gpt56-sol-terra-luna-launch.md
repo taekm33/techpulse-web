@@ -86,8 +86,8 @@ For developers and enterprises, the practical takeaway is simpler: a significant
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — Official Site</a><br/>
-· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI — Model Docs (API)</a><br/>
-· <a href="https://www.axios.com/technology" target="_blank" rel="noopener">Axios — Technology (First Report)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — Official Site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI — Model Docs (API)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.axios.com/technology" target="_blank" rel="noopener">Axios — Technology (First Report)</a>
 </div>

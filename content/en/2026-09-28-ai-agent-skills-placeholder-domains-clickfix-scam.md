@@ -67,11 +67,11 @@ Manifold's guidance is direct. Use only RFC 2606-reserved domains (example.com, 
 The incident is a warning about how the AI agent ecosystem will govern its "supply chain of trust." As architectures in which agents autonomously call URLs from documentation spread, every static URL embedded in a skill becomes a promise that can break at any time. A seemingly trivial convention — the example domain — has turned into a large attack surface, and both skill publishers and framework providers now need basic hygiene that makes reserved domains the default.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.manifold.security/blog/placeholder-domains-ads-serve-scams" target="_blank" rel="noopener">Manifold Security — Placeholder Domains Whose Ads Serve Scams (original research)</a><br/>
-· <a href="https://www.manifold.security/blog/third-party-com-placeholder-clickfix" target="_blank" rel="noopener">Manifold Security — third-party.com Placeholder Now Serves ClickFix</a><br/>
-· <a href="https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html" target="_blank" rel="noopener">The Hacker News — third-party.com Referenced Across 1,700+ Repos Now Serves Malicious Content</a><br/>
-· <a href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams/" target="_blank" rel="noopener">HackRead — Placeholder Domains Used by 349 AI Agent Skills Redirecting to Scams</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.manifold.security/blog/placeholder-domains-ads-serve-scams" target="_blank" rel="noopener">Manifold Security — Placeholder Domains Whose Ads Serve Scams (original research)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.manifold.security/blog/third-party-com-placeholder-clickfix" target="_blank" rel="noopener">Manifold Security — third-party.com Placeholder Now Serves ClickFix</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html" target="_blank" rel="noopener">The Hacker News — third-party.com Referenced Across 1,700+ Repos Now Serves Malicious Content</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams/" target="_blank" rel="noopener">HackRead — Placeholder Domains Used by 349 AI Agent Skills Redirecting to Scams</a>
 </div>
 
 <div class="article-keypoints">

@@ -95,9 +95,9 @@ Anthropic은 앞으로 수 주 안에 학술 워크숍을 개최해 학계, 정�
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic 연구·발표 (Research)</a><br/>
-· <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST 양자내성암호(PQC) 표준화 프로젝트</a><br/>
-· <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK 서명 알고리즘 공식 사이트</a><br/>
-· <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES 표준 FIPS 197 (NIST)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic 연구·발표 (Research)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://csrc.nist.gov/projects/post-quantum-cryptography" target="_blank" rel="noopener">NIST 양자내성암호(PQC) 표준화 프로젝트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://hawk-sign.info/" target="_blank" rel="noopener">HAWK 서명 알고리즘 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://csrc.nist.gov/pubs/fips/197/final" target="_blank" rel="noopener">AES 표준 FIPS 197 (NIST)</a><br/>
 </div>

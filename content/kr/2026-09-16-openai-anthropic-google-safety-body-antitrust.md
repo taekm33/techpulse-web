@@ -55,11 +55,11 @@ AI 업계 최상위 경쟁자들이 안전 문제를 놓고 손을 잡았다는 
 이번 확인은 두 가지를 동시에 보여준다. 하나는 최상위 AI 기업들이 "너무 빠른 개발 속도"에 대한 자체 우려를 경쟁 관계를 넘어 공동 대응으로 옮기기 시작했다는 것, 다른 하나는 그 공동 대응이 곧바로 시장 지배력·반독점이라는 오래된 규제 논리와 충돌한다는 것이다. 미 정부가 개발 속도 조절에 회의적인 가운데(트럼프 행정부는 '슬로다운'에 부정적), 업계 스스로 표준기구를 세우려는 시도가 실제 구속력 있는 틀로 이어질지, 아니면 규제 심사에 막혀 선언에 그칠지가 다음 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://pressnewsagency.org/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news-reports/" target="_blank" rel="noopener">OpenAI is working with Anthropic, Google on AI safety (Reuters 보도)</a><br/>
-<a href="https://tech.yahoo.com/ai/articles/openai-anthropic-teamed-safety-test-162512720.html" target="_blank" rel="noopener">OpenAI·Anthropic 안전 테스트 협력 보도 (Yahoo Tech)</a><br/>
-<a href="https://www.lawfaremedia.org/article/how-antitrust-can-promote-ai-safety-collaborations" target="_blank" rel="noopener">How Antitrust Can Promote AI Safety Collaborations (Lawfare)</a><br/>
-<a href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/" target="_blank" rel="noopener">OpenAI·Anthropic·Google 등 100여 기업, 위험 AI 대응 촉구 (TechCrunch)</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://pressnewsagency.org/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news-reports/" target="_blank" rel="noopener">OpenAI is working with Anthropic, Google on AI safety (Reuters 보도)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://tech.yahoo.com/ai/articles/openai-anthropic-teamed-safety-test-162512720.html" target="_blank" rel="noopener">OpenAI·Anthropic 안전 테스트 협력 보도 (Yahoo Tech)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.lawfaremedia.org/article/how-antitrust-can-promote-ai-safety-collaborations" target="_blank" rel="noopener">How Antitrust Can Promote AI Safety Collaborations (Lawfare)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/" target="_blank" rel="noopener">OpenAI·Anthropic·Google 등 100여 기업, 위험 AI 대응 촉구 (TechCrunch)</a>
 </div>
 
 <div class="article-keypoints">

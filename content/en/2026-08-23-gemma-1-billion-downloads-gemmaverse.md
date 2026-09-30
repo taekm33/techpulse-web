@@ -59,11 +59,11 @@ The Gemma Challenge on Kaggle drew more than 1,600 submitted projects aimed at r
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/" target="_blank" rel="noopener">Google — Inside the Gemmaverse: one billion Gemma downloads (Aug 20)</a><br/>
-· <a href="https://github.com/google-gemma/awesome-gemma" target="_blank" rel="noopener">GitHub — Awesome Gemma official repository</a><br/>
-· <a href="https://deepmind.google/models/gemma/gemmaverse/" target="_blank" rel="noopener">Google DeepMind — Gemmaverse</a><br/>
-· <a href="https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants" target="_blank" rel="noopener">The Next Web — Gemma passes one billion downloads</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/" target="_blank" rel="noopener">Google — Inside the Gemmaverse: one billion Gemma downloads (Aug 20)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/google-gemma/awesome-gemma" target="_blank" rel="noopener">GitHub — Awesome Gemma official repository</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://deepmind.google/models/gemma/gemmaverse/" target="_blank" rel="noopener">Google DeepMind — Gemmaverse</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants" target="_blank" rel="noopener">The Next Web — Gemma passes one billion downloads</a>
 </div>
 
 <div class="article-keypoints">

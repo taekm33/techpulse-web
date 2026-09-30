@@ -116,8 +116,8 @@ The OpenAI Frontier Governance Framework, also published on May 28, addresses cy
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI Blog</a><br/>
-· <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI Research</a><br/>
-· <a href="https://www.figure.ai" target="_blank" rel="noopener">Figure AI — Official Site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/research" target="_blank" rel="noopener">OpenAI Research</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.figure.ai" target="_blank" rel="noopener">Figure AI — Official Site</a><br/>
 </div>

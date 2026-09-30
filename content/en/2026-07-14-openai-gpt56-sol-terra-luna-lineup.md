@@ -104,8 +104,8 @@ The shift also signals where competition will intensify next: not in raw benchma
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
-· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI Models Docs</a><br/>
-· <a href="https://research.nvidia.com/" target="_blank" rel="noopener">NVIDIA Research</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI Models Docs</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://research.nvidia.com/" target="_blank" rel="noopener">NVIDIA Research</a><br/>
 </div>

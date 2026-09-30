@@ -55,11 +55,11 @@ The crux here is less about what has been agreed and more about which forms of c
 The confirmation shows two things at once: that the leading AI firms are beginning to translate their own worries about the pace of development into joint action beyond their rivalry — and that this joint action collides almost immediately with the old regulatory logic of market power and antitrust. With the US government skeptical of slowing development (the Trump administration has rejected a "slowdown"), the next thing to watch is whether the industry's attempt to build its own standards body turns into a binding framework, or stalls at the level of declarations under regulatory scrutiny.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://pressnewsagency.org/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news-reports/" target="_blank" rel="noopener">OpenAI is working with Anthropic, Google on AI safety (Reuters)</a><br/>
-<a href="https://tech.yahoo.com/ai/articles/openai-anthropic-teamed-safety-test-162512720.html" target="_blank" rel="noopener">OpenAI and Anthropic team up on safety testing (Yahoo Tech)</a><br/>
-<a href="https://www.lawfaremedia.org/article/how-antitrust-can-promote-ai-safety-collaborations" target="_blank" rel="noopener">How Antitrust Can Promote AI Safety Collaborations (Lawfare)</a><br/>
-<a href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/" target="_blank" rel="noopener">OpenAI, Anthropic, Google and 100+ companies call for action against rogue AI (TechCrunch)</a>
+<strong>Press & Analysis</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://pressnewsagency.org/openai-is-working-with-anthropic-google-on-ai-safety-bloomberg-news-reports/" target="_blank" rel="noopener">OpenAI is working with Anthropic, Google on AI safety (Reuters)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://tech.yahoo.com/ai/articles/openai-anthropic-teamed-safety-test-162512720.html" target="_blank" rel="noopener">OpenAI and Anthropic team up on safety testing (Yahoo Tech)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.lawfaremedia.org/article/how-antitrust-can-promote-ai-safety-collaborations" target="_blank" rel="noopener">How Antitrust Can Promote AI Safety Collaborations (Lawfare)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/" target="_blank" rel="noopener">OpenAI, Anthropic, Google and 100+ companies call for action against rogue AI (TechCrunch)</a>
 </div>
 
 <div class="article-keypoints">

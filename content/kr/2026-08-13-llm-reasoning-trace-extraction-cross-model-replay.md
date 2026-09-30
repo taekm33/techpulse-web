@@ -68,9 +68,9 @@ OpenAI·앤트로픽·구글의 추론 API가 대화 문맥 유지를 위해 주
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://arxiv.org/abs/2608.09867" target="_blank" rel="noopener">논문: Stealing Reasoning Traces from Proprietary LLM APIs (arXiv)</a><br/>
-<a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html" target="_blank" rel="noopener">The Hacker News — OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a><br/>
-<a href="https://cybersecuritynews.com/top-ai-models-apis-flaw-exposes-hidden-reasoning/" target="_blank" rel="noopener">Cyber Security News — LLM APIs Vulnerability Exposes Hidden Reasoning Traces</a><br/>
-<a href="https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/" target="_blank" rel="noopener">Matthew Green — Fooling around with encrypted reasoning blobs (선행 연구, 2026-05)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2608.09867" target="_blank" rel="noopener">논문: Stealing Reasoning Traces from Proprietary LLM APIs (arXiv)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html" target="_blank" rel="noopener">The Hacker News — OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://cybersecuritynews.com/top-ai-models-apis-flaw-exposes-hidden-reasoning/" target="_blank" rel="noopener">Cyber Security News — LLM APIs Vulnerability Exposes Hidden Reasoning Traces</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/" target="_blank" rel="noopener">Matthew Green — Fooling around with encrypted reasoning blobs (선행 연구, 2026-05)</a>
 </div>

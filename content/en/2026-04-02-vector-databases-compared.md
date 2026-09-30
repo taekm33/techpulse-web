@@ -369,7 +369,7 @@ When selecting a vector database for a RAG application, work through these quest
 The honest answer in 2026 is that Qdrant has emerged as the strongest all-around option for teams that need a dedicated vector database: it combines Rust performance, excellent filtered search, reasonable cloud pricing, and the ability to self-host with full feature parity. But "best in general" is rarely "best for your situation" — work through the decision framework above before committing.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.pinecone.io/" target="_blank" rel="noopener">Pinecone (official)</a> · <a href="https://weaviate.io/" target="_blank" rel="noopener">Weaviate (official)</a><br/>
-· <a href="https://qdrant.tech/" target="_blank" rel="noopener">Qdrant (official)</a> · <a href="https://www.trychroma.com/" target="_blank" rel="noopener">Chroma (official)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.pinecone.io/" target="_blank" rel="noopener">Pinecone (official)</a> · <span class="src-role">[Primary]</span> <a href="https://weaviate.io/" target="_blank" rel="noopener">Weaviate (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://qdrant.tech/" target="_blank" rel="noopener">Qdrant (official)</a> · <span class="src-role">[Primary]</span> <a href="https://www.trychroma.com/" target="_blank" rel="noopener">Chroma (official)</a>
 </div>

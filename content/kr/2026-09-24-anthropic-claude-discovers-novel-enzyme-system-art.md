@@ -60,10 +60,10 @@ AI를 연구 파이프라인에 도입하려는 조직이라면, '한 번의 인
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic — Claude가 발견한 신규 효소 시스템 (공식 발표)</a><br/>
-· <a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats" target="_blank" rel="noopener">The Next Web — Claude가 찾은 크리스퍼 유사 반복 배열</a><br/>
-· <a href="https://www.unite.ai/anthropic-says-claude-discovered-a-new-enzyme-system-resembling-crispr/" target="_blank" rel="noopener">Unite.AI — 크리스퍼를 닮은 신규 효소 시스템 발견</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic — Claude가 발견한 신규 효소 시스템 (공식 발표)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats" target="_blank" rel="noopener">The Next Web — Claude가 찾은 크리스퍼 유사 반복 배열</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.unite.ai/anthropic-says-claude-discovered-a-new-enzyme-system-resembling-crispr/" target="_blank" rel="noopener">Unite.AI — 크리스퍼를 닮은 신규 효소 시스템 발견</a>
 </div>
 
 <div class="article-keypoints">

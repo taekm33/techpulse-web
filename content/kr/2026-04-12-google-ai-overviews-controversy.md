@@ -227,7 +227,7 @@ Google AI Overviews의 등장은 인터넷의 콘텐츠 생태계를 근본적�
 </ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/products/search/generative-ai-search/" target="_blank" rel="noopener">Google — AI 검색(생성형) 공식 블로그</a><br/>
-· <a href="https://developers.google.com/search/blog" target="_blank" rel="noopener">Google Search Central 공식 블로그</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/products/search/generative-ai-search/" target="_blank" rel="noopener">Google — AI 검색(생성형) 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developers.google.com/search/blog" target="_blank" rel="noopener">Google Search Central 공식 블로그</a>
 </div>

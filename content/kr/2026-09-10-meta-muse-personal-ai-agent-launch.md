@@ -57,11 +57,11 @@ tags: ["메타", "AI에이전트", "뮤즈", "Muse", "알렉산더왕"]
 뮤즈는 빅테크의 AI 경쟁이 '더 똑똑한 모델'을 넘어 '사용자를 대신해 일을 끝내는 에이전트'로 옮겨가고 있음을 보여준다. 메일·결제 같은 민감한 권한을 다루는 만큼, 초기 신뢰 확보와 안전사고 여부가 확산 속도를 좌우할 것으로 보인다. 오픈AI·앤트로픽·구글이 각자 에이전트 제품을 밀어붙이는 상황에서, 20억 명대 이용자 기반을 가진 메타가 소비자 시장에서 어떤 반향을 만들지가 다음 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/" target="_blank" rel="noopener">Meta 뉴스룸 — Introducing Muse: 개인 AI 에이전트 공식 발표</a><br/>
-· <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3" target="_blank" rel="noopener">Meta AI Research — 뮤즈 스파크 1.3 모델 공식 블로그</a><br/>
-· <a href="https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/" target="_blank" rel="noopener">SiliconANGLE — 메타의 'secure by design' 개인 AI 에이전트 뮤즈</a><br/>
-· <a href="https://thenextweb.com/news/meta-muse-personal-ai-agent-launch" target="_blank" rel="noopener">The Next Web — 예약·구매·협상까지 대행하는 메타 뮤즈</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/" target="_blank" rel="noopener">Meta 뉴스룸 — Introducing Muse: 개인 AI 에이전트 공식 발표</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3" target="_blank" rel="noopener">Meta AI Research — 뮤즈 스파크 1.3 모델 공식 블로그</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/" target="_blank" rel="noopener">SiliconANGLE — 메타의 'secure by design' 개인 AI 에이전트 뮤즈</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/meta-muse-personal-ai-agent-launch" target="_blank" rel="noopener">The Next Web — 예약·구매·협상까지 대행하는 메타 뮤즈</a>
 </div>
 
 <div class="article-keypoints">

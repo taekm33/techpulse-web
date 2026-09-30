@@ -545,8 +545,8 @@ agent = initialize_agent(
 </ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain 공식 문서 (Python)</a><br/>
-· <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex 공식 문서</a><br/>
-· <a href="https://www.langchain.com/" target="_blank" rel="noopener">LangChain 공식 사이트</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://python.langchain.com/" target="_blank" rel="noopener">LangChain 공식 문서 (Python)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.llamaindex.ai/" target="_blank" rel="noopener">LlamaIndex 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.langchain.com/" target="_blank" rel="noopener">LangChain 공식 사이트</a>
 </div>

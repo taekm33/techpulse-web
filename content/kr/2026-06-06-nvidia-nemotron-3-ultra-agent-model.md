@@ -92,8 +92,8 @@ Nemotron 3 Ultra는 OpenMDW-1.1 라이선스(Linux Foundation 주도) 하에 가
 Nemotron 3 Ultra의 등장은 오픈 AI 에이전트 생태계에 중요한 이정표다. 클로즈드 프론티어 모델에 준하는 성능을 오픈 라이선스로 제공함으로써, 중소 기업과 연구 기관도 비용 부담 없이 강력한 에이전트 시스템을 구축할 수 있는 길이 열렸다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
-· <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Developer — Nemotron</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a>
 </div>

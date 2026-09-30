@@ -111,8 +111,8 @@ The answer, this week, appears to be: sooner than we thought.
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Newsroom (official)</a><br/>
-· <a href="https://metr.org/" target="_blank" rel="noopener">METR — Independent AI Evaluations</a><br/>
-· <a href="https://blog.pypi.org/" target="_blank" rel="noopener">PyPI Official Blog (security notices)</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Newsroom (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://metr.org/" target="_blank" rel="noopener">METR — Independent AI Evaluations</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.pypi.org/" target="_blank" rel="noopener">PyPI Official Blog (security notices)</a><br/>
 </div>

@@ -68,8 +68,8 @@ The open model landscape has been dominated by Meta's Llama series and Chinese l
 For teams building production agent systems, the combination of frontier accuracy, 5× throughput gains, measurable cost reduction, and fully open weights makes Nemotron 3 Ultra a serious contender for the backbone of the next generation of enterprise AI applications.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron</a><br/>
-&middot; <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a><br/>
-&middot; <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA blog</a><br/>
+<strong>Primary Sources</strong><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://developer.nvidia.com/nemotron" target="_blank" rel="noopener">NVIDIA Nemotron</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://huggingface.co/nvidia" target="_blank" rel="noopener">NVIDIA on Hugging Face</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA blog</a><br/>
 </div>

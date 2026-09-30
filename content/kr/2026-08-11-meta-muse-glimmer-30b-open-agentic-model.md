@@ -62,9 +62,9 @@ Glimmer는 처음부터 새로 훈련한 모델이 아니라, 메타의 폐쇄�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Glimmer (공식 발표)</a><br/>
-<a href="https://huggingface.co/collections/meta-models/muse-glimmer" target="_blank" rel="noopener">Hugging Face — Muse Glimmer 모델 가중치</a><br/>
-<a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank" rel="noopener">TechCrunch — Meta's new Glimmer AI model</a><br/>
-<a href="https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/" target="_blank" rel="noopener">Engadget — Muse Glimmer runs on a single computer</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Glimmer (공식 발표)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/collections/meta-models/muse-glimmer" target="_blank" rel="noopener">Hugging Face — Muse Glimmer 모델 가중치</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank" rel="noopener">TechCrunch — Meta's new Glimmer AI model</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/" target="_blank" rel="noopener">Engadget — Muse Glimmer runs on a single computer</a>
 </div>

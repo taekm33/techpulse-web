@@ -63,9 +63,9 @@ The deeper takeaway: classic, well-understood web bugs — SSRF and HTML injecti
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Official Sources &amp; Further Reading</strong><br>
-— <a href="https://www.varonis.com/blog/searchleak" target="_blank" rel="noopener noreferrer">Varonis official technical write-up: the full SearchLeak attack chain</a><br>
-— <a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42824" target="_blank" rel="noopener noreferrer">Microsoft Security Update Guide: CVE-2026-42824</a><br>
-— <a href="https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/" target="_blank" rel="noopener noreferrer">BleepingComputer: stage-by-stage breakdown of the attack</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis) · Further Reading</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.varonis.com/blog/searchleak" target="_blank" rel="noopener noreferrer">Varonis official technical write-up: the full SearchLeak attack chain</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42824" target="_blank" rel="noopener noreferrer">Microsoft Security Update Guide: CVE-2026-42824</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/" target="_blank" rel="noopener noreferrer">BleepingComputer: stage-by-stage breakdown of the attack</a>
 </div>
 </div>

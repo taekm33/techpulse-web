@@ -98,7 +98,7 @@ If the token and accuracy claims hold up under independent testing, this approac
 The deeper question is whether this pattern extends beyond Perplexity's own infrastructure. An open version of the Agentic Search SDK concept — where agents can write retrieval logic against any search backend — would be a meaningful primitive for the broader agentic ecosystem. For now, Perplexity holds the stack. Watching how competitors — Exa, Tavily, Google — respond will tell us whether code-first search becomes the new standard or remains a proprietary advantage.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation" target="_blank" rel="noopener">Perplexity Research — Rethinking Search as Code Generation</a><br/>
-· <a href="https://www.perplexity.ai/" target="_blank" rel="noopener">Perplexity — official site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation" target="_blank" rel="noopener">Perplexity Research — Rethinking Search as Code Generation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.perplexity.ai/" target="_blank" rel="noopener">Perplexity — official site</a><br/>
 </div>

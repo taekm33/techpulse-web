@@ -58,9 +58,9 @@ Whether or not this particular deal closes, the signal is clear: the next battle
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/" target="_blank" rel="noopener">PYMNTS — Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs</a><br/>
-<a href="https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905387" target="_blank" rel="noopener">The Jerusalem Post — Anthropic in talks to acquire Decart for $6 billion</a><br/>
-<a href="https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/" target="_blank" rel="noopener">SiliconANGLE — Decart raises $300M for AI optimization software, world models</a><br/>
-<a href="https://www.decart.ai/" target="_blank" rel="noopener">Decart — Official site</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/" target="_blank" rel="noopener">PYMNTS — Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905387" target="_blank" rel="noopener">The Jerusalem Post — Anthropic in talks to acquire Decart for $6 billion</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/" target="_blank" rel="noopener">SiliconANGLE — Decart raises $300M for AI optimization software, world models</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.decart.ai/" target="_blank" rel="noopener">Decart — Official site</a>
 </div>

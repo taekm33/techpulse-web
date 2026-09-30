@@ -60,11 +60,11 @@ tags: ["구글", "제미나이", "Gemini", "AI코딩", "생성형AI"]
 제미나이 3.1 Pro가 2월 모델인 만큼, 3.5 Pro의 지연은 구글 플래그십 라인업의 공백을 실질적으로 늘린다. 관건은 구글이 완성도와 속도 사이에서 균형을 어떻게 잡느냐다. 서둘러 미완성 모델을 내놓기보다 코딩 신뢰성을 확보한 뒤 출시하겠다는 선택은 합리적이지만, 그사이 경쟁사가 개발자 생태계를 굳히면 되돌리기 어려운 격차가 생길 수 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — 구글 제미나이 출시 지연, 내부 목표 미달 (7/16, 원 보도)</a><br/>
-· <a href="https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/" target="_blank" rel="noopener">9to5Google — 코딩 성능 탓 제미나이 3.5 Pro 지연 (7/16)</a><br/>
-· <a href="https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/" target="_blank" rel="noopener">Search Engine Journal — 코딩 문제로 제미나이 3.5 Pro 연기</a><br/>
-· <a href="https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/" target="_blank" rel="noopener">Neowin — 제미나이 3.5 Pro 코딩 성능 미달로 지연</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — 구글 제미나이 출시 지연, 내부 목표 미달 (7/16, 원 보도)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/" target="_blank" rel="noopener">9to5Google — 코딩 성능 탓 제미나이 3.5 Pro 지연 (7/16)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/" target="_blank" rel="noopener">Search Engine Journal — 코딩 문제로 제미나이 3.5 Pro 연기</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.neowin.net/news/google-gemini-35-pro-faces-delays-over-coding-performance-misses/" target="_blank" rel="noopener">Neowin — 제미나이 3.5 Pro 코딩 성능 미달로 지연</a>
 </div>
 
 <div class="article-keypoints">

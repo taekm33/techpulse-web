@@ -58,11 +58,11 @@ Teams that depend on open-source tooling should assess how a change in the platf
 The acquisition shows AI competition expanding from "supplying chips" to "controlling the developer ecosystem." Nvidia is moving beyond hardware sales to integrate the platform layer where models are built and shipped — and the symbolism is sharp given that the target is Hugging Face, which built its identity on neutrality. With regulatory approval still ahead, the judgment of competition authorities and Nvidia's follow-through on its "stay open" pledge will be the key things to watch through the expected first-half-2027 close.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/" target="_blank" rel="noopener">TechCrunch — Nvidia confirms it will buy Hugging Face for $12.9 billion</a><br/>
-· <a href="https://www.engadget.com/2250197/nvidia-buys-hugging-face/" target="_blank" rel="noopener">Engadget — NVIDIA is buying Hugging Face for $12.93 billion</a><br/>
-· <a href="https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363" target="_blank" rel="noopener">The Register — Antitrust and neutrality concerns</a><br/>
-· <a href="https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/" target="_blank" rel="noopener">Variety — Nvidia to Buy Hugging Face for $12.9 Billion</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/" target="_blank" rel="noopener">TechCrunch — Nvidia confirms it will buy Hugging Face for $12.9 billion</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2250197/nvidia-buys-hugging-face/" target="_blank" rel="noopener">Engadget — NVIDIA is buying Hugging Face for $12.93 billion</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363" target="_blank" rel="noopener">The Register — Antitrust and neutrality concerns</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/" target="_blank" rel="noopener">Variety — Nvidia to Buy Hugging Face for $12.9 Billion</a>
 </div>
 
 <div class="article-keypoints">

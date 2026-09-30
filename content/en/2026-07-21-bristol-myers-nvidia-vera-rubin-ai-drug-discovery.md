@@ -48,11 +48,11 @@ The stack includes the NVIDIA BioNeMo Agent Toolkit, supporting not just predict
 BMS frames the approach as "hybrid intelligence": computational systems handle data-intensive execution while human researchers retain direction, interpretation, and the judgment calls that require deeper expertise. "Human instincts aren't replaced," Sheth said, "they're augmented with more quantitative insights and predictions." With a drugmaker now emerging as a major buyer of NVIDIA's latest infrastructure — beyond cloud providers and AI labs — the spread of high-performance computing into scientific and industrial domains looks set to continue.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/" target="_blank" rel="noopener">NVIDIA Blog — BMS Building Life Science's Most Advanced AI Factory on Vera Rubin (official, Jul 20)</a><br/>
-· <a href="https://www.nvidia.com/en-us/data-center/dgx-vera-rubin-nvl72/" target="_blank" rel="noopener">NVIDIA — DGX Vera Rubin NVL72 product page</a><br/>
-· <a href="https://www.nvidia.com/en-us/data-center/dgx-superpod/" target="_blank" rel="noopener">NVIDIA — DGX SuperPOD overview</a><br/>
-· <a href="https://www.pharmexec.com/view/bristol-myers-squibb-collaboration-nvidia--ai-" target="_blank" rel="noopener">Pharmaceutical Executive — BMS Expands NVIDIA Collaboration to Build AI Factory</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/" target="_blank" rel="noopener">NVIDIA Blog — BMS Building Life Science's Most Advanced AI Factory on Vera Rubin (official, Jul 20)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/en-us/data-center/dgx-vera-rubin-nvl72/" target="_blank" rel="noopener">NVIDIA — DGX Vera Rubin NVL72 product page</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.nvidia.com/en-us/data-center/dgx-superpod/" target="_blank" rel="noopener">NVIDIA — DGX SuperPOD overview</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.pharmexec.com/view/bristol-myers-squibb-collaboration-nvidia--ai-" target="_blank" rel="noopener">Pharmaceutical Executive — BMS Expands NVIDIA Collaboration to Build AI Factory</a>
 </div>
 
 <div class="article-keypoints">

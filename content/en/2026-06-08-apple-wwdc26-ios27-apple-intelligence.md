@@ -101,8 +101,8 @@ Apple's CoreAI strategy is essentially a bet that iOS can become the platform la
 For AI companies, being available through Siri on iOS devices is immediate distribution to over a billion users. The terms Apple sets for that integration — and how much control it retains over the experience — will be one of the most consequential platform decisions in the AI era. Today's keynote is the first chapter of that story.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple Newsroom — Next generation of Apple Intelligence and Siri</a><br/>
-· <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri and iPhone session</a><br/>
-· <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence official page</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/" target="_blank" rel="noopener">Apple Newsroom — Next generation of Apple Intelligence and Siri</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://developer.apple.com/videos/play/wwdc2026/121/" target="_blank" rel="noopener">Apple Developer — WWDC26 Siri and iPhone session</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.apple.com/apple-intelligence/" target="_blank" rel="noopener">Apple — Apple Intelligence official page</a><br/>
 </div>

@@ -80,8 +80,8 @@ NVIDIA는 이 모델을 장시간 실행되는 에이전트 태스크에 최적�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron 개발자 페이지" target="_blank" rel="noopener"></a><br/>
-· <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
-· <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/nemotron NVIDIA Nemotron 개발자 페이지" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/" target="_blank" rel="noopener">NVIDIA Foundation Models</a><br/>
 </div>

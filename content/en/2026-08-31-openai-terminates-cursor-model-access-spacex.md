@@ -63,8 +63,8 @@ At the same time, it shows the legal and personal rivalry between OpenAI and Mus
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/" target="_blank" rel="noopener">OpenAI — Our decision on Cursor following its acquisition by SpaceX (official statement)</a><br/>
-<a href="https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/" target="_blank" rel="noopener">Engadget — OpenAI will pull its models from Cursor due to SpaceX acquisition</a><br/>
-<a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/" target="_blank" rel="noopener">The Decoder — OpenAI cuts off Cursor after SpaceX acquisition</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/" target="_blank" rel="noopener">OpenAI — Our decision on Cursor following its acquisition by SpaceX (official statement)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/" target="_blank" rel="noopener">Engadget — OpenAI will pull its models from Cursor due to SpaceX acquisition</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/" target="_blank" rel="noopener">The Decoder — OpenAI cuts off Cursor after SpaceX acquisition</a>
 </div>

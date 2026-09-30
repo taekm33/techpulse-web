@@ -83,8 +83,8 @@ The Maia 200 silicon co-optimization is a key part of this. Microsoft claims tha
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — News</a><br/>
-· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
-· <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — News</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
 </div>

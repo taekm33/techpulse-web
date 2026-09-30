@@ -58,11 +58,11 @@ EU AI 사무국(AI Office)은 'AI 생성 콘텐츠 투명성에 관한 실천강
 제50조 발효는 'AI가 만든 것을 사람이 알 수 있게 하라'는 원칙이 권고에서 강제로 바뀌는 분기점이다. 생성형 AI가 이미지·영상·텍스트를 대량 생산하는 환경에서, 표식과 고지는 콘텐츠 신뢰성의 최소 안전장치가 된다. 규제 당국이 실제 집행에 어느 정도 강도로 나설지, 그리고 표식·탐지 기술 표준이 얼마나 빨리 자리 잡을지가 향후 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689" target="_blank" rel="noopener">EUR-Lex — Regulation (EU) 2024/1689 (EU 인공지능법 원문)</a><br/>
-· <a href="https://artificialintelligenceact.eu/article/50/" target="_blank" rel="noopener">EU AI Act — 제50조 투명성 의무 조문</a><br/>
-· <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">유럽연합 집행위원회 — AI 규제 프레임워크</a><br/>
-· <a href="https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026" target="_blank" rel="noopener">Cooley — 제50조 투명성 의무 발효 해설 (8/3)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689" target="_blank" rel="noopener">EUR-Lex — Regulation (EU) 2024/1689 (EU 인공지능법 원문)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://artificialintelligenceact.eu/article/50/" target="_blank" rel="noopener">EU AI Act — 제50조 투명성 의무 조문</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">유럽연합 집행위원회 — AI 규제 프레임워크</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026" target="_blank" rel="noopener">Cooley — 제50조 투명성 의무 발효 해설 (8/3)</a>
 </div>
 
 <div class="article-keypoints">

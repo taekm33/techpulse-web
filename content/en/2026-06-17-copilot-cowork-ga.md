@@ -65,9 +65,9 @@ Copilot Cowork is now generally available worldwide to Microsoft 365 Copilot cus
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Related resources, official sources & further reading</strong><br>
-— <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/" target="_blank" rel="noopener noreferrer">Microsoft 365 official blog: Copilot Cowork is now generally available</a><br>
-— <a href="https://www.techradar.com/pro/microsoft-makes-copilot-cowork-open-to-everyone-and-wants-to-help-you-tackle-even-the-trickiest-work-tasks" target="_blank" rel="noopener noreferrer">TechRadar: Microsoft makes Copilot Cowork open to everyone</a><br>
-— <a href="https://cryptobriefing.com/microsoft-copilot-cowork-general-availability/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis)</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/" target="_blank" rel="noopener noreferrer">Microsoft 365 official blog: Copilot Cowork is now generally available</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.techradar.com/pro/microsoft-makes-copilot-cowork-open-to-everyone-and-wants-to-help-you-tackle-even-the-trickiest-work-tasks" target="_blank" rel="noopener noreferrer">TechRadar: Microsoft makes Copilot Cowork open to everyone</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://cryptobriefing.com/microsoft-copilot-cowork-general-availability/" target="_blank" rel="noopener noreferrer">Crypto Briefing: Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration</a>
 </div>
 </div>

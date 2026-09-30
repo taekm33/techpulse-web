@@ -377,7 +377,7 @@ TechPulse는 국내 LLM 생태계의 변화를 지속적으로 추적하며 최�
 </ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA 공식</a> · <a href="https://www.lgresearch.ai/" target="_blank" rel="noopener">LG AI Research(EXAONE) 공식</a><br/>
-· <a href="https://www.upstage.ai/" target="_blank" rel="noopener">Upstage 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://clova.ai/" target="_blank" rel="noopener">NAVER CLOVA 공식</a> · <span class="src-role">[공식·1차]</span> <a href="https://www.lgresearch.ai/" target="_blank" rel="noopener">LG AI Research(EXAONE) 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.upstage.ai/" target="_blank" rel="noopener">Upstage 공식</a>
 </div>

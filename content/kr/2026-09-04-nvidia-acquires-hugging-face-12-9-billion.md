@@ -58,11 +58,11 @@ tags: ["엔비디아", "허깅페이스", "오픈소스AI", "인수합병", "젠
 이번 인수는 AI 경쟁의 축이 '칩 공급'에서 '개발자 생태계 장악'으로 확장되고 있음을 보여준다. 엔비디아는 하드웨어 판매를 넘어 모델이 만들어지고 배포되는 플랫폼 계층까지 통합하려 하고, 그 대상이 하필 중립성을 표방해 온 허깅페이스라는 점에서 상징성이 크다. 규제 승인이라는 관문이 남아 있는 만큼, 2027년 상반기 예정된 거래 종료까지 각국 경쟁당국의 판단과 엔비디아의 '개방 유지' 약속 이행이 최대 관전 포인트다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/" target="_blank" rel="noopener">TechCrunch — 엔비디아, 허깅페이스 129억 달러 인수 공식 확인</a><br/>
-· <a href="https://www.engadget.com/2250197/nvidia-buys-hugging-face/" target="_blank" rel="noopener">Engadget — NVIDIA is buying Hugging Face for $12.93 billion</a><br/>
-· <a href="https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363" target="_blank" rel="noopener">The Register — 반독점·중립성 우려 분석</a><br/>
-· <a href="https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/" target="_blank" rel="noopener">Variety — Nvidia to Buy Hugging Face for $12.9 Billion</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/" target="_blank" rel="noopener">TechCrunch — 엔비디아, 허깅페이스 129억 달러 인수 공식 확인</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.engadget.com/2250197/nvidia-buys-hugging-face/" target="_blank" rel="noopener">Engadget — NVIDIA is buying Hugging Face for $12.93 billion</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363" target="_blank" rel="noopener">The Register — 반독점·중립성 우려 분석</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/" target="_blank" rel="noopener">Variety — Nvidia to Buy Hugging Face for $12.9 Billion</a>
 </div>
 
 <div class="article-keypoints">

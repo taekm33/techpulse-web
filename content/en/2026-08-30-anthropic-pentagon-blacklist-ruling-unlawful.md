@@ -67,9 +67,9 @@ Even so, the symbolism is significant. As AI becomes national-security infrastru
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.250.0_1.pdf" target="_blank" rel="noopener">Court opinion (CourtListener/RECAP, 59-page PDF)</a><br/>
-<a href="https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825" target="_blank" rel="noopener">NBC News — Federal judge blocks Pentagon blacklisting of Anthropic</a><br/>
-<a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html" target="_blank" rel="noopener">CNBC — Judge blocks Pentagon blacklist of Anthropic as supply chain risk</a><br/>
-<a href="https://www.forbes.com/sites/siladityaray/2026/08/28/federal-judge-blocks-pentagons-illegal-designation-of-anthropic-as-a-supply-chain-risk/" target="_blank" rel="noopener">Forbes — Federal Judge Rules Pentagon's Designation of Anthropic Is Unlawful</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.250.0_1.pdf" target="_blank" rel="noopener">Court opinion (CourtListener/RECAP, 59-page PDF)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825" target="_blank" rel="noopener">NBC News — Federal judge blocks Pentagon blacklisting of Anthropic</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html" target="_blank" rel="noopener">CNBC — Judge blocks Pentagon blacklist of Anthropic as supply chain risk</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.forbes.com/sites/siladityaray/2026/08/28/federal-judge-blocks-pentagons-illegal-designation-of-anthropic-as-a-supply-chain-risk/" target="_blank" rel="noopener">Forbes — Federal Judge Rules Pentagon's Designation of Anthropic Is Unlawful</a>
 </div>

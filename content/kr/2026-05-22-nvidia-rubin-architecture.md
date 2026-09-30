@@ -211,8 +211,8 @@ AI 가속기 시장 리서치 기관들은 Rubin 출시가 가져올 수요 폭�
 9. 연합뉴스 — [NVIDIA 루빈 아키텍처와 국내 반도체 수혜 전망](https://www.yna.co.kr) (2025)
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noopener">NVIDIA 데이터센터 공식 페이지</a><br/>
-· <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 뉴스룸</a><br/>
-· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/en-us/data-center/" target="_blank" rel="noopener">NVIDIA 데이터센터 공식 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://nvidianews.nvidia.com/" target="_blank" rel="noopener">NVIDIA 공식 뉴스룸</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
 </div>

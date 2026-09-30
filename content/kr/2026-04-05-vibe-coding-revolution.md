@@ -365,7 +365,7 @@ Vibe Coding은 일시적 유행이 아니다. 소프트웨어 개발이라는 �
 8. OWASP Top 10 보안 취약점, https://owasp.org/www-project-top-ten/
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor 공식</a> · <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a><br/>
-· <a href="https://replit.com/" target="_blank" rel="noopener">Replit 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor 공식</a> · <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://replit.com/" target="_blank" rel="noopener">Replit 공식</a>
 </div>

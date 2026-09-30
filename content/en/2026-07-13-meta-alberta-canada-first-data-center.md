@@ -50,11 +50,11 @@ The investment figure was reported differently across outlets because of currenc
 Groundbreaking is only the start; completion is about three years out. Three things are worth watching. First, how the new 932MW gas plant and the "100% renewable matching" pledge reconcile in actual emissions. Second, whether Alberta's cheap-power card triggers a broader Big Tech rush toward Canadian and cold-climate data centers. Third, how much this campus will actually contribute to training Meta's next-generation AI models (the Llama line and its successors).
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/" target="_blank" rel="noopener">Meta Newsroom — Breaking Ground on Meta's First Data Center in Canada (official)</a><br/>
-· <a href="https://datacenters.atmeta.com/2026/07/hello-sturgeon-county/" target="_blank" rel="noopener">Meta Data Centers — Hello, Sturgeon County! (official)</a><br/>
-· <a href="https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html" target="_blank" rel="noopener">CNBC — Meta is building its first big data center in Canada amid AI push (7/8)</a><br/>
-· <a href="https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271" target="_blank" rel="noopener">CBC News — Meta building its first Canadian data centre northeast of Edmonton</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/" target="_blank" rel="noopener">Meta Newsroom — Breaking Ground on Meta's First Data Center in Canada (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://datacenters.atmeta.com/2026/07/hello-sturgeon-county/" target="_blank" rel="noopener">Meta Data Centers — Hello, Sturgeon County! (official)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html" target="_blank" rel="noopener">CNBC — Meta is building its first big data center in Canada amid AI push (7/8)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271" target="_blank" rel="noopener">CBC News — Meta building its first Canadian data centre northeast of Edmonton</a>
 </div>
 
 <div class="article-keypoints">

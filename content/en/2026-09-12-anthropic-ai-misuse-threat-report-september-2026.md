@@ -72,9 +72,9 @@ The report carries weight because it shows how AI is actually used in cyberattac
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank" rel="noopener">Anthropic — Detecting and countering misuse of AI: September 2026</a><br/>
-<a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf" target="_blank" rel="noopener">Anthropic — Full report (PDF)</a><br/>
-<a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">Anthropic — Prior threat report (November 2025)</a><br/>
-<a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025" target="_blank" rel="noopener">Anthropic — Prior threat report (August 2025)</a>
+<strong>Primary Sources</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank" rel="noopener">Anthropic — Detecting and countering misuse of AI: September 2026</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf" target="_blank" rel="noopener">Anthropic — Full report (PDF)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/disrupting-AI-espionage" target="_blank" rel="noopener">Anthropic — Prior threat report (November 2025)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025" target="_blank" rel="noopener">Anthropic — Prior threat report (August 2025)</a>
 </div>

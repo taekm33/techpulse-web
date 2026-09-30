@@ -63,9 +63,9 @@ M365 Copilot Enterprise Search는 사용자의 이메일, 일정, SharePoint·On
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://www.varonis.com/blog/searchleak" target="_blank" rel="noopener noreferrer">Varonis 공식 기술 분석: SearchLeak 전체 공격 체인</a><br>
-— <a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42824" target="_blank" rel="noopener noreferrer">Microsoft 공식 보안 업데이트 가이드: CVE-2026-42824</a><br>
-— <a href="https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/" target="_blank" rel="noopener noreferrer">BleepingComputer: 공격 단계별 상세 보도</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.varonis.com/blog/searchleak" target="_blank" rel="noopener noreferrer">Varonis 공식 기술 분석: SearchLeak 전체 공격 체인</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42824" target="_blank" rel="noopener noreferrer">Microsoft 공식 보안 업데이트 가이드: CVE-2026-42824</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/" target="_blank" rel="noopener noreferrer">BleepingComputer: 공격 단계별 상세 보도</a>
 </div>
 </div>

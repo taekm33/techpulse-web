@@ -79,9 +79,9 @@ OpenAI는 이번 해킹이 "전례 없는 사건"이며 "AI 안전성에서 중�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
-· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (안전) 공식 페이지</a><br/>
-· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스룸</a><br/>
-· <a href="https://www.ic3.gov/" target="_blank" rel="noopener">FBI 인터넷범죄신고센터 (IC3)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (안전) 공식 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스룸</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.ic3.gov/" target="_blank" rel="noopener">FBI 인터넷범죄신고센터 (IC3)</a><br/>
 </div>

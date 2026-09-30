@@ -174,8 +174,8 @@ AI 에이전트는 더 이상 미래의 기술이 아니다. 지금 이 순간 �
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>글로벌 엔터프라이즈 AI 에이전트 시장은 2026년 약 290억 달러 규모로, 포춘 500 기업의 68%가 도입 또는 파일럿 중이다.</li><li>Salesforce Agentforce(CRM 통합), Microsoft Copilot Studio(M365 생태계), ServiceNow AI Agents(ITSM) 등 플랫폼별 강점이 뚜렷하다 — 기존 인프라와의 적합성을 우선 고려해야 한다.</li><li>국내에서는 카카오·네이버·삼성SDS를 중심으로 금융, 제조, 고객서비스, HR 분야 도입이 본격화됐으며 성과가 가시화되고 있다.</li><li>성공 도입의 핵심은 구체적 ROI 설계, 데이터 품질 확보, 작은 파일럿에서 시작하는 점진적 확장이다.</li><li>환각, 보안, 레거시 통합 복잡성은 여전히 주요 도전 과제이며 Human-in-the-Loop 체계는 고위험 분야에서 필수다.</li><li>2026년 하반기에는 멀티에이전트 시스템 주류화와 에이전트 전용 규제 논의 가속화가 핵심 트렌드로 떠오를 전망이다.</li></ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.salesforce.com/agentforce/" target="_blank" rel="noopener">Salesforce Agentforce 공식 페이지</a><br/>
-· <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noopener">Microsoft Copilot Studio</a><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic AI 연구 페이지</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.salesforce.com/agentforce/" target="_blank" rel="noopener">Salesforce Agentforce 공식 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noopener">Microsoft Copilot Studio</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic AI 연구 페이지</a><br/>
 </div>

@@ -63,7 +63,7 @@ Omnigent는 기존 에이전트 위에 얹는 형태로 동작한다. 클로드 
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks 공식 블로그</a><br/>
-· <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks 공식 GitHub</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.databricks.com/blog" target="_blank" rel="noopener">Databricks 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/databricks" target="_blank" rel="noopener">Databricks 공식 GitHub</a><br/>
 </div>

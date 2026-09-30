@@ -61,9 +61,9 @@ IBM 컨설팅의 사이버보안 글로벌 매니징 파트너 마크 휴스는 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-&middot; <a href="https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats" target="_blank" rel="noopener">IBM 뉴스룸 — 공식 발표 원문(2026년 6월 22일)</a><br/>
-&middot; <a href="https://openai.com/daybreak/partners/" target="_blank" rel="noopener">OpenAI — Daybreak 파트너 프로그램 공식 안내</a><br/>
-&middot; <a href="https://thenextweb.com/news/ibm-openai-enterprise-security-partnership" target="_blank" rel="noopener">The Next Web — 엔터프라이즈 보안 관점의 해설</a><br/>
-&middot; <a href="https://techwireasia.com/2026/06/ibm-openai-cyber-program-vulnerability-detection/" target="_blank" rel="noopener">TechWire Asia — 취약점 탐지·검증 워크플로 분석</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats" target="_blank" rel="noopener">IBM 뉴스룸 — 공식 발표 원문(2026년 6월 22일)</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://openai.com/daybreak/partners/" target="_blank" rel="noopener">OpenAI — Daybreak 파트너 프로그램 공식 안내</a><br/>
+&middot; <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/ibm-openai-enterprise-security-partnership" target="_blank" rel="noopener">The Next Web — 엔터프라이즈 보안 관점의 해설</a><br/>
+&middot; <span class="src-role">[보도·해설]</span> <a href="https://techwireasia.com/2026/06/ibm-openai-cyber-program-vulnerability-detection/" target="_blank" rel="noopener">TechWire Asia — 취약점 탐지·검증 워크플로 분석</a><br/>
 </div>

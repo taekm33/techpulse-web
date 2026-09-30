@@ -145,8 +145,8 @@ For Cognition, the next 12 months are about proving that the growth rate can sus
 The $26 billion valuation reflects confidence that Devin has a durable lead. The answers to these three questions will determine whether that confidence is warranted.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://cognition.ai" target="_blank" rel="noopener">Cognition AI — Official Site</a><br/>
-· <a href="https://www.anthropic.com/research/building-effective-agents" target="_blank" rel="noopener">Anthropic: Building Effective Agents</a><br/>
-· <a href="https://huggingface.co/blog/agents" target="_blank" rel="noopener">Hugging Face: AI Agents Guide</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://cognition.ai" target="_blank" rel="noopener">Cognition AI — Official Site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research/building-effective-agents" target="_blank" rel="noopener">Anthropic: Building Effective Agents</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/blog/agents" target="_blank" rel="noopener">Hugging Face: AI Agents Guide</a><br/>
 </div>

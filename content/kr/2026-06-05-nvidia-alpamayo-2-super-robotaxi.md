@@ -80,8 +80,8 @@ Alpamayo 2 Super의 오픈소스 공개는 자율주행 분야에서 특히 의�
 자율주행 시장이 레벨4 상용화를 향한 임계점에 다가가고 있는 지금, NVIDIA의 이번 발표는 하드웨어(GPU, Drive 플랫폼)에서 소프트웨어 AI 스택 전반으로 영향력을 확장하려는 전략적 움직임으로 풀이된다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA 자율주행(DRIVE)</a><br/>
-· <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
-· <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/en-us/self-driving-cars/" target="_blank" rel="noopener">NVIDIA 자율주행(DRIVE)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://developer.nvidia.com/blog/" target="_blank" rel="noopener">NVIDIA 개발자 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/gtc/" target="_blank" rel="noopener">NVIDIA GTC</a><br/>
 </div>

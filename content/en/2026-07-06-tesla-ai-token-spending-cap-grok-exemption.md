@@ -59,10 +59,10 @@ Coincidentally, Anthropic rolled out new admin cost-control features for Claude 
 Musk has repeatedly said Tesla's future valuation hinges on deploying AI at scale across its Robotaxi network and Optimus humanoid robot. That a company betting its valuation on AI struggled to control a few thousand dollars of weekly per-engineer token spend is a reminder that scaling AI is as much a cost-governance problem as a technical one. At the same time, carving out an exemption for products tied to the CEO's other company — rather than letting internal tools compete on merit — raises its own governance questions about how tool choice gets decided inside Tesla going forward.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/" target="_blank" rel="noopener">Electrek — Tesla caps employee AI spending at $200/week except for Grok</a><br/>
-· <a href="https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm" target="_blank" rel="noopener">Tech Times — Tesla Limits AI Tool Spending to $200 Weekly While Musk's Grok Stays Exempt</a><br/>
-· <a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/" target="_blank" rel="noopener">TechCrunch — Uber caps employee AI spending after blowing through budget in four months</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/" target="_blank" rel="noopener">Electrek — Tesla caps employee AI spending at $200/week except for Grok</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm" target="_blank" rel="noopener">Tech Times — Tesla Limits AI Tool Spending to $200 Weekly While Musk's Grok Stays Exempt</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/" target="_blank" rel="noopener">TechCrunch — Uber caps employee AI spending after blowing through budget in four months</a>
 </div>
 
 <div class="article-keypoints">

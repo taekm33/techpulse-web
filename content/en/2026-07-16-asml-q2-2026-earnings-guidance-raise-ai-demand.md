@@ -58,10 +58,10 @@ Every figure in this article (net sales €9.3B, net income €2.9B, EPS €7.59
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/pressreleasefinancialresul.htm" target="_blank" rel="noopener">ASML Q2 2026 earnings press release (SEC Form 6-K, Exhibit 99.1)</a><br/>
-· <a href="https://www.asml.com/en/investors/financial-results" target="_blank" rel="noopener">ASML Investor Relations — Financial Results</a><br/>
-· <a href="https://www.asml.com/en/news/press-releases" target="_blank" rel="noopener">ASML — Press Releases</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/pressreleasefinancialresul.htm" target="_blank" rel="noopener">ASML Q2 2026 earnings press release (SEC Form 6-K, Exhibit 99.1)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.asml.com/en/investors/financial-results" target="_blank" rel="noopener">ASML Investor Relations — Financial Results</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.asml.com/en/news/press-releases" target="_blank" rel="noopener">ASML — Press Releases</a>
 </div>
 
 <div class="article-keypoints">

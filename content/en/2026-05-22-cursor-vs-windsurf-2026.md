@@ -157,8 +157,8 @@ The most pragmatic approach: start your team on Windsurf for the first 60 days t
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading - Official Sources</strong><br/>
-- <a href="https://www.cursor.com/" target="_blank" rel="noopener">Cursor Official Site</a><br/>
-- <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf by Codeium</a><br/>
-- <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
+<strong>Primary Sources</strong><br/>
+- <span class="src-role">[Primary]</span> <a href="https://www.cursor.com/" target="_blank" rel="noopener">Cursor Official Site</a><br/>
+- <span class="src-role">[Primary]</span> <a href="https://codeium.com/windsurf" target="_blank" rel="noopener">Windsurf by Codeium</a><br/>
+- <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
 </div>

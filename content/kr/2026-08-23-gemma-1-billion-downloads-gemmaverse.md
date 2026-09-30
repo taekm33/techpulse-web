@@ -59,11 +59,11 @@ tags: ["구글", "Gemma", "오픈모델", "딥마인드", "MedGemma"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/" target="_blank" rel="noopener">Google — Inside the Gemmaverse: 젬마 10억 다운로드 공식 발표 (8/20)</a><br/>
-· <a href="https://github.com/google-gemma/awesome-gemma" target="_blank" rel="noopener">GitHub — Awesome Gemma 공식 저장소</a><br/>
-· <a href="https://deepmind.google/models/gemma/gemmaverse/" target="_blank" rel="noopener">Google DeepMind — Gemmaverse 소개</a><br/>
-· <a href="https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants" target="_blank" rel="noopener">The Next Web — 젬마 10억 다운로드 보도</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/" target="_blank" rel="noopener">Google — Inside the Gemmaverse: 젬마 10억 다운로드 공식 발표 (8/20)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/google-gemma/awesome-gemma" target="_blank" rel="noopener">GitHub — Awesome Gemma 공식 저장소</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://deepmind.google/models/gemma/gemmaverse/" target="_blank" rel="noopener">Google DeepMind — Gemmaverse 소개</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants" target="_blank" rel="noopener">The Next Web — 젬마 10억 다운로드 보도</a>
 </div>
 
 <div class="article-keypoints">

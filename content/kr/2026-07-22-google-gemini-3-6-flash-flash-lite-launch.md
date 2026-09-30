@@ -64,11 +64,11 @@ Flash·Flash-Lite 같은 '효율' 모델을 먼저 촘촘히 내놓는 전략은
 구글은 이번 라인업으로 '싸고 빠르고 안정적인' 프로덕션 모델이라는 실리를 챙겼다. 가격 인하와 토큰 절감은 에이전트를 대량으로 돌리는 기업 입장에서 직접적인 비용 절감으로 이어진다. 동시에 딥마인드는 "가장 야심 찬 사전학습에 이미 착수했다"며 제미나이 4를 예고해, 다음 승부처를 최상위 모델로 옮기려는 의도를 드러냈다. 관건은 Pro 공백을 언제 메우느냐다. 실속형 모델로 저변을 지키는 사이 플래그십을 완성하지 못하면, 최상위 코딩·추론 워크로드의 주도권을 경쟁사에 계속 내줄 위험이 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/" target="_blank" rel="noopener">Google (The Keyword) — 제미나이 3.6 Flash·3.5 Flash-Lite·Flash Cyber 공식 발표</a><br/>
-· <a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank" rel="noopener">TechCrunch — 구글, 신규 제미나이 3종 공개…하지만 3.5 Pro는 없었다 (7/21)</a><br/>
-· <a href="https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/" target="_blank" rel="noopener">9to5Google — 제미나이 3.6 Flash·3.5 Flash-Lite 출시, 제미나이 4 예고 (7/21)</a><br/>
-· <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — 제미나이 출시 지연, 내부 목표 미달 (7/16, 배경)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/" target="_blank" rel="noopener">Google (The Keyword) — 제미나이 3.6 Flash·3.5 Flash-Lite·Flash Cyber 공식 발표</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank" rel="noopener">TechCrunch — 구글, 신규 제미나이 3종 공개…하지만 3.5 Pro는 없었다 (7/21)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/" target="_blank" rel="noopener">9to5Google — 제미나이 3.6 Flash·3.5 Flash-Lite 출시, 제미나이 4 예고 (7/21)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals" target="_blank" rel="noopener">Bloomberg — 제미나이 출시 지연, 내부 목표 미달 (7/16, 배경)</a>
 </div>
 
 <div class="article-keypoints">

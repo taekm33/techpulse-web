@@ -59,7 +59,7 @@ tags: ["인텔", "반도체", "AI반도체", "실적", "파운드리"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results" target="_blank" rel="noopener">Intel — Second-Quarter 2026 Financial Results (공식 보도자료)</a><br/>
-<a href="https://thenextweb.com/news/intel-q2-2026-earnings-revenue-ai-data-centre" target="_blank" rel="noopener">The Next Web — Intel Q2 2026 earnings: revenue tops $16 billion as AI demand drives fastest growth since 2011</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results" target="_blank" rel="noopener">Intel — Second-Quarter 2026 Financial Results (공식 보도자료)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/intel-q2-2026-earnings-revenue-ai-data-centre" target="_blank" rel="noopener">The Next Web — Intel Q2 2026 earnings: revenue tops $16 billion as AI demand drives fastest growth since 2011</a>
 </div>

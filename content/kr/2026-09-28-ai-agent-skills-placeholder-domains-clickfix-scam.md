@@ -67,11 +67,11 @@ Manifold의 권고는 명확하다. 문서와 스킬에는 RFC 2606로 예약된
 이번 사건은 AI 에이전트 생태계가 '신뢰의 공급망'을 어떻게 관리할지에 대한 경고다. 에이전트가 문서 속 URL을 자율적으로 호출하는 구조가 확산될수록, 스킬에 박힌 정적 URL 하나하나가 '언제든 깨질 수 있는 약속'이 된다. 예시 도메인이라는 사소해 보이던 관행이 대규모 공격면으로 바뀐 만큼, 스킬 배포자와 프레임워크 제공자 모두 예약 도메인 사용을 기본값으로 삼는 위생 수칙이 필요해졌다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.manifold.security/blog/placeholder-domains-ads-serve-scams" target="_blank" rel="noopener">Manifold Security — 자리표시자 도메인들이 유포하는 사기 (원 조사)</a><br/>
-· <a href="https://www.manifold.security/blog/third-party-com-placeholder-clickfix" target="_blank" rel="noopener">Manifold Security — third-party.com이 유포하는 ClickFix 분석</a><br/>
-· <a href="https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html" target="_blank" rel="noopener">The Hacker News — 1,700+ 저장소가 참조한 third-party.com의 악성화</a><br/>
-· <a href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams/" target="_blank" rel="noopener">HackRead — AI 에이전트 스킬 349개가 인용한 자리표시자 도메인의 사기 연결</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.manifold.security/blog/placeholder-domains-ads-serve-scams" target="_blank" rel="noopener">Manifold Security — 자리표시자 도메인들이 유포하는 사기 (원 조사)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.manifold.security/blog/third-party-com-placeholder-clickfix" target="_blank" rel="noopener">Manifold Security — third-party.com이 유포하는 ClickFix 분석</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html" target="_blank" rel="noopener">The Hacker News — 1,700+ 저장소가 참조한 third-party.com의 악성화</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams/" target="_blank" rel="noopener">HackRead — AI 에이전트 스킬 349개가 인용한 자리표시자 도메인의 사기 연결</a>
 </div>
 
 <div class="article-keypoints">

@@ -83,9 +83,9 @@ For developers, the competitive landscape is clarifying. Codex, Claude Code, and
 What OpenAI is announcing is not a product update. It is a declaration of which game it intends to play for the next decade.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://www.itpro.com/technology/artificial-intelligence/openai-chatgpt-superapp-overhaul-public-listing" target="_blank" rel="noopener">ITPro - FT report recap: ChatGPT superapp overhaul and public listing</a><br/>
-&middot; <a href="https://9to5google.com/2026/06/08/chatgpt-redesign-report/" target="_blank" rel="noopener">9to5Google - ChatGPT redesign centered on agents</a><br/>
-&middot; <a href="https://www.pymnts.com/artificial-intelligence-2/2026/openai-declares-chat-dead-in-shift-to-super-app/" target="_blank" rel="noopener">PYMNTS - "Chat is dead": the monetization logic behind the shift</a><br/>
-&middot; <a href="https://www.entrepreneur.com/business-news/openai-plans-to-relaunch-chatgpt-as-a-superapp-that-prioritizes-agents" target="_blank" rel="noopener">Entrepreneur - Relaunching ChatGPT to prioritize agents over answers</a><br/>
+<strong>Press & Analysis</strong><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://www.itpro.com/technology/artificial-intelligence/openai-chatgpt-superapp-overhaul-public-listing" target="_blank" rel="noopener">ITPro - FT report recap: ChatGPT superapp overhaul and public listing</a><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://9to5google.com/2026/06/08/chatgpt-redesign-report/" target="_blank" rel="noopener">9to5Google - ChatGPT redesign centered on agents</a><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/artificial-intelligence-2/2026/openai-declares-chat-dead-in-shift-to-super-app/" target="_blank" rel="noopener">PYMNTS - "Chat is dead": the monetization logic behind the shift</a><br/>
+&middot; <span class="src-role">[Press/Analysis]</span> <a href="https://www.entrepreneur.com/business-news/openai-plans-to-relaunch-chatgpt-as-a-superapp-that-prioritizes-agents" target="_blank" rel="noopener">Entrepreneur - Relaunching ChatGPT to prioritize agents over answers</a><br/>
 </div>

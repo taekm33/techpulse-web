@@ -95,8 +95,8 @@ AI 자율 에이전트 시대의 도래와 함께, 인간의 통제 능력이 AI
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — 공식 사이트</a><br/>
-· <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face — 공식 사이트</a><br/>
-· <a href="https://palisaderesearch.org/" target="_blank" rel="noopener">Palisade Research — AI 안전 연구기관</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI — 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face — 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://palisaderesearch.org/" target="_blank" rel="noopener">Palisade Research — AI 안전 연구기관</a>
 </div>

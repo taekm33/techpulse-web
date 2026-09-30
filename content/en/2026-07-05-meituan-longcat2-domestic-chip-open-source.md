@@ -57,10 +57,10 @@ An MIT license is one of the most permissive open-source licenses available, all
 LongCat-2.0 is generating attention on two fronts at once: its open-source license and its claimed use of fully domestic training infrastructure. Both claims still need scrutiny — the chip-sourcing claim requires independent verification, and the open-source promise won't mean much until weights actually ship. What's already verifiable is the model's real-world track record: two months anonymously holding a top spot on OpenRouter is a usage signal that predates today's announcement. Whether LongCat-2.0 lives up to the hype will likely hinge on what happens after the weights drop and independent benchmarks come in.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.longcatai.org/models/longcat-2" target="_blank" rel="noopener">LongCat-2.0 official model page (longcatai.org)</a><br/>
-· <a href="https://www.scmp.com/tech/tech-trends/article/3358854/china-debuts-biggest-ai-model-trained-local-chips-meituan-releases-longcat-20" target="_blank" rel="noopener">South China Morning Post — China debuts biggest AI model trained on local chips (June 30, 2026)</a><br/>
-· <a href="https://siliconangle.com/2026/06/30/chinas-meituan-open-sources-massive-longcat-2-0-ai-model-saying-trained-domestic-chips/" target="_blank" rel="noopener">SiliconANGLE — China's Meituan open-sources massive LongCat-2.0 AI model (June 30, 2026)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.longcatai.org/models/longcat-2" target="_blank" rel="noopener">LongCat-2.0 official model page (longcatai.org)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.scmp.com/tech/tech-trends/article/3358854/china-debuts-biggest-ai-model-trained-local-chips-meituan-releases-longcat-20" target="_blank" rel="noopener">South China Morning Post — China debuts biggest AI model trained on local chips (June 30, 2026)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://siliconangle.com/2026/06/30/chinas-meituan-open-sources-massive-longcat-2-0-ai-model-saying-trained-domestic-chips/" target="_blank" rel="noopener">SiliconANGLE — China's Meituan open-sources massive LongCat-2.0 AI model (June 30, 2026)</a>
 </div>
 
 <div class="article-keypoints">

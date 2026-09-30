@@ -70,8 +70,8 @@ tags: ["앤트로픽", "클로드", "오퍼스5", "AI모델", "코딩AI"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.anthropic.com/news/claude-opus-5" target="_blank" rel="noopener">앤트로픽 공식 발표 — Introducing Claude Opus 5</a><br/>
-<a href="https://www.anthropic.com/claude-opus-5-system-card" target="_blank" rel="noopener">클로드 오퍼스 5 시스템 카드</a><br/>
-<a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5" target="_blank" rel="noopener">클로드 오퍼스 5 프롬프팅 가이드 (Claude Platform 공식 문서)</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank" rel="noopener">앤트로픽 공식 발표 — Introducing Claude Opus 5</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/claude-opus-5-system-card" target="_blank" rel="noopener">클로드 오퍼스 5 시스템 카드</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5" target="_blank" rel="noopener">클로드 오퍼스 5 프롬프팅 가이드 (Claude Platform 공식 문서)</a>
 </div>

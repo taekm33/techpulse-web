@@ -152,7 +152,7 @@ That bet, if it lands, is very difficult for a point-solution competitor to coun
 </ul></div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 (official)</a><br/>
-· <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI Blog</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI Blog</a>
 </div>

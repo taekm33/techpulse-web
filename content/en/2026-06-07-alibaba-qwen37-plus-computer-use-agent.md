@@ -91,8 +91,8 @@ The computer-use category spent most of 2025 focused on browser automation. Qwen
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen Official Blog (QwenLM)</a><br/>
-· <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen on GitHub (QwenLM)</a><br/>
-· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen Official Blog (QwenLM)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen on GitHub (QwenLM)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen on Hugging Face</a><br/>
 </div>

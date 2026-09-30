@@ -144,7 +144,7 @@ Google I/O 2026은 OpenAI의 공격에 대한 구글의 종합적인 반격이�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 공식</a><br/>
-· <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI 공식 블로그</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://io.google/2026/" target="_blank" rel="noopener">Google I/O 2026 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google — AI 공식 블로그</a>
 </div>

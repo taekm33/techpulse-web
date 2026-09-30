@@ -286,8 +286,8 @@ AI 인프라에서 GPU는 미국이, HBM은 한국이 나눠 가진 셈이다. N
 10. [AI Semiconductor Supply Chain Deep Dive — Goldman Sachs Research, 2026](https://www.goldmansachs.com) — 투자 관점의 AI 반도체 공급망 분석
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://semiconductor.samsung.com/" target="_blank" rel="noopener">Samsung Semiconductor 공식</a><br/>
-· <a href="https://news.skhynix.com/" target="_blank" rel="noopener">SK hynix Newsroom(공식)</a><br/>
-· <a href="https://www.skhynix.com/" target="_blank" rel="noopener">SK hynix 공식 사이트</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://semiconductor.samsung.com/" target="_blank" rel="noopener">Samsung Semiconductor 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://news.skhynix.com/" target="_blank" rel="noopener">SK hynix Newsroom(공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.skhynix.com/" target="_blank" rel="noopener">SK hynix 공식 사이트</a>
 </div>

@@ -174,8 +174,8 @@ The technology works. The question, as always, is how deliberately you use it.
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading - Official Sources</strong><br/>
-- <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI Official Site</a><br/>
-- <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
-- <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI Developer Docs</a><br/>
+<strong>Primary Sources</strong><br/>
+- <span class="src-role">[Primary]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI Official Site</a><br/>
+- <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a><br/>
+- <span class="src-role">[Primary]</span> <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noopener">OpenAI Developer Docs</a><br/>
 </div>

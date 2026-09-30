@@ -97,8 +97,8 @@ AI Weekly는 "이 접근이 성공하면 자동화 압력이 지금까지 AI 대
 
 </div>
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/robotics" target="_blank" rel="noopener">OpenAI Robotics 공식 페이지</a><br/>
-· <a href="https://www.figure.ai/news" target="_blank" rel="noopener">Figure AI 공식 뉴스</a><br/>
-· <a href="https://www.figure.ai/" target="_blank" rel="noopener">Figure AI 공식 사이트</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/robotics" target="_blank" rel="noopener">OpenAI Robotics 공식 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.figure.ai/news" target="_blank" rel="noopener">Figure AI 공식 뉴스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.figure.ai/" target="_blank" rel="noopener">Figure AI 공식 사이트</a><br/>
 </div>

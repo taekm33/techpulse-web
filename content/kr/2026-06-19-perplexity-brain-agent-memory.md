@@ -60,7 +60,7 @@ Brain은 아직 Research Preview 단계이며, 퍼플렉시티는 구체적인 �
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity 공식 문서 (Docs)</a><br/>
-· <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity 공식 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.perplexity.ai/" target="_blank" rel="noopener">Perplexity 공식 문서 (Docs)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.perplexity.ai/hub/blog" target="_blank" rel="noopener">Perplexity 공식 블로그</a><br/>
 </div>

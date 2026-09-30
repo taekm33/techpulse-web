@@ -58,10 +58,10 @@ ASML은 2분기에 약 11억 유로 규모의 자사주를 매입했고(2026~202
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/pressreleasefinancialresul.htm" target="_blank" rel="noopener">ASML 2026년 2분기 실적 보도자료 (SEC Form 6-K, Exhibit 99.1)</a><br/>
-· <a href="https://www.asml.com/en/investors/financial-results" target="_blank" rel="noopener">ASML 공식 투자자 정보 — Financial Results</a><br/>
-· <a href="https://www.asml.com/en/news/press-releases" target="_blank" rel="noopener">ASML 공식 보도자료(Press Releases)</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/pressreleasefinancialresul.htm" target="_blank" rel="noopener">ASML 2026년 2분기 실적 보도자료 (SEC Form 6-K, Exhibit 99.1)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.asml.com/en/investors/financial-results" target="_blank" rel="noopener">ASML 공식 투자자 정보 — Financial Results</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.asml.com/en/news/press-releases" target="_blank" rel="noopener">ASML 공식 보도자료(Press Releases)</a>
 </div>
 
 <div class="article-keypoints">

@@ -57,11 +57,11 @@ LawZero는 우선 기존 AI 시스템을 평가·감독하는 도구와 과학 �
 정부 자금이 상업적 프런티어 경쟁이 아니라 '안전이 내장된 대안 아키텍처'에 직접 투입된다는 점이 이번 사례의 핵심이다. 성능·비용 경쟁이 지배하는 시장에서 Scientist AI 같은 비(非)에이전트 접근이 실제로 실용적 도구로 자리 잡을 수 있을지가 관건이다. 동시에 캐나다·독일의 '주권 AI' 행보는 프런티어 모델의 지정학이 미·중 양강 구도를 넘어 다변화되고 있음을 보여준다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html" target="_blank" rel="noopener">캐나다 정부(ISED) — LawZero 투자 공식 보도자료 (9/16)</a><br/>
-· <a href="https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html" target="_blank" rel="noopener">PR Newswire — LawZero, 캐나다·독일 최대 3억 달러 공동 지원 확보</a><br/>
-· <a href="https://lawzero.org/en" target="_blank" rel="noopener">LawZero — 공식 웹사이트</a><br/>
-· <a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" target="_blank" rel="noopener">The Globe and Mail — 벤지오 비영리, 캐나다·독일서 최대 3억 달러</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html" target="_blank" rel="noopener">캐나다 정부(ISED) — LawZero 투자 공식 보도자료 (9/16)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html" target="_blank" rel="noopener">PR Newswire — LawZero, 캐나다·독일 최대 3억 달러 공동 지원 확보</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://lawzero.org/en" target="_blank" rel="noopener">LawZero — 공식 웹사이트</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" target="_blank" rel="noopener">The Globe and Mail — 벤지오 비영리, 캐나다·독일서 최대 3억 달러</a>
 </div>
 
 <div class="article-keypoints">

@@ -100,8 +100,8 @@ Constellation Research의 홀거 뮬러 애널리스트는 K3를 "또 다른 Dee
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face (모델 가중치)</a><br/>
-· <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI 공식 Hugging Face (모델 가중치)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/MoonshotAI" target="_blank" rel="noopener">Moonshot AI 공식 GitHub</a><br/>
 </div>

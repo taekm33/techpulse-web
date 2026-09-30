@@ -54,10 +54,10 @@ For middle-power AI nations, including South Korea, this trend is far from someo
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.euronews.com/next/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns" target="_blank" rel="noopener">Euronews — US and China to seek 'AI dialogue' to communicate shared concerns (via AP)</a><br/>
-· <a href="https://www.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk" target="_blank" rel="noopener">CNN Business — Bessent proposes AI safety notifications in talks with China ahead of Xi-Trump meeting</a><br/>
-· <a href="https://www.detroitnews.com/story/tech/2026/09/21/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/91870614007/" target="_blank" rel="noopener">The Detroit News — Bessent proposes US-China AI safety notifications in talks with Chinese vice premier</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.euronews.com/next/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns" target="_blank" rel="noopener">Euronews — US and China to seek 'AI dialogue' to communicate shared concerns (via AP)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk" target="_blank" rel="noopener">CNN Business — Bessent proposes AI safety notifications in talks with China ahead of Xi-Trump meeting</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.detroitnews.com/story/tech/2026/09/21/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/91870614007/" target="_blank" rel="noopener">The Detroit News — Bessent proposes US-China AI safety notifications in talks with Chinese vice premier</a>
 </div>
 
 <div class="article-keypoints">

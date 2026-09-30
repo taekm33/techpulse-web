@@ -69,11 +69,11 @@ OpenAI는 현재 AI 모델 소프트웨어를 넘어 자체 소비자 기기 개
 법원의 판단이 어떻게 나오든, 이번 소송은 AI 하드웨어 시장의 패권을 둘러싼 빅테크 간 경쟁이 법정으로 넘어온 역사적 분기점으로 기록될 것이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/" target="_blank" rel="noopener">TechCrunch — Apple sues OpenAI over alleged trade secret theft (7/10)</a><br/>
-· <a href="https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html" target="_blank" rel="noopener">CNBC — Apple sues OpenAI, says scheme was 'at every level' (7/10)</a><br/>
-· <a href="https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft" target="_blank" rel="noopener">Axios — Apple sues OpenAI for trade secret theft (7/10)</a><br/>
-· <a href="https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/" target="_blank" rel="noopener">Fortune — Apple accuses OpenAI and Jony Ive's io Products of stealing hardware trade secrets (7/10)</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/" target="_blank" rel="noopener">TechCrunch — Apple sues OpenAI over alleged trade secret theft (7/10)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html" target="_blank" rel="noopener">CNBC — Apple sues OpenAI, says scheme was 'at every level' (7/10)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft" target="_blank" rel="noopener">Axios — Apple sues OpenAI for trade secret theft (7/10)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/" target="_blank" rel="noopener">Fortune — Apple accuses OpenAI and Jony Ive's io Products of stealing hardware trade secrets (7/10)</a>
 </div>
 
 <div class="article-keypoints">

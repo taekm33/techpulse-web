@@ -75,8 +75,8 @@ OpenAI 스스로도 “이 능력들을 실제 업무에서 치명적 오류 없
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://openai.com/index/gpt-6-astra/" target="_blank" rel="noopener">OpenAI — GPT-6 Astra: A new generation of intelligence (공식 발표)</a><br/>
-<a href="https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman" target="_blank" rel="noopener">Axios — “Welcome to the AGI era,” OpenAI says as GPT-6 Astra debuts</a><br/>
-<a href="https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/" target="_blank" rel="noopener">Forbes — OpenAI Launches GPT-6 Astra After A Curious False Start</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/gpt-6-astra/" target="_blank" rel="noopener">OpenAI — GPT-6 Astra: A new generation of intelligence (공식 발표)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman" target="_blank" rel="noopener">Axios — “Welcome to the AGI era,” OpenAI says as GPT-6 Astra debuts</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/" target="_blank" rel="noopener">Forbes — OpenAI Launches GPT-6 Astra After A Curious False Start</a>
 </div>

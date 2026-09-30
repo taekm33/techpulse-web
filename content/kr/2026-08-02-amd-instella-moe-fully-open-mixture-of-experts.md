@@ -60,9 +60,9 @@ AI 학습 인프라는 사실상 엔비디아 CUDA가 독점해 왔다. Instella
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html" target="_blank" rel="noopener">AMD ROCm 블로그 — Introducing Instella-MoE</a><br/>
-<a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Base" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Base</a><br/>
-<a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Think" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Think</a><br/>
-<a href="https://github.com/AMD-AGI/Instella-MoE" target="_blank" rel="noopener">GitHub — AMD-AGI/Instella-MoE (학습 코드)</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html" target="_blank" rel="noopener">AMD ROCm 블로그 — Introducing Instella-MoE</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Base" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Base</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/amd/Instella-MoE-16B-A3B-Think" target="_blank" rel="noopener">Hugging Face — amd/Instella-MoE-16B-A3B-Think</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://github.com/AMD-AGI/Instella-MoE" target="_blank" rel="noopener">GitHub — AMD-AGI/Instella-MoE (학습 코드)</a>
 </div>

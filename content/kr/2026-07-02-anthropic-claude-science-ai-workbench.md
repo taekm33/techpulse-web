@@ -78,11 +78,11 @@ Claude Science 베타는 **Pro·Max·Team·Enterprise 플랜** 사용자에게 m
 Claude Science는 Anthropic이 '모델 공급자'를 넘어 특정 산업의 운영 레이어로 자리잡으려는 전략의 일환이다. Claude Code가 소프트웨어 개발에서 그 역할을 했듯, Claude Science는 생명과학·계산과학 분야에서 같은 지위를 노린다. 과학 연구의 생산성을 10배 압축하겠다는 선언이 현실이 될지, 앞으로 나올 독립적 성과 검증이 관건이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener">Anthropic 공식 발표 — Claude Science, an AI workbench for scientists (2026.06.30)</a><br/>
-· <a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/" target="_blank" rel="noopener">TechCrunch — Claude Science: 새 모델이 아닌 워크플로로 과학자를 공략하는 Anthropic</a><br/>
-· <a href="https://thenextweb.com/news/john-jumper-nobel-deepmind-leaves-anthropic-alphafold" target="_blank" rel="noopener">The Next Web — 노벨상 수상자 존 점퍼, DeepMind 떠나 Anthropic 합류</a><br/>
-· <a href="https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/" target="_blank" rel="noopener">STAT News — Anthropic releases Claude Science, a product aimed at researchers</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener">Anthropic 공식 발표 — Claude Science, an AI workbench for scientists (2026.06.30)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/" target="_blank" rel="noopener">TechCrunch — Claude Science: 새 모델이 아닌 워크플로로 과학자를 공략하는 Anthropic</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/john-jumper-nobel-deepmind-leaves-anthropic-alphafold" target="_blank" rel="noopener">The Next Web — 노벨상 수상자 존 점퍼, DeepMind 떠나 Anthropic 합류</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/" target="_blank" rel="noopener">STAT News — Anthropic releases Claude Science, a product aimed at researchers</a>
 </div>
 
 <div class="article-keypoints">

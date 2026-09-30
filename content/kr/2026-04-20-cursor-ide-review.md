@@ -254,9 +254,9 @@ Cursor는 과장이 아니라 코딩 생산성을 실질적으로 높여주는 �
 7. [Anysphere 블로그 (Cursor 개발사)](https://www.cursor.com/blog)
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor 공식 사이트</a><br/>
-· <a href="https://docs.cursor.com" target="_blank" rel="noopener">Cursor 공식 문서</a><br/>
-· <a href="https://www.cursor.com/pricing" target="_blank" rel="noopener">Cursor 요금제</a><br/>
-· <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench 리더보드</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cursor.com" target="_blank" rel="noopener">Cursor 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.cursor.com" target="_blank" rel="noopener">Cursor 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cursor.com/pricing" target="_blank" rel="noopener">Cursor 요금제</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench 리더보드</a>
 </div>

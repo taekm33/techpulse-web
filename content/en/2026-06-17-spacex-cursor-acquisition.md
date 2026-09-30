@@ -66,9 +66,9 @@ That erosion is likely a key driver behind the deal: rather than compete on tool
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Official Sources &amp; Further Reading</strong><br>
-— <a href="https://www.stocktitan.net" target="_blank" rel="noopener noreferrer">StockTitan: SEC 8-K filing summary for the SpaceX–Anysphere transaction</a><br>
-— <a href="https://www.techcrunch.com" target="_blank" rel="noopener noreferrer">TechCrunch: coverage of the SpaceX-Cursor acquisition</a><br>
-— <a href="https://www.cnbc.com" target="_blank" rel="noopener noreferrer">CNBC: report on SpaceX's $60 billion deal for Cursor maker Anysphere</a>
+<div class="article-callout__body"><strong>Sources (primary vs. press/analysis) · Further Reading</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://www.stocktitan.net" target="_blank" rel="noopener noreferrer">StockTitan: SEC 8-K filing summary for the SpaceX–Anysphere transaction</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.techcrunch.com" target="_blank" rel="noopener noreferrer">TechCrunch: coverage of the SpaceX-Cursor acquisition</a><br>
+— <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com" target="_blank" rel="noopener noreferrer">CNBC: report on SpaceX's $60 billion deal for Cursor maker Anysphere</a>
 </div>
 </div>

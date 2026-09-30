@@ -53,11 +53,11 @@ When reading the numbers, separate "Anthropic's debt" from "the SPV's debt." The
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic" target="_blank" rel="noopener">The Next Web — Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic</a><br/>
-· <a href="https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126" target="_blank" rel="noopener">Quartz — Broadcom seeks up to $80 billion in debt for AI chip deal</a><br/>
-· <a href="https://seekingalpha.com/news/4635702-broadcom-engages-with-lenders-to-secure-60b-for-ai-chip-financing-report" target="_blank" rel="noopener">Seeking Alpha — Broadcom engages with lenders to secure $60B for AI chip financing</a><br/>
-· <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html" target="_blank" rel="noopener">Yahoo Finance — Anthropic SPVs stack $71 billion in chip-lease debt in 60 days</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic" target="_blank" rel="noopener">The Next Web — Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://qz.com/broadcom-debt-financing-ai-chips-anthropic-082126" target="_blank" rel="noopener">Quartz — Broadcom seeks up to $80 billion in debt for AI chip deal</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://seekingalpha.com/news/4635702-broadcom-engages-with-lenders-to-secure-60b-for-ai-chip-financing-report" target="_blank" rel="noopener">Seeking Alpha — Broadcom engages with lenders to secure $60B for AI chip financing</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-spvs-stack-71-billion-000514097.html" target="_blank" rel="noopener">Yahoo Finance — Anthropic SPVs stack $71 billion in chip-lease debt in 60 days</a>
 </div>
 
 <div class="article-keypoints">

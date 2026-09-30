@@ -101,9 +101,9 @@ But the question hanging over the industry is this: if an AI agent will autonomo
 
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (official)</a><br/>
-· <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
-· <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs (official)</a><br/>
-· <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) — Hugging Face org</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/safety/" target="_blank" rel="noopener">OpenAI Safety (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face Official Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://modal.com/" target="_blank" rel="noopener">Modal Labs (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/zai-org" target="_blank" rel="noopener">Z.ai (GLM) — Hugging Face org</a><br/>
 </div>

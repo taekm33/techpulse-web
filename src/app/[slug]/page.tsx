@@ -7,7 +7,7 @@ import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import { canonicalUrl } from '../../lib/seo'
+import { canonicalUrl, languageAlternates } from '../../lib/seo'
 
 const LOCALE = (process.env.NEXT_PUBLIC_LOCALE as 'kr' | 'en') || 'kr'
 
@@ -20,10 +20,27 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params
   const article = getArticle(LOCALE, slug)
   if (!article) return {}
+  const other: 'kr' | 'en' = LOCALE === 'kr' ? 'en' : 'kr'
+  // hreflang only when the same slug is actually published (non-draft) in the other locale
+  const locales: Array<'kr' | 'en'> = getArticle(other, slug) ? [LOCALE, other] : []
+  const url = canonicalUrl(`/${slug}/`)
   return {
     title: article.title,
     description: article.summary,
-    alternates: { canonical: canonicalUrl(`/${slug}/`) },
+    alternates: {
+      canonical: url,
+      ...(locales.length ? { languages: languageAlternates(`/${slug}/`, locales) } : {}),
+    },
+    openGraph: {
+      type: 'article',
+      siteName: 'TechPulse',
+      url,
+      title: article.title,
+      description: article.summary,
+      publishedTime: article.date || undefined,
+      locale: LOCALE === 'kr' ? 'ko_KR' : 'en_US',
+    },
+    twitter: { card: 'summary', title: article.title, description: article.summary },
   }
 }
 

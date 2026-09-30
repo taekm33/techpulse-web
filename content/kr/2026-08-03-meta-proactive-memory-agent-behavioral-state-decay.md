@@ -87,8 +87,8 @@ tags: ["Meta", "AI에이전트", "에이전트메모리", "장기작업", "LLM"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://arxiv.org/abs/2607.08716" target="_blank" rel="noopener">arXiv — Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents (원논문)</a><br/>
-· <a href="https://github.com/yifannnwu/proactive-memory-agent" target="_blank" rel="noopener">GitHub — 저자 공개 코드 저장소 (yifannnwu/proactive-memory-agent)</a><br/>
-· <a href="https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/" target="_blank" rel="noopener">The Decoder — Meta AI uses a second AI agent as a memory coach</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2607.08716" target="_blank" rel="noopener">arXiv — Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents (원논문)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/yifannnwu/proactive-memory-agent" target="_blank" rel="noopener">GitHub — 저자 공개 코드 저장소 (yifannnwu/proactive-memory-agent)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/" target="_blank" rel="noopener">The Decoder — Meta AI uses a second AI agent as a memory coach</a><br/>
 </div>

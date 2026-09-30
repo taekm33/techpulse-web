@@ -52,11 +52,11 @@ Only re-add a payment method after the malware is fully removed. If an infection
 The incident shows AI subscription services becoming a fresh monetization target for infostealers. One affected user traced their infection to a pirated game downloaded from a Russian underground forum. Anthropic said it has "no reason to believe this malware is related to Claude, installed through Claude, or related to anything you did with Claude," and that "phones and tablets do not appear to have been involved." Users should also watch for copy-cat emails impersonating Anthropic that exploit this campaign as a pretext.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/" target="_blank" rel="noopener">Help Net Security — Anthropic locks out Claude users after infostealers hijack login sessions</a><br/>
-<a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" target="_blank" rel="noopener">BleepingComputer — Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</a><br/>
-<a href="https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/" target="_blank" rel="noopener">SecurityWeek — Anthropic Warns Claude Users of Infostealer Malware Infections</a><br/>
-<a href="https://securityaffairs.com/198166/ai/infostealers-are-hijacking-claude-sessions-and-draining-subscriptions.html" target="_blank" rel="noopener">Security Affairs — Infostealers Are Hijacking Claude Sessions and Draining Subscriptions</a>
+<strong>Press & Analysis</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/" target="_blank" rel="noopener">Help Net Security — Anthropic locks out Claude users after infostealers hijack login sessions</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" target="_blank" rel="noopener">BleepingComputer — Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/" target="_blank" rel="noopener">SecurityWeek — Anthropic Warns Claude Users of Infostealer Malware Infections</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://securityaffairs.com/198166/ai/infostealers-are-hijacking-claude-sessions-and-draining-subscriptions.html" target="_blank" rel="noopener">Security Affairs — Infostealers Are Hijacking Claude Sessions and Draining Subscriptions</a>
 </div>
 
 <div class="article-keypoints">

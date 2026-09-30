@@ -93,7 +93,7 @@ DeepSeek, 알리바바, Z.ai, MiniMax, 문샷 AI 등 중국 AI 기업들은 지�
 불과 1년 전만 해도 상상하기 어려웠던 일이 현실이 됐다. 프론티어급 AI를 운영하기 위한 인프라 장벽은 여전히 높지만, 그 장벽을 넘는 주체의 범위는 분명 넓어지고 있다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Moonshot AI 공식 모델 저장소 — moonshotai/Kimi-K3 (Hugging Face)</a><br/>
-· <a href="https://thenewstack.io/kimi-k3-open-weights/" target="_blank" rel="noopener">The New Stack — Moonshot opens Kimi K3 weights, but few can run it</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">Moonshot AI 공식 모델 저장소 — moonshotai/Kimi-K3 (Hugging Face)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenewstack.io/kimi-k3-open-weights/" target="_blank" rel="noopener">The New Stack — Moonshot opens Kimi K3 weights, but few can run it</a><br/>
 </div>

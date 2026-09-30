@@ -66,8 +66,8 @@ For developers and enterprises currently deploying AI systems, the near-term pra
 
 The question is no longer whether recursive self-improvement will happen, but whether humanity will have adequate governance frameworks in place when it does. Anthropic's public warning is an attempt to start that conversation before the window closes.
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Official News</a><br/>
-· <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
-· <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic Official News</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/core-views-on-ai-safety" target="_blank" rel="noopener">Anthropic: Core Views on AI Safety</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Anthropic Research</a><br/>
 </div>

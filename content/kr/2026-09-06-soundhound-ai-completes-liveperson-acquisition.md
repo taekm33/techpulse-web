@@ -70,8 +70,8 @@ tags: ["사운드하운드", "라이브퍼슨", "인수합병", "대화형 AI", 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html" target="_blank" rel="noopener">SoundHound AI — Completes Acquisition of LivePerson (공식 발표, GlobeNewswire)</a><br/>
-<a href="https://ir.liveperson.com/news-releases/news-release-details/liveperson-stockholders-approve-acquisition-soundhound-ai" target="_blank" rel="noopener">LivePerson IR — Stockholders Approve Acquisition by SoundHound AI</a><br/>
-<a href="https://www.prnewswire.com/news-releases/liveperson-stockholders-approve-acquisition-by-soundhound-ai-302867972.html" target="_blank" rel="noopener">PR Newswire — LivePerson Stockholders Approve Acquisition by SoundHound AI</a>
+<strong>공식·1차 출처</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html" target="_blank" rel="noopener">SoundHound AI — Completes Acquisition of LivePerson (공식 발표, GlobeNewswire)</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://ir.liveperson.com/news-releases/news-release-details/liveperson-stockholders-approve-acquisition-soundhound-ai" target="_blank" rel="noopener">LivePerson IR — Stockholders Approve Acquisition by SoundHound AI</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.prnewswire.com/news-releases/liveperson-stockholders-approve-acquisition-by-soundhound-ai-302867972.html" target="_blank" rel="noopener">PR Newswire — LivePerson Stockholders Approve Acquisition by SoundHound AI</a>
 </div>

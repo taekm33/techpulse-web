@@ -68,9 +68,9 @@ The episode shows how brittle the assumption "hide the chain-of-thought and it's
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://arxiv.org/abs/2608.09867" target="_blank" rel="noopener">Paper: Stealing Reasoning Traces from Proprietary LLM APIs (arXiv)</a><br/>
-<a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html" target="_blank" rel="noopener">The Hacker News — OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a><br/>
-<a href="https://cybersecuritynews.com/top-ai-models-apis-flaw-exposes-hidden-reasoning/" target="_blank" rel="noopener">Cyber Security News — LLM APIs Vulnerability Exposes Hidden Reasoning Traces</a><br/>
-<a href="https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/" target="_blank" rel="noopener">Matthew Green — Fooling around with encrypted reasoning blobs (prior work, 2026-05)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://arxiv.org/abs/2608.09867" target="_blank" rel="noopener">Paper: Stealing Reasoning Traces from Proprietary LLM APIs (arXiv)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html" target="_blank" rel="noopener">The Hacker News — OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://cybersecuritynews.com/top-ai-models-apis-flaw-exposes-hidden-reasoning/" target="_blank" rel="noopener">Cyber Security News — LLM APIs Vulnerability Exposes Hidden Reasoning Traces</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/" target="_blank" rel="noopener">Matthew Green — Fooling around with encrypted reasoning blobs (prior work, 2026-05)</a>
 </div>

@@ -258,7 +258,7 @@ batch = client.messages.batches.create(
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic — Newsroom</a>
 </div>

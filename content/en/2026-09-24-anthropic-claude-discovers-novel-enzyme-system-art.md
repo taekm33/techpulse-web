@@ -60,10 +60,10 @@ A candidate proposed by AI is not a "discovery" but a "target for verification."
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic — Claude discovers a novel enzyme system (official)</a><br/>
-· <a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats" target="_blank" rel="noopener">The Next Web — Claude finds CRISPR-like repeats</a><br/>
-· <a href="https://www.unite.ai/anthropic-says-claude-discovered-a-new-enzyme-system-resembling-crispr/" target="_blank" rel="noopener">Unite.AI — Claude discovered a new enzyme system resembling CRISPR</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic — Claude discovers a novel enzyme system (official)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats" target="_blank" rel="noopener">The Next Web — Claude finds CRISPR-like repeats</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.unite.ai/anthropic-says-claude-discovered-a-new-enzyme-system-resembling-crispr/" target="_blank" rel="noopener">Unite.AI — Claude discovered a new enzyme system resembling CRISPR</a>
 </div>
 
 <div class="article-keypoints">

@@ -56,11 +56,11 @@ If your team is evaluating agents, make it an explicit vendor criterion: <strong
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://aaif.io/blog/a2a-joins-aaif" target="_blank" rel="noopener">Agentic AI Foundation — A2A joins AAIF's open agentic stack</a><br/>
-· <a href="https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation" target="_blank" rel="noopener">Linux Foundation — Formation of the Agentic AI Foundation (AAIF)</a><br/>
-· <a href="https://www.forbes.com/sites/janakirammsv/2026/08/19/agent2agent-joins-the-agentic-ai-foundation-alongside-mcp/" target="_blank" rel="noopener">Forbes — Agent2Agent Joins The Agentic AI Foundation Alongside MCP</a><br/>
-· <a href="https://tech.yahoo.com/ai/gemini/articles/google-a2a-protocol-joins-aaif-020554895.html" target="_blank" rel="noopener">Yahoo Tech — Google's A2A Protocol Joins AAIF</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://aaif.io/blog/a2a-joins-aaif" target="_blank" rel="noopener">Agentic AI Foundation — A2A joins AAIF's open agentic stack</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation" target="_blank" rel="noopener">Linux Foundation — Formation of the Agentic AI Foundation (AAIF)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.forbes.com/sites/janakirammsv/2026/08/19/agent2agent-joins-the-agentic-ai-foundation-alongside-mcp/" target="_blank" rel="noopener">Forbes — Agent2Agent Joins The Agentic AI Foundation Alongside MCP</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://tech.yahoo.com/ai/gemini/articles/google-a2a-protocol-joins-aaif-020554895.html" target="_blank" rel="noopener">Yahoo Tech — Google's A2A Protocol Joins AAIF</a>
 </div>
 
 <div class="article-keypoints">

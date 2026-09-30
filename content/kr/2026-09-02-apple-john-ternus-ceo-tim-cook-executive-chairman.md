@@ -36,11 +36,11 @@ tags: ["애플", "존터너스", "팀쿡", "CEO승계"]
 승계 자체는 오래 준비된 수순이지만, 시점은 미묘하다. 애플은 생성형 AI 경쟁에서 오픈AI·구글·앤트로픽 등에 비해 뒤처졌다는 평가를 받아왔고, 시리 고도화와 온디바이스 AI 전략의 실행 속도가 도마에 올랐다. 엔지니어 출신 CEO가 하드웨어 강점을 소프트웨어·AI 서비스로 어떻게 연결하느냐가 초기 시험대가 될 전망이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank" rel="noopener">Apple Newsroom — Tim Cook to become Apple Executive Chairman, John Ternus to become Apple CEO (공식 보도자료)</a><br/>
-<a href="https://www.npr.org/2026/09/01/g-s1-141411/apple-ceo-tim-cook-john-ternus" target="_blank" rel="noopener">NPR — John Ternus replaces Tim Cook as CEO of Apple</a><br/>
-<a href="https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank" rel="noopener">TechCrunch — Who is John Ternus, the new Apple CEO?</a><br/>
-<a href="https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years" target="_blank" rel="noopener">Al Jazeera — John Ternus succeeds Tim Cook as Apple CEO after 15 years</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank" rel="noopener">Apple Newsroom — Tim Cook to become Apple Executive Chairman, John Ternus to become Apple CEO (공식 보도자료)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.npr.org/2026/09/01/g-s1-141411/apple-ceo-tim-cook-john-ternus" target="_blank" rel="noopener">NPR — John Ternus replaces Tim Cook as CEO of Apple</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank" rel="noopener">TechCrunch — Who is John Ternus, the new Apple CEO?</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years" target="_blank" rel="noopener">Al Jazeera — John Ternus succeeds Tim Cook as Apple CEO after 15 years</a>
 </div>
 
 <div class="article-keypoints">

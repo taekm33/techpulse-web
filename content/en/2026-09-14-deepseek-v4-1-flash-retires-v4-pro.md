@@ -63,11 +63,11 @@ If you run agents through the API, your V4-Pro calls are handled by V4.1-Flash a
 The pressure landed on Chinese competitors first. Per Bloomberg, shares tied to MiniMax and Z.ai fell more than 8% in Hong Kong on launch day, and Alibaba slid more than 2%. Cheap Chinese models have squeezed rivals for months, pressuring US model makers. Separately, Reuters and others reported that DeepSeek has begun preparing for a listing on Shanghai's STAR Market. The open questions now: whether DeepSeek's own benchmarks hold up under independent testing, and how the promised V4.1-Pro will be priced and positioned when it arrives.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/" target="_blank" rel="noopener">DeepSeek — Official V4.1-Flash announcement (architecture, pricing, cutover)</a><br/>
-· <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" target="_blank" rel="noopener">Hugging Face — DeepSeek-V4.1-Flash weights & model card (MIT)</a><br/>
-· <a href="https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut" target="_blank" rel="noopener">The Next Web — V4.1-Flash launch, V4-Pro retirement & price cut</a><br/>
-· <a href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/" target="_blank" rel="noopener">The Decoder — Memory savings for agents & technical-report review</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/" target="_blank" rel="noopener">DeepSeek — Official V4.1-Flash announcement (architecture, pricing, cutover)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" target="_blank" rel="noopener">Hugging Face — DeepSeek-V4.1-Flash weights & model card (MIT)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut" target="_blank" rel="noopener">The Next Web — V4.1-Flash launch, V4-Pro retirement & price cut</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/" target="_blank" rel="noopener">The Decoder — Memory savings for agents & technical-report review</a>
 </div>
 
 <div class="article-keypoints">

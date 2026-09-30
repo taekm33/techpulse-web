@@ -56,9 +56,9 @@ AI 데이터센터가 지역 전기요금을 밀어올린다는 비판이 커지
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html" target="_blank" rel="noopener">Macquarie Group — 앤트로픽·MAM·GIC 데이터센터 파트너십 (공식 발표)</a><br/>
-<a href="https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers" target="_blank" rel="noopener">Bloomberg — Anthropic, Macquarie and GIC Form Venture for AI Data Centers</a><br/>
-<a href="https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/" target="_blank" rel="noopener">Data Center Dynamics — GIC and Macquarie form Theseus Infrastructure</a><br/>
-<a href="https://cryptobriefing.com/anthropic-macquarie-gic-theseus-data-centers/" target="_blank" rel="noopener">Crypto Briefing — Anthropic partners with Macquarie and GIC to expand US AI data center capacity</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html" target="_blank" rel="noopener">Macquarie Group — 앤트로픽·MAM·GIC 데이터센터 파트너십 (공식 발표)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers" target="_blank" rel="noopener">Bloomberg — Anthropic, Macquarie and GIC Form Venture for AI Data Centers</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/" target="_blank" rel="noopener">Data Center Dynamics — GIC and Macquarie form Theseus Infrastructure</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://cryptobriefing.com/anthropic-macquarie-gic-theseus-data-centers/" target="_blank" rel="noopener">Crypto Briefing — Anthropic partners with Macquarie and GIC to expand US AI data center capacity</a>
 </div>

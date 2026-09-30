@@ -139,7 +139,7 @@ The combination of automatic decomposition, parallel execution, adversarial veri
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://docs.anthropic.com/en/docs/claude-code/overview" target="_blank" rel="noopener">Anthropic — Claude Code (documentation)</a><br/>
-· <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noopener">Anthropic — Claude Code (product)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.anthropic.com/en/docs/claude-code/overview" target="_blank" rel="noopener">Anthropic — Claude Code (documentation)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noopener">Anthropic — Claude Code (product)</a>
 </div>

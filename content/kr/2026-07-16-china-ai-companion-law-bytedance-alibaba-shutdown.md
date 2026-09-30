@@ -85,7 +85,7 @@ tags: ["중국AI규제", "바이트댄스", "알리바바", "AI동반자", "더�
 한국을 포함한 아시아 국가들도 AI 동반자 서비스 관련 입법 논의가 진행 중이라, 중국의 시행 결과가 향후 국내 규제 방향에도 적잖은 영향을 미칠 것으로 전망된다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom" target="_blank" rel="noopener">SCMP — 바이트댄스·알리바바, 규제 앞두고 휴먼라이크 AI 에이전트 비활성화</a><br/>
-· <a href="https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/" target="_blank" rel="noopener">TechNode — 더우바오·Qwen, 7월 15일 AI 에이전트 기능 종료</a><br/>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom" target="_blank" rel="noopener">SCMP — 바이트댄스·알리바바, 규제 앞두고 휴먼라이크 AI 에이전트 비활성화</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/" target="_blank" rel="noopener">TechNode — 더우바오·Qwen, 7월 15일 AI 에이전트 기능 종료</a><br/>
 </div>

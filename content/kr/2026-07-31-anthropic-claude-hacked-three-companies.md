@@ -102,8 +102,8 @@ Dario Amodei Anthropic CEO는 AI 개발 속도를 늦출 것을 요구하는 '�
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 뉴스룸 (공식)</a><br/>
-· <a href="https://metr.org/" target="_blank" rel="noopener">METR — 독립 AI 평가 기관</a><br/>
-· <a href="https://blog.pypi.org/" target="_blank" rel="noopener">PyPI 공식 블로그 (보안 공지)</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 뉴스룸 (공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://metr.org/" target="_blank" rel="noopener">METR — 독립 AI 평가 기관</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blog.pypi.org/" target="_blank" rel="noopener">PyPI 공식 블로그 (보안 공지)</a><br/>
 </div>

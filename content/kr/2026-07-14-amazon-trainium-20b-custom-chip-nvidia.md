@@ -69,8 +69,8 @@ tags: ["Amazon", "Trainium", "AI칩", "AWS", "Nvidia"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://aws.amazon.com/ai/machine-learning/trainium/" target="_blank" rel="noopener">AWS Trainium 공식</a><br/>
-· <a href="https://aws.amazon.com/machine-learning/neuron/" target="_blank" rel="noopener">AWS Neuron SDK</a><br/>
-· <a href="https://press.aboutamazon.com/" target="_blank" rel="noopener">Amazon 뉴스룸</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://aws.amazon.com/ai/machine-learning/trainium/" target="_blank" rel="noopener">AWS Trainium 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://aws.amazon.com/machine-learning/neuron/" target="_blank" rel="noopener">AWS Neuron SDK</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://press.aboutamazon.com/" target="_blank" rel="noopener">Amazon 뉴스룸</a><br/>
 </div>

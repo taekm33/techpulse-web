@@ -58,10 +58,10 @@ AI 컴퓨팅 군비경쟁은 그동안 'GPU 몇 장을 확보하느냐'의 싸�
 관건은 실행이다. 아카마이는 약 55억 달러의 자본지출을 감당하면서도 수익성을 지켜야 하고, 앤스로픽은 이 인프라를 실제 사용량 증가로 채워야 한다. 지분 워런트가 단계적으로 확정되는 구조인 만큼, 계약이 116억 달러에서 200억 달러로 확장될지가 양사 파트너십의 신뢰도를 가를 첫 시험대가 될 전망이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand" target="_blank" rel="noopener">Akamai 공식 뉴스룸 — 앤스로픽과 116억 달러 다년 계약 발표</a><br/>
-· <a href="https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic" target="_blank" rel="noopener">Akamai 투자자 관계(IR) — 계약 상세 및 재무 조건</a><br/>
-· <a href="https://qz.com/akamai-anthropic-cloud-deal-11-billion-092526" target="_blank" rel="noopener">Quartz — Akamai-Anthropic 클라우드 계약 분석</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand" target="_blank" rel="noopener">Akamai 공식 뉴스룸 — 앤스로픽과 116억 달러 다년 계약 발표</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic" target="_blank" rel="noopener">Akamai 투자자 관계(IR) — 계약 상세 및 재무 조건</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://qz.com/akamai-anthropic-cloud-deal-11-billion-092526" target="_blank" rel="noopener">Quartz — Akamai-Anthropic 클라우드 계약 분석</a>
 </div>
 
 <div class="article-keypoints">

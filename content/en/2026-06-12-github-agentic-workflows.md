@@ -58,10 +58,10 @@ The design principle: "agent decides, trusted step executes." The agent cannot e
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>Resources · Official Sources · Getting Started</strong><br>
-— <a href="https://github.com/github/gh-aw" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows CLI (gh-aw) Official Repository</a><br>
-— <a href="https://github.com/githubnext/agentics" target="_blank" rel="noopener noreferrer">Prebuilt Workflow Examples Repository (agentics)</a><br>
-— <a href="https://github.com/github/gh-aw/releases" target="_blank" rel="noopener noreferrer">gh-aw Release History and Latest Version Download</a>
+<div class="article-callout__body"><strong>Primary Sources · Getting Started</strong><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/github/gh-aw" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows CLI (gh-aw) Official Repository</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/githubnext/agentics" target="_blank" rel="noopener noreferrer">Prebuilt Workflow Examples Repository (agentics)</a><br>
+— <span class="src-role">[Primary]</span> <a href="https://github.com/github/gh-aw/releases" target="_blank" rel="noopener noreferrer">gh-aw Release History and Latest Version Download</a>
 </div>
 </div>
 

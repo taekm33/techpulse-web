@@ -56,11 +56,11 @@ The partnership is non-exclusive. Anthropic plans to work with other evaluators 
 The announcement is an attempt to pull frontier-AI safety verification out of the binary between internal self-governance and external after-the-fact auditing. Placing evaluators on the development floor creates room to catch problems as models form, not only afterward. Two questions will decide its value. First, independence: can evaluators reach uncomfortable conclusions while the company foots the bill? Second, standardization: shared rules for access and reporting must take hold before the approach can spread to other companies. The pledge Dario Amodei made under the banner of "pacing the frontier" is, with this $2 billion first deal, starting to take a verifiable shape.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news/accenture-embedded-evaluation" target="_blank" rel="noopener">Anthropic — Partnering with Accenture on embedded evaluation (official, 9/18)</a><br/>
-· <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (full essay)</a><br/>
-· <a href="https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/" target="_blank" rel="noopener">Unite.AI — Anthropic Taps Accenture's Faculty for Embedded AI Model Evaluation</a><br/>
-· <a href="https://www.globalbankingandfinance.com/anthropic-accenture-invest-2-billion-ai-model-evaluation/" target="_blank" rel="noopener">Global Banking &amp; Finance — Anthropic, Accenture Invest $2B in AI Model Evaluation</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/accenture-embedded-evaluation" target="_blank" rel="noopener">Anthropic — Partnering with Accenture on embedded evaluation (official, 9/18)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">Dario Amodei — We Must Pace the Frontier (full essay)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/" target="_blank" rel="noopener">Unite.AI — Anthropic Taps Accenture's Faculty for Embedded AI Model Evaluation</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.globalbankingandfinance.com/anthropic-accenture-invest-2-billion-ai-model-evaluation/" target="_blank" rel="noopener">Global Banking &amp; Finance — Anthropic, Accenture Invest $2B in AI Model Evaluation</a>
 </div>
 
 <div class="article-keypoints">

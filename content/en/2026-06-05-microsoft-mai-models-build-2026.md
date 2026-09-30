@@ -89,8 +89,8 @@ For enterprises evaluating AI procurement, MAI-Thinking-1's cost profile changes
 Microsoft has spent years as AI's most powerful patron. Build 2026 is where it declared itself a competitor.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://build.microsoft.com/ Microsoft Build — official site" target="_blank" rel="noopener"></a><br/>
-· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
-· <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://build.microsoft.com/ Microsoft Build — official site" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft Official Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank" rel="noopener">Azure AI Foundry</a><br/>
 </div>

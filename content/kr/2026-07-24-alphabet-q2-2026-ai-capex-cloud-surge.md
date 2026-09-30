@@ -50,10 +50,10 @@ tags: ["알파벳", "구글", "구글클라우드", "설비투자", "AI인프라
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm" target="_blank" rel="noopener">알파벳 2026년 2분기 실적 보도자료 (SEC Form 8-K, Exhibit 99.1)</a><br/>
-· <a href="https://abc.xyz/investor/" target="_blank" rel="noopener">Alphabet 공식 투자자 정보(Investor Relations)</a><br/>
-· <a href="https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html" target="_blank" rel="noopener">CNBC — Alphabet Q2 2026 earnings (capex hike, cloud +82%)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm" target="_blank" rel="noopener">알파벳 2026년 2분기 실적 보도자료 (SEC Form 8-K, Exhibit 99.1)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://abc.xyz/investor/" target="_blank" rel="noopener">Alphabet 공식 투자자 정보(Investor Relations)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html" target="_blank" rel="noopener">CNBC — Alphabet Q2 2026 earnings (capex hike, cloud +82%)</a>
 </div>
 
 <div class="article-keypoints">

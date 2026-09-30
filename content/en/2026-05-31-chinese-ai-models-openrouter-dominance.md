@@ -167,9 +167,9 @@ This is not a temporary blip. The pricing structures, open-source ecosystems, an
 For developers and technology leaders, the implication is that AI model strategy can no longer default to "use the best-known Western option." It requires deliberate evaluation across performance, cost, security, and geopolitical risk factors. The AI map has more territory on it than it did 18 months ago, and navigating it competently is now part of the job.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openrouter.ai" target="_blank" rel="noopener">OpenRouter — Official Platform</a><br/>
-· <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">DeepSeek V3 — Official GitHub</a><br/>
-· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen Model Hub (Hugging Face)</a><br/>
-· <a href="https://kimi.ai" target="_blank" rel="noopener">Kimi by Moonshot AI — Official Site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openrouter.ai" target="_blank" rel="noopener">OpenRouter — Official Platform</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">DeepSeek V3 — Official GitHub</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen Model Hub (Hugging Face)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://kimi.ai" target="_blank" rel="noopener">Kimi by Moonshot AI — Official Site</a><br/>
 </div>

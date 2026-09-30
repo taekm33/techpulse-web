@@ -263,8 +263,8 @@ EU AI Act는 단순히 유럽 내 규제로 끝나지 않을 것이다. GDPR이 
 5. Future of Life Institute. (2024). *The EU AI Act Explorer*. https://artificialintelligenceact.eu
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — AI 규제 프레임워크(공식)</a><br/>
-· <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj" target="_blank" rel="noopener">EUR-Lex — AI Act 규정 원문(Reg. 2024/1689)</a><br/>
-· <a href="https://artificialintelligenceact.eu/" target="_blank" rel="noopener">The EU AI Act Explorer</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — AI 규제 프레임워크(공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj" target="_blank" rel="noopener">EUR-Lex — AI Act 규정 원문(Reg. 2024/1689)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://artificialintelligenceact.eu/" target="_blank" rel="noopener">The EU AI Act Explorer</a>
 </div>

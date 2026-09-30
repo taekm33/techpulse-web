@@ -147,9 +147,9 @@ OpenRouter의 트래픽 데이터가 보여주는 현실은 명확하다. 글로
 한국 기업들도 이 변화에서 자유롭지 않다. AI 비용 최적화와 데이터 보안 사이에서 균형 잡힌 전략 수립이 필요한 시점이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openrouter.ai" target="_blank" rel="noopener">OpenRouter 공식 플랫폼</a><br/>
-· <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">DeepSeek V3 공식 GitHub</a><br/>
-· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 모델 허브 (Hugging Face)</a><br/>
-· <a href="https://kimi.ai" target="_blank" rel="noopener">Kimi (Moonshot AI) 공식 사이트</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openrouter.ai" target="_blank" rel="noopener">OpenRouter 공식 플랫폼</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">DeepSeek V3 공식 GitHub</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 모델 허브 (Hugging Face)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://kimi.ai" target="_blank" rel="noopener">Kimi (Moonshot AI) 공식 사이트</a><br/>
 </div>

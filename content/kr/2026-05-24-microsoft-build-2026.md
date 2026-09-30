@@ -179,6 +179,6 @@ Microsoft Build 2026은 마이크로소프트가 AI를 '제품'이 아닌 '플�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://build.microsoft.com/" target="_blank" rel="noopener">Microsoft Build 2026 공식</a>
 </div>

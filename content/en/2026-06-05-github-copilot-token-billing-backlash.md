@@ -86,8 +86,8 @@ The billing change is accelerating consideration of alternatives. DEV Community 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.com/features/copilot GitHub Copilot — official product page" target="_blank" rel="noopener"></a><br/>
-· <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot billing documentation</a><br/>
-· <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot GitHub Copilot — official product page" target="_blank" rel="noopener"></a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/copilot/concepts/billing/individual-plans" target="_blank" rel="noopener">GitHub Copilot billing documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/" target="_blank" rel="noopener">GitHub Blog</a><br/>
 </div>

@@ -58,11 +58,11 @@ The €15M / 3% ceiling is the EU-level baseline, and member states may layer on
 Article 50 marks the point where "make it clear when something was made by AI" shifts from guidance to a hard rule. In an environment where generative models mass-produce images, video and text, markings and disclosures become the minimum safeguard for content trust. The open questions are how aggressively regulators will actually enforce, and how quickly the marking-and-detection technical standards will mature.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689" target="_blank" rel="noopener">EUR-Lex — Regulation (EU) 2024/1689 (EU AI Act, full text)</a><br/>
-· <a href="https://artificialintelligenceact.eu/article/50/" target="_blank" rel="noopener">EU AI Act — Article 50 transparency obligations</a><br/>
-· <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — Regulatory framework on AI</a><br/>
-· <a href="https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026" target="_blank" rel="noopener">Cooley — Transparency obligations take effect (Aug 3)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689" target="_blank" rel="noopener">EUR-Lex — Regulation (EU) 2024/1689 (EU AI Act, full text)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://artificialintelligenceact.eu/article/50/" target="_blank" rel="noopener">EU AI Act — Article 50 transparency obligations</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">European Commission — Regulatory framework on AI</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026" target="_blank" rel="noopener">Cooley — Transparency obligations take effect (Aug 3)</a>
 </div>
 
 <div class="article-keypoints">

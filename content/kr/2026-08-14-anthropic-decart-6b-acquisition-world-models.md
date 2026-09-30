@@ -58,9 +58,9 @@ tags: ["앤트로픽", "디카트", "M&A", "월드모델", "AI인프라"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/" target="_blank" rel="noopener">PYMNTS — Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs</a><br/>
-<a href="https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905387" target="_blank" rel="noopener">The Jerusalem Post — Anthropic in talks to acquire Decart for $6 billion</a><br/>
-<a href="https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/" target="_blank" rel="noopener">SiliconANGLE — Decart raises $300M for AI optimization software, world models</a><br/>
-<a href="https://www.decart.ai/" target="_blank" rel="noopener">Decart — 공식 홈페이지</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-pursues-6-billion-decart-deal-to-cut-ai-costs/" target="_blank" rel="noopener">PYMNTS — Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905387" target="_blank" rel="noopener">The Jerusalem Post — Anthropic in talks to acquire Decart for $6 billion</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/" target="_blank" rel="noopener">SiliconANGLE — Decart raises $300M for AI optimization software, world models</a><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://www.decart.ai/" target="_blank" rel="noopener">Decart — 공식 홈페이지</a>
 </div>

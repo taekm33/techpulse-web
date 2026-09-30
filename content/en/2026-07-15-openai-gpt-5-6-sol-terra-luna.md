@@ -87,8 +87,8 @@ Luna's $1.00/M input price is equally significant: it undercuts many competing m
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI official site</a><br/>
-· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI Models documentation</a><br/>
-· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI Models documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a>
 </div>

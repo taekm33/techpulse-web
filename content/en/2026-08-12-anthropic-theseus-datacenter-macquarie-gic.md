@@ -56,9 +56,9 @@ Three things are worth watching. First, the shift in AI compute procurement from
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html" target="_blank" rel="noopener">Macquarie Group — Anthropic, MAM and GIC data-centre partnership (official announcement)</a><br/>
-<a href="https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers" target="_blank" rel="noopener">Bloomberg — Anthropic, Macquarie and GIC Form Venture for AI Data Centers</a><br/>
-<a href="https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/" target="_blank" rel="noopener">Data Center Dynamics — GIC and Macquarie form Theseus Infrastructure</a><br/>
-<a href="https://cryptobriefing.com/anthropic-macquarie-gic-theseus-data-centers/" target="_blank" rel="noopener">Crypto Briefing — Anthropic partners with Macquarie and GIC to expand US AI data center capacity</a>
+<strong>Press & Analysis</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html" target="_blank" rel="noopener">Macquarie Group — Anthropic, MAM and GIC data-centre partnership (official announcement)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers" target="_blank" rel="noopener">Bloomberg — Anthropic, Macquarie and GIC Form Venture for AI Data Centers</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/" target="_blank" rel="noopener">Data Center Dynamics — GIC and Macquarie form Theseus Infrastructure</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://cryptobriefing.com/anthropic-macquarie-gic-theseus-data-centers/" target="_blank" rel="noopener">Crypto Briefing — Anthropic partners with Macquarie and GIC to expand US AI data center capacity</a>
 </div>

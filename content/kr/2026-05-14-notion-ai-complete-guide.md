@@ -315,7 +315,7 @@ Notion AI의 핵심 가치는 하나다: **일하는 방식 자체를 바꾼다.
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Notion AI는 글쓰기·요약·Q&A·자동 완성 4대 기능을 통해 팀의 반복 업무를 자동화하며, 2024~2025년을 거쳐 단순 도우미에서 팀 두뇌 플랫폼으로 진화했다.</li><li>회의록 → 액션아이템 자동 생성 워크플로우만으로도 기존 대비 소요 시간을 40~60분에서 7~10분으로 단축할 수 있다.</li><li>멤버당 월 $10의 AI 애드온은 실제 적극 활용 시 월 11시간 이상의 업무 시간을 절감해 비용 대비 10배 이상의 가치를 제공한다.</li><li>보안 민감 데이터 처리, 오프라인 작업, 복잡한 수치 분석이 주업무인 환경에서는 도입 전 대안 도구와 신중히 비교해야 한다.</li></ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.notion.com/product/ai" target="_blank" rel="noopener">Notion — Notion AI 공식 제품 페이지</a><br/>
-· <a href="https://www.notion.com/help" target="_blank" rel="noopener">Notion 공식 도움말 센터</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.notion.com/product/ai" target="_blank" rel="noopener">Notion — Notion AI 공식 제품 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.notion.com/help" target="_blank" rel="noopener">Notion 공식 도움말 센터</a>
 </div>

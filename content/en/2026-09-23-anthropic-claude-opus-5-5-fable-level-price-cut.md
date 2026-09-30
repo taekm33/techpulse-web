@@ -58,11 +58,11 @@ Alongside the launch, Anthropic raised five-hour usage limits across Pro, Max, T
 Opus 5.5 blurs the old split between a pricier top model and a cheaper lower one, pushing top-tier capability into a lower price band. That strategy lines up with the frontier price war unfolding as rivals cut their own prices the same week. In a market where raw performance alone no longer locks in customers, this launch signals that price-performance is becoming the next battleground.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/claude-opus-5-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5.5 (official)</a><br/>
-· <a href="https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot/" target="_blank" rel="noopener">GitHub Changelog — Claude Opus 5.5 now available in GitHub Copilot (9/22)</a><br/>
-· <a href="https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/" target="_blank" rel="noopener">MacRumors — Anthropic Launches Claude Opus 5.5 (9/22)</a><br/>
-· <a href="https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/" target="_blank" rel="noopener">9to5Mac — Anthropic upgrades Claude with new Opus 5.5 model (9/22)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/claude-opus-5-5" target="_blank" rel="noopener">Anthropic — Introducing Claude Opus 5.5 (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot/" target="_blank" rel="noopener">GitHub Changelog — Claude Opus 5.5 now available in GitHub Copilot (9/22)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/" target="_blank" rel="noopener">MacRumors — Anthropic Launches Claude Opus 5.5 (9/22)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/" target="_blank" rel="noopener">9to5Mac — Anthropic upgrades Claude with new Opus 5.5 model (9/22)</a>
 </div>
 
 <div class="article-keypoints">

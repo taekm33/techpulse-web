@@ -96,8 +96,8 @@ The simultaneous timing of two distinct npm supply chain campaigns raises the po
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://docs.npmjs.com/trusted-publishers" target="_blank" rel="noopener">npm Trusted Publishing docs</a><br/>
-· <a href="https://github.com/advisories" target="_blank" rel="noopener">GitHub Advisory Database</a><br/>
-· <a href="https://openssf.org/" target="_blank" rel="noopener">OpenSSF — open source supply chain security</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.npmjs.com/trusted-publishers" target="_blank" rel="noopener">npm Trusted Publishing docs</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/advisories" target="_blank" rel="noopener">GitHub Advisory Database</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openssf.org/" target="_blank" rel="noopener">OpenSSF — open source supply chain security</a><br/>
 </div>

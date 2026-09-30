@@ -53,11 +53,11 @@ tags: ["앤트로픽", "클로드", "생산성", "코워크", "AI에이전트"]
 이번 개편은 앤트로픽이 '모델 제공사'를 넘어 '업무용 소프트웨어 제공사'로 발을 넓히려는 신호다. 문서·발표자료·디자인을 대화 안에서 만들어 파일로 내보내고 링크로 공유하게 하는 구성은, 구글 워크스페이스와 마이크로소프트 365(코파일럿)가 지켜 온 영역과 정면으로 겹친다. 관건은 정착성이다. 사용자가 초안을 넘어 '최종본'까지 클로드 안에서 끝내고 협업 상대에게 넘기는 습관이 생겨야, 통합과 신규 도구가 실제 점유율로 이어진다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/" target="_blank" rel="noopener">TechCrunch — 앤트로픽, 클로드 챗과 코워크를 하나의 인터페이스로 통합 (9/16)</a><br/>
-· <a href="https://www.techrepublic.com/article/news-anthropic-claude-cowork-docs-slides/" target="_blank" rel="noopener">TechRepublic — 코워크를 클로드에 흡수, 문서·슬라이드 도구 추가</a><br/>
-· <a href="https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html" target="_blank" rel="noopener">Computerworld — 독스·슬라이드 출시로 생산성 소프트웨어 확장</a><br/>
-· <a href="https://thenewstack.io/anthropic-claude-unified-interface/" target="_blank" rel="noopener">The New Stack — 앤트로픽, '선택'을 없애기 위해 단일 인터페이스로 재편</a>
+<strong>관련 보도·해설</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/" target="_blank" rel="noopener">TechCrunch — 앤트로픽, 클로드 챗과 코워크를 하나의 인터페이스로 통합 (9/16)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.techrepublic.com/article/news-anthropic-claude-cowork-docs-slides/" target="_blank" rel="noopener">TechRepublic — 코워크를 클로드에 흡수, 문서·슬라이드 도구 추가</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html" target="_blank" rel="noopener">Computerworld — 독스·슬라이드 출시로 생산성 소프트웨어 확장</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenewstack.io/anthropic-claude-unified-interface/" target="_blank" rel="noopener">The New Stack — 앤트로픽, '선택'을 없애기 위해 단일 인터페이스로 재편</a>
 </div>
 
 <div class="article-keypoints">

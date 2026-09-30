@@ -63,9 +63,9 @@ The next question is how long regulators leave this "license-and-hire" pattern o
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.newcomer.co/p/sources-poolside-strikes-6-billion" target="_blank" rel="noopener">Newcomer — Poolside Strikes $6 Billion Licensing Deal with Nvidia (first report)</a><br/>
-<a href="https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/" target="_blank" rel="noopener">The Decoder — Nvidia acquires Poolside's Model Factory and 109 employees for $6 billion</a><br/>
-<a href="https://thenextweb.com/news/nvidia-poolside-6bn-model-factory-licence" target="_blank" rel="noopener">The Next Web — Nvidia pays Poolside $6bn to license its model factory</a><br/>
-<a href="https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-6-billion-to-license-poolside-ai-model-development-software/" target="_blank" rel="noopener">PYMNTS — Nvidia Pays $6 Billion to License Poolside AI Model-Development Software</a>
+<strong>Press & Analysis</strong><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.newcomer.co/p/sources-poolside-strikes-6-billion" target="_blank" rel="noopener">Newcomer — Poolside Strikes $6 Billion Licensing Deal with Nvidia (first report)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/" target="_blank" rel="noopener">The Decoder — Nvidia acquires Poolside's Model Factory and 109 employees for $6 billion</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://thenextweb.com/news/nvidia-poolside-6bn-model-factory-licence" target="_blank" rel="noopener">The Next Web — Nvidia pays Poolside $6bn to license its model factory</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-6-billion-to-license-poolside-ai-model-development-software/" target="_blank" rel="noopener">PYMNTS — Nvidia Pays $6 Billion to License Poolside AI Model-Development Software</a>
 </div>

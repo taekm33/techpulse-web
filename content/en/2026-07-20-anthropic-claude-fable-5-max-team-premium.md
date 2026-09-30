@@ -51,9 +51,9 @@ The move is a case study in how frontier labs address a shared problem — who p
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://x.com/claudeai/status/2078302415804379218" target="_blank" rel="noopener">Claude official announcement on X (@claudeai)</a><br/>
-<a href="https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/" target="_blank" rel="noopener">The Decoder — Fable 5 limits and credit shift</a><br/>
-<a href="https://www.dawn.com/news/2016483" target="_blank" rel="noopener">DAWN — Anthropic to add Fable 5 to Max, Team Premium at 50pc</a><br/>
-<a href="https://forklog.com/en/anthropic-adds-claude-fable-5-to-max-and-team-premium-subscriptions/" target="_blank" rel="noopener">ForkLog — Anthropic Adds Fable 5 to Max and Team Premium</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://x.com/claudeai/status/2078302415804379218" target="_blank" rel="noopener">Claude official announcement on X (@claudeai)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/" target="_blank" rel="noopener">The Decoder — Fable 5 limits and credit shift</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.dawn.com/news/2016483" target="_blank" rel="noopener">DAWN — Anthropic to add Fable 5 to Max, Team Premium at 50pc</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://forklog.com/en/anthropic-adds-claude-fable-5-to-max-and-team-premium-subscriptions/" target="_blank" rel="noopener">ForkLog — Anthropic Adds Fable 5 to Max and Team Premium</a>
 </div>

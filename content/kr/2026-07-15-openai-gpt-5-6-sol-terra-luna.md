@@ -74,8 +74,8 @@ Anthropic(Claude), Google(Gemini), Meta(Llama), xAI(Grok) 등 주요 경쟁사�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
-· <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI 모델 공식 문서</a><br/>
-· <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/" target="_blank" rel="noopener">OpenAI 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener">OpenAI 모델 공식 문서</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI 뉴스</a>
 </div>

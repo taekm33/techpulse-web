@@ -58,8 +58,8 @@ The Samsung deployment illustrates a broader pattern: partnerships between AI la
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://openai.com/chatgpt/enterprise/" target="_blank" rel="noopener">OpenAI — ChatGPT Enterprise</a><br/>
-· <a href="https://openai.com/codex/" target="_blank" rel="noopener">OpenAI — Codex</a><br/>
-· <a href="https://news.samsung.com/global/" target="_blank" rel="noopener">Samsung Global Newsroom</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/chatgpt/enterprise/" target="_blank" rel="noopener">OpenAI — ChatGPT Enterprise</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.com/codex/" target="_blank" rel="noopener">OpenAI — Codex</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://news.samsung.com/global/" target="_blank" rel="noopener">Samsung Global Newsroom</a><br/>
 </div>

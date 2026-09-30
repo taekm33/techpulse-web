@@ -61,9 +61,9 @@ AI 지출의 무게중심이 학습에서 추론으로 옮겨가면서, 엔비�
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-unveils-cs-4-30-times-faster-gpu-based-solutions" target="_blank" rel="noopener">Cerebras — Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions (공식 보도자료)</a><br/>
-<a href="https://www.hpcwire.com/off-the-wire/cerebras-introduces-cs-4-with-750-pflops-of-ai-compute/" target="_blank" rel="noopener">HPCwire — Cerebras Introduces CS-4 with 750 PFLOPS of AI Compute</a><br/>
-<a href="https://www.techzine.eu/news/infrastructure/143699/cerebras-launches-cs-4-for-faster-ai-inference/" target="_blank" rel="noopener">Techzine — Cerebras launches CS-4 for faster AI inference</a><br/>
-<a href="https://qz.com/cerebras-cs-4-server-system-ai-inference-081926" target="_blank" rel="noopener">Quartz — Cerebras CS-4 server system claims 30x faster AI inference</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-unveils-cs-4-30-times-faster-gpu-based-solutions" target="_blank" rel="noopener">Cerebras — Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions (공식 보도자료)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.hpcwire.com/off-the-wire/cerebras-introduces-cs-4-with-750-pflops-of-ai-compute/" target="_blank" rel="noopener">HPCwire — Cerebras Introduces CS-4 with 750 PFLOPS of AI Compute</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.techzine.eu/news/infrastructure/143699/cerebras-launches-cs-4-for-faster-ai-inference/" target="_blank" rel="noopener">Techzine — Cerebras launches CS-4 for faster AI inference</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://qz.com/cerebras-cs-4-server-system-ai-inference-081926" target="_blank" rel="noopener">Quartz — Cerebras CS-4 server system claims 30x faster AI inference</a>
 </div>

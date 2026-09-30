@@ -71,8 +71,8 @@ The paradox clarifies something important: the companies with the most intimate 
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a><br/>
-· <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic Official</a><br/>
-· <a href="https://www.sec.gov/" target="_blank" rel="noopener">U.S. SEC</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic Official</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.sec.gov/" target="_blank" rel="noopener">U.S. SEC</a><br/>
 </div>

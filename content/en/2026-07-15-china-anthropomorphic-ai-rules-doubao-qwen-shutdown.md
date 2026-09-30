@@ -79,9 +79,9 @@ The technical assets — the underlying models, the infrastructure — aren't go
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">Cyberspace Administration of China (CAC)</a><br/>
-· <a href="https://www.doubao.com/" target="_blank" rel="noopener">ByteDance Doubao official</a><br/>
-· <a href="https://qwen.ai/" target="_blank" rel="noopener">Alibaba Qwen official</a><br/>
-· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen team blog</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cac.gov.cn/" target="_blank" rel="noopener">Cyberspace Administration of China (CAC)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.doubao.com/" target="_blank" rel="noopener">ByteDance Doubao official</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://qwen.ai/" target="_blank" rel="noopener">Alibaba Qwen official</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen team blog</a>
 </div>

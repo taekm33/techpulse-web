@@ -465,8 +465,8 @@ The question is no longer "can I run a useful LLM locally?" — you can. The que
 *Hardware tested: RTX 4090 (24 GB VRAM), M3 Max MacBook Pro (128 GB unified memory), AMD Ryzen 9 5900X with 64 GB DDR4 (CPU-only inference). Software versions: Ollama 0.7.x, LM Studio 0.3.x, llama.cpp build March 2026.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://ollama.com/" target="_blank" rel="noopener">Ollama (official)</a> · <a href="https://lmstudio.ai/" target="_blank" rel="noopener">LM Studio (official)</a><br/>
-· <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp (GitHub)</a><br/>
-· <a href="https://huggingface.co/models" target="_blank" rel="noopener">Hugging Face — Models</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ollama.com/" target="_blank" rel="noopener">Ollama (official)</a> · <span class="src-role">[Primary]</span> <a href="https://lmstudio.ai/" target="_blank" rel="noopener">LM Studio (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp (GitHub)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/models" target="_blank" rel="noopener">Hugging Face — Models</a>
 </div>

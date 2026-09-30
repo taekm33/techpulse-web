@@ -52,11 +52,11 @@ The core facts in this article (September production, six-week test pass, supply
 Three things are worth watching. First, whether September production stays on schedule and how much it lowers Meta's GPU procurement share from Q4 onward. Second, Broadcom's rise as an "anti-Nvidia design house" as it designs custom chips for Meta and OpenAI at the same time. Third, whether custom chips can expand beyond recommendation and inference into frontier model training. The moment that boundary is crossed will mark the real start of any "de-Nvidia" shift.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/" target="_blank" rel="noopener">TechCrunch — Meta's new AI chips will begin production in September (citing Reuters, 7/9)</a><br/>
-· <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/" target="_blank" rel="noopener">Meta AI Blog — Scaling MTIA: AI chips for billions (the four new chips, official)</a><br/>
-· <a href="https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/" target="_blank" rel="noopener">Meta AI Blog — Introducing the MTIA program (2023, official)</a><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Spark (compute-demand context, official)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/" target="_blank" rel="noopener">TechCrunch — Meta's new AI chips will begin production in September (citing Reuters, 7/9)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/" target="_blank" rel="noopener">Meta AI Blog — Scaling MTIA: AI chips for billions (the four new chips, official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/" target="_blank" rel="noopener">Meta AI Blog — Introducing the MTIA program (2023, official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI Blog — Introducing Muse Spark (compute-demand context, official)</a>
 </div>
 
 <div class="article-keypoints">

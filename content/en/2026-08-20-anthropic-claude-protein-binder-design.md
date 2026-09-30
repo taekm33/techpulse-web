@@ -58,9 +58,9 @@ Anthropic is treating this as a double-edged capability. The company says it sti
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://www.anthropic.com/research/Claude-accelerates-protein-design" target="_blank" rel="noopener">Anthropic — How Claude is accelerating protein design and analytical chemistry (official)</a><br/>
-<a href="https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf" target="_blank" rel="noopener">Anthropic — Autonomous de novo protein binder design with Claude (research report PDF)</a><br/>
-<a href="https://www.adaptyvbio.com/blog/anthropic-1" target="_blank" rel="noopener">Adaptyv Bio — Benchmarking Claude's protein designs in the wet lab (partner case study)</a><br/>
-<a href="https://finance.biggo.com/news/098c484e-bac4-4d7e-a4e2-0ca0127b8d37" target="_blank" rel="noopener">BigGo Finance — Anthropic Says Claude Autonomously Designed Proteins, Hitting 14 of 15 Targets</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/research/Claude-accelerates-protein-design" target="_blank" rel="noopener">Anthropic — How Claude is accelerating protein design and analytical chemistry (official)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf" target="_blank" rel="noopener">Anthropic — Autonomous de novo protein binder design with Claude (research report PDF)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://www.adaptyvbio.com/blog/anthropic-1" target="_blank" rel="noopener">Adaptyv Bio — Benchmarking Claude's protein designs in the wet lab (partner case study)</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://finance.biggo.com/news/098c484e-bac4-4d7e-a4e2-0ca0127b8d37" target="_blank" rel="noopener">BigGo Finance — Anthropic Says Claude Autonomously Designed Proteins, Hitting 14 of 15 Targets</a>
 </div>

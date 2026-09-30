@@ -365,8 +365,8 @@ GPT-4o와 Claude 3.5 Sonnet은 각각 다른 철학과 강점을 가진 탁월�
 6. Scale AI. (2024). *SEAL Leaderboards — Coding*. https://scale.com/leaderboard
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/hello-gpt-4o/" target="_blank" rel="noopener">OpenAI — Hello GPT-4o (공식 발표)</a><br/>
-· <a href="https://www.anthropic.com/news/claude-3-5-sonnet" target="_blank" rel="noopener">Anthropic — Claude 3.5 Sonnet (공식 발표)</a><br/>
-· <a href="https://lmarena.ai/" target="_blank" rel="noopener">LMArena (Chatbot Arena) 리더보드</a> · <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/hello-gpt-4o/" target="_blank" rel="noopener">OpenAI — Hello GPT-4o (공식 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.anthropic.com/news/claude-3-5-sonnet" target="_blank" rel="noopener">Anthropic — Claude 3.5 Sonnet (공식 발표)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://lmarena.ai/" target="_blank" rel="noopener">LMArena (Chatbot Arena) 리더보드</a> · <span class="src-role">[공식·1차]</span> <a href="https://www.swebench.com" target="_blank" rel="noopener">SWE-bench</a>
 </div>

@@ -94,8 +94,8 @@ Moonshot AI는 K3에 두 가지 핵심 아키텍처 혁신을 적용했다고 �
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 플랫폼</a><br/>
-· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 사이트</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI · Hugging Face</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI 플랫폼</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi 공식 사이트</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI · Hugging Face</a><br/>
 </div>

@@ -78,8 +78,8 @@ Jonas Guan, Tom Blanchard, Hanna Foerster 등이 포함된 연구팀은 Linux �
 
 기업 보안팀은 AI 기반 공격을 가정한 시나리오로 침투 테스트를 재설계하고, 특히 알려진 취약점에 대한 패치 적용 속도를 높이는 것이 시급하다. 또한 네트워크 내부 측면 이동에 대한 탐지와 최소 권한 원칙 적용이 어느 때보다 중요해졌다.
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
-· <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE 데이터베이스</a><br/>
-· <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto 컴퓨터과학과</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39987" target="_blank" rel="noopener">NVD: CVE-2026-39987 (Marimo RCE)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://cve.mitre.org/" target="_blank" rel="noopener">MITRE CVE 데이터베이스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.cs.toronto.edu/" target="_blank" rel="noopener">University of Toronto 컴퓨터과학과</a><br/>
 </div>

@@ -63,8 +63,8 @@ tags: ["OpenAI", "Cursor", "SpaceX", "일론 머스크", "AI 코딩"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/" target="_blank" rel="noopener">OpenAI — Our decision on Cursor following its acquisition by SpaceX (공식 발표)</a><br/>
-<a href="https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/" target="_blank" rel="noopener">Engadget — OpenAI will pull its models from Cursor due to SpaceX acquisition</a><br/>
-<a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/" target="_blank" rel="noopener">The Decoder — OpenAI cuts off Cursor after SpaceX acquisition</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/" target="_blank" rel="noopener">OpenAI — Our decision on Cursor following its acquisition by SpaceX (공식 발표)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/" target="_blank" rel="noopener">Engadget — OpenAI will pull its models from Cursor due to SpaceX acquisition</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/" target="_blank" rel="noopener">The Decoder — OpenAI cuts off Cursor after SpaceX acquisition</a>
 </div>

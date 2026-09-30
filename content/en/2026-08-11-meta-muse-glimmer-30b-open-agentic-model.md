@@ -62,9 +62,9 @@ The launch arrived as Zuckerberg urged the U.S. to remove barriers to open-sourc
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Glimmer (official announcement)</a><br/>
-<a href="https://huggingface.co/collections/meta-models/muse-glimmer" target="_blank" rel="noopener">Hugging Face — Muse Glimmer model weights</a><br/>
-<a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank" rel="noopener">TechCrunch — Meta's new Glimmer AI model</a><br/>
-<a href="https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/" target="_blank" rel="noopener">Engadget — Muse Glimmer runs on a single computer</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank" rel="noopener">Meta AI Research — Introducing Muse Glimmer (official announcement)</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://huggingface.co/collections/meta-models/muse-glimmer" target="_blank" rel="noopener">Hugging Face — Muse Glimmer model weights</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank" rel="noopener">TechCrunch — Meta's new Glimmer AI model</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/" target="_blank" rel="noopener">Engadget — Muse Glimmer runs on a single computer</a>
 </div>

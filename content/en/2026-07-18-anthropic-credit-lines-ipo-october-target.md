@@ -53,10 +53,10 @@ This reflects <strong>reporting and ongoing negotiations</strong>, not a confirm
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html" target="_blank" rel="noopener">CNBC — Anthropic moves closer to mega-IPO as bankers line up investor meetings (7/15)</a><br/>
-· <a href="https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-seeks-billions-dollars-new-credit-amid-ipo-preparations/" target="_blank" rel="noopener">PYMNTS — Anthropic Seeks Billions of Dollars in New Credit Amid IPO Preparations</a><br/>
-· <a href="https://www.benzinga.com/markets/tech/26/07/60487734/anthropic-pursues-multibillion-dollar-credit-lines-ahead-of-ipo" target="_blank" rel="noopener">Benzinga — Anthropic Pursues Multibillion-Dollar Credit Lines Ahead Of IPO</a>
+<strong>Press & Analysis</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html" target="_blank" rel="noopener">CNBC — Anthropic moves closer to mega-IPO as bankers line up investor meetings (7/15)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-seeks-billions-dollars-new-credit-amid-ipo-preparations/" target="_blank" rel="noopener">PYMNTS — Anthropic Seeks Billions of Dollars in New Credit Amid IPO Preparations</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.benzinga.com/markets/tech/26/07/60487734/anthropic-pursues-multibillion-dollar-credit-lines-ahead-of-ipo" target="_blank" rel="noopener">Benzinga — Anthropic Pursues Multibillion-Dollar Credit Lines Ahead Of IPO</a>
 </div>
 
 <div class="article-keypoints">

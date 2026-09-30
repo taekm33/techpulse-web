@@ -75,8 +75,8 @@ MAI-Transcribe-2 reads less like a product announcement than a template. Microso
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-<a href="https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/" target="_blank" rel="noopener">Microsoft AI — MAI-Transcribe-2 official announcement</a><br/>
-<a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" target="_blank" rel="noopener">VentureBeat — Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a><br/>
-<a href="https://artificialanalysis.ai/speech-to-text/non-streaming" target="_blank" rel="noopener">Artificial Analysis — Speech-to-Text leaderboard (independent benchmark)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+<span class="src-role">[Primary]</span> <a href="https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/" target="_blank" rel="noopener">Microsoft AI — MAI-Transcribe-2 official announcement</a><br/>
+<span class="src-role">[Press/Analysis]</span> <a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" target="_blank" rel="noopener">VentureBeat — Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed</a><br/>
+<span class="src-role">[Primary]</span> <a href="https://artificialanalysis.ai/speech-to-text/non-streaming" target="_blank" rel="noopener">Artificial Analysis — Speech-to-Text leaderboard (independent benchmark)</a>
 </div>

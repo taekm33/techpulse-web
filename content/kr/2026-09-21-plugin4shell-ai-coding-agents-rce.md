@@ -65,11 +65,11 @@ AI 에이전트에 부여하는 권한은 '사람 개발자에게 주는 권한'
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.air.security/blog-posts/plugin4shell" target="_blank" rel="noopener">AIR — Plugin4Shell 취약점 공식 공개 (연구 원문)</a><br/>
-· <a href="https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/" target="_blank" rel="noopener">Help Net Security — 네 개 AI 코딩 에이전트를 강타한 제로클릭 RCE</a><br/>
-· <a href="https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html" target="_blank" rel="noopener">The Hacker News — 저장소 소유자가 고정 코드를 바꿔치기하게 만든 Plugin4Shell</a><br/>
-· <a href="https://cybersecuritynews.com/plugin4shell-zero-click-rce/" target="_blank" rel="noopener">Cybersecurity News — Plugin4Shell 제로클릭 RCE 상세</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.air.security/blog-posts/plugin4shell" target="_blank" rel="noopener">AIR — Plugin4Shell 취약점 공식 공개 (연구 원문)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/" target="_blank" rel="noopener">Help Net Security — 네 개 AI 코딩 에이전트를 강타한 제로클릭 RCE</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html" target="_blank" rel="noopener">The Hacker News — 저장소 소유자가 고정 코드를 바꿔치기하게 만든 Plugin4Shell</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://cybersecuritynews.com/plugin4shell-zero-click-rce/" target="_blank" rel="noopener">Cybersecurity News — Plugin4Shell 제로클릭 RCE 상세</a>
 </div>
 
 <div class="article-keypoints">

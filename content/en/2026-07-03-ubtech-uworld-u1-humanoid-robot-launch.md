@@ -69,10 +69,10 @@ All performance figures cited here — emotion-recognition accuracy, response la
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.prnewswire.com/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815272.html" target="_blank" rel="noopener">UBTECH Official Press Release (PR Newswire) — UWORLD U1 Series launch (2026-06-30)</a><br/>
-· <a href="https://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/" target="_blank" rel="noopener">TechNode — UBTECH unveils consumer humanoid robot U1</a><br/>
-· <a href="https://theaiinsider.tech/2026/07/01/ubtech-launches-uworld-u1-ultra-bionic-humanoid-robot-line/" target="_blank" rel="noopener">The AI Insider — UBTech Launches UWORLD U1 'Ultra-Bionic Humanoid Robot' Line</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.prnewswire.com/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815272.html" target="_blank" rel="noopener">UBTECH Official Press Release (PR Newswire) — UWORLD U1 Series launch (2026-06-30)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/" target="_blank" rel="noopener">TechNode — UBTECH unveils consumer humanoid robot U1</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://theaiinsider.tech/2026/07/01/ubtech-launches-uworld-u1-ultra-bionic-humanoid-robot-line/" target="_blank" rel="noopener">The AI Insider — UBTech Launches UWORLD U1 'Ultra-Bionic Humanoid Robot' Line</a>
 </div>
 
 <div class="article-keypoints">

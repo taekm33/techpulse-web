@@ -93,8 +93,8 @@ The integration of business intelligence (morning briefings, thread insights, cu
 Meta has stated its intention to expand Business Agent beyond customer response into full daily operations: market research, product insights, calendar management, and competitive intelligence. This trajectory aims to position the agent as a **digital team member** for small businesses — a credible threat to specialized SaaS tools serving SMBs. For enterprise, the platform play (deep integrations, guardrails, analytics) puts Meta in direct competition with CRM and customer service automation vendors. The pace of feature expansion will determine how seriously enterprise IT buyers treat this as a primary CX automation platform versus a supplementary channel.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://about.fb.com/news/" target="_blank" rel="noopener">Meta Newsroom</a><br/>
-&middot; <a href="https://developers.facebook.com/" target="_blank" rel="noopener">Meta for Developers</a><br/>
-&middot; <a href="https://www.facebook.com/business" target="_blank" rel="noopener">Meta for Business</a><br/>
+<strong>Primary Sources</strong><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://about.fb.com/news/" target="_blank" rel="noopener">Meta Newsroom</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://developers.facebook.com/" target="_blank" rel="noopener">Meta for Developers</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.facebook.com/business" target="_blank" rel="noopener">Meta for Business</a><br/>
 </div>

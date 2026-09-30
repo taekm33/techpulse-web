@@ -82,9 +82,9 @@ GPT-5.6 라인업은 최대 성능의 솔, 균형형 중간 계층 테라, 그�
 프런티어 AI의 경쟁축이 '얼마나 똑똑한가'에서 '얼마나 싼가'로 옮겨가고 있다. 이번 가격 인하는 그 전환을 가장 선명하게 보여준 사건 중 하나다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/index/gpt-5-6/" target="_blank" rel="noopener">OpenAI — GPT-5.6 공식 소개 페이지</a><br/>
-· <a href="https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html" target="_blank" rel="noopener">CNBC — OpenAI cuts prices for two of its GPT-5.6 AI models</a><br/>
-· <a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost" target="_blank" rel="noopener">VentureBeat — AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80%</a><br/>
-· <a href="https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html" target="_blank" rel="noopener">InfoWorld — OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%</a><br/>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/gpt-5-6/" target="_blank" rel="noopener">OpenAI — GPT-5.6 공식 소개 페이지</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html" target="_blank" rel="noopener">CNBC — OpenAI cuts prices for two of its GPT-5.6 AI models</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost" target="_blank" rel="noopener">VentureBeat — AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80%</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html" target="_blank" rel="noopener">InfoWorld — OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%</a><br/>
 </div>

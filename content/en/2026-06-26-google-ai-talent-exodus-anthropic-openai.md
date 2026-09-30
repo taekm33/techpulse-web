@@ -58,11 +58,11 @@ Talent attrition tends to hit the medium-to-long-term model roadmap harder than 
 This cascade signals that AI competition has decisively shifted beyond a contest of model performance into a war for talent. With Anthropic and OpenAI riding capital-market expectations as they near IPOs, expect aggressive talent absorption to continue for some time. The key thing to watch is which levers — compensation, research autonomy, speed to product — Google uses to stem the flow.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html" target="_blank" rel="noopener">CNBC — Google Gemini co-lead Noam Shazeer leaves for OpenAI (June 18)</a><br/>
-· <a href="https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html" target="_blank" rel="noopener">CNBC — John Jumper to leave Google DeepMind for Anthropic (June 19)</a><br/>
-· <a href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener">TechCrunch — AI researchers continue to leave Google for its rivals (June 24)</a><br/>
-· <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank" rel="noopener">Anthropic — Expanded compute partnership with Google and Broadcom (official)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html" target="_blank" rel="noopener">CNBC — Google Gemini co-lead Noam Shazeer leaves for OpenAI (June 18)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html" target="_blank" rel="noopener">CNBC — John Jumper to leave Google DeepMind for Anthropic (June 19)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener">TechCrunch — AI researchers continue to leave Google for its rivals (June 24)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" target="_blank" rel="noopener">Anthropic — Expanded compute partnership with Google and Broadcom (official)</a>
 </div>
 
 <div class="article-keypoints">

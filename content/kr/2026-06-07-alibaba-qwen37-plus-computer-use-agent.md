@@ -93,8 +93,8 @@ Qwen3.7-Plus가 공개한 어휘 앱 빌드 데모(11시간, 1,000+ 에이전트
 
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그 (QwenLM)</a><br/>
-· <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen 공식 GitHub (QwenLM)</a><br/>
-· <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 공식 Hugging Face</a><br/>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://qwenlm.github.io/" target="_blank" rel="noopener">Qwen 공식 블로그 (QwenLM)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://github.com/QwenLM" target="_blank" rel="noopener">Qwen 공식 GitHub (QwenLM)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/Qwen" target="_blank" rel="noopener">Qwen 공식 Hugging Face</a><br/>
 </div>

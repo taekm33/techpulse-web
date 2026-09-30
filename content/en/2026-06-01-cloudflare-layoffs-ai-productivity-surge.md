@@ -115,8 +115,8 @@ The question for every other company is not whether this pattern will arrive, bu
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://blog.cloudflare.com" target="_blank" rel="noopener">The Cloudflare Blog</a><br/>
-· <a href="https://investors.cloudflare.com" target="_blank" rel="noopener">Cloudflare Investor Relations</a><br/>
-· <a href="https://www.cloudflare.com/workers/" target="_blank" rel="noopener">Cloudflare Workers Platform</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://blog.cloudflare.com" target="_blank" rel="noopener">The Cloudflare Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://investors.cloudflare.com" target="_blank" rel="noopener">Cloudflare Investor Relations</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.cloudflare.com/workers/" target="_blank" rel="noopener">Cloudflare Workers Platform</a><br/>
 </div>

@@ -63,11 +63,11 @@ API로 에이전트를 운영 중이라면, 오늘부터 V4-Pro 호출은 자동
 파장은 중국 경쟁사에 먼저 닿았다. 블룸버그에 따르면 공개 당일 홍콩 증시에서 미니맥스(MiniMax)와 Z.ai 관련 주가가 8% 이상, 알리바바가 2% 이상 하락했다. 저가 중국 모델의 공세가 몇 달째 이어지며 미국 모델 업체들을 압박하는 국면이다. 한편 로이터 등은 딥시크가 상하이 증시 STAR 마켓 상장 준비에 착수했다고 보도했다. 남은 관전 포인트는 딥시크의 자체 벤치마크가 독립 검증에서도 유지될지, 그리고 예고된 V4.1-Pro의 가격과 성능이 어떻게 매겨질지다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/" target="_blank" rel="noopener">DeepSeek — V4.1-Flash 공식 발표 (구조·요금·전환 일정)</a><br/>
-· <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" target="_blank" rel="noopener">Hugging Face — DeepSeek-V4.1-Flash 가중치·모델카드 (MIT)</a><br/>
-· <a href="https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut" target="_blank" rel="noopener">The Next Web — V4.1-Flash 공개·V4-Pro 폐기·가격 인하 분석</a><br/>
-· <a href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/" target="_blank" rel="noopener">The Decoder — 에이전트 메모리 절감·기술 보고서 리뷰</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/" target="_blank" rel="noopener">DeepSeek — V4.1-Flash 공식 발표 (구조·요금·전환 일정)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" target="_blank" rel="noopener">Hugging Face — DeepSeek-V4.1-Flash 가중치·모델카드 (MIT)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut" target="_blank" rel="noopener">The Next Web — V4.1-Flash 공개·V4-Pro 폐기·가격 인하 분석</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/" target="_blank" rel="noopener">The Decoder — 에이전트 메모리 절감·기술 보고서 리뷰</a>
 </div>
 
 <div class="article-keypoints">

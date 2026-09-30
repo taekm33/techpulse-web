@@ -65,9 +65,9 @@ Coinbase for Agents의 또 다른 핵심은 **x402** 머신-투-머신 결제 �
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://github.com/coinbase/agentkit" target="_blank" rel="noopener noreferrer">Coinbase AgentKit 공식 GitHub (에이전트 지갑·트레이딩 SDK)</a><br>
-— <a href="https://github.com/coinbase/x402" target="_blank" rel="noopener noreferrer">x402 결제 프로토콜 GitHub (오픈소스)</a><br>
-— <a href="https://github.com/coinbase/coinbase-sdk-nodejs" target="_blank" rel="noopener noreferrer">Coinbase Node.js SDK (에이전트 통합 개발)</a>
+<div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/coinbase/agentkit" target="_blank" rel="noopener noreferrer">Coinbase AgentKit 공식 GitHub (에이전트 지갑·트레이딩 SDK)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/coinbase/x402" target="_blank" rel="noopener noreferrer">x402 결제 프로토콜 GitHub (오픈소스)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.com/coinbase/coinbase-sdk-nodejs" target="_blank" rel="noopener noreferrer">Coinbase Node.js SDK (에이전트 통합 개발)</a>
 </div>
 </div>

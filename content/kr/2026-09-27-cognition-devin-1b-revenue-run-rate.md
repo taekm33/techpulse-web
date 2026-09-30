@@ -56,10 +56,10 @@ AI 코딩 에이전트 경쟁의 선두 주자 중 하나인 코그니션(Cognit
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://cognition.com/blog/1b-run-rate" target="_blank" rel="noopener">Cognition 공식 블로그 — 연 런레이트 10억 달러 돌파 발표</a><br/>
-· <a href="https://www.unite.ai/cognition-says-annualized-revenue-run-rate-has-passed-1b/" target="_blank" rel="noopener">Unite.AI — 런레이트 10억 달러 및 성장 배경 분석</a><br/>
-· <a href="https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/" target="_blank" rel="noopener">TechCrunch — 코그니션 5월 자금조달(배경 참고)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://cognition.com/blog/1b-run-rate" target="_blank" rel="noopener">Cognition 공식 블로그 — 연 런레이트 10억 달러 돌파 발표</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.unite.ai/cognition-says-annualized-revenue-run-rate-has-passed-1b/" target="_blank" rel="noopener">Unite.AI — 런레이트 10억 달러 및 성장 배경 분석</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/" target="_blank" rel="noopener">TechCrunch — 코그니션 5월 자금조달(배경 참고)</a>
 </div>
 
 <div class="article-keypoints">

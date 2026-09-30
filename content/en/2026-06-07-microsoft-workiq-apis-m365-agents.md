@@ -106,8 +106,8 @@ Integration with agent frameworks like LangChain, AutoGen, or Microsoft's own Se
 Work IQ APIs create a new category of enterprise agent products: assistants that are deeply contextual to a specific organization's actual history and work patterns rather than generic knowledge. ISVs, consulting firms, and internal IT teams that build on Work IQ before competitors will have a head start in the enterprise AI agent market. The June 16 GA date is a specific, near-term milestone worth targeting — early integrations built on preview should be production-deployable day one.
 
 <div class="article-callout info">
-<strong>Related Reading &middot; Official Sources</strong><br/>
-&middot; <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noopener">Microsoft 365</a><br/>
-&middot; <a href="https://learn.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noopener">Microsoft 365 documentation</a><br/>
-&middot; <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft Copilot</a><br/>
+<strong>Primary Sources</strong><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noopener">Microsoft 365</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://learn.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noopener">Microsoft 365 documentation</a><br/>
+&middot; <span class="src-role">[Primary]</span> <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft Copilot</a><br/>
 </div>

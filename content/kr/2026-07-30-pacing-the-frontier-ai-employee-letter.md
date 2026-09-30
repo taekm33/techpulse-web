@@ -66,9 +66,9 @@ AI 규제를 요구하는 목소리는 새롭지 않다. 하지만 이번 서한
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://www.pacingthefrontier.com/" target="_blank" rel="noopener">Pacing the Frontier — 공식 서한 사이트</a><br/>
-<a href="https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter" target="_blank" rel="noopener">CNN Business — Employees from the world's biggest AI companies want the US to be ready to slow AI development</a><br/>
-<a href="https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/" target="_blank" rel="noopener">Fortune — AI workers ask Washington to help build an AI slowdown plan</a><br/>
-<a href="https://thenextweb.com/news/pacing-the-frontier-ai-employees-letter-us-government" target="_blank" rel="noopener">The Next Web — AI staff ask the US for a way to pace AI</a>
+<strong>관련 보도·해설</strong><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.pacingthefrontier.com/" target="_blank" rel="noopener">Pacing the Frontier — 공식 서한 사이트</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter" target="_blank" rel="noopener">CNN Business — Employees from the world's biggest AI companies want the US to be ready to slow AI development</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/" target="_blank" rel="noopener">Fortune — AI workers ask Washington to help build an AI slowdown plan</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://thenextweb.com/news/pacing-the-frontier-ai-employees-letter-us-government" target="_blank" rel="noopener">The Next Web — AI staff ask the US for a way to pace AI</a>
 </div>

@@ -66,9 +66,9 @@ tags: ["SpaceX", "Cursor", "AI코딩"]
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://www.stocktitan.net" target="_blank" rel="noopener noreferrer">StockTitan: 스페이스X-애니스피어 거래 SEC 8-K 공시 요약</a><br>
-— <a href="https://www.techcrunch.com" target="_blank" rel="noopener noreferrer">TechCrunch: 스페이스X의 Cursor 인수 관련 보도</a><br>
-— <a href="https://www.cnbc.com" target="_blank" rel="noopener noreferrer">CNBC: 스페이스X의 애니스피어 600억 달러 인수 보도</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.stocktitan.net" target="_blank" rel="noopener noreferrer">StockTitan: 스페이스X-애니스피어 거래 SEC 8-K 공시 요약</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.techcrunch.com" target="_blank" rel="noopener noreferrer">TechCrunch: 스페이스X의 Cursor 인수 관련 보도</a><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.cnbc.com" target="_blank" rel="noopener noreferrer">CNBC: 스페이스X의 애니스피어 600억 달러 인수 보도</a>
 </div>
 </div>

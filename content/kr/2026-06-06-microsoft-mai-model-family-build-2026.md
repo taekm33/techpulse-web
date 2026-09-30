@@ -73,8 +73,8 @@ Build 2026의 또 다른 핵심 발표는 '프론티어 튜닝(Frontier Tuning)'
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — 뉴스</a><br/>
-· <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
-· <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://microsoft.ai/news/" target="_blank" rel="noopener">Microsoft AI — 뉴스</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.microsoft.com/" target="_blank" rel="noopener">Microsoft 공식 블로그</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://news.microsoft.com/build/" target="_blank" rel="noopener">Microsoft Build</a>
 </div>

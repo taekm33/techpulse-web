@@ -52,11 +52,11 @@ tags: ["메타", "MTIA", "AI칩", "브로드컴", "TSMC", "반도체", "엔비�
 관전 포인트는 세 가지다. 첫째, 9월 양산이 실제 일정대로 진행돼 4분기 이후 메타의 GPU 조달 비중을 얼마나 낮추는지다. 둘째, 브로드컴이 메타·OpenAI의 커스텀 칩을 동시에 설계하면서 '엔비디아 대항마 설계 하우스'로 부상하는 흐름이다. 셋째, 자체 칩이 추천·추론을 넘어 최전선 모델 학습까지 확장될 수 있을지다. 이 경계를 넘는 순간이 진짜 '탈엔비디아'의 시작점이 될 것이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/" target="_blank" rel="noopener">TechCrunch — Meta's new AI chips will begin production in September (로이터 인용, 7/9)</a><br/>
-· <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/" target="_blank" rel="noopener">Meta AI 블로그 — Scaling MTIA: AI chips for billions (신규 4종 칩 공개, 공식)</a><br/>
-· <a href="https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/" target="_blank" rel="noopener">Meta AI 블로그 — MTIA 프로그램 원년 소개(2023, 공식)</a><br/>
-· <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI 블로그 — Introducing Muse Spark (컴퓨트 수요 배경, 공식)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/" target="_blank" rel="noopener">TechCrunch — Meta's new AI chips will begin production in September (로이터 인용, 7/9)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/" target="_blank" rel="noopener">Meta AI 블로그 — Scaling MTIA: AI chips for billions (신규 4종 칩 공개, 공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/" target="_blank" rel="noopener">Meta AI 블로그 — MTIA 프로그램 원년 소개(2023, 공식)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/" target="_blank" rel="noopener">Meta AI 블로그 — Introducing Muse Spark (컴퓨트 수요 배경, 공식)</a>
 </div>
 
 <div class="article-keypoints">

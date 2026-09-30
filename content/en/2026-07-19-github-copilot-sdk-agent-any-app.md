@@ -88,10 +88,10 @@ For the broader agent ecosystem, this adds a third major SDK framework alongside
 The real test for the Copilot SDK won't be its technical specification — it will be whether enterprise teams choose a subscription-gated runtime over a usage-billed alternative. For organizations already deep in the GitHub ecosystem, that decision may effectively be made for them. For everyone else, the pricing model comparison just got more interesting.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot (official)</a><br/>
-· <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot docs</a><br/>
-· <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub Changelog</a><br/>
-· <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK docs</a><br/>
-· <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot docs</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.blog/changelog/" target="_blank" rel="noopener">GitHub Changelog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.claude.com/en/api/agent-sdk/overview" target="_blank" rel="noopener">Anthropic Claude Agent SDK docs</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noopener">OpenAI Agents SDK</a><br/>
 </div>

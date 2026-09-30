@@ -48,11 +48,11 @@ BMS는 약 3년간 기존 DGX 슈퍼팟을 운영하며 성과를 축적해 왔�
 BMS는 이 접근을 '하이브리드 지능(hybrid intelligence)'으로 규정한다. 데이터 집약적 실행은 연산 시스템이 맡고, 방향 설정·해석·깊은 전문성이 필요한 판단은 인간 연구자가 책임진다는 개념이다. 셰스는 "인간의 직관은 대체되는 게 아니라 더 정량적인 통찰과 예측으로 증강된다"고 강조했다. 제약사가 클라우드 사업자·AI 연구소를 넘어 엔비디아 최신 인프라의 주요 구매자로 부상한 만큼, 과학·산업 영역으로의 고성능 컴퓨팅 확산은 당분간 이어질 전망이다.
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/" target="_blank" rel="noopener">NVIDIA Blog — BMS, 베라 루빈 기반 생명과학 최고 AI 팩토리 구축 (공식, 7/20)</a><br/>
-· <a href="https://www.nvidia.com/en-us/data-center/dgx-vera-rubin-nvl72/" target="_blank" rel="noopener">NVIDIA — DGX 베라 루빈 NVL72 제품 페이지</a><br/>
-· <a href="https://www.nvidia.com/en-us/data-center/dgx-superpod/" target="_blank" rel="noopener">NVIDIA — DGX 슈퍼팟 개요</a><br/>
-· <a href="https://www.pharmexec.com/view/bristol-myers-squibb-collaboration-nvidia--ai-" target="_blank" rel="noopener">Pharmaceutical Executive — BMS·엔비디아 AI 팩토리 협력 확대</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/" target="_blank" rel="noopener">NVIDIA Blog — BMS, 베라 루빈 기반 생명과학 최고 AI 팩토리 구축 (공식, 7/20)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/en-us/data-center/dgx-vera-rubin-nvl72/" target="_blank" rel="noopener">NVIDIA — DGX 베라 루빈 NVL72 제품 페이지</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.nvidia.com/en-us/data-center/dgx-superpod/" target="_blank" rel="noopener">NVIDIA — DGX 슈퍼팟 개요</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://www.pharmexec.com/view/bristol-myers-squibb-collaboration-nvidia--ai-" target="_blank" rel="noopener">Pharmaceutical Executive — BMS·엔비디아 AI 팩토리 협력 확대</a>
 </div>
 
 <div class="article-keypoints">

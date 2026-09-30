@@ -391,9 +391,9 @@ def multi_agent_fact_check(claim: str) -> dict:
 
 ---
 
-## 관련 자료 · 공식 출처 · 사용 안내
+## 관련 자료 · 출처 · 사용 안내
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
-— <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer">IBM — AI 환각이란? (개념 해설)</a><br>
-— <a href="https://cloud.google.com/discover/what-are-ai-hallucinations" target="_blank" rel="noopener noreferrer">Google Cloud — AI 환각 개념·대응</a><br>
-— <a href="https://arxiv.org/abs/2311.05232" target="_blank" rel="noopener noreferrer">학술 서베이: A Survey of Hallucination in LLMs (arXiv)</a><br></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener noreferrer">IBM — AI 환각이란? (개념 해설)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://cloud.google.com/discover/what-are-ai-hallucinations" target="_blank" rel="noopener noreferrer">Google Cloud — AI 환각 개념·대응</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://arxiv.org/abs/2311.05232" target="_blank" rel="noopener noreferrer">학술 서베이: A Survey of Hallucination in LLMs (arXiv)</a><br></div></div>

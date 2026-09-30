@@ -51,9 +51,9 @@ tags: ["앤트로픽", "Claude", "AI구독", "요금제"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-<a href="https://x.com/claudeai/status/2078302415804379218" target="_blank" rel="noopener">Claude 공식 X 발표 (@claudeai)</a><br/>
-<a href="https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/" target="_blank" rel="noopener">The Decoder — Fable 5 한도·크레딧 전환 보도</a><br/>
-<a href="https://www.dawn.com/news/2016483" target="_blank" rel="noopener">DAWN — Anthropic to add Fable 5 to Max, Team Premium at 50pc</a><br/>
-<a href="https://forklog.com/en/anthropic-adds-claude-fable-5-to-max-and-team-premium-subscriptions/" target="_blank" rel="noopener">ForkLog — Anthropic Adds Fable 5 to Max and Team Premium</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+<span class="src-role">[공식·1차]</span> <a href="https://x.com/claudeai/status/2078302415804379218" target="_blank" rel="noopener">Claude 공식 X 발표 (@claudeai)</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/" target="_blank" rel="noopener">The Decoder — Fable 5 한도·크레딧 전환 보도</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://www.dawn.com/news/2016483" target="_blank" rel="noopener">DAWN — Anthropic to add Fable 5 to Max, Team Premium at 50pc</a><br/>
+<span class="src-role">[보도·해설]</span> <a href="https://forklog.com/en/anthropic-adds-claude-fable-5-to-max-and-team-premium-subscriptions/" target="_blank" rel="noopener">ForkLog — Anthropic Adds Fable 5 to Max and Team Premium</a>
 </div>
