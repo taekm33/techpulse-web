@@ -245,6 +245,8 @@ The decisions that emerge from this legal reckoning will determine whether the A
 How that balance is struck will matter far beyond the legal and technology industries. It will shape the economic future of every person who creates for a living.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.copyright.gov/" target="_blank" rel="noopener">U.S. Copyright Office (official)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.copyright.gov/" target="_blank" rel="noopener">U.S. Copyright Office (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener">U.S. Copyright Office — Copyright and Artificial Intelligence (reports &amp; guidance)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright" target="_blank" rel="noopener">Wikipedia — Artificial intelligence and copyright (case overview)</a>
 </div>

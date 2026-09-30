@@ -77,7 +77,7 @@ Three months ago, a consensus among Western analysts held that Chinese AI models
 
 For developers and enterprise buyers, the practical implications are significant:
 
-**Open-source frontier AI is real.** Until recently, "open-source" and "frontier-class" were mutually exclusive. K3 changes that equation, at least on the scale and benchmark dimensions.
+**Open-source frontier AI is real.** Until recently, "open-source" and "frontier-class" seemed incompatible. K3 changes that equation, at least on the scale and benchmark dimensions.
 
 **The agentic coding race has a new entrant.** Kimi Code's simultaneous update signals that Moonshot AI intends to compete not just on model quality but on the full developer toolchain — the same battlefield GitHub Copilot, Cursor, and Windsurf are fighting over.
 
@@ -96,8 +96,8 @@ For developers and enterprise buyers, the practical implications are significant
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI Platform</a><br/>
-· <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi (official)</a><br/>
-· <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://platform.moonshot.ai/" target="_blank" rel="noopener">Moonshot AI Platform</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.kimi.com/" target="_blank" rel="noopener">Kimi (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/moonshotai" target="_blank" rel="noopener">Moonshot AI on Hugging Face</a><br/>
 </div>

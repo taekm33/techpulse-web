@@ -240,7 +240,7 @@ A strong AI engineer portfolio demonstrates you can build working systems, not j
 ### Books
 
 - *Building LLM Apps* (O'Reilly, 2025) — Practical production focus
-- *Hands-On Large Language Models* (O'Reilly, 2024) — Strong fundamentals
+- <a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/" target="_blank" rel="noopener"><em>Hands-On Large Language Models</em></a> (Alammar &amp; Grootendorst, O'Reilly, 2024) — Strong fundamentals
 - *Designing Machine Learning Systems* (Chip Huyen) — Systems thinking
 
 ### Communities
@@ -280,7 +280,7 @@ The meta-skill that ties it all together: **the ability to evaluate AI systems r
 The AI engineering career in 2026 is genuinely exciting and genuinely chaotic. The foundational skills are knowable, the path is traversable, and the demand for people who can build reliable AI systems far exceeds the supply. Start with the foundation, build something real for each layer, and focus relentlessly on the skills most likely to transfer even as the specific tools change.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://roadmap.sh/" target="_blank" rel="noopener">roadmap.sh — Developer Roadmaps</a><br/>
-· <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot (official)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://roadmap.sh/" target="_blank" rel="noopener">roadmap.sh — Developer Roadmaps</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot (official)</a>
 </div>

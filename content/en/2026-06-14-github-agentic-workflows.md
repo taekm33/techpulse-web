@@ -95,7 +95,7 @@ GitHub Next's `agentics` repository includes pre-built workflows ready to add to
 
 GitHub Agentic Workflows is part of GitHub's broader strategy to embed AI agents throughout the software development lifecycle. The same week as this announcement, GitHub also shipped Copilot code review configuration controls, Claude Fable 5 general availability in Copilot, and the Copilot CLI `/settings` command for centralized configuration.
 
-The underlying pattern: GitHub is moving from AI that assists individual developers on individual tasks to AI that operates autonomously on the repository itself — with human review as the final gate, not the starting point.
+The underlying pattern: GitHub is moving from AI that assists individual developers on individual tasks to AI that operates autonomously on the repository itself — with human review as the final checkpoint, not the starting point.
 
 <div class="article-keypoints">
 <strong>Key Takeaways</strong>
@@ -108,4 +108,4 @@ The underlying pattern: GitHub is moving from AI that assists individual develop
 </ul>
 </div>
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>Official Sources & Documentation</strong><br>— <a href="https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview/" target="_blank" rel="noopener noreferrer">GitHub Changelog: Agentic Workflows Public Preview</a><br>— <a href="https://docs.github.com/en/copilot/how-tos/github-agentic-workflows/quickstart" target="_blank" rel="noopener noreferrer">GitHub Docs: Your First Agentic Workflow (Quickstart)</a><br>— <a href="https://github.github.com/gh-aw/setup/quick-start/" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows Setup Guide (gh-aw CLI)</a></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>Primary Sources · Documentation</strong><br>— <span class="src-role">[Primary]</span> <a href="https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview/" target="_blank" rel="noopener noreferrer">GitHub Changelog: Agentic Workflows Public Preview</a><br>— <span class="src-role">[Primary]</span> <a href="https://docs.github.com/en/copilot/how-tos/github-agentic-workflows/quickstart" target="_blank" rel="noopener noreferrer">GitHub Docs: Your First Agentic Workflow (Quickstart)</a><br>— <span class="src-role">[Primary]</span> <a href="https://github.github.com/gh-aw/setup/quick-start/" target="_blank" rel="noopener noreferrer">GitHub Agentic Workflows Setup Guide (gh-aw CLI)</a></div></div>

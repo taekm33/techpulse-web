@@ -217,7 +217,7 @@ The biggest leverage point in a successful SaaS launch is having an audience bef
 - Launch on Tuesday–Thursday for highest engagement
 - Have 50+ "hunters" who will upvote and comment in the first 2 hours
 - Prepare a detailed "maker comment" explaining your motivation and what makes the product unique
-- Offer an exclusive Product Hunt discount (30–40%) for the launch day
+- Offer a Product Hunt–only discount (30–40%) for the launch day
 
 **Hacker News (Show HN)**: For technical products or technically sophisticated buyers. A successful Show HN can generate 500–2,000 highly engaged visitors. The bar for quality is high — the community is unforgiving of hype, so be honest about limitations.
 
@@ -307,9 +307,9 @@ Reach $10K MRR, then study your best customers obsessively. Why do they stay? Wh
 Now stop reading and start building.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://stripe.com/" target="_blank" rel="noopener">Stripe — official site</a><br/>
-· <a href="https://vercel.com/" target="_blank" rel="noopener">Vercel — official site</a><br/>
-· <a href="https://supabase.com/" target="_blank" rel="noopener">Supabase — official site</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://stripe.com/" target="_blank" rel="noopener">Stripe — official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://vercel.com/" target="_blank" rel="noopener">Vercel — official site</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://supabase.com/" target="_blank" rel="noopener">Supabase — official site</a><br/>
 </div>
 

@@ -52,11 +52,11 @@ The leap from HBM2E to HBM3 was significant. The leap from HBM3 to HBM3E was eve
 
 ### SK Hynix: First to Market, First in Quality
 
-SK Hynix has been the dominant HBM supplier since the HBM3 generation. The company was the exclusive supplier of HBM3 for NVIDIA's H100 at launch, giving it enormous leverage in the AI boom of 2023–2024.
+SK Hynix has been the dominant HBM supplier since the HBM3 generation. The company was the sole supplier of HBM3 for NVIDIA's H100 at launch, giving it enormous leverage in the AI boom of 2023–2024.
 
 SK Hynix's advantages include:
 - **Manufacturing maturity**: Its HBM3 and HBM3E production lines have been running longer, resulting in higher yields and fewer defects
-- **NVIDIA relationship**: A deep, multi-year qualification process with NVIDIA that has resulted in SK Hynix becoming NVIDIA's preferred — and in some periods, exclusive — HBM supplier
+- **NVIDIA relationship**: A deep, multi-year qualification process with NVIDIA that has resulted in SK Hynix becoming NVIDIA's preferred — and in some periods, sole — HBM supplier
 - **TSV yield leadership**: SK Hynix has consistently demonstrated better yields in the difficult TSV process, which is critical because a single defective TSV in a stack renders the entire stack unusable
 - **Advanced packaging integration**: Its HBM stacks have been certified for integration with NVIDIA's CoWoS (Chip on Wafer on Substrate) packaging at Taiwan Semiconductor Manufacturing Company (TSMC)
 
@@ -245,8 +245,8 @@ For technologists, understanding HBM means understanding why memory architecture
 The memory war is real, it is consequential, and in 2026, it is far from over.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://semiconductor.samsung.com/" target="_blank" rel="noopener">Samsung Semiconductor (official)</a><br/>
-· <a href="https://news.skhynix.com/" target="_blank" rel="noopener">SK hynix Newsroom (official)</a><br/>
-· <a href="https://www.skhynix.com/" target="_blank" rel="noopener">SK hynix official site</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://semiconductor.samsung.com/" target="_blank" rel="noopener">Samsung Semiconductor (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://news.skhynix.com/" target="_blank" rel="noopener">SK hynix Newsroom (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.skhynix.com/" target="_blank" rel="noopener">SK hynix official site</a>
 </div>

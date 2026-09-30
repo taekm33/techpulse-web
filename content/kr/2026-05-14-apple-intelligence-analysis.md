@@ -106,9 +106,9 @@ PCC는 단순한 마케팅 문구가 아니라 검증 가능한 기술적 구조
 - **No Privileged Access**: Apple 내부 엔지니어조차 PCC 서버에서 처리 중인 요청 내용에 접근할 수 없다.
 - **Open Verification**: 보안 연구자들이 PCC 소프트웨어 이미지를 독립적으로 감사할 수 있도록 공개한다.
 
-> **핵심 인사이트**: Apple은 "우리를 믿으세요"가 아니라 "직접 검증하세요"라고 말하고 있다. 이 접근법은 수십 년간 소프트웨어 업계에서 신뢰의 근거로 활용된 오픈소스 정신과 맥을 같이 한다. 클라우드 AI 시대에 프라이버시를 보장하는 방법으로서, PCC는 업계 전체에 새로운 기준을 제시한 사례로 평가받는다.
+> **핵심 인사이트**: Apple은 "우리를 믿으세요"가 아니라 "스스로 검증하세요"라고 말하고 있다. 이 접근법은 수십 년간 소프트웨어 업계에서 신뢰의 근거로 활용된 오픈소스 정신과 맥을 같이 한다. 클라우드 AI 시대에 프라이버시를 보장하는 방법으로서, PCC는 업계 전체에 새로운 기준을 제시한 사례로 평가받는다.
 
-<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>PCC 보안 직접 검증하는 방법</strong><br>Apple은 보안 연구자들이 Private Cloud Compute의 소프트웨어 이미지를 독립적으로 감사할 수 있도록 공개했다. security.apple.com/research 에서 PCC 검증 가이드를 확인하고, Virtual Research Environment(VRE)를 통해 실제 PCC 코드를 로컬에서 실행해볼 수 있다. 마케팅 주장이 아닌 코드로 신뢰를 증명하는 Apple의 접근법을 직접 확인해보자.</div></div>
+<div class="article-callout article-callout--tip"><div class="article-callout__icon">💡</div><div class="article-callout__body"><strong>PCC 보안을 스스로 검증하는 방법</strong><br>Apple은 보안 연구자들이 Private Cloud Compute의 소프트웨어 이미지를 독립적으로 감사할 수 있도록 공개했다. security.apple.com/research 에서 PCC 검증 가이드를 확인하고, Virtual Research Environment(VRE)를 통해 실제 PCC 코드를 로컬에서 실행해볼 수 있다. 마케팅 주장이 아닌 코드로 신뢰를 증명하는 Apple의 접근법을 직접 확인해보자.</div></div>
 
 ---
 

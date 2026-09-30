@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "삼성 갤럭시 AI 2.0 분석: One UI 8이 가져오는 AI 혁신"
 summary: "삼성이 갤럭시 AI 2.0을 공개했습니다. One UI 8 기반의 온디바이스 AI 강화, 실시간 통역 업그레이드, AI 사진 편집 고도화, 갤럭시 링 AI 통합까지 — 갤럭시 AI의 현재와 미래를 분석합니다."
 category: "it-news"
@@ -123,6 +124,6 @@ tags: ["삼성", "갤럭시AI", "OneUI8", "온디바이스AI", "스마트폰AI"]
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.samsung.com/global/galaxy/" target="_blank" rel="noopener">Samsung Galaxy 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.samsung.com/global/galaxy/" target="_blank" rel="noopener">Samsung Galaxy 공식</a>
 </div>

@@ -30,7 +30,7 @@ When Lockdown Mode is turned on, ChatGPT loses the following capabilities:
 - **Canvas networking** — disabled
 - **File downloads** — disabled
 
-Lockdown Mode and Developer Mode are mutually exclusive; enabling one automatically disables the other. Alongside the feature, OpenAI also launched session management controls that let users review active ChatGPT sessions and log out of individual devices.
+Lockdown Mode and Developer Mode cannot be on at the same time; enabling one automatically disables the other. Alongside the feature, OpenAI also launched session management controls that let users review active ChatGPT sessions and log out of individual devices.
 
 <div class="article-stats">
 <div class="stat-item">
@@ -92,7 +92,7 @@ The harder problem remains unsolved. As agents acquire more permissions — cale
 For security teams evaluating AI tools in enterprise environments, this feature is worth building into your usage policies today.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://genai.owasp.org/llm-top-10/" target="_blank" rel="noopener">OWASP — Top 10 for LLM Applications</a><br/>
-· <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" target="_blank" rel="noopener">OWASP — GenAI Security Project</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://genai.owasp.org/llm-top-10/" target="_blank" rel="noopener">OWASP — Top 10 for LLM Applications</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" target="_blank" rel="noopener">OWASP — GenAI Security Project</a>
 </div>

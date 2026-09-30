@@ -324,6 +324,8 @@ AI 생태계의 다양성은 전체 산업의 혁신 속도를 높인다. Mistra
 <div class="article-keypoints"><div class="article-keypoints__title">📌 핵심 정리</div><ul><li>Mistral AI는 2023년 DeepMind·Meta 출신 연구자들이 창업한 유럽 최고 AI 스타트업으로, 2026년 기업 가치 60억 달러에 달한다.</li><li>Mistral 7B, Mixtral 8x7B 등 핵심 모델을 Apache 2.0 오픈소스로 공개하며 효율적인 MoE 아키텍처로 적은 파라미터에서 최고 수준의 성능을 달성했다.</li><li>API 가격이 동급 OpenAI 모델 대비 40~70% 저렴하며, 한국에서는 Mistral API·Azure/GCP 클라우드·Ollama 로컬 실행·Le Chat 웹 인터페이스 등 4가지 방법으로 활용할 수 있다.</li><li>EU AI Act 준수를 경쟁 우위로 삼아 유럽 공공기관·금융·의료 시장을 공략하며, 한국 법률·금융 스타트업도 비용 절감과 데이터 보안을 이유로 Mistral 모델을 채택하고 있다.</li></ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://mistral.ai/" target="_blank" rel="noopener">Mistral AI 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://mistral.ai/" target="_blank" rel="noopener">Mistral AI 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.mistral.ai/" target="_blank" rel="noopener">Mistral AI — 공식 문서 (모델·API)</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/mistralai" target="_blank" rel="noopener">Hugging Face — mistralai 공개 모델 저장소</a>
 </div>

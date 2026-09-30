@@ -208,7 +208,7 @@ The MCP ecosystem has exploded with community-built servers. Here are the most i
 
 ## Building Your Own MCP Server
 
-Now for the hands-on portion. We'll build a complete MCP server in Python that provides AI agents with access to a weather API and a local SQLite cache. This covers the core patterns you'll use in real MCP server development.
+Now for the practical part. We'll build a complete MCP server in Python that provides AI agents with access to a weather API and a local SQLite cache. This covers the core patterns you'll use in real MCP server development.
 
 ### Setup
 
@@ -662,9 +662,9 @@ The weather server walkthrough above is a complete, production-ready starting po
 *For more AI development tutorials and protocol guides, visit TechPulse's Developer Trends section.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol</a><br/>
-· <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP Official Documentation</a><br/>
-· <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP Reference Servers (GitHub)</a><br/>
-· <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">Python SDK</a> · <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank" rel="noopener">Anthropic — Introducing the Model Context Protocol</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://modelcontextprotocol.io/introduction" target="_blank" rel="noopener">MCP Official Documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/modelcontextprotocol/servers" target="_blank" rel="noopener">MCP Reference Servers (GitHub)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank" rel="noopener">Python SDK</a> · <span class="src-role">[Primary]</span> <a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank" rel="noopener">TypeScript SDK</a>
 </div>

@@ -11,7 +11,7 @@ tags: ["Anthropic", "Claude", "Fable5", "Mythos", "AI모델"]
 <strong>TL;DR</strong> — Anthropic이 6월 9일 Claude Fable 5를 공개 출시했다. Mythos급 역량을 일반 사용자에게 제공하는 첫 번째 모델로, 코딩·지식 업무·비전·과학 연구에서 기존 Claude 모델을 압도한다. API에서는 `claude-fable-5`로 즉시 사용 가능하며, 입력 $10/백만 토큰, 출력 $50/백만 토큰이다. 구독 사용자는 6월 22일까지 추가 비용 없이 이용 가능하고 이후엔 사용 크레딧이 필요하다.
 </div>
 
-<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/GrdEid8H6H4" title="We Tested Anthropic's Fable 5 for a Week" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
+<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/GrdEid8H6H4" title="제3자 유튜브 영상(Every): Fable 5 일주일 사용기" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
 
 ## 무슨 일이 일어났나?
 
@@ -86,4 +86,4 @@ GitHub의 Thomas Dohmke CEO는 "Fable 5는 GitHub이 서비스하는 개발자�
 </ul>
 </div>
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>— <a href="https://github.com/anthropics/anthropic-sdk-python" target="_blank" rel="noopener noreferrer">Anthropic Python SDK (GitHub) — claude-fable-5 호출 방법</a><br>— <a href="https://pypi.org/project/anthropic/" target="_blank" rel="noopener noreferrer">PyPI: anthropic 패키지 — pip install anthropic</a><br>— <a href="https://github.com/anthropics/courses" target="_blank" rel="noopener noreferrer">Anthropic Courses (GitHub) — API 사용 예제 및 튜토리얼</a></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>— <span class="src-role">[공식·1차]</span> <a href="https://github.com/anthropics/anthropic-sdk-python" target="_blank" rel="noopener noreferrer">Anthropic Python SDK (GitHub) — claude-fable-5 호출 방법</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://pypi.org/project/anthropic/" target="_blank" rel="noopener noreferrer">PyPI: anthropic 패키지 — pip install anthropic</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://github.com/anthropics/courses" target="_blank" rel="noopener noreferrer">Anthropic Courses (GitHub) — API 사용 예제 및 튜토리얼</a></div></div>

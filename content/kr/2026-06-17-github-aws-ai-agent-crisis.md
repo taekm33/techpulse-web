@@ -12,7 +12,7 @@ tags: ["GitHub", "AWS", "AI코딩에이전트"]
 <div class="article-tldr">
 <strong>TL;DR</strong> 마이크로소프트가 2026년 6월 16일, GitHub를 지원하기 위해 자사 최대 클라우드 경쟁사인 AWS의 컴퓨팅 용량을 추가로 도입했다고 확인했다. AI 코딩 에이전트가 쉬지 않고 만들어내는 트래픽이 예상을 뛰어넘는 속도로 폭증하면서 GitHub는 5월에만 9건의 서비스 장애를 겪었고, 6월 가용성은 99% 미달로 추정된다. Azure 마이그레이션이 진행 중이지만 수요 증가 속도를 따라가지 못해, AWS 활용은 구조적 재설계가 끝날 때까지의 임시방편으로 풀이된다.</div>
 
-마이크로소프트가 자사의 가장 전략적인 개발자 플랫폼인 GitHub의 트래픽 일부를 경쟁사 AWS로 우회시키고 있다는 사실이 비즈니스 인사이더의 단독 보도와 마이크로소프트의 확인을 통해 드러났다. 원인은 명확하다 — AI 코딩 에이전트가 인간 개발자와는 전혀 다른 패턴으로, 쉬지 않고 GitHub API를 두드리고 있기 때문이다.
+마이크로소프트가 자사의 가장 전략적인 개발자 플랫폼인 GitHub의 트래픽 일부를 경쟁사 AWS로 우회시키고 있다는 사실이 비즈니스 인사이더 보도와 마이크로소프트의 확인을 통해 드러났다. 원인은 명확하다 — AI 코딩 에이전트가 인간 개발자와는 전혀 다른 패턴으로, 쉬지 않고 GitHub API를 두드리고 있기 때문이다.
 
 ## 어떤 숫자도 예상하지 못한 트래픽 증가
 
@@ -62,10 +62,10 @@ GitHub COO는 9월까지 가용성 문제가 "점점 줄어들 것"이라는 자
 
 <div class="article-callout info">
 <div class="article-callout__icon">🔗</div>
-<div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>
-— <a href="https://www.techtimes.com/articles/318481/20260616/githubs-ai-agent-crisis-forces-microsoft-tap-aws-outages-break-enterprise-slas.htm" target="_blank" rel="noopener noreferrer">Tech Times: GitHub's AI Agent Crisis Forces Microsoft to Tap AWS</a><br>
-— <a href="https://letsdatascience.com/news/github-capacity-surge-pushes-microsoft-to-aws-13a2ffa4" target="_blank" rel="noopener noreferrer">Let's Data Science: GitHub Capacity Surge Pushes Microsoft to AWS</a><br>
-— <a href="https://www.githubstatus.com/" target="_blank" rel="noopener noreferrer">GitHub 공식 상태 페이지(실시간 가용성 확인)</a><br>
-— <a href="https://github.blog/news-insights/company-news/" target="_blank" rel="noopener noreferrer">GitHub 공식 블로그: 월간 가용성 보고서</a>
+<div class="article-callout__body"><strong>출처 (공식·1차 자료 / 보도·해설 구분) · 사용 안내</strong><br>
+— <span class="src-role">[보도·해설]</span> <a href="https://www.techtimes.com/articles/318481/20260616/githubs-ai-agent-crisis-forces-microsoft-tap-aws-outages-break-enterprise-slas.htm" target="_blank" rel="noopener noreferrer">Tech Times: GitHub's AI Agent Crisis Forces Microsoft to Tap AWS</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://letsdatascience.com/news/github-capacity-surge-pushes-microsoft-to-aws-13a2ffa4" target="_blank" rel="noopener noreferrer">Let's Data Science: GitHub Capacity Surge Pushes Microsoft to AWS</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://www.githubstatus.com/" target="_blank" rel="noopener noreferrer">GitHub 공식 상태 페이지(실시간 가용성 확인)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://github.blog/news-insights/company-news/" target="_blank" rel="noopener noreferrer">GitHub 공식 블로그: 월간 가용성 보고서</a>
 </div>
 </div>

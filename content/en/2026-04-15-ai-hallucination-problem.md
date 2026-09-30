@@ -378,6 +378,7 @@ Hallucination is not a bug that will be patched in the next model release. It's 
 *Research sources: TruthfulQA (Lin et al., 2021), HELM (Liang et al., 2022), FactScore (Min et al., 2023), Mata v. Avianca court documents, JAMA Internal Medicine AI accuracy study (2024).*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener">IBM — What Are AI Hallucinations? (explainer)</a>
+<strong>Sources (primary vs. press/analysis)</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.ibm.com/think/topics/ai-hallucinations" target="_blank" rel="noopener">IBM — What Are AI Hallucinations? (explainer)</a><br/>
+· <span class="src-role">[Press/Analysis]</span> <a href="https://en.wikipedia.org/wiki/Mata_v._Avianca,_Inc." target="_blank" rel="noopener">Wikipedia — Mata v. Avianca, Inc. (fabricated ChatGPT citations case)</a>
 </div>

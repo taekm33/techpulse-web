@@ -248,7 +248,7 @@ DALL-E 3의 가장 큰 강점은 ChatGPT와의 자연스러운 통합입니다. 
 → ChatGPT가 내부적으로 최적화된 프롬프트로 변환하여 DALL-E 3에 전달
 ```
 
-**API 직접 사용:**
+**API로 직접 호출:**
 
 ```python
 from openai import OpenAI
@@ -452,8 +452,8 @@ SNS 콘텐츠, 썸네일, 마케팅 소재 등을 만드는 분들에게는 Midj
 *이 글이 도움이 되었다면 TechPulse 테크펄스를 구독해 주세요. 매주 최신 AI/IT 트렌드를 분석하여 전달해 드립니다.*
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://www.midjourney.com/" target="_blank" rel="noopener">Midjourney 공식</a><br/>
-· <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI — Stable Diffusion 공식</a><br/>
-· <a href="https://openai.com/index/dall-e-3/" target="_blank" rel="noopener">OpenAI — DALL·E 3 공식</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://www.midjourney.com/" target="_blank" rel="noopener">Midjourney 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://stability.ai/" target="_blank" rel="noopener">Stability AI — Stable Diffusion 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/dall-e-3/" target="_blank" rel="noopener">OpenAI — DALL·E 3 공식</a>
 </div>

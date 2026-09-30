@@ -64,7 +64,7 @@ Recursive가 목표로 하는 것은 단순한 코드 생성 AI가 아니다. �
 
 <div class="article-callout tip">
 <div class="article-callout__icon">💡</div>
-<div class="article-callout__body"><strong>이 발견들이 안전한 이유</strong><br>Recursive는 AI가 발견한 해법들이 "창의적이고 무해한(creative and benign)" 접근법임을 확인하고, 오픈소스로 공개해 커뮤니티가 직접 검증할 수 있게 했다. 명백한 최적화나 위험한 아이디어가 아닌 새로운 접근법이 발견되었음을 강조했다.</div>
+<div class="article-callout__body"><strong>이 발견들이 안전한 이유</strong><br>Recursive는 AI가 발견한 해법들이 "창의적이고 무해한(creative and benign)" 접근법임을 확인하고, 오픈소스로 공개해 커뮤니티가 독립적으로 검증할 수 있게 했다. 명백한 최적화나 위험한 아이디어가 아닌 새로운 접근법이 발견되었음을 강조했다.</div>
 </div>
 
 ## 창업팀과 자본 배경
@@ -89,4 +89,4 @@ Recursive의 공동창업자 7명은 모두 AI 프런티어 출신이다. CEO Ri
 </ul>
 </div>
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>— <a href="https://www.recursive.com/articles/first-steps-toward-automated-ai-research" target="_blank" rel="noopener noreferrer">Recursive 공식 발표: 자동화 AI 연구의 첫 발걸음</a><br>— <a href="https://research.nvidia.com/benchmarks/sol-execbench/leaderboard/collection/1/B200" target="_blank" rel="noopener noreferrer">NVIDIA SOL-ExecBench 공식 리더보드</a><br>— <a href="https://www.gv.com/news/recursive-superintelligence-self-improving-ai" target="_blank" rel="noopener noreferrer">Google Ventures — Recursive 투자 발표 및 기술 설명</a></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>— <span class="src-role">[공식·1차]</span> <a href="https://www.recursive.com/articles/first-steps-toward-automated-ai-research" target="_blank" rel="noopener noreferrer">Recursive 공식 발표: 자동화 AI 연구의 첫 발걸음</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://research.nvidia.com/benchmarks/sol-execbench/leaderboard/collection/1/B200" target="_blank" rel="noopener noreferrer">NVIDIA SOL-ExecBench 공식 리더보드</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://www.gv.com/news/recursive-superintelligence-self-improving-ai" target="_blank" rel="noopener noreferrer">Google Ventures — Recursive 투자 발표 및 기술 설명</a></div></div>

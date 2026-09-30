@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Anthropic Releases Claude Sonnet 4.6 — Stronger Reasoning Across the Board"
 summary: "Anthropic's latest Sonnet model brings notable improvements to reasoning, coding, and analysis tasks. Here's what changed and what it means for developers."
 category: "ai-news"
@@ -42,7 +43,7 @@ HackerNews and the AI Twitter community have noted that Sonnet 4.6 handles ambig
 Anthropic is expected to release Claude Opus 4.7 later this year. Sonnet 4.6 positions itself as the go-to balance of capability and cost until then.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic — Claude (official)</a><br/>
-· <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Anthropic — Claude (official)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://docs.anthropic.com/" target="_blank" rel="noopener">Anthropic — Documentation</a>
 </div>

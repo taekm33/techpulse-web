@@ -15,7 +15,7 @@ tags: ["Microsoft", "MAI", "AI models", "reasoning AI", "Microsoft Build"]
 
 ## Why Microsoft Built Its Own Models
 
-For years, Microsoft's AI strategy centered on its exclusive partnership with OpenAI. That relationship hasn't ended, but Build 2026 marked a clear inflection point: Microsoft now has its own frontier model family, developed entirely in-house under the MAI brand.
+For years, Microsoft's AI strategy centered on its privileged partnership with OpenAI. That relationship hasn't ended, but Build 2026 marked a clear inflection point: Microsoft now has its own frontier model family, developed entirely in-house under the MAI brand.
 
 The driving philosophy is what Microsoft calls **Humanist Superintelligence** — advanced AI designed to serve people and organizations rather than replace them. The Hill-Climbing Machine is the operational expression of this philosophy: a co-designed training pipeline where data, rewards, evaluation environments, and compute are all continuously improved so model capability rises predictably over time.
 
@@ -89,4 +89,4 @@ MAI-Code-1-Flash's tight GitHub Copilot integration is particularly significant:
 </ul>
 </div>
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>Official Sources & Documentation</strong><br>— <a href="https://microsoft.ai/news/introducing-mai-thinking-1/" target="_blank" rel="noopener noreferrer">MAI-Thinking-1 Official Announcement (Microsoft AI)</a><br>— <a href="https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/" target="_blank" rel="noopener noreferrer">Full MAI Family Blog Post — Hill-Climbing Machine</a><br>— <a href="https://azure.microsoft.com/en-us/products/ai-foundry/" target="_blank" rel="noopener noreferrer">Microsoft AI Foundry — Access MAI Models</a></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>Primary Sources · Documentation</strong><br>— <span class="src-role">[Primary]</span> <a href="https://microsoft.ai/news/introducing-mai-thinking-1/" target="_blank" rel="noopener noreferrer">MAI-Thinking-1 Official Announcement (Microsoft AI)</a><br>— <span class="src-role">[Primary]</span> <a href="https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/" target="_blank" rel="noopener noreferrer">Full MAI Family Blog Post — Hill-Climbing Machine</a><br>— <span class="src-role">[Primary]</span> <a href="https://azure.microsoft.com/en-us/products/ai-foundry/" target="_blank" rel="noopener noreferrer">Microsoft AI Foundry — Access MAI Models</a></div></div>

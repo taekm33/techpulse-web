@@ -165,7 +165,7 @@ o3의 가장 혁신적인 측면은 **컴퓨트 스케일링(Test-time Compute S
 
 **4. 창의성은 GPT-4o가 더 자유롭다**: 엄밀한 논리 추론에 최적화된 o3는 자유로운 창의적 글쓰기나 마케팅 카피에서는 오히려 GPT-4o보다 딱딱한 결과를 낸다.
 
-<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>의료·법률 분야 직접 활용 금지</strong><br>o3가 GPQA Diamond 87.7%를 기록했다고 해서 의료 진단이나 법률 결정에 직접 사용하는 것은 위험하다. 환각 오류가 여전히 발생하며, 전문가 감수 없이 AI 출력을 최종 판단 근거로 삼을 경우 심각한 법적·윤리적 책임이 따를 수 있다. 반드시 전문가 검증 단계를 거쳐야 한다.</div></div>
+<div class="article-callout article-callout--warn"><div class="article-callout__icon">⚠️</div><div class="article-callout__body"><strong>의료·법률 분야 직접 활용 금지</strong><br>o3가 GPQA Diamond 87.7%를 기록했다고 해서 의료 진단이나 법률 결정에 그대로 사용하는 것은 위험하다. 환각 오류가 여전히 발생하며, 전문가 감수 없이 AI 출력을 최종 판단 근거로 삼을 경우 심각한 법적·윤리적 책임이 따를 수 있다. 반드시 전문가 검증 단계를 거쳐야 한다.</div></div>
 
 ---
 
@@ -313,8 +313,8 @@ AGI까지의 거리를 "ARC-AGI 100%"로 정의한다면, 우리는 지금 87.5%
 
 ## 관련 자료 · 공식 출처 · 사용 안내
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내 (전 링크 접속 확인 완료)</strong><br>
-— <a href="https://openai.com/index/introducing-o3-and-o4-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3·o4-mini 공식 발표</a><br>
-— <a href="https://platform.openai.com/docs/guides/reasoning" target="_blank" rel="noopener noreferrer">OpenAI — 추론 모델 사용 가이드 (개발자)</a><br>
-— <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener noreferrer">OpenAI — 모델 목록·스펙</a><br>
-— <a href="https://openai.com/index/openai-o3-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3-mini 소개</a><br></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처</strong><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/introducing-o3-and-o4-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3·o4-mini 공식 발표</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://platform.openai.com/docs/guides/reasoning" target="_blank" rel="noopener noreferrer">OpenAI — 추론 모델 사용 가이드 (개발자)</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener noreferrer">OpenAI — 모델 목록·스펙</a><br>
+— <span class="src-role">[공식·1차]</span> <a href="https://openai.com/index/openai-o3-mini/" target="_blank" rel="noopener noreferrer">OpenAI — o3-mini 소개</a><br></div></div>

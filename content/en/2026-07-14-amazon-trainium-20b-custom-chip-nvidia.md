@@ -42,7 +42,7 @@ Trainium2, the predecessor, delivered approximately 30 percent better price-perf
 
 ## The Big Strategic Shift: Direct Sales to Outside Data Centers
 
-Here is where the story gets structurally interesting. For its entire history, Amazon has kept Trainium chips AWS-exclusive — you could only access them through cloud instances, not buy hardware outright. That may be about to change.
+Here is where the story gets structurally interesting. For its entire history, Amazon has kept Trainium chips inside AWS — you could only access them through cloud instances, not buy hardware outright. That may be about to change.
 
 Amazon CEO Andy Jassy disclosed in April 2026 that the company is in early talks to sell Trainium racks directly to third-party data center operators. Jassy called such external sales "highly likely" within the next few years, though no contracts have been signed yet.
 
@@ -79,8 +79,8 @@ If Amazon's direct-sales talks progress into actual deals, the competitive surfa
 </div>
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://aws.amazon.com/ai/machine-learning/trainium/" target="_blank" rel="noopener">AWS Trainium Official</a><br/>
-· <a href="https://aws.amazon.com/machine-learning/neuron/" target="_blank" rel="noopener">AWS Neuron SDK</a><br/>
-· <a href="https://press.aboutamazon.com/" target="_blank" rel="noopener">Amazon Newsroom</a><br/>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://aws.amazon.com/ai/machine-learning/trainium/" target="_blank" rel="noopener">AWS Trainium Official</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://aws.amazon.com/machine-learning/neuron/" target="_blank" rel="noopener">AWS Neuron SDK</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://press.aboutamazon.com/" target="_blank" rel="noopener">Amazon Newsroom</a><br/>
 </div>

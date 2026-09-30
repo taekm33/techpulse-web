@@ -144,6 +144,8 @@ For teams ready to evaluate Llama 4 in production, here is a practical decision 
 *Benchmark data sourced from Meta's Llama 4 technical report and Hugging Face Open LLM Leaderboard results as of May 2026. Pricing estimates are approximate and vary by cloud provider and hardware configuration.*
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama Official Blog</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank" rel="noopener">Meta AI — Llama Official Blog</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.llama.com/models/llama-4/" target="_blank" rel="noopener">Meta — Llama 4 model page (Scout / Maverick)</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://huggingface.co/meta-llama" target="_blank" rel="noopener">Hugging Face — meta-llama model repository</a>
 </div>

@@ -11,7 +11,7 @@ tags: ["ai-agent", "computer-use", "오픈소스", "로컬추론", "Holo3"]
 <strong>한눈에 보기:</strong> H Company의 Holo3.1은 컴퓨터 조작(Computer Use) 에이전트 모델 가운데 최초로 FP8·NVFP4·Q4 GGUF 양자화 체크포인트를 공개해 로컬 기기에서 직접 실행할 수 있게 했다. 0.8B부터 35B-A3B까지 4가지 크기로 제공되며 웹·데스크톱·모바일 환경을 모두 지원한다. Apache 2.0 라이선스다.
 </div>
 
-<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/GRLl-46Z4LY" title="Breaking the Computer Use Frontier - Holo3 | Hands-on Code" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
+<div class="article-video" style="margin:32px 0;"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;"><iframe src="https://www.youtube-nocookie.com/embed/GRLl-46Z4LY" title="제3자 유튜브 영상(Prompt Engineer 48): Holo3 코드 시연" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"></iframe></div></div>
 
 <div class="article-stats">
   <div class="article-stats__item"><span class="article-stats__value">79.3%</span><span class="article-stats__label">AndroidWorld 점수 (35B-A3B)</span></div>
@@ -78,4 +78,4 @@ H Company는 현재 Holo3.1 기반 데스크톱 에이전트 하네스를 개발
 </ul>
 </div>
 
-<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>관련 자료 · 공식 출처 · 사용 안내</strong><br>— <a href="https://hcompany.ai/holo3.1" target="_blank" rel="noopener noreferrer">Holo3.1 공식 블로그 (H Company)</a><br>— <a href="https://huggingface.co/blog/hcompany/holo31" target="_blank" rel="noopener noreferrer">Holo3.1 출시 발표 (Hugging Face Blog)</a><br>— <a href="https://hub.hcompany.ai/quickstart" target="_blank" rel="noopener noreferrer">Holo3.1 퀵스타트 가이드 (H Company Hub)</a></div></div>
+<div class="article-callout info"><div class="article-callout__icon">🔗</div><div class="article-callout__body"><strong>공식·1차 출처 · 사용 안내</strong><br>— <span class="src-role">[공식·1차]</span> <a href="https://hcompany.ai/holo3.1" target="_blank" rel="noopener noreferrer">Holo3.1 공식 블로그 (H Company)</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://huggingface.co/blog/hcompany/holo31" target="_blank" rel="noopener noreferrer">Holo3.1 출시 발표 (Hugging Face Blog)</a><br>— <span class="src-role">[공식·1차]</span> <a href="https://hub.hcompany.ai/quickstart" target="_blank" rel="noopener noreferrer">Holo3.1 퀵스타트 가이드 (H Company Hub)</a></div></div>

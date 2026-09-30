@@ -51,7 +51,7 @@ SDK의 가장 강력한 기능은 단순 코드 자동완성이 아닌 에이전
 **유연한 인증**: GitHub OAuth, GitHub Apps, 환경 토큰, BYOK(Bring Your Own Key) 등 다양한 방식을 지원한다.
 
 <div class="article-callout tip">
-**실무 활용 팁**: BYOK 모드를 사용하면 GitHub Copilot 구독이 없어도 OpenAI, Microsoft Foundry, Anthropic 등 외부 모델 API 키를 직접 사용해 SDK를 구동할 수 있다. 이미 다른 LLM을 사용 중인 팀도 Copilot의 에이전틱 오케스트레이션 레이어만 활용할 수 있다는 의미다.
+**실무 활용 팁**: BYOK 모드를 사용하면 GitHub Copilot 구독이 없어도 OpenAI, Microsoft Foundry, Anthropic 등 외부 모델 API 키로 직접 연결해 SDK를 구동할 수 있다. 이미 다른 LLM을 사용 중인 팀도 Copilot의 에이전틱 오케스트레이션 레이어만 활용할 수 있다는 의미다.
 </div>
 
 ## GA에서 새로 추가된 기능들
@@ -86,8 +86,8 @@ SDK GA와 함께 GitHub는 Agent tasks REST API(Copilot Pro, Pro+, Max 지원), 
 </div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-&middot; <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
-&middot; <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
-&middot; <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
+<strong>공식·1차 출처</strong><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 소개</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://docs.github.com/en/copilot" target="_blank" rel="noopener">GitHub Copilot 공식 문서</a><br/>
+&middot; <span class="src-role">[공식·1차]</span> <a href="https://github.blog/" target="_blank" rel="noopener">GitHub 공식 블로그</a><br/>
 </div>

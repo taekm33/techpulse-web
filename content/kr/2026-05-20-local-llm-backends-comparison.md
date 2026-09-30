@@ -92,7 +92,7 @@ curl http://localhost:11434/v1/chat/completions \
 **단점:**
 - 고급 설정 옵션이 제한적 (vLLM 대비)
 - 배치 처리 성능이 프로덕션용으로는 부족
-- 퀀타이제이션 옵션 선택 범위가 llama.cpp 직접 사용보다 좁음
+- 퀀타이제이션 옵션 선택 범위가 llama.cpp를 직접 쓸 때보다 좁음
 
 **추천 대상:** 개발자 개인 사용, 사이드 프로젝트, OpenWebUI와 조합, 빠른 프로토타이핑
 
@@ -212,7 +212,7 @@ cd llama.cpp && make -j
 - 퀀타이제이션 레벨 세밀 조정
 
 **단점:**
-- 직접 사용 시 터미널 필수
+- 직접 쓸 때는 터미널 필수
 - 배치 처리 성능은 vLLM 대비 낮음
 - 모델 관리 도구 없음 (직접 파일 관리)
 
@@ -413,7 +413,7 @@ ollama run exaone3.5:7.8b
   → vLLM (NVIDIA GPU) 또는 Ollama (소규모)
 
 최대 성능 튜닝 필요?
-  → llama.cpp 직접 사용
+  → llama.cpp 직접 실행
 
 모델 연구/실험/LoRA 테스트?
   → text-generation-webui
@@ -444,7 +444,7 @@ Docker/K8s, 멀티모달 API 서버?
 12. [로컬 LLM 벤치마크 — LocalLLMBench](https://github.com/Mozilla-Ocho/llamafile)
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://ollama.com/" target="_blank" rel="noopener">Ollama 공식</a> · <a href="https://lmstudio.ai/" target="_blank" rel="noopener">LM Studio 공식</a><br/>
-· <a href="https://docs.vllm.ai/" target="_blank" rel="noopener">vLLM 공식 문서</a> · <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp (GitHub)</a>
+<strong>공식·1차 출처</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://ollama.com/" target="_blank" rel="noopener">Ollama 공식</a> · <span class="src-role">[공식·1차]</span> <a href="https://lmstudio.ai/" target="_blank" rel="noopener">LM Studio 공식</a><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://docs.vllm.ai/" target="_blank" rel="noopener">vLLM 공식 문서</a> · <span class="src-role">[공식·1차]</span> <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noopener">llama.cpp (GitHub)</a>
 </div>

@@ -243,6 +243,7 @@ OpenAI 거버넌스 위기의 가장 큰 교훈은 단순하다. 기술이 아�
 </ul></div>
 
 <div class="article-callout info">
-<strong>관련 자료 · 공식 출처</strong><br/>
-· <a href="https://openai.com/our-structure/" target="_blank" rel="noopener">OpenAI — Our Structure(공식 거버넌스 구조)</a>
+<strong>출처 (공식·1차 자료 / 보도·해설 구분)</strong><br/>
+· <span class="src-role">[공식·1차]</span> <a href="https://openai.com/our-structure/" target="_blank" rel="noopener">OpenAI — Our Structure(공식 거버넌스 구조)</a><br/>
+· <span class="src-role">[보도·해설]</span> <a href="https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI" target="_blank" rel="noopener">Wikipedia — Removal of Sam Altman from OpenAI (2023년 11월 해임·복귀 경과, 영문)</a>
 </div>

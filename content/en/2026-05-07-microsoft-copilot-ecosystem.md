@@ -75,7 +75,7 @@ Copilot Studio agents can be deployed across Teams, Outlook, web portals, or any
 
 ## GPT-4o Integration: The Current State
 
-Microsoft's exclusive early-access agreement with OpenAI gives it significant advantages in model deployment. As of May 2026, GPT-4o (including its multimodal capabilities) is fully integrated across the M365 Copilot and GitHub Copilot products. Key details:
+Microsoft's privileged early-access agreement with OpenAI gives it significant advantages in model deployment. As of May 2026, GPT-4o (including its multimodal capabilities) is fully integrated across the M365 Copilot and GitHub Copilot products. Key details:
 
 - **Context window**: 128K tokens, enabling Copilot to process full-length contracts, research papers, or long codebases in a single pass
 - **Multimodal input**: M365 Copilot can analyze images, charts, and screenshots embedded in documents or pasted into chat
@@ -235,7 +235,7 @@ The organizations that answer that question thoughtfully — investing in traini
 The AI-native workplace is not a future state. For many enterprises, it is already the present.
 
 <div class="article-callout info">
-<strong>Related Reading · Official Sources</strong><br/>
-· <a href="https://learn.microsoft.com/en-us/copilot/" target="_blank" rel="noopener">Microsoft Learn — Copilot documentation</a><br/>
-· <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft — Copilot (product)</a>
+<strong>Primary Sources</strong><br/>
+· <span class="src-role">[Primary]</span> <a href="https://learn.microsoft.com/en-us/copilot/" target="_blank" rel="noopener">Microsoft Learn — Copilot documentation</a><br/>
+· <span class="src-role">[Primary]</span> <a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank" rel="noopener">Microsoft — Copilot (product)</a>
 </div>
